@@ -1,0 +1,26 @@
+---
+title: Shared Services Canada | SPC
+author: ''
+date: '2022-08-12'
+slug: []
+categories: []
+tags: []
+---
+
+Department content here. 8
+
+```{r}
+
+source("../../R/init.R")
+current_filename <- get_current_filename()
+current_filename
+
+```
+
+Test 3.
+
+```{r}
+
+dt_vendors_by_fiscal_year_by_department(current_filename)
+
+```

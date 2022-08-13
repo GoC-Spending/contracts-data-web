@@ -1,0 +1,16 @@
+# Work in progress to generate pages for each 
+# vendor, department, and category automatically.
+# Hugo's built-in archetypes functionality includes
+# the necessary content.
+
+source("helpers.R")
+
+blogdown::new_post(
+  "IBM CANADA", 
+  kind = "vendor",
+  file = "vendor/ibm_canada.Rmarkdown")
+
+blogdown::new_post(
+  "Shared Services Canada | SPC", 
+  kind = "department",
+  file = "department/sst-spc.Rmarkdown")

@@ -104,6 +104,7 @@ dt_vendors_by_fiscal_year_by_department <- function(department) {
   data %>%
     datatable(rownames = FALSE, 
               options = list(
+                order = list(list(4, 'desc')),
                 pageLength = 10, 
                 autoWidth = TRUE
                 ))

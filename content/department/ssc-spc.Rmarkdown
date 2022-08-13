@@ -7,20 +7,17 @@ categories: []
 tags: []
 ---
 
-Department content here. 8
+Department content here. 4
 
-```{r}
+## Vendors
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
-current_filename
-
-```
-
-Test 3.
-
-```{r}
 
 dt_vendors_by_fiscal_year_by_department(current_filename)
 
 ```
+
+

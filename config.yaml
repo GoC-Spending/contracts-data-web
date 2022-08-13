@@ -10,6 +10,10 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 
+permalinks:
+  vendor: /vendors/:slugorfilename/
+  department: /departments/:slugorfilename/
+
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

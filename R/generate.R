@@ -14,3 +14,8 @@ blogdown::new_post(
   "Shared Services Canada | SPC", 
   kind = "department",
   file = "department/sst-spc.Rmarkdown")
+
+blogdown::new_post(
+  "Treasury Board", 
+  kind = "department",
+  file = "department/tbs-sct.Rmarkdown")

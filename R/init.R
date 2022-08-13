@@ -1,3 +1,8 @@
 # Loaded by each page in the site
 
-source("helpers.R")
+# TODO: Confirm if more tidyverse libraries are needed
+library(dplyr)
+library(tidyr)
+library(DT)
+
+print("Init file loaded")

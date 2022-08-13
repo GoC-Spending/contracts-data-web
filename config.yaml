@@ -1,0 +1,17 @@
+theme: "hugo-lithium"
+baseURL: http://example.org/
+languageCode: en-us
+title: Government of Canada Contract Analysis
+
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true

@@ -21,3 +21,8 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.101.0")
+
+# Disable scientific notation
+# Thanks to
+# https://stackoverflow.com/a/44725320
+options(scipen = 999)

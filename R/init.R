@@ -71,7 +71,7 @@ format_totals <- function(input_df) {
   input_df <- input_df %>%
     exports_round_totals() %>%
     mutate(
-      across(ends_with("total"), ~ str_c("$", format(.x, big.mark=",")))
+      across(ends_with("total"), ~ str_c("$", format(round(.x, digits = 2), big.mark=",")))
     )
   
   return(input_df)
@@ -93,12 +93,12 @@ exports_round_percentages <- function(input_df) {
 # descending on the 4th year
 # TODO: Update this to figure out how many columns there are,
 # and sort by the last one (to make it more flexible)
-dt_fiscal_year <- function(data) {
+dt_fiscal_year <- function(data, page_length = 10) {
   data %>%
     datatable(rownames = FALSE, 
               options = list(
                 order = list(list(4, 'desc')),
-                pageLength = 10, 
+                pageLength = page_length, 
                 autoWidth = TRUE
               ))
 }
@@ -142,6 +142,6 @@ dt_categories_by_fiscal_year_by_department <- function(department) {
   data <- get_fiscal_year_data_by_entity_and_department(department, "categories")
   
   data %>%
-    dt_fiscal_year()
+    dt_fiscal_year(page_length = 20)
   
 }

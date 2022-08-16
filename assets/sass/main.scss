@@ -1,4 +1,26 @@
 // Style updates for the Government of Canada
 // Contracts Analysis website
 
+.page-heading {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.1;
 
+    a {
+        color: inherit;
+    }
+}
+
+.page-subheading {
+    font-style: italic;
+    font-size: 20px;
+}
+
+main h2 {
+    margin-top: 40px;
+}
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}

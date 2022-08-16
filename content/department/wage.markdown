@@ -1,0 +1,44 @@
+---
+title: Department for Women and Gender Equality | Ministère des Femmes et de l’Égalité
+  des genres
+author: ''
+date: '2022-08-15'
+slug: wage
+categories: []
+tags: []
+---
+
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+
+Department content here.
+
+## Vendors
+
+    ## [1] "Init file loaded"
+
+<div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/advanced_business_interiors/\">ADVANCED BUSINESS INTERIORS<\/a>","<a href=\"/vendors/advanced_chippewa_technologies/\">ADVANCED CHIPPEWA TECHNOLOGIES<\/a>","<a href=\"/vendors/altis_human_resources/\">ALTIS HUMAN RESOURCES<\/a>","<a href=\"/vendors/artemp_personnel_services/\">ARTEMP PERSONNEL SERVICES<\/a>","<a href=\"/vendors/bell_canada/\">BELL CANADA<\/a>","<a href=\"/vendors/blackberry/\">BLACKBERRY<\/a>","<a href=\"/vendors/brookfield_global_integrated_solutions/\">BROOKFIELD GLOBAL INTEGRATED SOLUTIONS<\/a>","<a href=\"/vendors/calian/\">CALIAN<\/a>","<a href=\"/vendors/canadian_corps_of_commissionaires/\">CANADIAN CORPS OF COMMISSIONAIRES<\/a>","<a href=\"/vendors/cbci_telecom/\">CBCI TELECOM<\/a>","<a href=\"/vendors/cision_canada/\">CISION CANADA<\/a>","<a href=\"/vendors/cnw_group/\">CNW GROUP<\/a>","<a href=\"/vendors/csdc_systems/\">CSDC SYSTEMS<\/a>","<a href=\"/vendors/donna_cona/\">DONNA CONA<\/a>","<a href=\"/vendors/ekos_research_associates/\">EKOS RESEARCH ASSOCIATES<\/a>","<a href=\"/vendors/excel_human_resources/\">EXCEL HUMAN RESOURCES<\/a>","<a href=\"/vendors/gartner/\">GARTNER<\/a>","<a href=\"/vendors/graybridge_international_consulting/\">GRAYBRIDGE INTERNATIONAL CONSULTING<\/a>","<a href=\"/vendors/hewlett_packard/\">HEWLETT PACKARD<\/a>","<a href=\"/vendors/hypertec/\">HYPERTEC<\/a>","<a href=\"/vendors/ids_systems_consultants/\">IDS SYSTEMS CONSULTANTS<\/a>","<a href=\"/vendors/itex/\">ITEX<\/a>","<a href=\"/vendors/leverage_technology_resources/\">LEVERAGE TECHNOLOGY RESOURCES<\/a>","<a href=\"/vendors/lionbridge/\">LIONBRIDGE<\/a>","<a href=\"/vendors/maplesoft_consulting/\">MAPLESOFT CONSULTING<\/a>","<a href=\"/vendors/maxsys_staffing_and_consulting/\">MAXSYS STAFFING AND CONSULTING<\/a>","<a href=\"/vendors/media_q/\">MEDIA Q<\/a>","<a href=\"/vendors/microsoft_canada/\">MICROSOFT CANADA<\/a>","<a href=\"/vendors/mishkumi_technologies/\">MISHKUMI TECHNOLOGIES<\/a>","<a href=\"/vendors/n12_consulting/\">N12 CONSULTING<\/a>","<a href=\"/vendors/newfound_recruiting/\">NEWFOUND RECRUITING<\/a>","<a href=\"/vendors/printers_plus/\">PRINTERS PLUS<\/a>","<a href=\"/vendors/purespirit_solutions/\">PURESPIRIT SOLUTIONS<\/a>","<a href=\"/vendors/qmr/\">QMR<\/a>","<a href=\"/vendors/quantum_management_services/\">QUANTUM MANAGEMENT SERVICES<\/a>","<a href=\"/vendors/sdl_international_canada/\">SDL INTERNATIONAL CANADA<\/a>","<a href=\"/vendors/sensus_communication_solutions/\">SENSUS COMMUNICATION SOLUTIONS<\/a>","<a href=\"/vendors/softchoice/\">SOFTCHOICE<\/a>","<a href=\"/vendors/stratos/\">STRATOS<\/a>","<a href=\"/vendors/systemscope/\">SYSTEMSCOPE<\/a>","<a href=\"/vendors/the_aim_group/\">THE AIM GROUP<\/a>","<a href=\"/vendors/ubiqus_canada/\">UBIQUS CANADA<\/a>","<a href=\"/vendors/university_of_calgary/\">UNIVERSITY OF CALGARY<\/a>","<a href=\"/vendors/university_of_new_brunswick/\">UNIVERSITY OF NEW BRUNSWICK<\/a>","<a href=\"/vendors/university_of_saskatchewan/\">UNIVERSITY OF SASKATCHEWAN<\/a>","<a href=\"/vendors/university_of_waterloo/\">UNIVERSITY OF WATERLOO<\/a>","<a href=\"/vendors/university_of_western_ontario/\">UNIVERSITY OF WESTERN ONTARIO<\/a>","<a href=\"/vendors/xerox/\">XEROX<\/a>","<a href=\"/vendors/zycom/\">ZYCOM<\/a>"],[null,null,"$ 10,816.61","$  1,864.58",null,null,null,null,null,"$ 97,443.97",null,null,null,null,null,"$ 60,865.56",null,null,null,null,null,null,null,null,null,null,null,null,"$ 72,395.28","$105,586.57",null,null,null,"$    731.91",null,null,null,null,null,null,null,null,null,null,null,null,"$ 20,614.37","$ 14,382.39","$192,585.21"],["$ 14,169.06","$ 22,954.37","$447,544.89","$  5,249.50","$127,472.49","$ 34,174.62","$ 45,014.66",null,null,"$301,692.16",null,null,"$  6,364.10","$ 52,313.63","$ 13,797.00","$128,426.48","$    226.04",null,null,"$ 48,426.16",null,"$ 21,866.87",null,"$ 16,000.00","$ 50,090.26","$  3,409.98","$ 23,067.01","$ 28,085.93",null,"$109,475.03","$ 24,920.83",null,"$133,960.93","$184,600.19",null,"$ 30,353.40",null,"$ 32,722.08",null,"$ 39,953.81",null,"$ 25,000.00",null,null,null,null,"$ 28,381.19","$ 17,664.27","$165,033.30"],[null,"$ 95,235.40","$449,047.12",null,"$159,814.68","$ 47,196.93",null,"$ 89,244.60","$ 11,703.55","$ 56,436.08","$ 18,549.30","$ 29,289.60","$  8,446.89",null,null,"$462,724.78","$115,154.68","$ 13,149.66","$165,394.52",null,"$ 39,091.50",null,"$ 43,883.55","$110,489.90","$ 55,587.98","$ 36,471.98","$  1,932.99","$ 49,769.70",null,"$ 20,284.50","$  5,038.66","$ 24,849.10","$ 60,879.26","$101,299.01","$ 15,866.98",null,"$ 30,502.87","$ 38,464.35","$  7,783.27",null,"$ 13,813.38","$225,205.48","$ 54,428.62","$ 40,000.00","$ 24,931.50","$ 15,719.15",null,"$ 17,616.01","$  3,750.34"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+
+## Categories
+
+<div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">1_facilities_and_construction<\/a>","<a href=\"/categories/10_office_management/\">10_office_management<\/a>","<a href=\"/categories/2_professional_services/\">2_professional_services<\/a>","<a href=\"/categories/3_information_technology/\">3_information_technology<\/a>","<a href=\"/categories/4_medical/\">4_medical<\/a>","<a href=\"/categories/7_travel/\">7_travel<\/a>","<a href=\"/categories/8_security_and_protection/\">8_security_and_protection<\/a>","<a href=\"/categories/9_human_capital/\">9_human_capital<\/a>"],[null,"$    5,213.76",null,"$   63,978.26",null,null,null,null],[null,"$   98,410.47","$  445,215.52","$  565,196.81",null,null,null,"$   15,412.19"],["$   16,901.90","$  584,516.48","$2,431,456.29","$1,215,408.14",null,"$   19,685.66","$  103,123.80","$  168,593.64"],["$    3,619.02","$   17,616.01","$5,107,796.10","$1,402,529.46","$   10,922.62","$    3,295.71","$   11,703.55","$  153,744.51"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>

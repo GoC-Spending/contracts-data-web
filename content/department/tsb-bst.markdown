@@ -1,0 +1,44 @@
+---
+title: Transportation Safety Board of Canada | Bureau de la sécurité des transports
+  du Canada
+author: ''
+date: '2022-08-15'
+slug: tsb-bst
+categories: []
+tags: []
+---
+
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+
+Department content here.
+
+## Vendors
+
+    ## [1] "Init file loaded"
+
+<div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/altis_human_resources/\">ALTIS HUMAN RESOURCES<\/a>","<a href=\"/vendors/applied_electonics/\">APPLIED ELECTONICS<\/a>","<a href=\"/vendors/asokan_business_interiors/\">ASOKAN BUSINESS INTERIORS<\/a>","<a href=\"/vendors/bell_canada/\">BELL CANADA<\/a>","<a href=\"/vendors/blackberry/\">BLACKBERRY<\/a>","<a href=\"/vendors/cellebrite/\">CELLEBRITE<\/a>","<a href=\"/vendors/charron_human_resources/\">CHARRON HUMAN RESOURCES<\/a>","<a href=\"/vendors/cision_canada/\">CISION CANADA<\/a>","<a href=\"/vendors/cnw_group/\">CNW GROUP<\/a>","<a href=\"/vendors/cofomo/\">COFOMO<\/a>","<a href=\"/vendors/compagnie_amplexor_canada/\">COMPAGNIE AMPLEXOR CANADA<\/a>","<a href=\"/vendors/csdc_systems/\">CSDC SYSTEMS<\/a>","<a href=\"/vendors/dell_computer/\">DELL COMPUTER<\/a>","<a href=\"/vendors/donna_cona/\">DONNA CONA<\/a>","<a href=\"/vendors/dynabook_canada/\">DYNABOOK CANADA<\/a>","<a href=\"/vendors/ecole_de_langues_abce/\">ECOLE DE LANGUES ABCE<\/a>","<a href=\"/vendors/excel_human_resources/\">EXCEL HUMAN RESOURCES<\/a>","<a href=\"/vendors/fca_canada/\">FCA CANADA<\/a>","<a href=\"/vendors/flightsafety_canada/\">FLIGHTSAFETY CANADA<\/a>","<a href=\"/vendors/ford_motor_company/\">FORD MOTOR COMPANY<\/a>","<a href=\"/vendors/general_electric_canada/\">GENERAL ELECTRIC CANADA<\/a>","<a href=\"/vendors/grand_toy/\">GRAND TOY<\/a>","<a href=\"/vendors/hitachi_data_systems/\">HITACHI DATA SYSTEMS<\/a>","<a href=\"/vendors/honeywell/\">HONEYWELL<\/a>","<a href=\"/vendors/hypertec/\">HYPERTEC<\/a>","<a href=\"/vendors/integra_networks/\">INTEGRA NETWORKS<\/a>","<a href=\"/vendors/kf_aerospace/\">KF AEROSPACE<\/a>","<a href=\"/vendors/l3harris/\">L3HARRIS<\/a>","<a href=\"/vendors/lionbridge/\">LIONBRIDGE<\/a>","<a href=\"/vendors/maxsys_staffing_and_consulting/\">MAXSYS STAFFING AND CONSULTING<\/a>","<a href=\"/vendors/microsoft_canada/\">MICROSOFT CANADA<\/a>","<a href=\"/vendors/mitsubishi_motor_sales/\">MITSUBISHI MOTOR SALES<\/a>","<a href=\"/vendors/nations_translation_group/\">NATIONS TRANSLATION GROUP<\/a>","<a href=\"/vendors/newfound_recruiting/\">NEWFOUND RECRUITING<\/a>","<a href=\"/vendors/nisha_techonologies/\">NISHA TECHONOLOGIES<\/a>","<a href=\"/vendors/nova_networks/\">NOVA NETWORKS<\/a>","<a href=\"/vendors/printers_plus/\">PRINTERS PLUS<\/a>","<a href=\"/vendors/qmr/\">QMR<\/a>","<a href=\"/vendors/quantum_management_services/\">QUANTUM MANAGEMENT SERVICES<\/a>","<a href=\"/vendors/sas_institute/\">SAS INSTITUTE<\/a>","<a href=\"/vendors/sensus_communication_solutions/\">SENSUS COMMUNICATION SOLUTIONS<\/a>","<a href=\"/vendors/sharp_electronics/\">SHARP ELECTRONICS<\/a>","<a href=\"/vendors/simex_defence/\">SIMEX DEFENCE<\/a>","<a href=\"/vendors/softchoice/\">SOFTCHOICE<\/a>","<a href=\"/vendors/subaru_canada/\">SUBARU CANADA<\/a>","<a href=\"/vendors/toyota_canada/\">TOYOTA CANADA<\/a>","<a href=\"/vendors/zernam_enterprise/\">ZERNAM ENTERPRISE<\/a>"],["$ 36,042.60",null,null,null,null,null,null,"$ 21,978.62","$ 19,775.00",null,"$ 25,830.00","$  7,559.03","$236,569.66",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"$ 25,806.43",null,"$ 87,979.41",null,null,null,null,"$ 19,881.34","$ 37,204.55",null,"$ 58,611.63","$ 10,070.34",null,"$  5,794.83",null,null,null,null,null],["$ 51,005.96","$ 79,608.30",null,null,null,null,"$ 18,213.97",null,"$ 19,775.00",null,"$  2,913.75","$  2,510.48","$286,376.20","$ 43,209.95",null,null,null,"$ 28,106.00",null,"$100,271.59","$ 18,332.45","$ 25,901.04",null,null,"$ 27,854.64","$ 96,577.39",null,"$    369.53","$ 28,717.52",null,"$ 87,509.33",null,null,null,"$ 57,911.29","$ 20,281.53",null,"$ 24,834.60",null,"$ 10,372.66","$ 50,617.75","$ 32,896.04",null,null,"$ 29,544.42","$ 34,251.48","$ 30,459.15"],["$113,180.33",null,"$ 24,742.76","$ 42,625.84",null,null,"$  3,291.68",null,null,"$ 94,919.09",null,null,"$ 76,858.45","$ 56,680.33",null,null,"$  2,516.06",null,"$ 14,952.14","$ 72,241.25","$100,828.45",null,null,null,"$ 23,342.14","$ 13,491.04","$ 18,553.50","$ 44,907.44","$ 28,796.20","$ 20,833.25","$ 11,914.90","$ 43,867.56",null,"$ 98,717.54","$100,464.32",null,null,null,null,"$ 33,761.97",null,"$ 39,330.74",null,"$ 19,474.18","$ 58,993.97",null,null],["$ 76,851.55",null,"$ 17,918.85",null,"$ 14,394.81","$ 14,837.06",null,null,"$ 13,560.00","$533,472.63",null,null,"$ 21,406.87","$182,358.42","$ 33,419.09","$ 12,928.50",null,null,null,null,null,null,"$ 75,258.00","$ 51,341.03","$ 21,796.39","$ 16,277.00",null,"$ 16,975.69","$  2,911.09",null,"$ 50,569.05",null,"$243,364.28",null,null,null,null,null,null,null,null,"$ 39,223.28","$ 38,514.92","$ 66,219.63",null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+
+## Categories
+
+<div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">1_facilities_and_construction<\/a>","<a href=\"/categories/10_office_management/\">10_office_management<\/a>","<a href=\"/categories/2_professional_services/\">2_professional_services<\/a>","<a href=\"/categories/3_information_technology/\">3_information_technology<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">5_transportation_and_logistics<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">6_industrial_products_and_services<\/a>","<a href=\"/categories/9_human_capital/\">9_human_capital<\/a>"],[null,"$   14,627.85","$  664,795.15","$  699,602.65","$   49,813.49","$   25,945.85",null],["$   22,765.05","$   43,885.07","$  971,691.70","$1,183,405.32","$  198,946.08","$  118,304.11","$   66,898.75"],[null,"$   49,120.63","$1,298,257.04","$  879,675.67","$  181,893.93","$  117,789.33","$  116,635.59"],[null,"$   53,026.26","$1,191,910.24","$1,643,245.04","$  157,491.61","$   94,291.54","$  113,876.05"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>

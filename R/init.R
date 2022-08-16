@@ -28,8 +28,28 @@ get_current_filename <- function() {
 
 pivot_by_fiscal_year <- function(df, values_from = "total") {
   
+  df <- df %>%
+    pivot_wider(names_from = d_fiscal_year, values_from = !!values_from)
+  
+  # Ensure that columns are actually in ascending order
+  # (which doesn't always happen, if the first few rows don't
+  # have each of the fiscal years)
+  cols <- names(df)
+  # Skip the very first entry
+  first_col <- cols[1]
+  cols <- cols[2:length(cols)]
+  
+  cols <- tibble(cols = cols)
+  cols <- cols %>%
+    arrange(cols) %>%
+    pull(cols)
+  
+  col_order <- c(first_col, cols)
+  
+  df <- df %>%
+    relocate(any_of(col_order))
+  
   df %>%
-    pivot_wider(names_from = d_fiscal_year, values_from = !!values_from) %>%
     return()
   
 }

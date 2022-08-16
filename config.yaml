@@ -13,6 +13,7 @@ ignoreFiles:
 permalinks:
   vendor: /vendors/:slugorfilename/
   department: /departments/:slugorfilename/
+  category: /categories/:slugorfilename/
 
 markup:
   defaultMarkdownHandler: goldmark

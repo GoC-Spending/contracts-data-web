@@ -1,0 +1,29 @@
+---
+title: GARDA CANADA SECURITY
+author: ''
+date: '2022-08-15'
+slug: garda_canada_security
+categories: []
+tags: []
+---
+
+Vendor content here.
+
+## Departments and agencies
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+source("../../R/init.R")
+current_filename <- get_current_filename()
+
+dt_departments_by_fiscal_year_by_vendor(current_filename)
+
+```
+
+## Categories
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+dt_categories_by_fiscal_year_by_vendor(current_filename)
+
+```

@@ -7,6 +7,7 @@
 library(dplyr)
 library(tidyr)
 library(readr)
+library(purrr)
 library(stringr)
 library(DT)
 library(here)
@@ -15,6 +16,49 @@ print("Init file loaded")
 
 # Uses here() to handle working directory uncertainties
 csv_input_path <- here("../contracts-data/data/out/")
+
+
+# Pull in frequently-used "meta" data tables
+meta_tables <- tibble(entity_type = c("categories", "departments", "vendors"))
+meta_tables <- meta_tables %>%
+  mutate(
+    file_path = str_c(csv_input_path, "meta/", entity_type, ".csv"),
+    matching = map(file_path, read_csv)
+  )
+
+# Loop through or retrieve vendors, departments, and categories =====
+
+get_meta_list <- function(entity_type) {
+  meta_tables %>% 
+    filter(entity_type == !!entity_type) %>% 
+    pull(matching) %>% 
+    first() %>%
+    return()
+}
+
+# e.g. get_meta_name_by_filepath("departments", "aafc-aac")
+# returns "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
+get_meta_name_by_filepath <- function(entity_type, filepath) {
+  
+  meta_table <- get_meta_list(entity_type)
+  entry <- meta_table %>%
+    filter(filepath == !!filepath) %>%
+    pull(name)
+  return(entry)
+  
+}
+
+# e.g. get_meta_filepath_by_name("departments", "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada")
+# returns "aafc-aac"
+get_meta_filepath_by_name <- function(entity_type, name) {
+  
+  meta_table <- get_meta_list(entity_type)
+  entry <- meta_table %>%
+    filter(name == !!name) %>%
+    pull(filepath)
+  return(entry)
+  
+}
 
 # Generally-used helper functions =========
 
@@ -54,6 +98,106 @@ pivot_by_fiscal_year <- function(df, values_from = "total") {
   
 }
 
+add_first_column_links <- function(df) {
+  first_col <- names(df)[1]
+  
+  if(first_col == "Vendor") {
+    add_first_column_links_vendor(df) %>%
+      return()
+  }
+  else if(first_col == "Department") {
+    add_first_column_links_department(df) %>%
+      return()
+  }
+  else if(first_col == "Category") {
+    add_first_column_links_category(df) %>%
+      return()
+  }
+  else {
+    df %>%
+      return()
+  }
+
+}
+
+# df <- get_fiscal_year_data_by_entity_and_department("tc", "vendors")
+add_first_column_links_vendor <- function(df, replace = TRUE) {
+  
+  meta_vendors <- get_meta_list("vendors")
+  df <- df %>%
+    left_join(meta_vendors, by = c("Vendor" = "name"))
+  df <- df %>%
+    mutate(
+      href = str_c('<a href="/vendors/', filepath, '/">', Vendor, "</a>")
+    )
+  
+  if(replace == TRUE) {
+    df %>%
+      mutate(
+        Vendor = href
+      ) %>%
+      select(! c(filepath, href)) %>%
+      return()
+  }
+  else {
+    df %>%
+      return()
+  }
+}
+
+# df <- get_fiscal_year_data_by_entity_and_vendor("ibm_canada", "departments")
+# Note that for departments, acronyms show up as the primary key
+# in the CSV files, which is different from vendors.
+add_first_column_links_department <- function(df, replace = TRUE) {
+  
+  meta_departments <- get_meta_list("departments")
+  df <- df %>%
+    left_join(meta_departments, by = c("Department" = "filepath"))
+  df <- df %>%
+    mutate(
+      href = str_c('<a href="/departments/', Department, '/">', name, "</a>")
+    )
+  
+  if(replace == TRUE) {
+    df %>%
+      mutate(
+        Department = href
+      ) %>%
+      select(! c(name, href)) %>%
+      return()
+  }
+  else {
+    df %>%
+      return()
+  }
+}
+
+# df <- get_fiscal_year_data_by_entity_and_vendor("ibm_canada", "categories")
+# add_first_column_links(df)
+add_first_column_links_category <- function(df, replace = TRUE) {
+  
+  meta_categories <- get_meta_list("categories")
+  df <- df %>%
+    left_join(meta_categories, by = c("Category" = "name"))
+  df <- df %>%
+    mutate(
+      href = str_c('<a href="/categories/', filepath, '/">', Category, "</a>")
+    )
+  
+  if(replace == TRUE) {
+    df %>%
+      mutate(
+        Category = href
+      ) %>%
+      select(! c(filepath, href)) %>%
+      return()
+  }
+  else {
+    df %>%
+      return()
+  }
+}
+
 
 # Small renaming functions ======================
 
@@ -63,7 +207,8 @@ rename_column_names <- function(df) {
   
   lookup <- c(
     Vendor = "d_vendor_name",
-    Category = "d_most_recent_category"
+    Category = "d_most_recent_category",
+    Department = "owner_org"
     )
   
   df %>%
@@ -115,7 +260,9 @@ exports_round_percentages <- function(input_df) {
 # and sort by the last one (to make it more flexible)
 dt_fiscal_year <- function(data, page_length = 10) {
   data %>%
-    datatable(rownames = FALSE, 
+    add_first_column_links() %>%
+    datatable(rownames = FALSE,
+              escape = c(-1),
               options = list(
                 order = list(list(4, 'desc')),
                 pageLength = page_length, 

@@ -3,24 +3,85 @@
 # Hugo's built-in archetypes functionality includes
 # the necessary content.
 
-source("helpers.R")
+source("R/init.R")
 
-blogdown::new_post(
-  "IBM CANADA", 
-  kind = "vendor",
-  file = "vendor/ibm_canada.Rmarkdown")
 
-blogdown::new_post(
-  "Shared Services Canada | SPC", 
-  kind = "department",
-  file = "department/sst-spc.Rmarkdown")
+# Example manual generator runs
 
-blogdown::new_post(
-  "Treasury Board", 
-  kind = "department",
-  file = "department/tbs-sct.Rmarkdown")
+# blogdown::new_post(
+#   "IBM CANADA", 
+#   kind = "vendor",
+#   file = "vendor/ibm_canada.Rmarkdown")
+# 
+# blogdown::new_post(
+#   "Shared Services Canada | SPC", 
+#   kind = "department",
+#   file = "department/sst-spc.Rmarkdown")
+# 
+# blogdown::new_post(
+#   "Treasury Board", 
+#   kind = "department",
+#   file = "department/tbs-sct.Rmarkdown")
+# 
+# blogdown::new_post(
+#   "3_information_technology", 
+#   kind = "category",
+#   file = "category/3_information_technology.Rmarkdown")
 
-blogdown::new_post(
-  "3_information_technology", 
-  kind = "category",
-  file = "category/3_information_technology.Rmarkdown")
+# Generate vendor pages =========================
+
+generate_vendor_page <- function(name, filepath) {
+  blogdown::new_post(
+    name,
+    kind = "vendor",
+    file = str_c("vendor/", filepath, ".Rmarkdown"),
+    open = FALSE)
+}
+
+generate_all_vendor_pages <- function() {
+  vendors <- get_meta_list("vendors")
+  names <- vendors %>% 
+    pull("name")
+  filepaths <- vendors %>% 
+    pull("filepath")
+  map2(names, filepaths, generate_vendor_page)
+}
+
+# Generate department pages =====================
+
+generate_department_page <- function(name, filepath) {
+  blogdown::new_post(
+    name,
+    kind = "department",
+    file = str_c("department/", filepath, ".Rmarkdown"),
+    open = FALSE)
+}
+
+generate_all_department_pages <- function() {
+  departments <- get_meta_list("departments")
+  names <- departments %>% 
+    pull("name")
+  filepaths <- departments %>% 
+    pull("filepath")
+  map2(names, filepaths, generate_department_page)
+}
+
+
+# Generate category pages =======================
+
+generate_category_page <- function(name, filepath) {
+  blogdown::new_post(
+    name,
+    kind = "category",
+    file = str_c("category/", filepath, ".Rmarkdown"),
+    open = FALSE)
+}
+
+generate_all_category_pages <- function() {
+  categories <- get_meta_list("categories")
+  names <- categories %>% 
+    pull("name")
+  filepaths <- categories %>% 
+    pull("filepath")
+  map2(names, filepaths, generate_category_page)
+}

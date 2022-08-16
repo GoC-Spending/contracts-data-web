@@ -1,5 +1,5 @@
 theme: "hugo-lithium"
-baseURL: http://example.org/
+baseURL: "/"
 languageCode: en-us
 title: Government of Canada Contract Analysis
 

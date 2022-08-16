@@ -262,6 +262,7 @@ dt_fiscal_year <- function(data, page_length = 10) {
   data %>%
     add_first_column_links() %>%
     datatable(rownames = FALSE,
+              style = 'bootstrap',
               escape = c(-1),
               options = list(
                 order = list(list(4, 'desc')),

@@ -4,23 +4,23 @@ author: ''
 date: '{{ .Date }}'
 ---
 
-Vendor content here.
+Category content here.
 
-## Departments and agencies
+## Vendors
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
 
-dt_departments_by_fiscal_year_by_vendor(current_filename)
+dt_vendors_by_fiscal_year_by_category(current_filename)
 
 ```
 
-## Categories
+## Departments and agencies
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
-dt_categories_by_fiscal_year_by_vendor(current_filename)
+dt_departments_by_fiscal_year_by_category(current_filename)
 
 ```

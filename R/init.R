@@ -145,3 +145,86 @@ dt_categories_by_fiscal_year_by_department <- function(department) {
     dt_fiscal_year(page_length = 20)
   
 }
+
+# Vendor-specific functions =====================
+
+get_vendor_path <- function(vendor) {
+  
+  path <- str_c(csv_input_path, "vendors/", vendor, "/")
+  return(path)
+  
+}
+
+get_fiscal_year_data_by_entity_and_vendor <- function(vendor, entity_type = "departments") {
+  if(entity_type == "departments") {
+    path <- str_c(get_vendor_path(vendor), "summary_by_fiscal_year_and_owner_org.csv")
+  }
+  if(entity_type == "categories") {
+    path <- str_c(get_vendor_path(vendor), "summary_total_by_fiscal_year_and_category_by_vendor.csv")
+  }
+  
+  data <- read_csv(path) %>%
+    format_totals() %>%
+    rename_column_names() %>%
+    pivot_by_fiscal_year()
+  
+  return(data)
+}
+
+dt_departments_by_fiscal_year_by_vendor <- function(vendor) {
+  
+  data <- get_fiscal_year_data_by_entity_and_vendor(vendor, "departments")
+  data %>%
+    dt_fiscal_year()
+  
+}
+
+dt_categories_by_fiscal_year_by_vendor <- function(vendor) {
+  
+  data <- get_fiscal_year_data_by_entity_and_vendor(vendor, "categories")
+  data %>%
+    dt_fiscal_year(page_length = 20)
+  
+}
+
+
+# Category-specific functions
+
+get_category_path <- function(category) {
+  
+  path <- str_c(csv_input_path, "categories/", category, "/")
+  return(path)
+  
+}
+
+get_fiscal_year_data_by_entity_and_category <- function(category, entity_type = "departments") {
+  if(entity_type == "departments") {
+    path <- str_c(get_category_path(category), "summary_total_by_owner_org_and_fiscal_year_by_category.csv")
+  }
+  if(entity_type == "vendors") {
+    path <- str_c(get_category_path(category), "summary_total_by_vendor_and_fiscal_year_by_category.csv")
+  }
+  
+  data <- read_csv(path) %>%
+    format_totals() %>%
+    rename_column_names() %>%
+    pivot_by_fiscal_year()
+  
+  return(data)
+}
+
+dt_departments_by_fiscal_year_by_category <- function(category) {
+  
+  data <- get_fiscal_year_data_by_entity_and_category(category, "departments")
+  data %>%
+    dt_fiscal_year()
+  
+}
+
+dt_vendors_by_fiscal_year_by_category <- function(category) {
+  
+  data <- get_fiscal_year_data_by_entity_and_category(category, "vendors")
+  data %>%
+    dt_fiscal_year()
+  
+}

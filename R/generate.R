@@ -19,3 +19,8 @@ blogdown::new_post(
   "Treasury Board", 
   kind = "department",
   file = "department/tbs-sct.Rmarkdown")
+
+blogdown::new_post(
+  "3_information_technology", 
+  kind = "category",
+  file = "category/3_information_technology.Rmarkdown")

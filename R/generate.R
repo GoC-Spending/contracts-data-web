@@ -6,6 +6,13 @@
 source("R/init.R")
 
 
+# After running each of 
+# generate_all_category_pages() etc.
+# then run
+# blogdown::build_site(build_rmd = TRUE)
+# or
+# blogdown::build_site(build_rmd = 'newfile')
+
 # Example manual generator runs
 
 # blogdown::new_post(

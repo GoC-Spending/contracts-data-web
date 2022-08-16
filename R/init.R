@@ -3,6 +3,9 @@
 # Test with
 # blogdown::serve_site()
 
+# Update with
+# blogdown::build_site(build_rmd = 'newfile')
+
 # TODO: Confirm if more tidyverse libraries are needed
 library(dplyr)
 library(tidyr)

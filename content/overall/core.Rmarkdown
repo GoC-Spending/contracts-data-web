@@ -9,22 +9,22 @@ tags: []
 
 Overall summary content here.
 
-## Categories
+## Vendors
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
 
-dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "categories")
+dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "vendors")
 
 ```
 
-## Vendors
+## Categories
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
-dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "vendors")
+dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "categories")
 
 ```
 

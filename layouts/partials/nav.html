@@ -37,4 +37,15 @@ Contract analysis</a></p>
 <p class="page-subheading">A Carleton SPPA Research Project</p>
 
 {{ end }}
+
+{{ if eq .Type "overall" }}
+
+<ul class="nav nav-pills overall-nav">
+    <li role="presentation" {{ if eq .RelPermalink "/core/" }} class="active"{{ end }}><a href="/core/">Core public service departments</a></li>
+    <li role="presentation" {{ if eq .RelPermalink "/dnd/" }} class="active"{{ end }}><a href="/dnd/">Department of National Defence</a></li>
+    <li role="presentation" {{ if eq .RelPermalink "/all/" }} class="active"{{ end }}><a href="/all/">All departments and agencies</a></li>
+</ul>
+
+{{ end }}
+
 </div>

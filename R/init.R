@@ -359,7 +359,7 @@ dt_categories_by_fiscal_year_by_vendor <- function(vendor) {
 }
 
 
-# Category-specific functions
+# Category-specific functions ===================
 
 get_category_path <- function(category) {
   
@@ -395,6 +395,43 @@ dt_departments_by_fiscal_year_by_category <- function(category) {
 dt_vendors_by_fiscal_year_by_category <- function(category) {
   
   data <- get_fiscal_year_data_by_entity_and_category(category, "vendors")
+  data %>%
+    dt_fiscal_year()
+  
+}
+
+
+# Homepage (by criteria) functions ==============
+
+get_summary_overall_path <- function(summary_type) {
+  
+  path <- str_c(csv_input_path, "overall/", summary_type, "/")
+  return(path)
+  
+}
+
+get_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core", entity_type = "departments") {
+  if(entity_type == "departments") {
+    path <- str_c(get_summary_overall_path(summary_type), "summary_overall_by_fiscal_year_by_owner_org.csv")
+  }
+  if(entity_type == "vendors") {
+    path <- str_c(get_summary_overall_path(summary_type), "summary_overall_by_fiscal_year_by_vendor.csv")
+  }
+  if(entity_type == "categories") {
+    path <- str_c(get_summary_overall_path(summary_type), "summary_overall_by_fiscal_year_by_category.csv")
+  }
+  
+  data <- read_csv(path) %>%
+    format_totals() %>%
+    rename_column_names() %>%
+    pivot_by_fiscal_year()
+  
+  return(data)
+}
+
+dt_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core", entity_type = "departments") {
+  data <- get_fiscal_year_data_by_entity_and_summary_type(summary_type, entity_type)
+  
   data %>%
     dt_fiscal_year()
   

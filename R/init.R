@@ -15,7 +15,7 @@ library(stringr)
 library(DT)
 library(here)
 
-print("Init file loaded")
+# print("Init file loaded")
 
 # Uses here() to handle working directory uncertainties
 csv_input_path <- here("../contracts-data/data/out/")

@@ -239,7 +239,7 @@ format_totals <- function(input_df) {
   input_df <- input_df %>%
     exports_round_totals() %>%
     mutate(
-      across(ends_with("total"), ~ str_c("$", format(round(.x, digits = 2), big.mark=",")))
+      across(ends_with("total"), ~ str_c("$ ", format(round(.x, digits = 2), big.mark=",", nsmall = 2)))
     )
   
   return(input_df)

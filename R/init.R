@@ -181,10 +181,10 @@ add_first_column_links_category <- function(df, replace = TRUE) {
   
   meta_categories <- get_meta_list("categories")
   df <- df %>%
-    left_join(meta_categories, by = c("Category" = "name"))
+    left_join(meta_categories, by = c("Category" = "filepath"))
   df <- df %>%
     mutate(
-      href = str_c('<a href="/categories/', filepath, '/">', Category, "</a>")
+      href = str_c('<a href="/categories/', Category, '/">', name, "</a>")
     )
   
   if(replace == TRUE) {
@@ -192,7 +192,7 @@ add_first_column_links_category <- function(df, replace = TRUE) {
       mutate(
         Category = href
       ) %>%
-      select(! c(filepath, href)) %>%
+      select(! c(name, href)) %>%
       return()
   }
   else {

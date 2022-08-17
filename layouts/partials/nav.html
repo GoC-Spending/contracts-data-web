@@ -26,7 +26,7 @@
 <div class="container">
 {{ if eq .RelPermalink "/" }}
 
-<h1 class="page-heading"><a href="/core/">Government of Canada<br/>
+<h1 class="page-heading"><a href="/">Government of Canada<br/>
 Contract analysis</a></h1>
 <p class="page-subheading">A Carleton SPPA Research Project</p>
 
@@ -41,7 +41,7 @@ Contract analysis</a></p>
 {{ if eq .Type "overall" }}
 
 <ul class="nav nav-pills overall-nav">
-    <li role="presentation" {{ if eq .RelPermalink "/core/" }} class="active"{{ end }}><a href="/core/">Core public service departments</a></li>
+    <li role="presentation" {{ if eq .RelPermalink "/core/" }} class="active"{{ end }}><a href="/">Core public service departments</a></li>
     <li role="presentation" {{ if eq .RelPermalink "/dnd/" }} class="active"{{ end }}><a href="/dnd/">Department of National Defence</a></li>
     <li role="presentation" {{ if eq .RelPermalink "/all/" }} class="active"{{ end }}><a href="/all/">All departments and agencies</a></li>
 </ul>

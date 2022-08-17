@@ -1,0 +1,37 @@
+---
+title: Department of National Defence
+author: ''
+date: '2022-08-16'
+slug: dnd
+categories: []
+tags: []
+---
+
+Overall summary content here.
+
+## Categories
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+source("../../R/init.R")
+current_filename <- get_current_filename()
+
+dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "categories")
+
+```
+
+## Vendors
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "vendors")
+
+```
+
+## Departments and agencies
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "departments")
+
+```

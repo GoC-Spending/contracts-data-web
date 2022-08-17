@@ -14,6 +14,7 @@ permalinks:
   vendor: /vendors/:slugorfilename/
   department: /departments/:slugorfilename/
   category: /categories/:slugorfilename/
+  overall: /:slugorfilename/
 
 markup:
   defaultMarkdownHandler: goldmark

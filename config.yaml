@@ -21,3 +21,18 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Methodology
+      url: /methodology/
+      weight: 2
+    - name: Data sources
+      url: /data-sources/
+      weight: 3
+    - name: About the project
+      url: /about/
+      weight: 4

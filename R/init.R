@@ -14,6 +14,7 @@ library(purrr)
 library(stringr)
 library(DT)
 library(here)
+library(urltools)
 
 # print("Init file loaded")
 
@@ -358,6 +359,25 @@ dt_categories_by_fiscal_year_by_vendor <- function(vendor) {
   
 }
 
+
+# Get the original names for a given vendor
+get_original_vendor_names <- function(vendor) {
+  path <- str_c(get_vendor_path(vendor), "original_vendor_names.csv")
+  names <- read_csv(path)
+}
+
+display_original_vendor_names <- function(vendor) {
+  
+  search_prefix <- "https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text="
+  names <- get_original_vendor_names(vendor)
+  names <- names %>%
+    mutate(
+      url_encoded_name = url_encode(str_c("\"", original_vendor_name, "\"")),
+      markdown_link = str_c("[", original_vendor_name, "](", search_prefix, url_encoded_name, ")")
+    )
+  
+  names %>% pull(markdown_link) %>% str_c(collapse = " \n- ") %>% str_c('- ', .)
+}
 
 # Category-specific functions ===================
 

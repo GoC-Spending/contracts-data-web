@@ -32,12 +32,10 @@ Vendor content here.
 
 ## Departments and agencies
 
-    ## [1] "Init file loaded"
-
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada | Pêches et Océans Canada<\/a>"],["$ 3,817,673"],["$25,404,880"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>"],["$  3,817,673.25"],["$ 25,404,880.14"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/5_transportation_and_logistics/\">5_transportation_and_logistics<\/a>"],["$ 3,817,673"],["$25,404,880"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>"],["$  3,817,673.25"],["$ 25,404,880.14"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>

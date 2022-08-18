@@ -32,12 +32,10 @@ Vendor content here.
 
 ## Departments and agencies
 
-    ## [1] "Init file loaded"
-
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/hc-sc/\">Health Canada | Santé Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada | Services aux Autochtones Canada<\/a>"],["$1,523,608.6","$1,715,100.4"],["$  375,684.3","$  422,901.5"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>"],["$ 1,523,608.58","$ 1,715,100.36"],["$   375,684.31","$   422,901.46"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/4_medical/\">4_medical<\/a>"],["$3,238,708.9"],["$  798,585.8"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/4_medical/\">Medical<\/a>"],["$ 3,238,708.94"],["$   798,585.77"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>

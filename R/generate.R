@@ -8,6 +8,8 @@ source("R/init.R")
 
 # After running each of 
 # generate_all_category_pages() etc.
+# or
+# generate_all_pages()
 # then run
 # blogdown::build_site(build_rmd = TRUE)
 # or
@@ -91,4 +93,22 @@ generate_all_category_pages <- function() {
   filepaths <- categories %>% 
     pull("filepath")
   map2(names, filepaths, generate_category_page)
+}
+
+
+# Regenerate all the things!! ==================
+
+generate_all_pages <- function() {
+  # Start time
+  run_start_time <- now()
+  paste("Start time:", run_start_time)
+  
+  generate_all_category_pages()
+  generate_all_department_pages()
+  generate_all_vendor_pages()
+  
+  run_end_time <- now()
+  paste("Start time was:", run_start_time)
+  paste("End time was:", run_end_time)
+  
 }

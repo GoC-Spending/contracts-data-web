@@ -9,15 +9,15 @@
 # blogdown::build_site(build_rmd = TRUE)
 
 # TODO: Confirm if more tidyverse libraries are needed
-library(dplyr)
+library(dplyr, mask.ok = list(base = TRUE, stats = TRUE))
 library(tidyr)
 library(readr)
 library(purrr)
 library(stringr)
 library(DT)
-library(here)
+suppressMessages(library(here))
 library(urltools)
-library(lubridate)
+library(lubridate, mask.ok = list(base = TRUE))
 
 # print("Init file loaded")
 

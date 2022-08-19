@@ -26,3 +26,11 @@ options(blogdown.hugo.version = "0.101.0")
 # Thanks to
 # https://stackoverflow.com/a/44725320
 options(scipen = 999)
+
+# Disable readr column specification messages
+options(readr.show_col_types = FALSE)
+
+# Disable some package library warning messages
+# Thanks to
+# https://stackoverflow.com/a/62384440/756641
+options(conflicts.policy = 'strict')

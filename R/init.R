@@ -238,10 +238,7 @@ exports_round_totals <- function(input_df) {
 
 format_totals <- function(input_df) {
   input_df <- input_df %>%
-    exports_round_totals() %>%
-    mutate(
-      across(ends_with("total"), ~ str_c("$ ", format(round(.x, digits = 2), big.mark=",", nsmall = 2)))
-    )
+    exports_round_totals()
   
   return(input_df)
 }
@@ -262,7 +259,7 @@ exports_round_percentages <- function(input_df) {
 # descending on the 4th year
 # TODO: Update this to figure out how many columns there are,
 # and sort by the last one (to make it more flexible)
-dt_fiscal_year <- function(data, page_length = 10) {
+dt_fiscal_year <- function(data, page_length = 10, dom = NULL) {
   data %>%
     add_first_column_links() %>%
     datatable(rownames = FALSE,
@@ -270,10 +267,16 @@ dt_fiscal_year <- function(data, page_length = 10) {
               escape = c(-1),
               options = list(
                 order = list(list(4, 'desc')),
+                dom = dom,
                 pageLength = page_length, 
                 autoWidth = TRUE,
-                columnDefs = list(list(width = '15%', targets = list(1,2,3,4)))
-              ))
+                columnDefs = list(list(width = '16%', targets = list(1,2,3,4)))
+              )) %>%
+    formatCurrency(columns = c(2,3,4,5))
+}
+
+dt_fiscal_year_categories <- function(data) {
+  dt_fiscal_year(data, page_length = 30, dom = 't')
 }
 
 # Department-specific functions ======
@@ -315,7 +318,7 @@ dt_categories_by_fiscal_year_by_department <- function(department) {
   data <- get_fiscal_year_data_by_entity_and_department(department, "categories")
   
   data %>%
-    dt_fiscal_year(page_length = 20)
+    dt_fiscal_year_categories()
   
 }
 
@@ -356,7 +359,7 @@ dt_categories_by_fiscal_year_by_vendor <- function(vendor) {
   
   data <- get_fiscal_year_data_by_entity_and_vendor(vendor, "categories")
   data %>%
-    dt_fiscal_year(page_length = 20)
+    dt_fiscal_year_categories()
   
 }
 
@@ -453,7 +456,13 @@ get_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core
 dt_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core", entity_type = "departments") {
   data <- get_fiscal_year_data_by_entity_and_summary_type(summary_type, entity_type)
   
-  data %>%
-    dt_fiscal_year()
+  if(entity_type == "categories") {
+    data %>%
+      dt_fiscal_year_categories()
+  }
+  else {
+    data %>%
+      dt_fiscal_year()
+  }
   
 }

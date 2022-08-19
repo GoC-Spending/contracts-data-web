@@ -112,3 +112,14 @@ generate_all_pages <- function() {
   print(str_c("End time was: ", run_end_time))
   
 }
+
+build_all_pages <- function() {
+  run_start_time <- now()
+  print(str_c("Start time: ", run_start_time))
+  
+  blogdown::build_site(build_rmd = TRUE)
+  
+  run_end_time <- now()
+  print(str_c("Start time was: ", run_start_time))
+  print(str_c("End time was: ", run_end_time))
+}

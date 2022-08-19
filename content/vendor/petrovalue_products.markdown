@@ -1,7 +1,7 @@
 ---
 title: PETROVALUE PRODUCTS
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: petrovalue_products
 categories: []
 tags: []
@@ -30,12 +30,52 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Petro Value](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petro%20Value%22)
+- [PETROVALUE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%22)
+- [Petrovalue](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%22)
+- [Petrovalue Products Canada inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20Products%20Canada%20inc.%22)
+- [PetroValue Products Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PetroValue%20Products%20Canada%20Inc.%22)
+- [ptero Value](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ptero%20Value%22)
+- [PETROVALUE PRODUCTS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUCTS%20CANADA%20INC%22)
+- [PETROVALUE PRODUCTS CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUCTS%20CANADA%20INC.%22)
+- [PetoValue Products Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PetoValue%20Products%20Canada%20Inc.%22)
+- [PetroValue Products Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PetroValue%20Products%20Canada%20Inc%22)
+- [PetroValue Products](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PetroValue%20Products%22)
+- [PETROVALUE / PRODUCTS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20%2f%20PRODUCTS%20CANADA%20INC%22)
+- [PETROLVALUE PRODUCTS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROLVALUE%20PRODUCTS%20CANADA%20INC%22)
+- [PETROVLAUE PRODUCTS CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVLAUE%20PRODUCTS%20CANADA%20INC.%22)
+- [Petrovalue products canada inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20products%20canada%20inc%22)
+- [Petrovalue Products Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20Products%20Canada%20Inc%22)
+- [PETROVALUE PRODUCTS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUCTS%20INC%22)
+- [PetroValue products Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PetroValue%20products%20Canada%20Inc%22)
+- [Petrovalue products Canada INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20products%20Canada%20INC%22)
+- [PetroValue Products Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PetroValue%20Products%20Canada%20Ltd%22)
+- [PETROVALUE PRODUCTS CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUCTS%20CANADA%22)
+- [PETROVALUE PRODUCTS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUCTS%22)
+- [PETROVALUE PRODUCTS CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUCTS%20CANADA%20LTD%22)
+- [PETROVALUE CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20CANADA%20INC%22)
+- [Petrovalue Products Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20Products%20Inc%22)
+- [Petrovalue Products Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20Products%20Canada%20Inc.%22)
+- [PETROVALUE PRODUTCS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUTCS%20CANADA%20INC%22)
+- [PETTOVALUE PRODUCTS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETTOVALUE%20PRODUCTS%20CANADA%20INC%22)
+- [Petrovalue priducts Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20priducts%20Canada%20Inc.%22)
+- [Petrovalue products Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20products%20Canada%20Inc.%22)
+- [petrovalue products canada inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22petrovalue%20products%20canada%20inc%22)
+- [Petrovalue products Canada inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20products%20Canada%20inc.%22)
+- [PetroValue Products Canada inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PetroValue%20Products%20Canada%20inc.%22)
+- [PETROVALUE PRODUCTS CANDADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVALUE%20PRODUCTS%20CANDADA%20INC.%22)
+- [Petrovalue products canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petrovalue%20products%20canada%22)
+- [PETROVAULE PRODUCTS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETROVAULE%20PRODUCTS%20CANADA%20INC%22)
+- [PETRO VALUE PRODUCTS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETRO%20VALUE%20PRODUCTS%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[null,null,"$ 2,987,928.97",null,"$    33,749.69","$   628,868.99"],[null,null,null,null,"$   110,840.55","$    14,221.46"],[null,"$   459,815.34","$ 1,075,845.44","$   150,144.96",null,"$    86,250.00"],["$    52,500.00","$   371,775.20","$ 2,783,706.99",null,"$   210,000.00",null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[null,null,2987928.97,null,33749.69,628868.99],[null,null,null,null,110840.55,14221.46],[null,459815.34,1075845.44,150144.96,null,86250],[52500,371775.2,2783706.99,null,210000,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>"],["$       153.97","$ 2,987,775.00","$   662,618.68"],[null,null,"$   125,062.01"],[null,"$ 1,075,845.44","$   696,210.30"],[null,"$ 2,783,706.99","$   634,275.20"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>"],[153.97,2987775,662618.68],[null,null,125062.01],[null,1075845.44,696210.3],[null,2783706.99,634275.2]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

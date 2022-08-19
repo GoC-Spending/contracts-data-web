@@ -1,7 +1,7 @@
 ---
 title: QINETIQ
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: qinetiq
 categories: []
 tags: []
@@ -30,12 +30,38 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [QINETIQ GROUP CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20GROUP%20CANADA%20INC.%22)
+- [QinetiQ](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QinetiQ%22)
+- [QinetiQ Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QinetiQ%20Limited%22)
+- [QINETIQ LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20LTD%22)
+- [Qinetiq Group Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Qinetiq%20Group%20Canada%20Inc%22)
+- [QUINETIQ LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QUINETIQ%20LTD%22)
+- [QINETIQ TARGET SYSTEMS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20TARGET%20SYSTEMS%22)
+- [Qinetiq Target Systems Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Qinetiq%20Target%20Systems%20Canada%22)
+- [QINETIQ TARGET SYSTEMS CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20TARGET%20SYSTEMS%20CANADA%20INC.%22)
+- [QinetiQ Target Systems Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QinetiQ%20Target%20Systems%20Canada%20Inc.%22)
+- [QINETIQ TARGET SYSTEMS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20TARGET%20SYSTEMS%20CANADA%20INC%22)
+- [QINETIQ LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20LIMITED%22)
+- [Qinetiq Target Systems Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Qinetiq%20Target%20Systems%20Canada%20Inc%22)
+- [Qinetiq Target Systems Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Qinetiq%20Target%20Systems%20Canada%20Inc.%22)
+- [Qinetiq Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Qinetiq%20Limited%22)
+- [QinetiQ Target systems Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QinetiQ%20Target%20systems%20Canada%20Inc.%22)
+- [QINETIQ TARGET SYSTEM CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20TARGET%20SYSTEM%20CANADA%20INC.%22)
+- [QINETIQ Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20Ltd.%22)
+- [QinetiQ Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QinetiQ%20Ltd.%22)
+- [Qinetiq Target Systesm Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Qinetiq%20Target%20Systesm%20Canada%20Inc%22)
+- [QINETIQ TARGET SYSTMS CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20TARGET%20SYSTMS%20CANADA%20INC.%22)
+- [QINETIQ INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20INC%22)
+- [QINETIQ LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22QINETIQ%20LTD.%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],["$  1,864,567.25","$  8,763,905.39"],[null,"$ 10,392,731.36"],[null,"$ 22,153,118.41"],[null,"$ 22,226,819.79"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],[1864567.25,8763905.39],[null,10392731.36],[null,22153118.41],[null,22226819.79]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],["$    128,173.30",null,"$  1,873,058.68","$  8,627,240.65"],["$  4,895,238.66","$      2,752.21","$    907,893.94","$  4,586,846.56"],["$ 17,227,474.50","$     26,298.88","$  2,338,181.98","$  2,561,163.04"],["$ 17,180,404.90",null,"$  5,012,248.98","$     34,165.92"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[128173.3,null,1873058.68,8627240.65],[4895238.66,2752.21,907893.94,4586846.56],[17227474.5,26298.88,2338181.98,2561163.04],[17180404.9,null,5012248.98,34165.92]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

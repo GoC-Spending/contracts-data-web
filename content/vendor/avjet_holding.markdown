@@ -1,7 +1,7 @@
 ---
 title: AVJET HOLDING
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: avjet_holding
 categories: []
 tags: []
@@ -30,12 +30,44 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Avjet Holding Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Avjet%20Holding%20Inc.%22)
+- [AVJET HOLDING INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDING%20INC.%22)
+- [Avjet Holding Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Avjet%20Holding%20Inc%22)
+- [AVJET HOLDING INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDING%20INC%22)
+- [AVJET HOLDINGS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDINGS%20INC%22)
+- [AVJETR HOLDING INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJETR%20HOLDING%20INC%22)
+- [AVJET HOLDINS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDINS%20INC%22)
+- [AVJET HOLDING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDING%22)
+- [AVJET](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%22)
+- [Avjet](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Avjet%22)
+- [Avjet Holding inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Avjet%20Holding%20inc%22)
+- [AvJet Holding Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AvJet%20Holding%20Inc.%22)
+- [AVJET HOLDINGS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDINGS%22)
+- [AVJET HOLDINGS LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDINGS%20LTD.%22)
+- [AVJet](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJet%22)
+- [Avjet Holdings Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Avjet%20Holdings%20Inc%22)
+- [AvJET](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AvJET%22)
+- [AVJET HOLDING LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDING%20LTD.%22)
+- [AVJET HOLDINGINC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDINGINC%22)
+- [avjet holding inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22avjet%20holding%20inc%22)
+- [AvJet](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AvJet%22)
+- [AVJET HOLDINIG INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDINIG%20INC%22)
+- [AvJet holding inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AvJet%20holding%20inc%22)
+- [AV Jet](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AV%20Jet%22)
+- [AvJet Holding](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AvJet%20Holding%22)
+- [AVJEY HOLDING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJEY%20HOLDING%22)
+- [AvJet Holding Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AvJet%20Holding%20Inc%22)
+- [AVJET HOLDIING INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDIING%20INC%22)
+- [AVJET HOLDING LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AVJET%20HOLDING%20LTD%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>"],[null,null,"$ 1,627,245.67","$   490,235.72",null,null],["$ 1,783,960.59","$    28,484.46","$ 5,861,396.62","$   667,092.75",null,"$    10,162.17"],[null,null,"$ 1,852,810.60","$    31,358.04","$   556,954.47","$    45,681.70"],[null,null,"$   370,515.75",null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>"],[null,null,1627245.67,490235.72,null,null],[1783960.59,28484.46,5861396.62,667092.75,null,10162.17],[null,null,1852810.6,31358.04,556954.47,45681.7],[null,null,370515.75,null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],["$ 1,627,245.67",null,"$   452,852.92","$    37,382.80"],["$ 5,861,396.62","$ 1,783,960.59","$   599,250.68","$   106,488.70"],["$ 1,852,810.60",null,"$   633,994.21",null],["$   370,515.75",null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[1627245.67,null,452852.92,37382.8],[5861396.62,1783960.59,599250.68,106488.7],[1852810.6,null,633994.21,null],[370515.75,null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

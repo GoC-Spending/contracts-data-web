@@ -1,7 +1,7 @@
 ---
 title: JHT DEFENSE
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: jht_defense
 categories: []
 tags: []
@@ -30,12 +30,45 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [JHT DEFENSE INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENSE%20INC.%22)
+- [JHT DEFENSE INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENSE%20INC%22)
+- [Jht Defence Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Jht%20Defence%20Inc%22)
+- [JHT Defence Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defence%20Inc.%22)
+- [JHT Defense Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20Inc%22)
+- [JHT Defense Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20Inc.%22)
+- [jht defense inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22jht%20defense%20inc%22)
+- [JHT DEFENCE INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENCE%20INC%22)
+- [JHT Defense INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20INC%22)
+- [JHT DEFENSE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENSE%22)
+- [JHT Defence](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defence%22)
+- [JHT DEFENCE INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENCE%20INC.%22)
+- [JHT Defense](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%22)
+- [JHT Deffense Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Deffense%20Inc%22)
+- [JHT Defence INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defence%20INC%22)
+- [JHT Defence Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defence%20Inc%22)
+- [JHT Denfense](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Denfense%22)
+- [JHT Defense INc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20INc%22)
+- [JHT DEFENCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENCE%22)
+- [JHT Defense INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20INC.%22)
+- [JHT Defense INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20%20Defense%20INC%22)
+- [JHT DEFENSE LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENSE%20LTD%22)
+- [JHT defense INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20defense%20INC%22)
+- [JHT Defense LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20LTD%22)
+- [JHT Defense inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20inc%22)
+- [Jht Defense Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Jht%20Defense%20Inc%22)
+- [JHT Defense Incorporated](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20Incorporated%22)
+- [JHT Defense, inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%2c%20inc.%22)
+- [JHT DEFENCE LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20DEFENCE%20LTD%22)
+- [JHT Defense Inc. (QC)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JHT%20Defense%20Inc.%20%28QC%29%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[null,"$    72,069.02","$ 3,760,317.79","$    28,678.66","$    39,489.29"],["$    33,221.39",null,"$ 2,672,701.83","$    11,550.04",null],[null,null,"$ 2,928,748.13",null,null],[null,null,"$ 1,994,733.54",null,"$    17,176.23"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[null,72069.02,3760317.79,28678.66,39489.29],[33221.39,null,2672701.83,11550.04,null],[null,null,2928748.13,null,null],[null,null,1994733.54,null,17176.23]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],["$   352,332.21","$    34,514.14","$ 1,772,659.18","$    72,069.02","$    68,167.95","$ 1,600,812.26"],["$    55,084.88",null,"$ 1,456,381.02",null,"$    11,550.04","$ 1,194,457.32"],["$    91,413.65",null,"$ 1,224,072.33","$    54,269.35",null,"$ 1,558,992.80"],["$    58,180.40","$    23,914.52","$ 1,330,062.78",null,null,"$   599,752.06"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[352332.21,34514.14,1772659.18,72069.02,68167.95,1600812.26],[55084.88,null,1456381.02,null,11550.04,1194457.32],[91413.65,null,1224072.33,54269.35,null,1558992.8],[58180.4,23914.52,1330062.78,null,null,599752.06]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

@@ -1,7 +1,7 @@
 ---
 title: LOGISTIK UNICORP
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: logistik_unicorp
 categories: []
 tags: []
@@ -30,12 +30,50 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [LOGISTIK UNICORP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIK%20UNICORP%22)
+- [LOGISTIK UNICORP INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIK%20UNICORP%20INC.%22)
+- [LOGISTIK UNICORP INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIK%20UNICORP%20INC%22)
+- [Logistik Unicorp Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicorp%20Inc.%22)
+- [Logistik Unicorp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicorp%22)
+- [Logistik](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%22)
+- [logistik](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22logistik%22)
+- [Logistik Unicorp Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicorp%20Inc%22)
+- [LOGISTIK](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIK%22)
+- [Logistil unicorp inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistil%20unicorp%20inc%22)
+- [logistik unicorp inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22logistik%20unicorp%20inc%22)
+- [logistik unicorp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22logistik%20unicorp%22)
+- [Logistik unicorp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20unicorp%22)
+- [Logistick unicorps](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistick%20unicorps%22)
+- [LOGISTIK UNICOPR](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIK%20UNICOPR%22)
+- [Logistik Unicrop](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicrop%22)
+- [LOGISTICK UNICORP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTICK%20UNICORP%22)
+- [Logistk Unicorp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistk%20Unicorp%22)
+- [Logistik Unicorps Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicorps%20Inc.%22)
+- [Logistik Unicorps](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicorps%22)
+- [Logistik Unicorp inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicorp%20inc.%22)
+- [LOGISTIK UNICORPS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIK%20UNICORPS%20INC%22)
+- [LOGSITIK UNICORP INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGSITIK%20UNICORP%20INC%22)
+- [Logitstik Unicorp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logitstik%20Unicorp%22)
+- [Logistik Inicorp Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Inicorp%20Inc.%22)
+- [logistik unicorp inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22logistik%20unicorp%20inc.%22)
+- [Logistik Unicorp INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20Unicorp%20INC%22)
+- [Logistick Unicorp Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistick%20Unicorp%20Inc.%22)
+- [Logistick Unicorp inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistick%20Unicorp%20inc.%22)
+- [logisitik unicorp inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22logisitik%20unicorp%20inc%22)
+- [Ligistik Unicorp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ligistik%20Unicorp%22)
+- [LOGISTIK UNICORP INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIK%20UNICORP%20%20INC.%22)
+- [LOGISTIKS UNICORP INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIKS%20UNICORP%20INC.%22)
+- [Logistik unicorp Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20unicorp%20Inc%22)
+- [logistik unicorps](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22logistik%20unicorps%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/vac-acc/\">Veterans Affairs Canada<\/a>"],["$  4,731,523.48","$  5,130,153.23","$ 11,388,706.82","$    114,309.29",null,null],["$  4,731,523.48","$  6,742,639.01","$ 12,086,386.88","$    114,309.29",null,"$     13,293.92"],["$  4,744,486.56","$  6,761,112.00","$ 11,561,546.47","$    114,622.46",null,null],["$  4,806,103.48","$  6,742,639.01","$  4,034,414.38","$    114,309.29","$ 56,291,136.22",null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/vac-acc/\">Veterans Affairs Canada<\/a>"],[4731523.48,5130153.23,11388706.82,114309.29,null,null],[4731523.48,6742639.01,12086386.88,114309.29,null,13293.92],[4744486.56,6761112,11561546.47,114622.46,null,null],[4806103.48,6742639.01,4034414.38,114309.29,56291136.22,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/4_medical/\">Medical<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],["$  4,731,523.48","$     17,220.38","$ 16,615,948.96"],["$  4,731,523.48",null,"$ 18,956,629.10"],["$  4,744,486.56",null,"$ 18,437,280.93"],["$  4,731,523.48","$ 56,346,475.27","$ 10,910,603.63"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/4_medical/\">Medical<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[4731523.48,17220.38,16615948.96],[4731523.48,null,18956629.1],[4744486.56,null,18437280.93],[4731523.48,56346475.27,10910603.63]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

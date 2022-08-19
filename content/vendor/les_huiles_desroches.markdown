@@ -1,7 +1,7 @@
 ---
 title: LES HUILES DESROCHES
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: les_huiles_desroches
 categories: []
 tags: []
@@ -30,12 +30,37 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Les Huiles Desroches Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20Inc.%22)
+- [Les Huiles Desroches INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20INC%22)
+- [Les Huiles Desroches INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20INC.%22)
+- [Les huiles desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%22)
+- [Les huiles Desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%22)
+- [LES HUILES DESROCHES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20DESROCHES%22)
+- [les huiles desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22les%20huiles%20desroches%22)
+- [LES HUILES DESROCHES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20DESROCHES%20INC%22)
+- [LES HUILES DESROCHES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20DESROCHES%20INC.%22)
+- [Les huiles Desroches Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%20Inc%22)
+- [Les Huiles Desroches Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20Inc%22)
+- [Les huiles Desroches inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%20inc.%22)
+- [LES HUILES ESROCHES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20ESROCHES%20INC.%22)
+- [Les huiles Desroches Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%20Inc.%22)
+- [LES HUILES DESROCHESINC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20DESROCHESINC.%22)
+- [les huiles desroches inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22les%20huiles%20desroches%20inc%22)
+- [Les Huiles Desroches inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20inc.%22)
+- [Les huiles desroches INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%20INC.%22)
+- [Les huiles desroches inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%20inc%22)
+- [Les Huiles Desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%22)
+- [LES HULES DESROCHES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HULES%20DESROCHES%20INC.%22)
+- [les huiles desroches inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22les%20huiles%20desroches%20inc.%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>"],["$    70,256.32","$ 2,882,116.91",null],["$   287,776.64","$ 2,494,478.81","$   249,629.64"],["$   352,462.32","$ 2,712,495.03","$   319,983.41"],["$   273,310.93","$ 1,112,559.37","$   200,245.70"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>"],[70256.32,2882116.91,null],[287776.64,2494478.81,249629.64],[352462.32,2712495.03,319983.41],[273310.93,1112559.37,200245.7]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],["$ 2,882,116.91","$    70,256.32",null],["$ 2,494,478.81","$   537,406.28",null],["$ 2,539,019.82","$   672,445.73","$   173,475.21"],["$ 1,112,559.37","$   473,556.63",null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[2882116.91,70256.32,null],[2494478.81,537406.28,null],[2539019.82,672445.73,173475.21],[1112559.37,473556.63,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

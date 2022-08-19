@@ -1,7 +1,7 @@
 ---
 title: LYNLEY CONTRACTING SERVICES
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: lynley_contracting_services
 categories: []
 tags: []
@@ -30,12 +30,24 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Lynley Contracting Services Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lynley%20Contracting%20Services%20Ltd.%22)
+- [Lynley Contracting Servicesw Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lynley%20Contracting%20Servicesw%20Ltd.%22)
+- [Lynley Contractor Services Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lynley%20Contractor%20Services%20Ltd.%22)
+- [LYNLEY CONTRACTING SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LYNLEY%20CONTRACTING%20SERVICES%22)
+- [Lynley Contracting Services Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lynley%20Contracting%20Services%20Ltd%22)
+- [LYNLEY CONTRACTING SERVICES LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LYNLEY%20CONTRACTING%20SERVICES%20LTD%22)
+- [LYNLEY CONTRACTING SERVICES LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LYNLEY%20CONTRACTING%20SERVICES%20LTD.%22)
+- [LNLEY CONTRACTING SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LNLEY%20CONTRACTING%20SERVICES%22)
+- [Lynley Contract Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lynley%20Contract%20Services%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],["$ 3,994,145.97"],["$ 6,208,690.29"],["$ 1,526,836.73"],["$ 1,691,846.40"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],[3994145.97],[6208690.29],[1526836.73],[1691846.4]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>"],["$ 3,349,469.24","$   644,676.72",null],["$ 6,073,593.83","$   122,323.28","$    12,773.18"],["$ 1,526,836.73",null,null],["$ 1,691,846.40",null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>"],[3349469.24,644676.72,null],[6073593.83,122323.28,12773.18],[1526836.73,null,null],[1691846.4,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

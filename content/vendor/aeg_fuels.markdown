@@ -1,7 +1,7 @@
 ---
 title: AEG FUELS
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: aeg_fuels
 categories: []
 tags: []
@@ -30,12 +30,30 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [AEG FUELS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEG%20FUELS%22)
+- [aeg fuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22aeg%20fuels%22)
+- [Aegfuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aegfuels%22)
+- [AEG Fuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEG%20Fuels%22)
+- [AEG fuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEG%20fuels%22)
+- [AEGfuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEGfuels%22)
+- [AEGFUELS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEGFUELS%22)
+- [AEG FUELS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEG%20%20FUELS%22)
+- [AegFuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AegFuels%22)
+- [Aegfuel](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aegfuel%22)
+- [AEG FUEL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEG%20FUEL%22)
+- [AEGfuel](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEGfuel%22)
+- [AEG FULES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEG%20FULES%22)
+- [AEG fuel](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEG%20fuel%22)
+- [AEGFuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEGFuels%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],["$    643,038.20"],["$  3,905,148.98"],["$ 13,658,991.72"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],[643038.2],[3905148.98],[13658991.72]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>"],["$    643,038.20"],["$  3,905,148.98"],["$ 13,658,991.72"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>"],[643038.2],[3905148.98],[13658991.72]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

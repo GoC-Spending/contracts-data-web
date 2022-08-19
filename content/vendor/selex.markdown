@@ -1,7 +1,7 @@
 ---
 title: SELEX
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: selex
 categories: []
 tags: []
@@ -30,12 +30,27 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [SELEX ES GMBH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20ES%20GMBH%22)
+- [Selex Communications LTD, Davies Communications Division](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Selex%20Communications%20LTD%2c%20Davies%20Communications%20Division%22)
+- [SELEX GALILEO LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20GALILEO%20LIMITED%22)
+- [Selex ES Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Selex%20ES%20Ltd%22)
+- [SELEX SENSORS & AIRBORNE SYSTEMS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20SENSORS%20%26%20AIRBORNE%20SYSTEMS%22)
+- [SELEX SYSTEMS INTEGRATION GMBH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20SYSTEMS%20INTEGRATION%20GMBH%22)
+- [SELEX ES Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20ES%20Ltd.%22)
+- [SELEX Sensors and Airborne Systems Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20Sensors%20and%20Airborne%20Systems%20Limited%22)
+- [SELEX ES LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20ES%20LTD%22)
+- [SELEX COMMUNICATIONS LTD, DAVIES COMMUNICATIONS DIVISION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20COMMUNICATIONS%20LTD%2c%20DAVIES%20COMMUNICATIONS%20DIVISION%22)
+- [SELEX GALLEO LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20GALLEO%20LTD%22)
+- [SELEX GALILEO INFRARED LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SELEX%20GALILEO%20INFRARED%20LTD%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>"],["$ 12,306,552.18"],["$ 12,270,432.18"],["$ 12,304,049.81"],["$ 12,270,432.18"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>"],[12306552.18],[12270432.18],[12304049.81],[12270432.18]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/9_human_capital/\">Human capital<\/a>"],["$ 12,270,432.18","$     36,120.00"],["$ 12,270,432.18",null],["$ 12,304,049.81",null],["$ 12,270,432.18",null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/9_human_capital/\">Human capital<\/a>"],[12270432.18,36120],[12270432.18,null],[12304049.81,null],[12270432.18,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

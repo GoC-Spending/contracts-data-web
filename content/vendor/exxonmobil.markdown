@@ -1,7 +1,7 @@
 ---
 title: EXXONMOBIL
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: exxonmobil
 categories: []
 tags: []
@@ -30,12 +30,76 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [EXXONMOBIL AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVIATION%22)
+- [Exxonmobil Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviation%22)
+- [EXXONMOBIL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%22)
+- [EXONMOBIL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXONMOBIL%22)
+- [EXXONMOBIL AVIATION DIV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVIATION%20DIV%22)
+- [Exxon Mobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxon%20Mobil%22)
+- [EXXONMOBILE AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBILE%20AVIATION%22)
+- [Exxonmobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%22)
+- [exxonmobil aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobil%20aviation%22)
+- [EXXONMOBIL AVAITION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVAITION%22)
+- [Exxonmobil Aviation Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviation%20Div%22)
+- [Exxonmobil Aviataion Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviataion%20Div%22)
+- [exxonmobile aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobile%20aviation%22)
+- [Exxonmobile Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobile%20Aviation%22)
+- [EXXON MOBILE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXON%20MOBILE%22)
+- [EXXONMOBIL AVAIATION DIV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVAIATION%20DIV%22)
+- [EXXONMOBIL AVAITION DIV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVAITION%20DIV%22)
+- [EXXONMOBIL AVIATION, DIV OF](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVIATION%2c%20DIV%20OF%22)
+- [Exxon Mobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxon%20Mobile%22)
+- [Exxonmobil Aviaiton Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviaiton%20Div%22)
+- [ExxonMobil Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ExxonMobil%20Aviation%22)
+- [Exxonmobile Aviation Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobile%20Aviation%20Div%22)
+- [Exxonmobil Aviaton Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviaton%20Div%22)
+- [EXXONMOBILE AVAITION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBILE%20AVAITION%22)
+- [EXXONMOBILE AVIATION DIV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBILE%20AVIATION%20DIV%22)
+- [ExxonMobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ExxonMobile%22)
+- [ExxonMobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ExxonMobil%22)
+- [EXXON MOBILE AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXON%20MOBILE%20AVIATION%22)
+- [Exxonmoibil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmoibil%22)
+- [EXONMOBILE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXONMOBILE%22)
+- [exxon mobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxon%20mobile%22)
+- [EXXONMOBILE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBILE%22)
+- [EXXON MOBIL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXON%20MOBIL%22)
+- [EXXON MOBILE Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXON%20MOBILE%20Aviation%22)
+- [exxonmobil aviation div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobil%20aviation%20div%22)
+- [Exxon Mobile Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxon%20Mobile%20Aviation%22)
+- [EXXONMOBIL Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20Aviation%22)
+- [Exxonmobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobile%22)
+- [Exxonmobol](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobol%22)
+- [EXONMOBIL Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXONMOBIL%20Aviation%22)
+- [exxon mobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxon%20mobil%22)
+- [exxonmobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobil%22)
+- [Exxonmobile aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobile%20aviation%22)
+- [exxon Mobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxon%20Mobile%22)
+- [exxonmobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobile%22)
+- [exxon mobile aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxon%20mobile%20aviation%22)
+- [Exxon Mobil Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxon%20Mobil%20Aviation%22)
+- [Exxonmobil aviation, Div of](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20aviation%2c%20Div%20of%22)
+- [Exxonmobil, Aviation, Div of](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%2c%20Aviation%2c%20Div%20of%22)
+- [Exxonmobil Aviation Fuel](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviation%20Fuel%22)
+- [exxonmobile Aviatin](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobile%20Aviatin%22)
+- [EXXON MOBIL AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXON%20MOBIL%20AVIATION%22)
+- [Exxonmobil Avaition](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Avaition%22)
+- [Exxonmobil Aviaiotn](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviaiotn%22)
+- [Exxonmobil aviation Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20aviation%20Div%22)
+- [Exxonmobil Aviaiton](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviaiton%22)
+- [Exxonmobil Avation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Avation%22)
+- [EXXONMOBILE Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBILE%20Aviation%22)
+- [EXXONMBIL AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMBIL%20AVIATION%22)
+- [EXXONMOBIL AVAIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVAIATION%22)
+- [EXONMOBIL AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXONMOBIL%20AVIATION%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],["$ 4,629,896.33"],["$ 4,948,590.75"],["$ 7,532,376.15"],["$ 6,718,706.95"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],[4629896.33],[4948590.75],[7532376.15],[6718706.95]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],["$ 4,601,110.52","$    28,785.81"],["$ 4,948,590.75",null],["$ 7,532,376.15",null],["$ 6,718,706.95",null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[4601110.52,28785.81],[4948590.75,null],[7532376.15,null],[6718706.95,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

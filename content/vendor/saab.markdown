@@ -1,7 +1,7 @@
 ---
 title: SAAB
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: saab
 categories: []
 tags: []
@@ -30,12 +30,43 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Saab Microwave Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Saab%20Microwave%20Canada%20Ltd%22)
+- [SAAB Canada LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20Canada%20LTD%22)
+- [Saab Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Saab%20Canada%20Inc%22)
+- [SAAB](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%22)
+- [SAAB AB](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20AB%22)
+- [SAAB MICROWAVE CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20MICROWAVE%20CANADA%20LTD%22)
+- [SAAB BARRACUDA AB](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20BARRACUDA%20AB%22)
+- [SAAB BOFORS DYNAMICS AB](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20BOFORS%20DYNAMICS%20AB%22)
+- [Saab Microwave Canada LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Saab%20Microwave%20Canada%20LTD.%22)
+- [Saab Microwave Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Saab%20Microwave%20Canada%22)
+- [SAAB MICROWAVE CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20MICROWAVE%20CANADA%22)
+- [SAAB Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20Canada%20Inc.%22)
+- [SAAB Microwave Canada LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20Microwave%20Canada%20LTD.%22)
+- [SAAB AB / SAAB AVITRONICS, SWEDEN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20AB%20%2f%20SAAB%20AVITRONICS%2c%20SWEDEN%22)
+- [SAAB BOROFS DYNAMICS AB](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20BOROFS%20DYNAMICS%20AB%22)
+- [SAAB CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20CANADA%20INC.%22)
+- [Saab Microwave Canada LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Saab%20Microwave%20Canada%20LTD%22)
+- [SAAB dynamics ab](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20dynamics%20ab%22)
+- [SAAB Microwave Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20Microwave%20Canada%22)
+- [SAAB Bofors Dynamics AB](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20Bofors%20Dynamics%20AB%22)
+- [SAAB MICROWAVE ELECTRONICS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20MICROWAVE%20ELECTRONICS%22)
+- [SAAB CANADA, INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20CANADA%2c%20INC.%22)
+- [SAAB DEFENSE AND SECURITY USA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20DEFENSE%20AND%20SECURITY%20USA%22)
+- [Saab Canada, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Saab%20Canada%2c%20Inc.%22)
+- [Saab Dymanics Ab](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Saab%20Dymanics%20Ab%22)
+- [SAAB BOFORS DYNAMICS SWITZERLAND LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20BOFORS%20DYNAMICS%20SWITZERLAND%20LTD%22)
+- [SAAB DEFENSE AND SECURITY USA LLC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20DEFENSE%20AND%20SECURITY%20USA%20LLC%22)
+- [SAAB MICROWAVE CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SAAB%20MICROWAVE%20CANADA%20LTD.%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cnsc-ccsn/\">Canadian Nuclear Safety Commission<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],[null,"$ 25,564,082.62"],[null,"$ 36,459,278.96"],["$     11,295.21","$ 38,671,463.48"],["$    200,850.87","$ 31,406,911.17"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cnsc-ccsn/\">Canadian Nuclear Safety Commission<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>"],[null,25564082.62],[null,36459278.96],[11295.21,38671463.48],[200850.87,31406911.17]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/9_human_capital/\">Human capital<\/a>"],[null,"$    250,819.26","$ 16,351,986.04","$  8,961,277.32",null],[null,null,"$ 20,978,582.87","$ 15,480,696.09",null],[null,null,"$ 19,261,311.25","$ 19,410,152.23","$     11,295.21"],["$    281,574.92",null,"$ 15,330,372.83","$ 15,995,814.29",null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/9_human_capital/\">Human capital<\/a>"],[null,250819.26,16351986.04,8961277.32,null],[null,null,20978582.87,15480696.09,null],[null,null,19261311.25,19410152.23,11295.21],[281574.92,null,15330372.83,15995814.29,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

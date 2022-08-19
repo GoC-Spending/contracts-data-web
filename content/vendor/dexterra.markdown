@@ -1,7 +1,7 @@
 ---
 title: DEXTERRA
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: dexterra
 categories: []
 tags: []
@@ -30,12 +30,58 @@ tags: []
 
 Vendor content here.
 
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [CARILLION PACIFIC CONSTRUCTION INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CARILLION%20PACIFIC%20CONSTRUCTION%20INC.%22)
+- [Carillion Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Carillion%20Canada%20Inc.%22)
+- [CARILLION CANAD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CARILLION%20CANAD%22)
+- [Dexterra Group Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dexterra%20Group%20Inc.%22)
+- [CARILLION CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CARILLION%20CANADA%20INC.%22)
+- [DEXTERRA GROUP INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20GROUP%20INC.%22)
+- [10647802 CANADA LIMITED o/a DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LIMITED%20o%2fa%20DEXTERRA%22)
+- [Carillion AMBS Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Carillion%20AMBS%20Ltd%22)
+- [10647802 Canada Limited o/a Dexterra](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20Canada%20Limited%20o%2fa%20Dexterra%22)
+- [DEXTERRA INTEGRATED FACILITIES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20INTEGRATED%20FACILITIES%22)
+- [10647802 CANADA LTD a/o DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LTD%20a%2fo%20DEXTERRA%22)
+- [10647802 CANADA LTD o/a DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LTD%20o%2fa%20DEXTERRA%22)
+- [DEXTERRA INTEGRATED FACILITIES MANAGEMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20INTEGRATED%20FACILITIES%20MANAGEMENT%22)
+- [10347802 CANADA LTD O/A DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210347802%20CANADA%20LTD%20O%2fA%20DEXTERRA%22)
+- [10647802 CANADA LTD/ OA DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LTD%2f%20OA%20DEXTERRA%22)
+- [10647802 CANADA LIMITED O/S DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LIMITED%20O%2fS%20DEXTERRA%22)
+- [DEXTERRA GROUP INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20GROUP%20INC%22)
+- [10647802 CANADA LTD O/A DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LTD%20O%2fA%20DEXTERRA%22)
+- [Outland-Carillion](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Outland-Carillion%22)
+- [OUTLAND - CARILLION SERVICE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OUTLAND%20-%20CARILLION%20SERVICE%22)
+- [DEXTERRA iNTEGRATED FACILITIES MANAGEMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20iNTEGRATED%20FACILITIES%20MANAGEMENT%22)
+- [OUTLAND-CARILLION SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OUTLAND-CARILLION%20SERVICES%22)
+- [Dexterra](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dexterra%22)
+- [CARILLION SERVICES LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CARILLION%20SERVICES%20LTD.%22)
+- [DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%22)
+- [DEXTERRA INTEGRATED FACILITIES MANAGMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20INTEGRATED%20FACILITIES%20MANAGMENT%22)
+- [10647802 Canada Limited O/A Dexterra Integrated Facilities Management](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20Canada%20Limited%20O%2fA%20Dexterra%20Integrated%20Facilities%20Management%22)
+- [DEXTERRA CANADA LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20CANADA%20LIMITED%22)
+- [OUTLAND CARILLION SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OUTLAND%20CARILLION%20SERVICES%22)
+- [dexterra](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22dexterra%22)
+- [CARILLION CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CARILLION%20CANADA%22)
+- [OUTLAND CARILLION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OUTLAND%20CARILLION%22)
+- [10647802 CANADA LIMITED O/A DEXTERRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LIMITED%20O%2fA%20DEXTERRA%22)
+- [10647802 CANADA LIMITED O/A DEXTERRA INTEGRATED FACILITIES MANAGEMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20CANADA%20LIMITED%20O%2fA%20DEXTERRA%20INTEGRATED%20FACILITIES%20MANAGEMENT%22)
+- [OUTLAND-CARRILLION SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OUTLAND-CARRILLION%20SERVICES%22)
+- [Outland Carillion](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Outland%20Carillion%22)
+- [WILLIAM LUCAS (CARILLION SERVICES)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WILLIAM%20LUCAS%20%28CARILLION%20SERVICES%29%22)
+- [DEXTERRA INTEGRATED FACEILITIES MANAGEMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DEXTERRA%20INTEGRATED%20FACEILITIES%20MANAGEMENT%22)
+- [OUTLAND CARILLIO SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OUTLAND%20CARILLIO%20SERVICES%22)
+- [10647802 Canada Ltd O/A Dexterra](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%2210647802%20Canada%20Ltd%20O%2fA%20Dexterra%22)
+- [CARRILLION CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CARRILLION%20CANADA%22)
+- [Outland-Carillion Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Outland-Carillion%20Services%22)
+- [detxerra](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22detxerra%22)
+{{< /details >}}
+
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],["$ 25,327,124.98","$    240,338.08",null],["$  5,458,649.17","$    724,986.77",null],["$  3,882,129.75","$  2,847,942.12",null],["$  4,569,098.04","$  2,840,160.85","$      3,316.25"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[25327124.98,240338.08,null],[5458649.17,724986.77,null],[3882129.75,2847942.12,null],[4569098.04,2840160.85,3316.25]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>"],["$ 24,484,199.79","$  1,083,263.27"],["$  2,227,886.11","$  3,955,749.83"],["$  4,183,167.02","$  2,546,904.85"],["$  4,944,416.94","$  2,468,158.21"]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":20,"autoWidth":true,"columnDefs":[],"orderClasses":false,"lengthMenu":[10,20,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>"],[24484199.79,1083263.27],[2227886.11,3955749.83],[4183167.02,2546904.85],[4944416.94,2468158.21]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>

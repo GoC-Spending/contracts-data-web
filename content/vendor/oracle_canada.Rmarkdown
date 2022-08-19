@@ -1,21 +1,30 @@
 ---
 title: ORACLE CANADA
 author: ''
-date: '2022-08-15'
+date: '2022-08-18'
 slug: oracle_canada
 categories: []
 tags: []
 ---
-
-Vendor content here.
-
-## Departments and agencies
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
 
+```
+
+Vendor content here.
+
+`r blogdown::shortcode_html("details", summary = "See original contracts and amendments", panel_body_class="vendor-names-list")`
+```{r, echo=FALSE, results='asis', message=FALSE}
+cat(display_original_vendor_names(current_filename))
+```
+`r blogdown::shortcode_html("/details")`
+
+## Departments and agencies
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 dt_departments_by_fiscal_year_by_vendor(current_filename)
 
 ```

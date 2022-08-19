@@ -101,14 +101,14 @@ generate_all_category_pages <- function() {
 generate_all_pages <- function() {
   # Start time
   run_start_time <- now()
-  paste("Start time:", run_start_time)
+  print(str_c("Start time: ", run_start_time))
   
   generate_all_category_pages()
   generate_all_department_pages()
   generate_all_vendor_pages()
   
   run_end_time <- now()
-  paste("Start time was:", run_start_time)
-  paste("End time was:", run_end_time)
+  print(str_c("Start time was: ", run_start_time))
+  print(str_c("End time was: ", run_end_time))
   
 }

@@ -271,7 +271,8 @@ dt_fiscal_year <- function(data, page_length = 10) {
               options = list(
                 order = list(list(4, 'desc')),
                 pageLength = page_length, 
-                autoWidth = TRUE
+                autoWidth = TRUE,
+                columnDefs = list(list(width = '15%', targets = list(1,2,3,4)))
               ))
 }
 

@@ -263,19 +263,25 @@ exports_round_percentages <- function(input_df) {
 # TODO: Update this to figure out how many columns there are,
 # and sort by the last one (to make it more flexible)
 dt_fiscal_year <- function(data, page_length = 10, dom = NULL) {
+  
+  num_cols <- length(names(data))
+  last_col_dt_index <- num_cols - 1L
+  fiscal_year_cols_dt <- seq(1, last_col_dt_index)
+  fiscal_year_cols <- seq(2, num_cols)
+  
   data %>%
     add_first_column_links() %>%
     datatable(rownames = FALSE,
               style = 'bootstrap',
               escape = c(-1),
               options = list(
-                order = list(list(4, 'desc')),
+                order = list(list(last_col_dt_index, 'desc')),
                 dom = dom,
                 pageLength = page_length, 
                 autoWidth = TRUE,
-                columnDefs = list(list(width = '16%', targets = list(1,2,3,4)))
+                columnDefs = list(list(width = '16%', targets = as.list(fiscal_year_cols_dt)))
               )) %>%
-    formatCurrency(columns = c(2,3,4,5))
+    formatCurrency(columns = fiscal_year_cols)
 }
 
 dt_fiscal_year_categories <- function(data) {

@@ -8,7 +8,7 @@
         </h4>
       </div>
       <div id="collapseOne" class="panel-collapse collapse out" role="tabpanel" aria-labelledby="headingOne">
-        <div class="panel-body">
+        <div class="panel-body {{ .Get "panel_body_class" }}">
             {{ .Inner | markdownify }}
         </div>
       </div>

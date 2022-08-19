@@ -30,7 +30,7 @@ tags: []
 
 Vendor content here.
 
-{{< details summary="See original contracts" >}}
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [IBM CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IBM%20CANADA%20LTD.%22)
 - [IBM Canada Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IBM%20Canada%20Limited%22)
 - [IBM](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IBM%22)

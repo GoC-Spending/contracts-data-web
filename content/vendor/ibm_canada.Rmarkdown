@@ -16,7 +16,7 @@ current_filename <- get_current_filename()
 
 Vendor content here.
 
-`r blogdown::shortcode_html("details", summary = "See original contracts")`
+`r blogdown::shortcode_html("details", summary = "See original contracts and amendments", panel_body_class="vendor-names-list")`
 ```{r, echo=FALSE, results='asis', message=FALSE}
 cat(display_original_vendor_names(current_filename))
 ```

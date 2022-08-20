@@ -28,7 +28,9 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-Department content here.
+{{< entity_summary >}}
+Agriculture and Agri-Food Canada spent an estimated \$125.6M in 2020-2021 on contracts.
+{{< /entity_summary >}}
 
 ## Vendors
 

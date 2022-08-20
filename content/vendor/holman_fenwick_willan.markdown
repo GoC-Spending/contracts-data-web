@@ -29,7 +29,7 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$144.1M in 2020-2021 on HOLMAN FENWICK WILLAN.
+The Government of Canada spent an estimated \$144.1M in 2020-2021 on contracts with HOLMAN FENWICK WILLAN.
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

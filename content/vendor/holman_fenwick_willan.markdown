@@ -28,7 +28,9 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-Vendor content here.
+{{< entity_summary >}}
+The Government of Canada spent an estimated \$144.1M in 2020-2021 on HOLMAN FENWICK WILLAN.
+{{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [HOLMAN FENWICK WILLAN LLP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HOLMAN%20FENWICK%20WILLAN%20LLP%22)

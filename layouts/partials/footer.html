@@ -8,10 +8,21 @@
           </li>
         </ul>
       </footer> -->
-
-      <footer class="footer">
-        <p class="text-muted">Footer links</p>
-      </footer>
+    </div>
+    <div class="footer-container">
+      <div class="container">
+        <footer class="footer">
+          <p class="text-muted">
+            All dollar amounts are estimates. <a href="/methodology/">See methodology</a>
+          </p>
+          <p class="text-muted">
+            Source data retrieved on <b>{{ .Params.date.Format "2006-01-02" }}</b>. Page generated on <b>{{ now.Format "2006-01-02"}}</b>.
+          </p>
+          <p class="text-muted">
+            <a href="https://github.com/goc-Spending/contracts-data-web">View on GitHub</a>
+          </p>
+        </footer>
+      </div>
 
     </div>
     <!-- {{ partial "footer_highlightjs" . }}

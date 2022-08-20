@@ -20,11 +20,6 @@ main h2 {
     margin-top: 40px;
 }
 
-.footer {
-    padding-top: 40px;
-    padding-bottom: 20px;
-}
-
 .overall-nav {
     margin-top: 20px;
 }
@@ -45,4 +40,18 @@ main h2 {
 
 .entity-summary {
     font-size: 20px;
+}
+
+.footer-container {
+    margin-top: 50px;
+    width: 100%;
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    border-style: solid;
+    border-width: 1px 0 0;
+}
+
+.footer {
+    padding-top: 15px;
+    padding-bottom: 5px;
 }

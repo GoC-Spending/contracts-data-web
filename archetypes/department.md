@@ -4,14 +4,21 @@ author: ''
 date: '{{ .Date }}'
 ---
 
-Department content here.
-
-## Vendors
-
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
+entity_type <- "departments"
+
+```
+
+`r blogdown::shortcode_html("entity_summary")`
+`r get_name_from_filename(current_filename, entity_type)` spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on contracts.
+`r blogdown::shortcode_html("/entity_summary")`
+
+## Vendors
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_vendors_by_fiscal_year_by_department(current_filename)
 

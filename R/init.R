@@ -304,10 +304,10 @@ get_department_path <- function(department) {
 
 get_fiscal_year_data_by_entity_and_department <- function(department, entity_type = "vendors") {
   if(entity_type == "vendors") {
-    path <- str_c(get_department_path(department), "summary_total_by_vendor_and_fiscal_year.csv")
+    path <- str_c(get_department_path(department), "summary_by_fiscal_year_by_vendor.csv")
   }
   if(entity_type == "categories") {
-    path <- str_c(get_department_path(department), "summary_total_by_category_and_fiscal_year.csv")
+    path <- str_c(get_department_path(department), "summary_by_fiscal_year_by_category.csv")
   }
   
   data <- read_csv(path) %>%
@@ -347,10 +347,10 @@ get_vendor_path <- function(vendor) {
 
 get_fiscal_year_data_by_entity_and_vendor <- function(vendor, entity_type = "departments") {
   if(entity_type == "departments") {
-    path <- str_c(get_vendor_path(vendor), "summary_by_fiscal_year_and_owner_org.csv")
+    path <- str_c(get_vendor_path(vendor), "summary_by_fiscal_year_by_department.csv")
   }
   if(entity_type == "categories") {
-    path <- str_c(get_vendor_path(vendor), "summary_total_by_fiscal_year_and_category_by_vendor.csv")
+    path <- str_c(get_vendor_path(vendor), "summary_by_fiscal_year_by_category.csv")
   }
   
   data <- read_csv(path) %>%
@@ -408,10 +408,10 @@ get_category_path <- function(category) {
 
 get_fiscal_year_data_by_entity_and_category <- function(category, entity_type = "departments") {
   if(entity_type == "departments") {
-    path <- str_c(get_category_path(category), "summary_total_by_owner_org_and_fiscal_year_by_category.csv")
+    path <- str_c(get_category_path(category), "summary_by_fiscal_year_by_department.csv")
   }
   if(entity_type == "vendors") {
-    path <- str_c(get_category_path(category), "summary_total_by_vendor_and_fiscal_year_by_category.csv")
+    path <- str_c(get_category_path(category), "summary_by_fiscal_year_by_vendor.csv")
   }
   
   data <- read_csv(path) %>%
@@ -450,13 +450,13 @@ get_summary_overall_path <- function(summary_type) {
 
 get_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core", entity_type = "departments") {
   if(entity_type == "departments") {
-    path <- str_c(get_summary_overall_path(summary_type), "summary_overall_by_fiscal_year_by_owner_org.csv")
+    path <- str_c(get_summary_overall_path(summary_type), "summary_by_fiscal_year_by_department.csv")
   }
   if(entity_type == "vendors") {
-    path <- str_c(get_summary_overall_path(summary_type), "summary_overall_by_fiscal_year_by_vendor.csv")
+    path <- str_c(get_summary_overall_path(summary_type), "summary_by_fiscal_year_by_vendor.csv")
   }
   if(entity_type == "categories") {
-    path <- str_c(get_summary_overall_path(summary_type), "summary_overall_by_fiscal_year_by_category.csv")
+    path <- str_c(get_summary_overall_path(summary_type), "summary_by_fiscal_year_by_category.csv")
   }
   
   data <- read_csv(path) %>%

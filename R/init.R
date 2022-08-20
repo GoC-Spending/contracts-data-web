@@ -9,14 +9,19 @@
 # blogdown::build_site(build_rmd = TRUE)
 
 # TODO: Confirm if more tidyverse libraries are needed
+# TODO: Clean up this library section
+# see https://towardsdatascience.com/attach-packages-mindfully-in-r-b9c8151b3fb4
 library(dplyr, mask.ok = list(base = TRUE, stats = TRUE))
 library(tidyr)
 library(readr)
 library(purrr)
+#library(htmltools)
 library(stringr)
 library(DT)
 suppressMessages(library(here))
 library(urltools)
+requireNamespace("scales")
+#library(htmlwidgets)
 library(lubridate, mask.ok = list(base = TRUE))
 
 # print("Init file loaded")
@@ -475,3 +480,57 @@ dt_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core"
   }
   
 }
+
+
+# Subtitle stats functions ======================
+
+# Fancy round to millions or billions
+fancy_round <- function(number) {
+  scales::label_number(accuracy = 0.1, scale_cut = scales::cut_short_scale())(number)
+}
+
+# entity_type should be "categories", "vendors", or "departments"
+get_name_from_filename <- function(entity_filepath, entity_type) {
+  
+  meta_entities <- get_meta_list(entity_type)
+  
+  entity <- meta_entities %>%
+    filter(filepath == !!entity_filepath) %>%
+    pull(name)
+  
+  entity
+  
+}
+
+# entity_type should be "categories", "vendors", "departments", or "overall"
+get_most_recent_fiscal_year_item <- function(entity_filepath, entity_type, column = "total") {
+  file_path = str_c(csv_input_path, entity_type, "/", entity_filepath,"/summary_by_fiscal_year.csv")
+  data <- read_csv(file_path)
+  
+  data %>%
+    arrange(desc(d_fiscal_year)) %>%
+    slice_head(n = 1) %>% 
+    pull(!!column)
+}
+
+get_most_recent_fiscal_year_total <- function(entity_filepath, entity_type, format = TRUE) {
+  data <- get_most_recent_fiscal_year_item(entity_filepath, entity_type, "total")
+  
+  if(format == TRUE) {
+    data %>% 
+      fancy_round()
+  }
+  else {
+    data
+  }
+}
+
+get_most_recent_fiscal_year_year <- function(entity_filepath, entity_type) {
+  data <- get_most_recent_fiscal_year_item(entity_filepath, entity_type, "d_fiscal_year")
+  data
+}
+
+# entity_filepath <- "1x1_architecture"
+# entity_type <- "vendors"
+# get_most_recent_fiscal_year_total(entity_filepath, entity_type)
+# get_most_recent_fiscal_year_year(entity_filepath, entity_type)

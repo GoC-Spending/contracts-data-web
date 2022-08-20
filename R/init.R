@@ -20,7 +20,7 @@ library(stringr)
 library(DT)
 suppressMessages(library(here))
 library(urltools)
-requireNamespace("scales")
+suppressMessages(requireNamespace("scales"))
 #library(htmlwidgets)
 library(lubridate, mask.ok = list(base = TRUE))
 

@@ -8,10 +8,13 @@ date: '{{ .Date }}'
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
+entity_type <- "vendors"
 
 ```
 
-Vendor content here.
+`r blogdown::shortcode_html("entity_summary")`
+The Government of Canada spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on `r get_name_from_filename(current_filename, entity_type)`.
+`r blogdown::shortcode_html("/entity_summary")`
 
 `r blogdown::shortcode_html("details", summary = "See original contracts and amendments", panel_body_class="vendor-names-list")`
 ```{r, echo=FALSE, results='asis', message=FALSE}

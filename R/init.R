@@ -486,7 +486,15 @@ dt_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core"
 
 # Fancy round to millions or billions
 fancy_round <- function(number) {
-  scales::label_number(accuracy = 0.1, scale_cut = scales::cut_short_scale())(number)
+  # Handling for
+  # Error: no applicable method for 'round_any' applied to an object of class "logical"
+  if(is.na(number)) {
+    number
+  }
+  else {
+    scales::label_number(accuracy = 0.1, scale_cut = scales::cut_short_scale())(number)
+  }
+
 }
 
 # entity_type should be "categories", "vendors", or "departments"

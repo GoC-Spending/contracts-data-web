@@ -114,7 +114,7 @@ generate_all_pages <- function() {
   
 }
 
-# Currently takes about 45 minutes
+# Currently takes about 55 minutes
 build_all_pages <- function() {
   run_start_time <- now()
   print(str_c("Start time: ", run_start_time))

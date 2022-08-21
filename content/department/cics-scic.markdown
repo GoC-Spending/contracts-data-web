@@ -1,7 +1,7 @@
 ---
 title: Canadian Intergovernmental Conference Secretariat
 author: ''
-date: '2022-08-18'
+date: '2022-08-20'
 slug: cics-scic
 categories: []
 tags: []
@@ -28,14 +28,22 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-Department content here.
+{{< entity_summary >}}
+Canadian Intergovernmental Conference Secretariat spent an estimated \$157.4K in 2020-2021 on contracts.
+{{< /entity_summary >}}
 
 ## Vendors
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
 <script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/cbci_telecom/\">CBCI TELECOM<\/a>","<a href=\"/vendors/ids_systems_consultants/\">IDS SYSTEMS CONSULTANTS<\/a>","<a href=\"/vendors/iron_mountain/\">IRON MOUNTAIN<\/a>","<a href=\"/vendors/mnp/\">MNP<\/a>","<a href=\"/vendors/nisha_techonologies/\">NISHA TECHONOLOGIES<\/a>","<a href=\"/vendors/pra/\">PRA<\/a>","<a href=\"/vendors/softchoice/\">SOFTCHOICE<\/a>","<a href=\"/vendors/telus_canada/\">TELUS CANADA<\/a>","<a href=\"/vendors/xerox/\">XEROX<\/a>"],[137730.49,null,null,null,null,13673.98,5796.72,17017.8,null],[25494.23,null,null,null,null,4212.08,5796.72,null,25236.3],[12600,24690.5,107824.6,45832.8,100168.35,19676.12,15.88,null,19788.66],[null,24860,null,null,null,null,null,null,4590.01]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/cics-scic/summary_by_fiscal_year_by_vendor.csv" class="source-data-link btn btn-link">View source data</a>
+</p>
 
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
 <script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/10_office_management/\">Office management<\/a>","<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/3_information_technology/\">Information technology<\/a>","<a href=\"/categories/5_transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/7_travel/\">Travel<\/a>","<a href=\"/categories/8_security_and_protection/\">Security and protection<\/a>","<a href=\"/categories/9_human_capital/\">Human capital<\/a>"],[null,37287.74,52549.95,170375.15,null,null,null,null],[167622.94,102978.65,67471.48,59286.95,13745.6,null,null,21424.8],[120572.25,19788.66,332672.91,217547.64,58935.96,44851.86,14487.96,null],[10170,4590.01,46691.6,81359.9,14618.59,null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/cics-scic/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
+</p>

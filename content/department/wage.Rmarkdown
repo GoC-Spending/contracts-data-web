@@ -1,22 +1,30 @@
 ---
 title: Department for Women and Gender Equality
 author: ''
-date: '2022-08-18'
+date: '2022-08-20'
 slug: wage
 categories: []
 tags: []
 ---
 
-Department content here.
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+source("../../R/init.R")
+current_filename <- get_current_filename()
+entity_type <- "departments"
+
+```
+
+`r blogdown::shortcode_html("entity_summary")`
+`r get_name_from_filename(current_filename, entity_type)` spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on contracts.
+`r blogdown::shortcode_html("/entity_summary")`
 
 ## Vendors
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
-source("../../R/init.R")
-current_filename <- get_current_filename()
-
 dt_vendors_by_fiscal_year_by_department(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_vendor.csv")
 
 ```
 
@@ -25,5 +33,6 @@ dt_vendors_by_fiscal_year_by_department(current_filename)
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_categories_by_fiscal_year_by_department(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_category.csv")
 
 ```

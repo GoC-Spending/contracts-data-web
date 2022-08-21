@@ -1,7 +1,7 @@
 ---
 title: KONTZAMANIS GRAUMANN SMITH
 author: ''
-date: '2022-08-18'
+date: '2022-08-20'
 slug: kontzamanis_graumann_smith
 categories: []
 tags: []
@@ -11,10 +11,13 @@ tags: []
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
+entity_type <- "vendors"
 
 ```
 
-Vendor content here.
+`r blogdown::shortcode_html("entity_summary")`
+The Government of Canada spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on contracts with `r get_name_from_filename(current_filename, entity_type)`.
+`r blogdown::shortcode_html("/entity_summary")`
 
 `r blogdown::shortcode_html("details", summary = "See original contracts and amendments", panel_body_class="vendor-names-list")`
 ```{r, echo=FALSE, results='asis', message=FALSE}
@@ -26,6 +29,7 @@ cat(display_original_vendor_names(current_filename))
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 dt_departments_by_fiscal_year_by_vendor(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_department.csv")
 
 ```
 
@@ -34,5 +38,6 @@ dt_departments_by_fiscal_year_by_vendor(current_filename)
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_categories_by_fiscal_year_by_vendor(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_category.csv")
 
 ```

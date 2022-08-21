@@ -96,13 +96,42 @@ generate_all_category_pages <- function() {
 }
 
 
+# If needed, delete the existing dynamically-generated
+# content pages.
+remove_existing_content_folders <- function() {
+
+  content_folder <- here("content/")
+  
+  output_vendor_path <- str_c(content_folder, "vendor")
+  output_department_path <- str_c(content_folder, "department")
+  output_category_path <- str_c(content_folder, "category")
+  
+  if(fs::dir_exists(output_vendor_path)) {
+    fs::dir_delete(output_vendor_path)
+  }
+  if(fs::dir_exists(output_department_path)) {
+    fs::dir_delete(output_department_path)
+  }
+  if(fs::dir_exists(output_category_path)) {
+    fs::dir_delete(output_category_path)
+  }
+
+}
+
 # Regenerate all the things!! ==================
 
 # Currently takes about 3 minutes
-generate_all_pages <- function() {
+# Note: if existing content folders are removed, then the
+# "serve site" function will regenerate all missing .markdown files
+# which is equivalent to the build_all_pages() function below.
+generate_all_pages <- function(remove_existing_folders = FALSE) {
   # Start time
   run_start_time <- now()
   print(str_c("Start time: ", run_start_time))
+  
+  if(remove_existing_folders) {
+    remove_existing_content_folders()
+  }
   
   generate_all_category_pages()
   generate_all_department_pages()

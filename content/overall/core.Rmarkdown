@@ -1,5 +1,5 @@
 ---
-title: Core departments and agencies1
+title: Core departments and agencies
 author: ''
 date: '2022-08-16'
 slug: core
@@ -16,7 +16,7 @@ entity_type <- "overall"
 ```
 
 `r blogdown::shortcode_html("entity_summary")`
-The Government of Canada spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on contracts.
+The Government of Canada spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on contracts across core public service departments and agencies (this excludes the Department of National Defence, commissions, review committees, and Offices of Parliament).
 `r blogdown::shortcode_html("/entity_summary")`
 
 ## Vendors

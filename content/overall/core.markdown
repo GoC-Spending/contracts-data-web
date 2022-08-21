@@ -1,5 +1,5 @@
 ---
-title: Core departments and agencies1
+title: Core departments and agencies
 author: ''
 date: '2022-08-16'
 slug: core
@@ -39,7 +39,7 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$12.9B in 2021-2022 on contracts.
+The Government of Canada spent an estimated \$15.1B in 2021-2022 on contracts across core public service departments and agencies (this excludes the Department of National Defence, commissions, review committees, and Offices of Parliament).
 {{< /entity_summary >}}
 
 ## Vendors

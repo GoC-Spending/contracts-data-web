@@ -38,7 +38,9 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-Overall summary content here.
+{{< entity_summary >}}
+The Department of National Defence spent an estimated \$6.3B in 2021-2022 on contracts. DND contracts for information technology or transportation and logistics are included in the “Defence” category below.
+{{< /entity_summary >}}
 
 ## Vendors
 

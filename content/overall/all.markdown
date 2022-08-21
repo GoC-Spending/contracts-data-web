@@ -38,7 +38,9 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-Overall summary content here.
+{{< entity_summary >}}
+The Government of Canada spent an estimated \$21.6B in 2021-2022 on contracts across all public service departments, agencies, and other federal public sector organizations that proactively disclose contract spending.
+{{< /entity_summary >}}
 
 ## Vendors
 

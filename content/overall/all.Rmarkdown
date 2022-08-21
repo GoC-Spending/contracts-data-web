@@ -7,15 +7,21 @@ categories: []
 tags: []
 ---
 
-Overall summary content here.
-
-## Vendors
-
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
 entity_type <- "overall"
+
+```
+
+`r blogdown::shortcode_html("entity_summary")`
+The Government of Canada spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on contracts across all public service departments, agencies, and other federal public sector organizations that proactively disclose contract spending.
+`r blogdown::shortcode_html("/entity_summary")`
+
+## Vendors
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "vendors")
 a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_vendor.csv")

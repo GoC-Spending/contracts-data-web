@@ -98,6 +98,7 @@ generate_all_category_pages <- function() {
 
 # Regenerate all the things!! ==================
 
+# Currently takes about 3 minutes
 generate_all_pages <- function() {
   # Start time
   run_start_time <- now()
@@ -113,6 +114,7 @@ generate_all_pages <- function() {
   
 }
 
+# Currently takes about 45 minutes
 build_all_pages <- function() {
   run_start_time <- now()
   print(str_c("Start time: ", run_start_time))

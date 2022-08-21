@@ -3,6 +3,10 @@ baseURL: "/"
 languageCode: en-us
 title: Government of Canada Contract Analysis
 
+params:
+  feedbackFormLink: "https://docs.google.com/forms/d/e/1FAIpQLSfHGzAQMaOkj4OD2Kc8Gw4ROChOfx6MKm5t2CSr6R4U2qupBQ/viewform?usp=pp_url&entry.739845506={url}"
+# https://docs.google.com/forms/d/e/1FAIpQLSfHGzAQMaOkj4OD2Kc8Gw4ROChOfx6MKm5t2CSr6R4U2qupBQ/viewform?usp=pp_url&entry.739845506=/departments/ppsc-sppc/
+
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$

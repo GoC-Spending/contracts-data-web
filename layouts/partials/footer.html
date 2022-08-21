@@ -19,6 +19,10 @@
             Source data retrieved on <b>{{ .Params.date.Format "2006-01-02" }}</b>. Page generated on <b>{{ now.Format "2006-01-02"}}</b>.
           </p>
           <p class="text-muted">
+            <!-- Thanks to https://schnerring.net/blog/percent-encoding-with-the-hugo-urlquery-function/ -->
+            {{ $href := $.Site.Params.feedbackFormLink }}
+            {{ $href := replace $href "{url}" (urlquery .RelPermalink) }}
+            <a href="{{ $href | safeURL }}">Send in feedback or suggestions</a>  
             <a href="https://github.com/goc-Spending/contracts-data-web">View on GitHub</a>
           </p>
         </footer>

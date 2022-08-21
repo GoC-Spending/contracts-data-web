@@ -11,27 +11,38 @@
     </div>
     <div class="footer-container">
       <div class="container">
-        <footer class="footer">
-          <p class="text-muted">
-            All dollar amounts are estimates. <a href="/methodology/">See methodology</a>
-          </p>
-          <p class="text-muted">
-            Source data retrieved on <b>{{ .Params.date.Format "2006-01-02" }}</b>. Page generated on <b>{{ now.Format "2006-01-02"}}</b>.
-          </p>
-          <p class="text-muted">
-            <!-- Thanks to https://schnerring.net/blog/percent-encoding-with-the-hugo-urlquery-function/ -->
-            {{ $href := $.Site.Params.feedbackFormLink }}
-            {{ $href := replace $href "{url}" (urlquery .RelPermalink) }}
-            <a href="{{ $href | safeURL }}">Send in feedback or suggestions</a>  
-            <a href="https://github.com/goc-Spending/contracts-data-web">View on GitHub</a>
-          </p>
-        </footer>
+        <div class="row">
+          <div class="col-md-8">
+          <footer class="footer">
+            <p class="text-muted">
+              All dollar amounts are estimates. <a href="/methodology/">See methodology</a>
+            </p>
+            <p class="text-muted">
+              Source data retrieved on <b>{{ .Params.date.Format "2006-01-02" }}</b>. Page generated on <b>{{ now.Format "2006-01-02"}}</b>.
+            </p>
+            <p class="text-muted">
+              <!-- Thanks to https://schnerring.net/blog/percent-encoding-with-the-hugo-urlquery-function/ -->
+              {{ $href := $.Site.Params.feedbackFormLink }}
+              {{ $href := replace $href "{url}" (urlquery .RelPermalink) }}
+              <a href="{{ $href | safeURL }}">Send in feedback or suggestions</a>  
+              <a href="https://github.com/goc-Spending/contracts-data-web">View on GitHub</a>
+            </p>
+          </footer>
+          </div>
+          <div class="col-md-4">
+            <div class="carleton-logo-container">
+              <a href="https://carleton.ca/sppa/"><img src="/img/carleton-sppa-logo-1.png" class="img-responsive" alt="Carleton School of Public Policy and Administration logo"></a>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>
     <!-- {{ partial "footer_highlightjs" . }}
     {{ partial "footer_mathjax" . }}
     {{ template "_internal/google_analytics.html" . }} -->
+
+    <script src="/js/main.js"></script>
 
     {{ if eq .Type "meta" }}
       <!-- Include jQuery since it's not being loaded by the DT package, and Boostrap depends on it -->

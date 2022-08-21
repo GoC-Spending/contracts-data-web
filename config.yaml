@@ -35,8 +35,8 @@ menu:
     - name: Methodology
       url: /methodology/
       weight: 2
-    - name: Data sources
-      url: /data-sources/
+    - name: Data visualizations
+      url: /data-visualizations/
       weight: 3
     - name: About the project
       url: /about/

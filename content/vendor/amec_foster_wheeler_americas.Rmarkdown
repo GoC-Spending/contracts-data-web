@@ -1,7 +1,7 @@
 ---
 title: AMEC FOSTER WHEELER AMERICAS
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: amec_foster_wheeler_americas
 categories: []
 tags: []

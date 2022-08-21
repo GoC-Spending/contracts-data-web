@@ -1,7 +1,7 @@
 ---
 title: NOVA CONSTRUCTION
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: nova_construction
 categories: []
 tags: []

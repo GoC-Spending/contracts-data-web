@@ -1,7 +1,7 @@
 ---
 title: LEC ENGINEERING CONTRACTING
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: lec_engineering_contracting
 categories: []
 tags: []

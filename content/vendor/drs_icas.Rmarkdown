@@ -1,7 +1,7 @@
 ---
 title: DRS ICAS
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: drs_icas
 categories: []
 tags: []

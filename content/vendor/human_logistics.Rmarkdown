@@ -1,7 +1,7 @@
 ---
 title: HUMAN LOGISTICS
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: human_logistics
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: SECURE ENERGY ONSITE SERVICES
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: secure_energy_onsite_services
 categories: []
 tags: []

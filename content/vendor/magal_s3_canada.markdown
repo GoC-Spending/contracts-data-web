@@ -1,7 +1,7 @@
 ---
 title: MAGAL S3 CANADA
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: magal_s3_canada
 categories: []
 tags: []

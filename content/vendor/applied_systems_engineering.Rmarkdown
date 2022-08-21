@@ -1,7 +1,7 @@
 ---
 title: APPLIED SYSTEMS ENGINEERING
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: applied_systems_engineering
 categories: []
 tags: []

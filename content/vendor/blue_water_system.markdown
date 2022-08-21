@@ -1,7 +1,7 @@
 ---
 title: BLUE WATER SYSTEM
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: blue_water_system
 categories: []
 tags: []

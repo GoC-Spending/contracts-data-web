@@ -1,7 +1,7 @@
 ---
 title: FN HERSTAL
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: fn_herstal
 categories: []
 tags: []

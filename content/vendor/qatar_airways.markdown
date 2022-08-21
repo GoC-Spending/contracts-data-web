@@ -1,7 +1,7 @@
 ---
 title: QATAR AIRWAYS
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: qatar_airways
 categories: []
 tags: []

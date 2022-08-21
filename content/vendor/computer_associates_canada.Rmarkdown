@@ -1,7 +1,7 @@
 ---
 title: COMPUTER ASSOCIATES CANADA
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: computer_associates_canada
 categories: []
 tags: []

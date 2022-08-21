@@ -1,7 +1,7 @@
 ---
 title: MTM 2 CONTRACTING
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: mtm_2_contracting
 categories: []
 tags: []

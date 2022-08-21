@@ -1,7 +1,7 @@
 ---
 title: BONDFIELD CONSTRUCTION COMPANY
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: bondfield_construction_company
 categories: []
 tags: []

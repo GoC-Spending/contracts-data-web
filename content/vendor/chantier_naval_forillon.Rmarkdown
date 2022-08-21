@@ -1,7 +1,7 @@
 ---
 title: CHANTIER NAVAL FORILLON
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: chantier_naval_forillon
 categories: []
 tags: []

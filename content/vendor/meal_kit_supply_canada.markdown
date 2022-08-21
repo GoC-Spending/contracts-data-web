@@ -1,7 +1,7 @@
 ---
 title: MEAL KIT SUPPLY CANADA
 author: ''
-date: '2022-08-20'
+date: '2022-08-21'
 slug: meal_kit_supply_canada
 categories: []
 tags: []

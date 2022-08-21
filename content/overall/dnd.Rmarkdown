@@ -15,8 +15,10 @@ Overall summary content here.
 
 source("../../R/init.R")
 current_filename <- get_current_filename()
+entity_type <- "overall"
 
 dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "vendors")
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_vendor.csv")
 
 ```
 
@@ -25,6 +27,7 @@ dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "vendors")
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "categories")
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_category.csv")
 
 ```
 
@@ -33,5 +36,6 @@ dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "categories")
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_fiscal_year_data_by_entity_and_summary_type(current_filename, "departments")
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_department.csv")
 
 ```

@@ -26,6 +26,7 @@ cat(display_original_vendor_names(current_filename))
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 dt_departments_by_fiscal_year_by_vendor(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_department.csv")
 
 ```
 
@@ -34,5 +35,6 @@ dt_departments_by_fiscal_year_by_vendor(current_filename)
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_categories_by_fiscal_year_by_vendor(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_category.csv")
 
 ```

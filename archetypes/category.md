@@ -21,6 +21,7 @@ The Government of Canada spent an estimated $`r get_most_recent_fiscal_year_tota
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_vendors_by_fiscal_year_by_category(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_vendor.csv")
 
 ```
 
@@ -29,5 +30,6 @@ dt_vendors_by_fiscal_year_by_category(current_filename)
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_departments_by_fiscal_year_by_category(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_department.csv")
 
 ```

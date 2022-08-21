@@ -13,7 +13,7 @@
         <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
             {{ range .Site.Menus.main }}
-            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            <li {{ if eq $.RelPermalink .URL }}class="active"{{ end }}><a href="{{ .URL }}">{{ .Name }}</a></li>
             {{ end }}
             <!-- <li><a href="../navbar/">Default</a></li>
             <li class="active"><a href="./">Static top <span class="sr-only">(current)</span></a></li>

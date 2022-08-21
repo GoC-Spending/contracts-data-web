@@ -82,8 +82,21 @@ get_current_filename <- function() {
   return(current_filename)
 }
 
-pivot_by_fiscal_year <- function(df, values_from = "total") {
+pivot_by_fiscal_year <- function(df, values_from = "total", num_of_years = 4) {
   
+  # Before pivoting, limit to the requested number of (most recent) years.
+  years_to_include <- df %>%
+    select(d_fiscal_year) %>%
+    distinct() %>%
+    arrange(d_fiscal_year) %>%
+    slice_tail(n = num_of_years) %>%
+    pull(d_fiscal_year)
+  
+  # Remove earlier entries from the input data
+  df <- df %>%
+    filter(d_fiscal_year %in% years_to_include)
+  
+  # Pivot!
   df <- df %>%
     pivot_wider(names_from = d_fiscal_year, values_from = !!values_from)
   

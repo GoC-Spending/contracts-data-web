@@ -15,7 +15,7 @@ library(dplyr, mask.ok = list(base = TRUE, stats = TRUE))
 library(tidyr)
 library(readr)
 library(purrr)
-#library(htmltools)
+library(htmltools)
 library(stringr)
 library(DT)
 suppressMessages(library(here))
@@ -534,3 +534,14 @@ get_most_recent_fiscal_year_year <- function(entity_filepath, entity_type) {
 # entity_type <- "vendors"
 # get_most_recent_fiscal_year_total(entity_filepath, entity_type)
 # get_most_recent_fiscal_year_year(entity_filepath, entity_type)
+
+# Link generation helpers ===================
+
+a_table_source_data_github <- function(entity_filepath, entity_type, filename, text = "View source data", a_class = "source-data-link btn btn-link", p_class = "text-right") {
+  htmltools::p(class=p_class,
+               htmltools::a(text, href=str_c("https://github.com/GoC-Spending/contracts-data/tree/main/data/out/", entity_type, "/", entity_filepath, "/", filename), class=a_class)
+  )
+}
+
+# filename <- "summary_by_fiscal_year.csv"
+# a_table_source_data_github(entity_filepath, entity_type, filename)

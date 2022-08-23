@@ -24,11 +24,14 @@ library(urltools)
 suppressMessages(requireNamespace("scales"))
 #library(htmlwidgets)
 library(lubridate, mask.ok = list(base = TRUE))
+library(yaml)
 
 # print("Init file loaded")
 
 # Uses here() to handle working directory uncertainties
 csv_input_path <- here("../contracts-data/data/out/")
+parse_run_log_yaml_output_path <- here("data/parse_run_log.yaml")
+build_run_log_yaml_output_path <- here("data/build_run_log.yaml")
 
 
 # Pull in frequently-used "meta" data tables
@@ -556,6 +559,28 @@ get_most_recent_fiscal_year_year <- function(entity_filepath, entity_type) {
 # entity_type <- "vendors"
 # get_most_recent_fiscal_year_total(entity_filepath, entity_type)
 # get_most_recent_fiscal_year_year(entity_filepath, entity_type)
+
+
+# Update the Hugo data file with the latest run log from the main repository
+update_run_yaml <- function() {
+  file_path = str_c(csv_input_path, "run_log.csv")
+  run_log <- read_csv(file_path) %>%
+    filter(!is.na(value)) %>%
+    select(name, value)
+  
+  # Convert to named list, to create an indexed array
+  # in the output YAML file.
+  # Thanks to
+  # https://www.r-bloggers.com/2017/10/how-best-to-convert-a-names-values-tibble-to-a-named-list/
+  run_log <- as.list( setNames( run_log[[2]], run_log[[1]] ) )
+  
+  run_log %>%
+    write_yaml(file = parse_run_log_yaml_output_path, column.major = FALSE)
+  
+  run_log
+}
+
+update_run_yaml()
 
 # Link generation helpers ===================
 

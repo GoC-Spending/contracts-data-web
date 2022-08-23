@@ -11,9 +11,8 @@ source("R/init.R")
 # or
 # generate_all_pages()
 # then run
-# blogdown::build_site(build_rmd = TRUE)
-# or
-# blogdown::build_site(build_rmd = 'newfile')
+# build_all_pages()
+# which also updates the build log YAML file.
 
 # Example manual generator runs
 
@@ -36,6 +35,42 @@ source("R/init.R")
 #   "3_information_technology", 
 #   kind = "category",
 #   file = "category/3_information_technology.Rmarkdown")
+
+# Logging helpers (adapted from the main analysis repository) ====
+
+build_run_log <- tibble_row(
+  time = as.character(now()), 
+  name = "load_helper_scripts", 
+  value = as.character("")
+)
+
+add_log_entry <- function(name, value = "") {
+  input <- tibble_row(
+    time = as.character(now()), 
+    name = as.character(name), 
+    value = as.character(value)
+  )
+  
+  # Thanks to
+  # https://stackoverflow.com/a/32759849/756641
+  build_run_log <<- build_run_log %>%
+    bind_rows(input)
+  
+  input
+}
+
+update_build_log_yaml <- function() {
+  # Uses a global variable for build_run_log_yaml_output_path
+  # set in init.R
+  build_run_log <- build_run_log %>%
+    filter(!is.na(value)) %>%
+    filter(value != "") %>%
+    select(name, value)
+  
+  write_log_to_yaml(build_run_log, build_run_log_yaml_output_path)
+}
+
+
 
 # Generate vendor pages =========================
 
@@ -147,10 +182,17 @@ generate_all_pages <- function(remove_existing_folders = FALSE) {
 build_all_pages <- function() {
   run_start_time <- now()
   print(str_c("Start time: ", run_start_time))
+  add_log_entry("start_time", run_start_time)
+  add_log_entry("build_date", today())
   
   blogdown::build_site(build_rmd = TRUE)
   
   run_end_time <- now()
   print(str_c("Start time was: ", run_start_time))
   print(str_c("End time was: ", run_end_time))
+  add_log_entry("end_time", run_end_time)
+  add_log_entry("build_duration_hours", round(time_length(interval(run_start_time, run_end_time), "hours"), digits = 2))
+  
+  # Write the log to a YAML file
+  update_build_log_yaml()
 }

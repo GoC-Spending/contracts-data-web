@@ -22,7 +22,7 @@
               <br/>
               <b>{{ .Site.Data.parse_run_log.total_csv_entries | lang.FormatNumberCustom 0 }}</b> contract and amendment rows analyzed. Analysis complete in <b>{{ .Site.Data.parse_run_log.run_duration}}</b> hours.
               <br/>
-              Page generated on <b>{{ now.Format "2006-01-02" }}</b>.
+              Page generated on <b>{{ .Site.Data.build_run_log.build_date }}</b>.
             </p>
             <p class="text-muted">
               <!-- Thanks to https://schnerring.net/blog/percent-encoding-with-the-hugo-urlquery-function/ -->

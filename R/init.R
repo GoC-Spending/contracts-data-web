@@ -15,6 +15,7 @@ library(dplyr, mask.ok = list(base = TRUE, stats = TRUE))
 library(tidyr)
 library(readr)
 library(purrr)
+library(tibble)
 suppressMessages(requireNamespace("fs"))
 library(htmltools)
 library(stringr)
@@ -561,12 +562,10 @@ get_most_recent_fiscal_year_year <- function(entity_filepath, entity_type) {
 # get_most_recent_fiscal_year_year(entity_filepath, entity_type)
 
 
-# Update the Hugo data file with the latest run log from the main repository
-update_run_yaml <- function() {
-  file_path = str_c(csv_input_path, "run_log.csv")
-  run_log <- read_csv(file_path) %>%
-    filter(!is.na(value)) %>%
-    select(name, value)
+# YAML helper functions for site-wide data ======
+
+# Write log files (a tibble with name, value columns in that order) to a YAML file
+write_log_to_yaml <- function(run_log, file) {
   
   # Convert to named list, to create an indexed array
   # in the output YAML file.
@@ -575,9 +574,23 @@ update_run_yaml <- function() {
   run_log <- as.list( setNames( run_log[[2]], run_log[[1]] ) )
   
   run_log %>%
-    write_yaml(file = parse_run_log_yaml_output_path, column.major = FALSE)
+    write_yaml(file = file, column.major = FALSE)
   
   run_log
+  
+}
+
+
+# Update the Hugo data file with the latest run log from the main repository
+update_run_yaml <- function() {
+  file_path = str_c(csv_input_path, "run_log.csv")
+  run_log <- read_csv(file_path) %>%
+    filter(!is.na(value)) %>%
+    select(name, value)
+  
+  run_log %>%
+    write_log_to_yaml(parse_run_log_yaml_output_path)
+  
 }
 
 update_run_yaml()

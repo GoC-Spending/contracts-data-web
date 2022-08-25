@@ -1,7 +1,7 @@
 ---
 title: PARKER JOHNSTON INDUSTRIES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: parker_johnston_industries
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$257.7K in 2020-2021 on contracts with PARKER JOHNSTON INDUSTRIES.
+The Government of Canada spent an estimated **\$257.7K in 2020-2021** on contracts with PARKER JOHNSTON INDUSTRIES.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 0 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was NA and the average number of amendments was NA. Cumulatively these amendments represent an increase of \$NA over the original contract values.
+
+The average contract duration was 0.62 years, and the average contract value (not including contracts under \$10k) was \$2.2M. The longest contract was 0.75 years. The largest contract by value (including amendments) was \$3.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: ST AIRBORNE SYSTEMS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: st_airborne_systems
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$9.2M in 2021-2022 on contracts with ST AIRBORNE SYSTEMS.
+The Government of Canada spent an estimated **\$9.2M in 2021-2022** on contracts with ST AIRBORNE SYSTEMS.
+
+Across 13 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 14% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$2.6M over the original contract values.
+
+The average contract duration was 0.24 years, and the average contract value (not including contracts under \$10k) was \$751.3K. The longest contract was 1.7 years. The largest contract by value (including amendments) was \$9.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

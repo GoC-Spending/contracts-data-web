@@ -1,7 +1,7 @@
 ---
 title: THE VCAN GROUP
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: the_vcan_group
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.2M in 2021-2022 on contracts with THE VCAN GROUP.
+The Government of Canada spent an estimated **\$2.2M in 2021-2022** on contracts with THE VCAN GROUP.
+
+Across 41 contracts active since the start of the 2017-2018 fiscal year, 18 have at least one amendment (44%). Of contracts with amendments, the average increase in dollar value was 295% and the average number of amendments was 2.67. Cumulatively these amendments represent an increase of \$9.9M over the original contract values.
+
+The average contract duration was 1.8 years, and the average contract value (not including contracts under \$10k) was \$400.6K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$5.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

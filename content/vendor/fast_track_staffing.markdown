@@ -1,7 +1,7 @@
 ---
 title: FAST TRACK STAFFING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: fast_track_staffing
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.6M in 2021-2022 on contracts with FAST TRACK STAFFING.
+The Government of Canada spent an estimated **\$1.6M in 2021-2022** on contracts with FAST TRACK STAFFING.
+
+Across 195 contracts active since the start of the 2017-2018 fiscal year, 21 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 67% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$298.4K over the original contract values.
+
+The average contract duration was 0.55 years, and the average contract value (not including contracts under \$10k) was \$32.1K. The longest contract was 2.8 years. The largest contract by value (including amendments) was \$111.9K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

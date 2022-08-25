@@ -1,7 +1,7 @@
 ---
 title: SOLUDOC
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: soludoc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.9M in 2021-2022 on contracts with SOLUDOC.
+The Government of Canada spent an estimated **\$2.9M in 2021-2022** on contracts with SOLUDOC.
+
+Across 32 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (41%). Of contracts with amendments, the average increase in dollar value was 223% and the average number of amendments was 2.08. Cumulatively these amendments represent an increase of \$7.1M over the original contract values.
+
+The average contract duration was 1.7 years, and the average contract value (not including contracts under \$10k) was \$746.1K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$3.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

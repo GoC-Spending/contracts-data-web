@@ -1,7 +1,7 @@
 ---
 title: CISTEL TECHNOLOGY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cistel_technology
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$23.8M in 2021-2022 on contracts with CISTEL TECHNOLOGY.
+The Government of Canada spent an estimated **\$23.8M in 2021-2022** on contracts with CISTEL TECHNOLOGY.
+
+Across 242 contracts active since the start of the 2017-2018 fiscal year, 93 have at least one amendment (38%). Of contracts with amendments, the average increase in dollar value was 201% and the average number of amendments was 2.26. Cumulatively these amendments represent an increase of \$74.3M over the original contract values.
+
+The average contract duration was 1.36 years, and the average contract value (not including contracts under \$10k) was \$711.6K. The longest contract was 6.05 years. The largest contract by value (including amendments) was \$32.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

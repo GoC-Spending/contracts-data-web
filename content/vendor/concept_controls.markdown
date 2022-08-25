@@ -1,7 +1,7 @@
 ---
 title: CONCEPT CONTROLS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: concept_controls
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.6M in 2021-2022 on contracts with CONCEPT CONTROLS.
+The Government of Canada spent an estimated **\$2.6M in 2021-2022** on contracts with CONCEPT CONTROLS.
+
+Across 87 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 24% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$839.0K over the original contract values.
+
+The average contract duration was 0.32 years, and the average contract value (not including contracts under \$10k) was \$84.6K. The longest contract was 5.41 years. The largest contract by value (including amendments) was \$2.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

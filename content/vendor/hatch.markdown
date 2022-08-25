@@ -1,7 +1,7 @@
 ---
 title: HATCH
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: hatch
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.4M in 2021-2022 on contracts with HATCH.
+The Government of Canada spent an estimated **\$1.4M in 2021-2022** on contracts with HATCH.
+
+Across 23 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 106% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$4.9M over the original contract values.
+
+The average contract duration was 1.77 years, and the average contract value (not including contracts under \$10k) was \$423.1K. The longest contract was 14.05 years. The largest contract by value (including amendments) was \$6.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

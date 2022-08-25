@@ -1,7 +1,7 @@
 ---
 title: DEW ENGINEERING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: dew_engineering
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$7.8M in 2021-2022 on contracts with DEW ENGINEERING.
+The Government of Canada spent an estimated **\$7.8M in 2021-2022** on contracts with DEW ENGINEERING.
+
+Across 74 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (22%). Of contracts with amendments, the average increase in dollar value was 67% and the average number of amendments was 1.44. Cumulatively these amendments represent an increase of \$13.9M over the original contract values.
+
+The average contract duration was 1.22 years, and the average contract value (not including contracts under \$10k) was \$1.2M. The longest contract was 10.01 years. The largest contract by value (including amendments) was \$24.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

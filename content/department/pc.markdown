@@ -1,7 +1,7 @@
 ---
 title: Parks Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Parks Canada spent an estimated \$335.6M in 2021-2022 on contracts.
+Parks Canada spent an estimated **\$335.6M in 2021-2022** on contracts.
+
+Across 14,430 contracts active since the start of the 2017-2018 fiscal year, 2,302 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 161% and the average number of amendments was 1.75. Cumulatively these amendments represent an increase of \$384.8M over the original contract values.
+
+The average contract duration was 0.67 years, and the average contract value (not including contracts under \$10k) was \$189.3K. The longest contract was 10.93 years. The largest contract by value (including amendments) was \$59.6M.
+
 {{< /entity_summary >}}
 
 ## Vendors

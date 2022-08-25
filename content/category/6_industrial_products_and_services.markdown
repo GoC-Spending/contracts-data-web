@@ -1,7 +1,7 @@
 ---
 title: Industrial products and services
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 6_industrial_products_and_services
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1B in 2021-2022 on industrial products and services contracts.
+The Government of Canada spent an estimated **\$1.1B in 2021-2022** on industrial products and services contracts.
+
+Across 45,861 contracts active since the start of the 2017-2018 fiscal year, 2,500 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 1037% and the average number of amendments was 1.51. Cumulatively these amendments represent an increase of \$1.7B over the original contract values.
+
+The average contract duration was 0.39 years, and the average contract value (not including contracts under \$10k) was \$232.4K. The longest contract was 25.02 years. The largest contract by value (including amendments) was \$2.9B.
+
 {{< /entity_summary >}}
 
 ## Vendors

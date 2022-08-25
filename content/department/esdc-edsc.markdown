@@ -1,7 +1,7 @@
 ---
 title: Employment and Social Development Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: esdc-edsc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Employment and Social Development Canada spent an estimated \$601.1M in 2021-2022 on contracts.
+Employment and Social Development Canada spent an estimated **\$601.1M in 2021-2022** on contracts.
+
+Across 7,136 contracts active since the start of the 2017-2018 fiscal year, 2,325 have at least one amendment (33%). Of contracts with amendments, the average increase in dollar value was 229% and the average number of amendments was 2.05. Cumulatively these amendments represent an increase of \$1.7B over the original contract values.
+
+The average contract duration was 0.96 years, and the average contract value (not including contracts under \$10k) was \$506.8K. The longest contract was 10.01 years. The largest contract by value (including amendments) was \$897.0M.
+
 {{< /entity_summary >}}
 
 ## Vendors

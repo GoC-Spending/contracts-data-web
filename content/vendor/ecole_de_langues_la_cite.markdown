@@ -1,7 +1,7 @@
 ---
 title: ECOLE DE LANGUES LA CITE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ecole_de_langues_la_cite
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.8M in 2021-2022 on contracts with ECOLE DE LANGUES LA CITE.
+The Government of Canada spent an estimated **\$2.8M in 2021-2022** on contracts with ECOLE DE LANGUES LA CITE.
+
+Across 323 contracts active since the start of the 2017-2018 fiscal year, 59 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 97% and the average number of amendments was 1.34. Cumulatively these amendments represent an increase of \$4.0M over the original contract values.
+
+The average contract duration was 0.6 years, and the average contract value (not including contracts under \$10k) was \$49.0K. The longest contract was 4.91 years. The largest contract by value (including amendments) was \$3.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

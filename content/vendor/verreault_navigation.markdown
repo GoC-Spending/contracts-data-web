@@ -1,7 +1,7 @@
 ---
 title: VERREAULT NAVIGATION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: verreault_navigation
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$7.8M in 2020-2021 on contracts with VERREAULT NAVIGATION.
+The Government of Canada spent an estimated **\$7.8M in 2020-2021** on contracts with VERREAULT NAVIGATION.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 32% and the average number of amendments was 2.1. Cumulatively these amendments represent an increase of \$9.7M over the original contract values.
+
+The average contract duration was 0.32 years, and the average contract value (not including contracts under \$10k) was \$3.9M. The longest contract was 0.94 years. The largest contract by value (including amendments) was \$14.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

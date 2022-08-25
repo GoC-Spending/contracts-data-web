@@ -1,7 +1,7 @@
 ---
 title: FORRESTER RESEARCH
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: forrester_research
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.4M in 2021-2022 on contracts with FORRESTER RESEARCH.
+The Government of Canada spent an estimated **\$1.4M in 2021-2022** on contracts with FORRESTER RESEARCH.
+
+Across 79 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 39% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$46.6K over the original contract values.
+
+The average contract duration was 0.8 years, and the average contract value (not including contracts under \$10k) was \$135.4K. The longest contract was 1.67 years. The largest contract by value (including amendments) was \$734.2K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

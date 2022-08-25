@@ -1,7 +1,7 @@
 ---
 title: SOLOTECH
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: solotech
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.4M in 2021-2022 on contracts with SOLOTECH.
+The Government of Canada spent an estimated **\$2.4M in 2021-2022** on contracts with SOLOTECH.
+
+Across 219 contracts active since the start of the 2017-2018 fiscal year, 22 have at least one amendment (10%). Of contracts with amendments, the average increase in dollar value was 51% and the average number of amendments was 1.73. Cumulatively these amendments represent an increase of \$7.9M over the original contract values.
+
+The average contract duration was 0.43 years, and the average contract value (not including contracts under \$10k) was \$159.7K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$11.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

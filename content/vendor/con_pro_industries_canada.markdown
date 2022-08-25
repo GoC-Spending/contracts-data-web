@@ -1,7 +1,7 @@
 ---
 title: CON PRO INDUSTRIES CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: con_pro_industries_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$10.5M in 2021-2022 on contracts with CON PRO INDUSTRIES CANADA.
+The Government of Canada spent an estimated **\$10.5M in 2021-2022** on contracts with CON PRO INDUSTRIES CANADA.
+
+Across 15 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (73%). Of contracts with amendments, the average increase in dollar value was 22% and the average number of amendments was 3.45. Cumulatively these amendments represent an increase of \$4.3M over the original contract values.
+
+The average contract duration was 1.28 years, and the average contract value (not including contracts under \$10k) was \$2.7M. The longest contract was 4.49 years. The largest contract by value (including amendments) was \$18.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

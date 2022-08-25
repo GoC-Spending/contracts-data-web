@@ -1,7 +1,7 @@
 ---
 title: ELLISDON
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ellisdon
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$115.8M in 2021-2022 on contracts with ELLISDON.
+The Government of Canada spent an estimated **\$115.8M in 2021-2022** on contracts with ELLISDON.
+
+Across 26 contracts active since the start of the 2017-2018 fiscal year, 17 have at least one amendment (65%). Of contracts with amendments, the average increase in dollar value was 6523% and the average number of amendments was 4.41. Cumulatively these amendments represent an increase of \$546.7M over the original contract values.
+
+The average contract duration was 2.73 years, and the average contract value (not including contracts under \$10k) was \$31.6M. The longest contract was 9.83 years. The largest contract by value (including amendments) was \$314.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

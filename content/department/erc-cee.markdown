@@ -1,7 +1,7 @@
 ---
 title: RCMP External Review Committee
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: erc-cee
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-RCMP External Review Committee spent an estimated \$149.3K in 2021-2022 on contracts.
+RCMP External Review Committee spent an estimated **\$149.3K in 2021-2022** on contracts.
+
+Across 12 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 39% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$17.5K over the original contract values.
+
+The average contract duration was 0.75 years, and the average contract value (not including contracts under \$10k) was \$43.4K. The longest contract was 1.73 years. The largest contract by value (including amendments) was \$96.3K.
+
 {{< /entity_summary >}}
 
 ## Vendors

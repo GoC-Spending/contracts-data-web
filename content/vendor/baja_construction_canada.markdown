@@ -1,7 +1,7 @@
 ---
 title: BAJA CONSTRUCTION CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: baja_construction_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.2M in 2021-2022 on contracts with BAJA CONSTRUCTION CANADA.
+The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with BAJA CONSTRUCTION CANADA.
+
+Across 13 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (38%). Of contracts with amendments, the average increase in dollar value was 6% and the average number of amendments was 1.2. Cumulatively these amendments represent an increase of \$160.0K over the original contract values.
+
+The average contract duration was 0.68 years, and the average contract value (not including contracts under \$10k) was \$513.1K. The longest contract was 2.48 years. The largest contract by value (including amendments) was \$3.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

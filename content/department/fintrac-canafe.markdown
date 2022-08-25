@@ -1,7 +1,7 @@
 ---
 title: Financial Transactions and Reports Analysis Centre of Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: fintrac-canafe
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Financial Transactions and Reports Analysis Centre of Canada spent an estimated \$693.1K in 2021-2022 on contracts.
+Financial Transactions and Reports Analysis Centre of Canada spent an estimated **\$693.1K in 2021-2022** on contracts.
+
+Across 155 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (10%). Of contracts with amendments, the average increase in dollar value was 72% and the average number of amendments was 1.19. Cumulatively these amendments represent an increase of \$172.5K over the original contract values.
+
+The average contract duration was 0.97 years, and the average contract value (not including contracts under \$10k) was \$58.6K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$678.0K.
+
 {{< /entity_summary >}}
 
 ## Vendors

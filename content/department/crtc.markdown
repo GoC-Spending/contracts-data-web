@@ -1,7 +1,7 @@
 ---
 title: Canadian Radio-television and Telecommunications Commission
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: crtc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Canadian Radio-television and Telecommunications Commission spent an estimated \$9.1M in 2021-2022 on contracts.
+Canadian Radio-television and Telecommunications Commission spent an estimated **\$9.1M in 2021-2022** on contracts.
+
+Across 473 contracts active since the start of the 2017-2018 fiscal year, 32 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 92% and the average number of amendments was 1.09. Cumulatively these amendments represent an increase of \$5.8M over the original contract values.
+
+The average contract duration was 0.91 years, and the average contract value (not including contracts under \$10k) was \$119.3K. The longest contract was 6.67 years. The largest contract by value (including amendments) was \$2.0M.
+
 {{< /entity_summary >}}
 
 ## Vendors

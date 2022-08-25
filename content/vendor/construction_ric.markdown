@@ -1,7 +1,7 @@
 ---
 title: CONSTRUCTION RIC
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: construction_ric
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.9M in 2018-2019 on contracts with CONSTRUCTION RIC.
+The Government of Canada spent an estimated **\$2.9M in 2018-2019** on contracts with CONSTRUCTION RIC.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 16% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$1.0M over the original contract values.
+
+The average contract duration was 2.53 years, and the average contract value (not including contracts under \$10k) was \$7.3M. The longest contract was 2.53 years. The largest contract by value (including amendments) was \$7.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

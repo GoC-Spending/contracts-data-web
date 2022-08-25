@@ -1,7 +1,7 @@
 ---
 title: DR MANDEEP SAINI
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: dr_mandeep_saini
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$501.8K in 2021-2022 on contracts with DR MANDEEP SAINI.
+The Government of Canada spent an estimated **\$501.8K in 2021-2022** on contracts with DR MANDEEP SAINI.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 167% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$2.5M over the original contract values.
+
+The average contract duration was 3 years, and the average contract value (not including contracts under \$10k) was \$2.7M. The longest contract was 6.01 years. The largest contract by value (including amendments) was \$4.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

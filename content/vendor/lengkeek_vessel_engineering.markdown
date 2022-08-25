@@ -1,7 +1,7 @@
 ---
 title: LENGKEEK VESSEL ENGINEERING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: lengkeek_vessel_engineering
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.1M in 2021-2022 on contracts with LENGKEEK VESSEL ENGINEERING.
+The Government of Canada spent an estimated **\$2.1M in 2021-2022** on contracts with LENGKEEK VESSEL ENGINEERING.
+
+Across 57 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 53% and the average number of amendments was 3.67. Cumulatively these amendments represent an increase of \$1.0M over the original contract values.
+
+The average contract duration was 0.56 years, and the average contract value (not including contracts under \$10k) was \$148.3K. The longest contract was 2.85 years. The largest contract by value (including amendments) was \$4.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

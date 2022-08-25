@@ -1,7 +1,7 @@
 ---
 title: UNITED STATES DEPARTMENT OF THE AIR FORCE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: united_states_department_of_the_air_force
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$28.7M in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF THE AIR FORCE.
+The Government of Canada spent an estimated **\$28.7M in 2021-2022** on contracts with UNITED STATES DEPARTMENT OF THE AIR FORCE.
+
+Across 36 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 26893% and the average number of amendments was 5.43. Cumulatively these amendments represent an increase of \$28.5M over the original contract values.
+
+The average contract duration was 6.78 years, and the average contract value (not including contracts under \$10k) was \$5.6M. The longest contract was 16.41 years. The largest contract by value (including amendments) was \$68.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

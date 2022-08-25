@@ -1,7 +1,7 @@
 ---
 title: TELESAT
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: telesat
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$23.5M in 2021-2022 on contracts with TELESAT.
+The Government of Canada spent an estimated **\$23.5M in 2021-2022** on contracts with TELESAT.
+
+Across 55 contracts active since the start of the 2017-2018 fiscal year, 24 have at least one amendment (44%). Of contracts with amendments, the average increase in dollar value was 1006% and the average number of amendments was 3.88. Cumulatively these amendments represent an increase of \$190.8M over the original contract values.
+
+The average contract duration was 2.78 years, and the average contract value (not including contracts under \$10k) was \$4.7M. The longest contract was 11.22 years. The largest contract by value (including amendments) was \$40.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

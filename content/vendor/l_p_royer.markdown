@@ -1,7 +1,7 @@
 ---
 title: L P ROYER
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: l_p_royer
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.2M in 2021-2022 on contracts with L P ROYER.
+The Government of Canada spent an estimated **\$4.2M in 2021-2022** on contracts with L P ROYER.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 38% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$1.8M over the original contract values.
+
+The average contract duration was 3.19 years, and the average contract value (not including contracts under \$10k) was \$2.2M. The longest contract was 6.02 years. The largest contract by value (including amendments) was \$7.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

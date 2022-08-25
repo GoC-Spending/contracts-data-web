@@ -1,7 +1,7 @@
 ---
 title: PRICEWATERHOUSE COOPERS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pricewaterhouse_coopers
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$114.4M in 2021-2022 on contracts with PRICEWATERHOUSE COOPERS.
+The Government of Canada spent an estimated **\$114.4M in 2021-2022** on contracts with PRICEWATERHOUSE COOPERS.
+
+Across 799 contracts active since the start of the 2017-2018 fiscal year, 381 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 227% and the average number of amendments was 2.12. Cumulatively these amendments represent an increase of \$241.0M over the original contract values.
+
+The average contract duration was 1.12 years, and the average contract value (not including contracts under \$10k) was \$697.2K. The longest contract was 10.76 years. The largest contract by value (including amendments) was \$26.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

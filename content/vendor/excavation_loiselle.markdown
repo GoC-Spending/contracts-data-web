@@ -1,7 +1,7 @@
 ---
 title: EXCAVATION LOISELLE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: excavation_loiselle
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1M in 2019-2020 on contracts with EXCAVATION LOISELLE.
+The Government of Canada spent an estimated **\$1.1M in 2019-2020** on contracts with EXCAVATION LOISELLE.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (40%). Of contracts with amendments, the average increase in dollar value was 11% and the average number of amendments was 4.5. Cumulatively these amendments represent an increase of \$1.0M over the original contract values.
+
+The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$2.5M. The longest contract was 1.71 years. The largest contract by value (including amendments) was \$6.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

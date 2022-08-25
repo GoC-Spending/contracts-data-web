@@ -1,7 +1,7 @@
 ---
 title: MEAL KIT SUPPLY CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: meal_kit_supply_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$13.4K in 2019-2020 on contracts with MEAL KIT SUPPLY CANADA.
+The Government of Canada spent an estimated **\$13.4K in 2019-2020** on contracts with MEAL KIT SUPPLY CANADA.
+
+Across 8 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was 242% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$3.9M over the original contract values.
+
+The average contract duration was 1.13 years, and the average contract value (not including contracts under \$10k) was \$1.8M. The longest contract was 4.46 years. The largest contract by value (including amendments) was \$7.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

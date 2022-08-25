@@ -1,7 +1,7 @@
 ---
 title: ELIZABETH FRY SOCIETY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: elizabeth_fry_society
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.3M in 2021-2022 on contracts with ELIZABETH FRY SOCIETY.
+The Government of Canada spent an estimated **\$1.3M in 2021-2022** on contracts with ELIZABETH FRY SOCIETY.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (57%). Of contracts with amendments, the average increase in dollar value was 449% and the average number of amendments was 3.75. Cumulatively these amendments represent an increase of \$6.9M over the original contract values.
+
+The average contract duration was 3.05 years, and the average contract value (not including contracts under \$10k) was \$1.3M. The longest contract was 7 years. The largest contract by value (including amendments) was \$5.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: RANDSTAD
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: randstad
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$42.2M in 2021-2022 on contracts with RANDSTAD.
+The Government of Canada spent an estimated **\$42.2M in 2021-2022** on contracts with RANDSTAD.
+
+Across 693 contracts active since the start of the 2017-2018 fiscal year, 448 have at least one amendment (65%). Of contracts with amendments, the average increase in dollar value was 383900% and the average number of amendments was 2.13. Cumulatively these amendments represent an increase of \$69.4M over the original contract values.
+
+The average contract duration was 1.3 years, and the average contract value (not including contracts under \$10k) was \$335.2K. The longest contract was 7.77 years. The largest contract by value (including amendments) was \$12.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

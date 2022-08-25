@@ -1,7 +1,7 @@
 ---
 title: Indigenous Services Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: isc-sac
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Indigenous Services Canada spent an estimated \$112.1M in 2021-2022 on contracts.
+Indigenous Services Canada spent an estimated **\$112.1M in 2021-2022** on contracts.
+
+Across 3,209 contracts active since the start of the 2017-2018 fiscal year, 454 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 91% and the average number of amendments was 1.31. Cumulatively these amendments represent an increase of \$51.4M over the original contract values.
+
+The average contract duration was 0.94 years, and the average contract value (not including contracts under \$10k) was \$224.2K. The longest contract was 12.25 years. The largest contract by value (including amendments) was \$260.0M.
+
 {{< /entity_summary >}}
 
 ## Vendors

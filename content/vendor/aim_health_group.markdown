@@ -1,7 +1,7 @@
 ---
 title: AIM HEALTH GROUP
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: aim_health_group
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.9M in 2021-2022 on contracts with AIM HEALTH GROUP.
+The Government of Canada spent an estimated **\$2.9M in 2021-2022** on contracts with AIM HEALTH GROUP.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (60%). Of contracts with amendments, the average increase in dollar value was 180% and the average number of amendments was 2.17. Cumulatively these amendments represent an increase of \$13.0M over the original contract values.
+
+The average contract duration was 2.25 years, and the average contract value (not including contracts under \$10k) was \$2.0M. The longest contract was 6.26 years. The largest contract by value (including amendments) was \$13.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: Patented Medicine Prices Review Board Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pmprb-cepmb
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Patented Medicine Prices Review Board Canada spent an estimated \$2.7M in 2021-2022 on contracts.
+Patented Medicine Prices Review Board Canada spent an estimated **\$2.7M in 2021-2022** on contracts.
+
+Across 145 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 83% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$433.4K over the original contract values.
+
+The average contract duration was 1.45 years, and the average contract value (not including contracts under \$10k) was \$136.3K. The longest contract was 5.1 years. The largest contract by value (including amendments) was \$1.8M.
+
 {{< /entity_summary >}}
 
 ## Vendors

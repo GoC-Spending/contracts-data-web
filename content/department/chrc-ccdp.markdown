@@ -1,7 +1,7 @@
 ---
 title: Canadian Human Rights Commission
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: chrc-ccdp
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Canadian Human Rights Commission spent an estimated \$5.4M in 2021-2022 on contracts.
+Canadian Human Rights Commission spent an estimated **\$5.4M in 2021-2022** on contracts.
+
+Across 406 contracts active since the start of the 2017-2018 fiscal year, 51 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 153% and the average number of amendments was 1.16. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
+
+The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$46.0K. The longest contract was 7.16 years. The largest contract by value (including amendments) was \$479.0K.
+
 {{< /entity_summary >}}
 
 ## Vendors

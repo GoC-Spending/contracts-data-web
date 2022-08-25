@@ -1,7 +1,7 @@
 ---
 title: MUNICIPAL READY MIX
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: municipal_ready_mix
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$375.3K in 2021-2022 on contracts with MUNICIPAL READY MIX.
+The Government of Canada spent an estimated **\$375.3K in 2021-2022** on contracts with MUNICIPAL READY MIX.
+
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 10% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$1.4M over the original contract values.
+
+The average contract duration was 0.49 years, and the average contract value (not including contracts under \$10k) was \$708.5K. The longest contract was 2.33 years. The largest contract by value (including amendments) was \$8.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

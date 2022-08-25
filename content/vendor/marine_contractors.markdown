@@ -1,7 +1,7 @@
 ---
 title: MARINE CONTRACTORS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: marine_contractors
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$51.1K in 2020-2021 on contracts with MARINE CONTRACTORS.
+The Government of Canada spent an estimated **\$51.1K in 2020-2021** on contracts with MARINE CONTRACTORS.
+
+Across 11 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (64%). Of contracts with amendments, the average increase in dollar value was -13% and the average number of amendments was 1.43. Cumulatively these amendments represent an increase of \$18.6K over the original contract values.
+
+The average contract duration was 0.4 years, and the average contract value (not including contracts under \$10k) was \$1.2M. The longest contract was 0.95 years. The largest contract by value (including amendments) was \$8.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

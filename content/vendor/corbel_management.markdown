@@ -1,7 +1,7 @@
 ---
 title: CORBEL MANAGEMENT
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: corbel_management
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$15.1M in 2021-2022 on contracts with CORBEL MANAGEMENT.
+The Government of Canada spent an estimated **\$15.1M in 2021-2022** on contracts with CORBEL MANAGEMENT.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (60%). Of contracts with amendments, the average increase in dollar value was 193% and the average number of amendments was 1.67. Cumulatively these amendments represent an increase of \$7.8M over the original contract values.
+
+The average contract duration was 3.75 years, and the average contract value (not including contracts under \$10k) was \$28.1M. The longest contract was 10.01 years. The largest contract by value (including amendments) was \$99.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

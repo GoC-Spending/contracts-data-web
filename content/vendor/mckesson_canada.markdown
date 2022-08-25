@@ -1,7 +1,7 @@
 ---
 title: MCKESSON CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: mckesson_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$30.4M in 2021-2022 on contracts with MCKESSON CANADA.
+The Government of Canada spent an estimated **\$30.4M in 2021-2022** on contracts with MCKESSON CANADA.
+
+Across 3,516 contracts active since the start of the 2017-2018 fiscal year, 25 have at least one amendment (1%). Of contracts with amendments, the average increase in dollar value was 12% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-143.9K over the original contract values.
+
+The average contract duration was 0.05 years, and the average contract value (not including contracts under \$10k) was \$58.3K. The longest contract was 0.98 years. The largest contract by value (including amendments) was \$439.6K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

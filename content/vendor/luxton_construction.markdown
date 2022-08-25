@@ -1,7 +1,7 @@
 ---
 title: LUXTON CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: luxton_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.3M in 2021-2022 on contracts with LUXTON CONSTRUCTION.
+The Government of Canada spent an estimated **\$4.3M in 2021-2022** on contracts with LUXTON CONSTRUCTION.
+
+Across 23 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 11% and the average number of amendments was 1.64. Cumulatively these amendments represent an increase of \$714.0K over the original contract values.
+
+The average contract duration was 0.83 years, and the average contract value (not including contracts under \$10k) was \$607.7K. The longest contract was 2.14 years. The largest contract by value (including amendments) was \$2.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

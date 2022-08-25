@@ -1,7 +1,7 @@
 ---
 title: MORRISON HERSHFIELD
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: morrison_hershfield
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.5M in 2021-2022 on contracts with MORRISON HERSHFIELD.
+The Government of Canada spent an estimated **\$2.5M in 2021-2022** on contracts with MORRISON HERSHFIELD.
+
+Across 96 contracts active since the start of the 2017-2018 fiscal year, 23 have at least one amendment (24%). Of contracts with amendments, the average increase in dollar value was 114% and the average number of amendments was 1.3. Cumulatively these amendments represent an increase of \$3.5M over the original contract values.
+
+The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$110.0K. The longest contract was 6.56 years. The largest contract by value (including amendments) was \$3.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

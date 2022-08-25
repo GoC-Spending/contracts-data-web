@@ -1,7 +1,7 @@
 ---
 title: Administrative Tribunals Support Service of Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: atssc-scdata
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Administrative Tribunals Support Service of Canada spent an estimated \$11.5M in 2021-2022 on contracts.
+Administrative Tribunals Support Service of Canada spent an estimated **\$11.5M in 2021-2022** on contracts.
+
+Across 530 contracts active since the start of the 2017-2018 fiscal year, 147 have at least one amendment (28%). Of contracts with amendments, the average increase in dollar value was 152% and the average number of amendments was 1.95. Cumulatively these amendments represent an increase of \$19.3M over the original contract values.
+
+The average contract duration was 1.01 years, and the average contract value (not including contracts under \$10k) was \$115.5K. The longest contract was 7.04 years. The largest contract by value (including amendments) was \$3.3M.
+
 {{< /entity_summary >}}
 
 ## Vendors

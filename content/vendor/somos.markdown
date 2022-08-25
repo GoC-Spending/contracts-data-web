@@ -1,7 +1,7 @@
 ---
 title: SOMOS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: somos
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.9M in 2020-2021 on contracts with SOMOS.
+The Government of Canada spent an estimated **\$4.9M in 2020-2021** on contracts with SOMOS.
+
+Across 46 contracts active since the start of the 2017-2018 fiscal year, 20 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 163% and the average number of amendments was 1.35. Cumulatively these amendments represent an increase of \$8.5M over the original contract values.
+
+The average contract duration was 0.71 years, and the average contract value (not including contracts under \$10k) was \$723.9K. The longest contract was 4.71 years. The largest contract by value (including amendments) was \$11.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: IMPERIAL OIL
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: imperial_oil
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$47.8M in 2021-2022 on contracts with IMPERIAL OIL.
+The Government of Canada spent an estimated **\$47.8M in 2021-2022** on contracts with IMPERIAL OIL.
+
+Across 1,453 contracts active since the start of the 2017-2018 fiscal year, 72 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 256% and the average number of amendments was 1.46. Cumulatively these amendments represent an increase of \$1.6M over the original contract values.
+
+The average contract duration was 0.19 years, and the average contract value (not including contracts under \$10k) was \$118.1K. The longest contract was 5.53 years. The largest contract by value (including amendments) was \$2.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

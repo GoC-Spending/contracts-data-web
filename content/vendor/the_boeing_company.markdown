@@ -1,7 +1,7 @@
 ---
 title: THE BOEING COMPANY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: the_boeing_company
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$892.8K in 2019-2020 on contracts with THE BOEING COMPANY.
+The Government of Canada spent an estimated **\$892.8K in 2019-2020** on contracts with THE BOEING COMPANY.
+
+Across 3 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (67%). Of contracts with amendments, the average increase in dollar value was 50% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$533.6K over the original contract values.
+
+The average contract duration was 4.9 years, and the average contract value (not including contracts under \$10k) was \$139.8M. The longest contract was 9.01 years. The largest contract by value (including amendments) was \$416.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

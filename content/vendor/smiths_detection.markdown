@@ -1,7 +1,7 @@
 ---
 title: SMITHS DETECTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: smiths_detection
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.5M in 2021-2022 on contracts with SMITHS DETECTION.
+The Government of Canada spent an estimated **\$6.5M in 2021-2022** on contracts with SMITHS DETECTION.
+
+Across 137 contracts active since the start of the 2017-2018 fiscal year, 29 have at least one amendment (21%). Of contracts with amendments, the average increase in dollar value was 880% and the average number of amendments was 2.34. Cumulatively these amendments represent an increase of \$34.6M over the original contract values.
+
+The average contract duration was 0.82 years, and the average contract value (not including contracts under \$10k) was \$505.5K. The longest contract was 10.91 years. The largest contract by value (including amendments) was \$27.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

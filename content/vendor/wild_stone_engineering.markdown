@@ -1,7 +1,7 @@
 ---
 title: WILD STONE ENGINEERING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: wild_stone_engineering
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.7M in 2018-2019 on contracts with WILD STONE ENGINEERING.
+The Government of Canada spent an estimated **\$4.7M in 2018-2019** on contracts with WILD STONE ENGINEERING.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 14% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$693.4K over the original contract values.
+
+The average contract duration was 1.16 years, and the average contract value (not including contracts under \$10k) was \$3.5M. The longest contract was 1.94 years. The largest contract by value (including amendments) was \$6.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

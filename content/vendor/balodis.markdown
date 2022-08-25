@@ -1,7 +1,7 @@
 ---
 title: BALODIS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: balodis
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1M in 2021-2022 on contracts with BALODIS.
+The Government of Canada spent an estimated **\$1.1M in 2021-2022** on contracts with BALODIS.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was -33% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-123.8K over the original contract values.
+
+The average contract duration was 0.42 years, and the average contract value (not including contracts under \$10k) was \$612.3K. The longest contract was 0.92 years. The largest contract by value (including amendments) was \$3.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

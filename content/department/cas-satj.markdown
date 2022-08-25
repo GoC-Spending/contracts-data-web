@@ -1,7 +1,7 @@
 ---
 title: Courts Administration Service
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cas-satj
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Courts Administration Service spent an estimated \$22.1M in 2021-2022 on contracts.
+Courts Administration Service spent an estimated **\$22.1M in 2021-2022** on contracts.
+
+Across 1,196 contracts active since the start of the 2017-2018 fiscal year, 145 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 103% and the average number of amendments was 1.34. Cumulatively these amendments represent an increase of \$11.5M over the original contract values.
+
+The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$84.8K. The longest contract was 9.72 years. The largest contract by value (including amendments) was \$1.8M.
+
 {{< /entity_summary >}}
 
 ## Vendors

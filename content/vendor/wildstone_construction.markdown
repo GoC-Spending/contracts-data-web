@@ -1,7 +1,7 @@
 ---
 title: WILDSTONE CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: wildstone_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$9.0M in 2021-2022 on contracts with WILDSTONE CONSTRUCTION.
+The Government of Canada spent an estimated **\$9.0M in 2021-2022** on contracts with WILDSTONE CONSTRUCTION.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (70%). Of contracts with amendments, the average increase in dollar value was 14% and the average number of amendments was 2.57. Cumulatively these amendments represent an increase of \$3.6M over the original contract values.
+
+The average contract duration was 1.73 years, and the average contract value (not including contracts under \$10k) was \$5.0M. The longest contract was 4.36 years. The largest contract by value (including amendments) was \$15.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: SOCIETE ELIZABETH FRY DU QUEBEC
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: societe_elizabeth_fry_du_quebec
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.2M in 2021-2022 on contracts with SOCIETE ELIZABETH FRY DU QUEBEC.
+The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with SOCIETE ELIZABETH FRY DU QUEBEC.
+
+Across 3 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 384% and the average number of amendments was 4.33. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
+
+The average contract duration was 4.06 years, and the average contract value (not including contracts under \$10k) was \$2.8M. The longest contract was 5.25 years. The largest contract by value (including amendments) was \$5.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: ULTIMATE CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ultimate_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$55.2K in 2021-2022 on contracts with ULTIMATE CONSTRUCTION.
+The Government of Canada spent an estimated **\$55.2K in 2021-2022** on contracts with ULTIMATE CONSTRUCTION.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (60%). Of contracts with amendments, the average increase in dollar value was 13% and the average number of amendments was 3.5. Cumulatively these amendments represent an increase of \$-339.6K over the original contract values.
+
+The average contract duration was 0.83 years, and the average contract value (not including contracts under \$10k) was \$616.6K. The longest contract was 1.79 years. The largest contract by value (including amendments) was \$2.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

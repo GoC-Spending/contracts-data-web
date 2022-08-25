@@ -1,7 +1,7 @@
 ---
 title: GLOBAL TOTAL OFFICE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: global_total_office
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.3M in 2021-2022 on contracts with GLOBAL TOTAL OFFICE.
+The Government of Canada spent an estimated **\$1.3M in 2021-2022** on contracts with GLOBAL TOTAL OFFICE.
+
+Across 121 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 73% and the average number of amendments was 2.33. Cumulatively these amendments represent an increase of \$2.2M over the original contract values.
+
+The average contract duration was 0.46 years, and the average contract value (not including contracts under \$10k) was \$69.7K. The longest contract was 3.42 years. The largest contract by value (including amendments) was \$3.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

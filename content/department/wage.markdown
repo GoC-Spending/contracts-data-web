@@ -1,7 +1,7 @@
 ---
 title: Department for Women and Gender Equality
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: wage
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Department for Women and Gender Equality spent an estimated \$9.9M in 2021-2022 on contracts.
+Department for Women and Gender Equality spent an estimated **\$9.9M in 2021-2022** on contracts.
+
+Across 424 contracts active since the start of the 2017-2018 fiscal year, 34 have at least one amendment (8%). Of contracts with amendments, the average increase in dollar value was 171% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$2.4M over the original contract values.
+
+The average contract duration was 0.68 years, and the average contract value (not including contracts under \$10k) was \$64.4K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$1.3M.
+
 {{< /entity_summary >}}
 
 ## Vendors

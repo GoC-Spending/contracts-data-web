@@ -1,7 +1,7 @@
 ---
 title: ALBERTA SEVENTH STEP SOCIETY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: alberta_seventh_step_society
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.3M in 2021-2022 on contracts with ALBERTA SEVENTH STEP SOCIETY.
+The Government of Canada spent an estimated **\$1.3M in 2021-2022** on contracts with ALBERTA SEVENTH STEP SOCIETY.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 317% and the average number of amendments was 5.5. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
+
+The average contract duration was 3.5 years, and the average contract value (not including contracts under \$10k) was \$4.4M. The longest contract was 4 years. The largest contract by value (including amendments) was \$5.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: NISHA TECHONOLOGIES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: nisha_techonologies
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$20.9M in 2021-2022 on contracts with NISHA TECHONOLOGIES.
+The Government of Canada spent an estimated **\$20.9M in 2021-2022** on contracts with NISHA TECHONOLOGIES.
+
+Across 2,006 contracts active since the start of the 2017-2018 fiscal year, 88 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 1357% and the average number of amendments was 1.89. Cumulatively these amendments represent an increase of \$62.7M over the original contract values.
+
+The average contract duration was 0.33 years, and the average contract value (not including contracts under \$10k) was \$165.4K. The longest contract was 6.31 years. The largest contract by value (including amendments) was \$22.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

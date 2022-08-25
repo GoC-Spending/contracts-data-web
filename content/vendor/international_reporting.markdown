@@ -1,7 +1,7 @@
 ---
 title: INTERNATIONAL REPORTING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: international_reporting
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1M in 2021-2022 on contracts with INTERNATIONAL REPORTING.
+The Government of Canada spent an estimated **\$1.1M in 2021-2022** on contracts with INTERNATIONAL REPORTING.
+
+Across 63 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (21%). Of contracts with amendments, the average increase in dollar value was 19% and the average number of amendments was 1.08. Cumulatively these amendments represent an increase of \$583.5K over the original contract values.
+
+The average contract duration was 0.8 years, and the average contract value (not including contracts under \$10k) was \$130.3K. The longest contract was 4.08 years. The largest contract by value (including amendments) was \$1.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

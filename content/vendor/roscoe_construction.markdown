@@ -1,7 +1,7 @@
 ---
 title: ROSCOE CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: roscoe_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.4M in 2021-2022 on contracts with ROSCOE CONSTRUCTION.
+The Government of Canada spent an estimated **\$3.4M in 2021-2022** on contracts with ROSCOE CONSTRUCTION.
+
+Across 26 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 23% and the average number of amendments was 2.8. Cumulatively these amendments represent an increase of \$2.1M over the original contract values.
+
+The average contract duration was 0.83 years, and the average contract value (not including contracts under \$10k) was \$1.4M. The longest contract was 2.52 years. The largest contract by value (including amendments) was \$11.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

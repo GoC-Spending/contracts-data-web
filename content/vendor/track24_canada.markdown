@@ -1,7 +1,7 @@
 ---
 title: TRACK24 CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: track24_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.7M in 2019-2020 on contracts with TRACK24 CANADA.
+The Government of Canada spent an estimated **\$2.7M in 2019-2020** on contracts with TRACK24 CANADA.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 3555% and the average number of amendments was 2.5. Cumulatively these amendments represent an increase of \$10.1M over the original contract values.
+
+The average contract duration was 4.25 years, and the average contract value (not including contracts under \$10k) was \$7.3M. The longest contract was 5.5 years. The largest contract by value (including amendments) was \$8.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

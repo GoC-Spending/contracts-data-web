@@ -1,7 +1,7 @@
 ---
 title: SAAB
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: saab
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$15.1M in 2021-2022 on contracts with SAAB.
+The Government of Canada spent an estimated **\$15.1M in 2021-2022** on contracts with SAAB.
+
+Across 39 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 5252% and the average number of amendments was 2.57. Cumulatively these amendments represent an increase of \$20.1M over the original contract values.
+
+The average contract duration was 2.23 years, and the average contract value (not including contracts under \$10k) was \$6.0M. The longest contract was 12.96 years. The largest contract by value (including amendments) was \$55.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

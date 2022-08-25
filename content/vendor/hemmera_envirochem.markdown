@@ -1,7 +1,7 @@
 ---
 title: HEMMERA ENVIROCHEM
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: hemmera_envirochem
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.9M in 2021-2022 on contracts with HEMMERA ENVIROCHEM.
+The Government of Canada spent an estimated **\$3.9M in 2021-2022** on contracts with HEMMERA ENVIROCHEM.
+
+Across 35 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 212% and the average number of amendments was 1.86. Cumulatively these amendments represent an increase of \$2.0M over the original contract values.
+
+The average contract duration was 1.63 years, and the average contract value (not including contracts under \$10k) was \$733.0K. The longest contract was 4.46 years. The largest contract by value (including amendments) was \$4.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

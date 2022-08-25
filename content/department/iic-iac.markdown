@@ -1,7 +1,7 @@
 ---
 title: Invest in Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: iic-iac
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Invest in Canada spent an estimated \$22.0M in 2021-2022 on contracts.
+Invest in Canada spent an estimated **\$22.0M in 2021-2022** on contracts.
+
+Across 156 contracts active since the start of the 2017-2018 fiscal year, 14 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 45% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$3.5M over the original contract values.
+
+The average contract duration was 0.74 years, and the average contract value (not including contracts under \$10k) was \$256.7K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$8.1M.
+
 {{< /entity_summary >}}
 
 ## Vendors

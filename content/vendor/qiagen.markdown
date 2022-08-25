@@ -1,7 +1,7 @@
 ---
 title: QIAGEN
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: qiagen
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$393.1K in 2021-2022 on contracts with QIAGEN.
+The Government of Canada spent an estimated **\$393.1K in 2021-2022** on contracts with QIAGEN.
+
+Across 85 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 147% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$2.7M over the original contract values.
+
+The average contract duration was 0.56 years, and the average contract value (not including contracts under \$10k) was \$91.0K. The longest contract was 3.22 years. The largest contract by value (including amendments) was \$5.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: Immigration and Refugee Board of Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: irb-cisr
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Immigration and Refugee Board of Canada spent an estimated \$26.7M in 2021-2022 on contracts.
+Immigration and Refugee Board of Canada spent an estimated **\$26.7M in 2021-2022** on contracts.
+
+Across 1,433 contracts active since the start of the 2017-2018 fiscal year, 248 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 149% and the average number of amendments was 1.23. Cumulatively these amendments represent an increase of \$18.3M over the original contract values.
+
+The average contract duration was 1.38 years, and the average contract value (not including contracts under \$10k) was \$65.9K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$3.4M.
+
 {{< /entity_summary >}}
 
 ## Vendors

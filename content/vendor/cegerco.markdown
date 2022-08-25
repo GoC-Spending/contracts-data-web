@@ -1,7 +1,7 @@
 ---
 title: CEGERCO
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cegerco
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$193.5K in 2020-2021 on contracts with CEGERCO.
+The Government of Canada spent an estimated **\$193.5K in 2020-2021** on contracts with CEGERCO.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 5% and the average number of amendments was 6. Cumulatively these amendments represent an increase of \$299.4K over the original contract values.
+
+The average contract duration was 2.86 years, and the average contract value (not including contracts under \$10k) was \$26.3M. The longest contract was 3.32 years. The largest contract by value (including amendments) was \$46.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

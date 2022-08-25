@@ -1,7 +1,7 @@
 ---
 title: GHD
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ghd
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.2M in 2021-2022 on contracts with GHD.
+The Government of Canada spent an estimated **\$2.2M in 2021-2022** on contracts with GHD.
+
+Across 266 contracts active since the start of the 2017-2018 fiscal year, 20 have at least one amendment (8%). Of contracts with amendments, the average increase in dollar value was 26% and the average number of amendments was 1.05. Cumulatively these amendments represent an increase of \$105.7K over the original contract values.
+
+The average contract duration was 0.61 years, and the average contract value (not including contracts under \$10k) was \$32.7K. The longest contract was 1.38 years. The largest contract by value (including amendments) was \$163.6K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

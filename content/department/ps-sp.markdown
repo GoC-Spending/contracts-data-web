@@ -1,7 +1,7 @@
 ---
 title: Public Safety Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ps-sp
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Public Safety Canada spent an estimated \$29.8M in 2021-2022 on contracts.
+Public Safety Canada spent an estimated **\$29.8M in 2021-2022** on contracts.
+
+Across 1,162 contracts active since the start of the 2017-2018 fiscal year, 183 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 92672311% and the average number of amendments was 1.51. Cumulatively these amendments represent an increase of \$38.1M over the original contract values.
+
+The average contract duration was 0.88 years, and the average contract value (not including contracts under \$10k) was \$112.4K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$4.8M.
+
 {{< /entity_summary >}}
 
 ## Vendors

@@ -1,7 +1,7 @@
 ---
 title: Office of the Secretary to the Governor General
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: osgg-bsgg
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Office of the Secretary to the Governor General spent an estimated \$2.3M in 2021-2022 on contracts.
+Office of the Secretary to the Governor General spent an estimated **\$2.3M in 2021-2022** on contracts.
+
+Across 276 contracts active since the start of the 2017-2018 fiscal year, 55 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 72% and the average number of amendments was 1.42. Cumulatively these amendments represent an increase of \$3.0M over the original contract values.
+
+The average contract duration was 0.95 years, and the average contract value (not including contracts under \$10k) was \$111.0K. The longest contract was 7.04 years. The largest contract by value (including amendments) was \$10.6M.
+
 {{< /entity_summary >}}
 
 ## Vendors

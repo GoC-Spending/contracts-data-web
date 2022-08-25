@@ -1,7 +1,7 @@
 ---
 title: Military Grievances External Review Committee
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: mgerc-ceegm
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Military Grievances External Review Committee spent an estimated \$316.3K in 2021-2022 on contracts.
+Military Grievances External Review Committee spent an estimated **\$316.3K in 2021-2022** on contracts.
+
+Across 72 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (10%). Of contracts with amendments, the average increase in dollar value was 76% and the average number of amendments was 1.14. Cumulatively these amendments represent an increase of \$242.3K over the original contract values.
+
+The average contract duration was 0.87 years, and the average contract value (not including contracts under \$10k) was \$30.7K. The longest contract was 5 years. The largest contract by value (including amendments) was \$224.7K.
+
 {{< /entity_summary >}}
 
 ## Vendors

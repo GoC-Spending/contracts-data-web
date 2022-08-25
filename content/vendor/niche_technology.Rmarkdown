@@ -1,7 +1,7 @@
 ---
 title: NICHE TECHNOLOGY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: niche_technology
 categories: []
 tags: []
@@ -12,11 +12,19 @@ tags: []
 source("../../R/init.R")
 current_filename <- get_current_filename()
 entity_type <- "vendors"
+current_name <- get_name_from_filename(current_filename, entity_type)
+lookup_name <- current_name
+research_summary_type <- "all"
 
 ```
 
 `r blogdown::shortcode_html("entity_summary")`
-The Government of Canada spent an estimated $`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)` on contracts with `r get_name_from_filename(current_filename, entity_type)`.
+The Government of Canada spent an estimated **\$`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)`** on contracts with `r current_name`.
+
+Across `r format_entity_count(get_research_finding("s431_number_of_contracts_by_vendor", research_summary_type, "contracts", "d_vendor_name", lookup_name))` contracts active since the start of the 2017-2018 fiscal year, `r format_entity_count(get_research_finding("s431_number_of_contracts_by_vendor", research_summary_type, "contracts_with_amendments", "d_vendor_name", lookup_name))` have at least one amendment (`r format_percentage_rounded(get_research_finding("s431_number_of_contracts_by_vendor", research_summary_type, "has_amendments_percentage", "d_vendor_name", lookup_name))`). Of contracts with amendments, the average increase in dollar value was `r format_percentage_rounded(get_research_finding("s432_mean_amendment_increase_percentage_by_vendor", research_summary_type, "mean_amendment_increase_percentage", "d_vendor_name", lookup_name))` and the average number of amendments was `r get_research_finding("s434_mean_number_of_amendments_by_vendor", research_summary_type, "mean_number_of_amendments", "d_vendor_name", lookup_name)`. Cumulatively these amendments represent an increase of \$`r fancy_round(get_research_finding("s433_total_amendment_increase_value_by_vendor", research_summary_type, "total_amendment_increase_value", "d_vendor_name", lookup_name))` over the original contract values.
+
+The average contract duration was `r get_research_finding("s424_mean_duration_by_vendor", research_summary_type, "mean_years", "d_vendor_name", lookup_name)` years, and the average contract value (not including contracts under \$10k) was \$`r fancy_round(get_research_finding("s421_mean_contract_value_by_vendor", research_summary_type, "mean_overall_value", "d_vendor_name", lookup_name))`. The longest contract was `r get_research_finding("s425_max_duration_by_vendor", research_summary_type, "max_years", "d_vendor_name", lookup_name)` years. The largest contract by value (including amendments) was \$`r fancy_round(get_research_finding("s422_max_contract_value_by_vendor", research_summary_type, "max_overall_value", "d_vendor_name", lookup_name))`.
+
 `r blogdown::shortcode_html("/entity_summary")`
 
 `r blogdown::shortcode_html("details", summary = "See original contracts and amendments", panel_body_class="vendor-names-list")`

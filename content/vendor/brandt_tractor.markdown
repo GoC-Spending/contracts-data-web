@@ -1,7 +1,7 @@
 ---
 title: BRANDT TRACTOR
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: brandt_tractor
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.1M in 2021-2022 on contracts with BRANDT TRACTOR.
+The Government of Canada spent an estimated **\$3.1M in 2021-2022** on contracts with BRANDT TRACTOR.
+
+Across 48 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 50% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$3.5K over the original contract values.
+
+The average contract duration was 0.29 years, and the average contract value (not including contracts under \$10k) was \$174.6K. The longest contract was 2.01 years. The largest contract by value (including amendments) was \$2.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: DASCO EQUIPMENT
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: dasco_equipment
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.6M in 2021-2022 on contracts with DASCO EQUIPMENT.
+The Government of Canada spent an estimated **\$2.6M in 2021-2022** on contracts with DASCO EQUIPMENT.
+
+Across 222 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 28% and the average number of amendments was 1.08. Cumulatively these amendments represent an increase of \$161.5K over the original contract values.
+
+The average contract duration was 0.24 years, and the average contract value (not including contracts under \$10k) was \$56.9K. The longest contract was 4.04 years. The largest contract by value (including amendments) was \$751.5K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

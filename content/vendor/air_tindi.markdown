@@ -1,7 +1,7 @@
 ---
 title: AIR TINDI
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: air_tindi
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.6M in 2021-2022 on contracts with AIR TINDI.
+The Government of Canada spent an estimated **\$6.6M in 2021-2022** on contracts with AIR TINDI.
+
+Across 163 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 108% and the average number of amendments was 1.29. Cumulatively these amendments represent an increase of \$151.4K over the original contract values.
+
+The average contract duration was 0.28 years, and the average contract value (not including contracts under \$10k) was \$101.7K. The longest contract was 3.1 years. The largest contract by value (including amendments) was \$7.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

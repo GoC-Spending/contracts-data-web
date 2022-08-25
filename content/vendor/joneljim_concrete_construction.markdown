@@ -1,7 +1,7 @@
 ---
 title: JONELJIM CONCRETE CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: joneljim_concrete_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$12.8M in 2021-2022 on contracts with JONELJIM CONCRETE CONSTRUCTION.
+The Government of Canada spent an estimated **\$12.8M in 2021-2022** on contracts with JONELJIM CONCRETE CONSTRUCTION.
+
+Across 31 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (35%). Of contracts with amendments, the average increase in dollar value was 723% and the average number of amendments was 3.27. Cumulatively these amendments represent an increase of \$74.3M over the original contract values.
+
+The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$3.0M. The longest contract was 6.29 years. The largest contract by value (including amendments) was \$70.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

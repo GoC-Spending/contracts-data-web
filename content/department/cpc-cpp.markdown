@@ -1,7 +1,7 @@
 ---
 title: Civilian Review and Complaints Commission for the RCMP
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cpc-cpp
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Civilian Review and Complaints Commission for the RCMP spent an estimated \$688.9K in 2021-2022 on contracts.
+Civilian Review and Complaints Commission for the RCMP spent an estimated **\$688.9K in 2021-2022** on contracts.
+
+Across 164 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 145% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$557.5K over the original contract values.
+
+The average contract duration was 0.66 years, and the average contract value (not including contracts under \$10k) was \$42.8K. The longest contract was 5 years. The largest contract by value (including amendments) was \$402.0K.
+
 {{< /entity_summary >}}
 
 ## Vendors

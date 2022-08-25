@@ -1,7 +1,7 @@
 ---
 title: QUINAN CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: quinan_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.8M in 2021-2022 on contracts with QUINAN CONSTRUCTION.
+The Government of Canada spent an estimated **\$2.8M in 2021-2022** on contracts with QUINAN CONSTRUCTION.
+
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (71%). Of contracts with amendments, the average increase in dollar value was 24% and the average number of amendments was 2.2. Cumulatively these amendments represent an increase of \$2.9M over the original contract values.
+
+The average contract duration was 1.45 years, and the average contract value (not including contracts under \$10k) was \$2.7M. The longest contract was 3 years. The largest contract by value (including amendments) was \$9.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

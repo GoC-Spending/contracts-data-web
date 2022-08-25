@@ -1,7 +1,7 @@
 ---
 title: QINETIQ
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: qinetiq
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$15.1M in 2021-2022 on contracts with QINETIQ.
+The Government of Canada spent an estimated **\$15.1M in 2021-2022** on contracts with QINETIQ.
+
+Across 30 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 280% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$6.6M over the original contract values.
+
+The average contract duration was 1.02 years, and the average contract value (not including contracts under \$10k) was \$2.7M. The longest contract was 4 years. The largest contract by value (including amendments) was \$50.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

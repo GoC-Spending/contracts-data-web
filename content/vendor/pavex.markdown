@@ -1,7 +1,7 @@
 ---
 title: PAVEX
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pavex
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.7M in 2021-2022 on contracts with PAVEX.
+The Government of Canada spent an estimated **\$4.7M in 2021-2022** on contracts with PAVEX.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 1% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$281.4K over the original contract values.
+
+The average contract duration was 4.44 years, and the average contract value (not including contracts under \$10k) was \$21.1M. The longest contract was 4.44 years. The largest contract by value (including amendments) was \$21.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

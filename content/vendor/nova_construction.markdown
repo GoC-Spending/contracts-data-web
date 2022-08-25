@@ -1,7 +1,7 @@
 ---
 title: NOVA CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: nova_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.5M in 2018-2019 on contracts with NOVA CONSTRUCTION.
+The Government of Canada spent an estimated **\$1.5M in 2018-2019** on contracts with NOVA CONSTRUCTION.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 113% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$3.0M over the original contract values.
+
+The average contract duration was 1.52 years, and the average contract value (not including contracts under \$10k) was \$3.9M. The longest contract was 2.01 years. The largest contract by value (including amendments) was \$4.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

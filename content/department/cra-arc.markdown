@@ -1,7 +1,7 @@
 ---
 title: Canada Revenue Agency
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cra-arc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Canada Revenue Agency spent an estimated \$231.7M in 2021-2022 on contracts.
+Canada Revenue Agency spent an estimated **\$231.7M in 2021-2022** on contracts.
+
+Across 4,390 contracts active since the start of the 2017-2018 fiscal year, 1,945 have at least one amendment (44%). Of contracts with amendments, the average increase in dollar value was 436% and the average number of amendments was 3.02. Cumulatively these amendments represent an increase of \$619.0M over the original contract values.
+
+The average contract duration was 1.23 years, and the average contract value (not including contracts under \$10k) was \$295.9K. The longest contract was 17.59 years. The largest contract by value (including amendments) was \$39.8M.
+
 {{< /entity_summary >}}
 
 ## Vendors

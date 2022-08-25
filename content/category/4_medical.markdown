@@ -1,7 +1,7 @@
 ---
 title: Medical
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 4_medical
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.2B in 2021-2022 on medical contracts.
+The Government of Canada spent an estimated **\$2.2B in 2021-2022** on medical contracts.
+
+Across 9,923 contracts active since the start of the 2017-2018 fiscal year, 1,550 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 243% and the average number of amendments was 2.03. Cumulatively these amendments represent an increase of \$2.7B over the original contract values.
+
+The average contract duration was 0.86 years, and the average contract value (not including contracts under \$10k) was \$1.0M. The longest contract was 13.01 years. The largest contract by value (including amendments) was \$995.6M.
+
 {{< /entity_summary >}}
 
 ## Vendors

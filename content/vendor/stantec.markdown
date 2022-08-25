@@ -1,7 +1,7 @@
 ---
 title: STANTEC
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: stantec
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$41.4M in 2021-2022 on contracts with STANTEC.
+The Government of Canada spent an estimated **\$41.4M in 2021-2022** on contracts with STANTEC.
+
+Across 1,818 contracts active since the start of the 2017-2018 fiscal year, 430 have at least one amendment (24%). Of contracts with amendments, the average increase in dollar value was 5392% and the average number of amendments was 1.81. Cumulatively these amendments represent an increase of \$49.2M over the original contract values.
+
+The average contract duration was 0.96 years, and the average contract value (not including contracts under \$10k) was \$145.0K. The longest contract was 8.72 years. The largest contract by value (including amendments) was \$32.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

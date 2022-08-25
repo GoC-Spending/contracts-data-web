@@ -1,7 +1,7 @@
 ---
 title: Office of the Superintendent of Financial Institutions Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: osfi-bsif
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Office of the Superintendent of Financial Institutions Canada spent an estimated \$28.2M in 2021-2022 on contracts.
+Office of the Superintendent of Financial Institutions Canada spent an estimated **\$28.2M in 2021-2022** on contracts.
+
+Across 1,330 contracts active since the start of the 2017-2018 fiscal year, 240 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 915% and the average number of amendments was 2.33. Cumulatively these amendments represent an increase of \$88.5M over the original contract values.
+
+The average contract duration was 1.05 years, and the average contract value (not including contracts under \$10k) was \$131.7K. The longest contract was 10.12 years. The largest contract by value (including amendments) was \$12.8M.
+
 {{< /entity_summary >}}
 
 ## Vendors

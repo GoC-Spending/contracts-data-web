@@ -1,7 +1,7 @@
 ---
 title: BOLESS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: boless
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$18.0M in 2021-2022 on contracts with BOLESS.
+The Government of Canada spent an estimated **\$18.0M in 2021-2022** on contracts with BOLESS.
+
+Across 6 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (67%). Of contracts with amendments, the average increase in dollar value was 16% and the average number of amendments was 4.5. Cumulatively these amendments represent an increase of \$9.7M over the original contract values.
+
+The average contract duration was 1.57 years, and the average contract value (not including contracts under \$10k) was \$12.6M. The longest contract was 3.93 years. The largest contract by value (including amendments) was \$65.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

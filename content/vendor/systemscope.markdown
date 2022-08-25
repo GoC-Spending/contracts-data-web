@@ -1,7 +1,7 @@
 ---
 title: SYSTEMSCOPE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: systemscope
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$7.3M in 2021-2022 on contracts with SYSTEMSCOPE.
+The Government of Canada spent an estimated **\$7.3M in 2021-2022** on contracts with SYSTEMSCOPE.
+
+Across 153 contracts active since the start of the 2017-2018 fiscal year, 48 have at least one amendment (31%). Of contracts with amendments, the average increase in dollar value was 754825% and the average number of amendments was 2.08. Cumulatively these amendments represent an increase of \$17.9M over the original contract values.
+
+The average contract duration was 0.94 years, and the average contract value (not including contracts under \$10k) was \$264.4K. The longest contract was 5.52 years. The largest contract by value (including amendments) was \$3.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

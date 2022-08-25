@@ -1,7 +1,7 @@
 ---
 title: MAISON DECISION HOUSE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: maison_decision_house
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1M in 2021-2022 on contracts with MAISON DECISION HOUSE.
+The Government of Canada spent an estimated **\$1.1M in 2021-2022** on contracts with MAISON DECISION HOUSE.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 124% and the average number of amendments was 2.5. Cumulatively these amendments represent an increase of \$2.6M over the original contract values.
+
+The average contract duration was 1.8 years, and the average contract value (not including contracts under \$10k) was \$1.7M. The longest contract was 4.68 years. The largest contract by value (including amendments) was \$5.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

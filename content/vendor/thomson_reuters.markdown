@@ -1,7 +1,7 @@
 ---
 title: THOMSON REUTERS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: thomson_reuters
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$5.7M in 2021-2022 on contracts with THOMSON REUTERS.
+The Government of Canada spent an estimated **\$5.7M in 2021-2022** on contracts with THOMSON REUTERS.
+
+Across 163 contracts active since the start of the 2017-2018 fiscal year, 18 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 138% and the average number of amendments was 1.72. Cumulatively these amendments represent an increase of \$11.5M over the original contract values.
+
+The average contract duration was 0.94 years, and the average contract value (not including contracts under \$10k) was \$154.9K. The longest contract was 5 years. The largest contract by value (including amendments) was \$6.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: MODIS CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: modis_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$75.7M in 2021-2022 on contracts with MODIS CANADA.
+The Government of Canada spent an estimated **\$75.7M in 2021-2022** on contracts with MODIS CANADA.
+
+Across 583 contracts active since the start of the 2017-2018 fiscal year, 381 have at least one amendment (65%). Of contracts with amendments, the average increase in dollar value was 2054626% and the average number of amendments was 2.15. Cumulatively these amendments represent an increase of \$145.1M over the original contract values.
+
+The average contract duration was 1.51 years, and the average contract value (not including contracts under \$10k) was \$649.1K. The longest contract was 7.55 years. The largest contract by value (including amendments) was \$19.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

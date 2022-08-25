@@ -1,7 +1,7 @@
 ---
 title: SRA STAFFING SOLUTIONS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: sra_staffing_solutions
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$403.0K in 2021-2022 on contracts with SRA STAFFING SOLUTIONS.
+The Government of Canada spent an estimated **\$403.0K in 2021-2022** on contracts with SRA STAFFING SOLUTIONS.
+
+Across 33 contracts active since the start of the 2017-2018 fiscal year, 14 have at least one amendment (42%). Of contracts with amendments, the average increase in dollar value was 156% and the average number of amendments was 2.07. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
+
+The average contract duration was 1.05 years, and the average contract value (not including contracts under \$10k) was \$200.1K. The longest contract was 3.8 years. The largest contract by value (including amendments) was \$1.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

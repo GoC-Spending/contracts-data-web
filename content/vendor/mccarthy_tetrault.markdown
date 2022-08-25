@@ -1,7 +1,7 @@
 ---
 title: MCCARTHY TETRAULT
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: mccarthy_tetrault
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$450.3K in 2020-2021 on contracts with MCCARTHY TETRAULT.
+The Government of Canada spent an estimated **\$450.3K in 2020-2021** on contracts with MCCARTHY TETRAULT.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 0 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was NA and the average number of amendments was NA. Cumulatively these amendments represent an increase of \$NA over the original contract values.
+
+The average contract duration was 0.49 years, and the average contract value (not including contracts under \$10k) was \$867.5K. The longest contract was 1.25 years. The largest contract by value (including amendments) was \$5.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

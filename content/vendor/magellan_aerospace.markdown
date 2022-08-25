@@ -1,7 +1,7 @@
 ---
 title: MAGELLAN AEROSPACE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: magellan_aerospace
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.5M in 2021-2022 on contracts with MAGELLAN AEROSPACE.
+The Government of Canada spent an estimated **\$6.5M in 2021-2022** on contracts with MAGELLAN AEROSPACE.
+
+Across 19 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (21%). Of contracts with amendments, the average increase in dollar value was 953% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
+
+The average contract duration was 2.17 years, and the average contract value (not including contracts under \$10k) was \$3.7M. The longest contract was 6.01 years. The largest contract by value (including amendments) was \$27.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

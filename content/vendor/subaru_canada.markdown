@@ -1,7 +1,7 @@
 ---
 title: SUBARU CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: subaru_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.8M in 2021-2022 on contracts with SUBARU CANADA.
+The Government of Canada spent an estimated **\$1.8M in 2021-2022** on contracts with SUBARU CANADA.
+
+Across 190 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was -7% and the average number of amendments was 1.25. Cumulatively these amendments represent an increase of \$-299.5K over the original contract values.
+
+The average contract duration was 0.37 years, and the average contract value (not including contracts under \$10k) was \$77.0K. The longest contract was 1.5 years. The largest contract by value (including amendments) was \$1.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

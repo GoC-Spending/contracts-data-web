@@ -1,7 +1,7 @@
 ---
 title: POSTMEDIA NETWORK
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: postmedia_network
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.2M in 2021-2022 on contracts with POSTMEDIA NETWORK.
+The Government of Canada spent an estimated **\$3.2M in 2021-2022** on contracts with POSTMEDIA NETWORK.
+
+Across 36 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 144% and the average number of amendments was 1.4. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
+
+The average contract duration was 0.79 years, and the average contract value (not including contracts under \$10k) was \$369.6K. The longest contract was 4 years. The largest contract by value (including amendments) was \$12.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: PR3 MEDIAS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pr3_medias
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$5.2M in 2021-2022 on contracts with PR3 MEDIAS.
+The Government of Canada spent an estimated **\$5.2M in 2021-2022** on contracts with PR3 MEDIAS.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (40%). Of contracts with amendments, the average increase in dollar value was 157% and the average number of amendments was 2.5. Cumulatively these amendments represent an increase of \$7.1M over the original contract values.
+
+The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$2.8M. The longest contract was 2.17 years. The largest contract by value (including amendments) was \$6.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: GREAT SLAVE HELICOPTERS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: great_slave_helicopters
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.0M in 2021-2022 on contracts with GREAT SLAVE HELICOPTERS.
+The Government of Canada spent an estimated **\$3.0M in 2021-2022** on contracts with GREAT SLAVE HELICOPTERS.
+
+Across 184 contracts active since the start of the 2017-2018 fiscal year, 20 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 76% and the average number of amendments was 1.55. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
+
+The average contract duration was 0.52 years, and the average contract value (not including contracts under \$10k) was \$140.4K. The longest contract was 6.06 years. The largest contract by value (including amendments) was \$3.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

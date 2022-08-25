@@ -1,7 +1,7 @@
 ---
 title: ADVANCED CHIPPEWA TECHNOLOGIES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: advanced_chippewa_technologies
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$38.9M in 2021-2022 on contracts with ADVANCED CHIPPEWA TECHNOLOGIES.
+The Government of Canada spent an estimated **\$38.9M in 2021-2022** on contracts with ADVANCED CHIPPEWA TECHNOLOGIES.
+
+Across 671 contracts active since the start of the 2017-2018 fiscal year, 49 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 96% and the average number of amendments was 1.57. Cumulatively these amendments represent an increase of \$32.8M over the original contract values.
+
+The average contract duration was 0.75 years, and the average contract value (not including contracts under \$10k) was \$246.8K. The longest contract was 5 years. The largest contract by value (including amendments) was \$31.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

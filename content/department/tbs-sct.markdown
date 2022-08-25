@@ -1,7 +1,7 @@
 ---
 title: Treasury Board of Canada Secretariat
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: tbs-sct
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Treasury Board of Canada Secretariat spent an estimated \$165.4M in 2021-2022 on contracts.
+Treasury Board of Canada Secretariat spent an estimated **\$165.4M in 2021-2022** on contracts.
+
+Across 1,443 contracts active since the start of the 2017-2018 fiscal year, 225 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 117% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$484.1M over the original contract values.
+
+The average contract duration was 1.07 years, and the average contract value (not including contracts under \$10k) was \$1.2M. The longest contract was 17.2 years. The largest contract by value (including amendments) was \$514.5M.
+
 {{< /entity_summary >}}
 
 ## Vendors

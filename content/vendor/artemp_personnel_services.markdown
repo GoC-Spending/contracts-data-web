@@ -1,7 +1,7 @@
 ---
 title: ARTEMP PERSONNEL SERVICES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: artemp_personnel_services
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.8M in 2021-2022 on contracts with ARTEMP PERSONNEL SERVICES.
+The Government of Canada spent an estimated **\$2.8M in 2021-2022** on contracts with ARTEMP PERSONNEL SERVICES.
+
+Across 202 contracts active since the start of the 2017-2018 fiscal year, 68 have at least one amendment (34%). Of contracts with amendments, the average increase in dollar value was 121% and the average number of amendments was 1.46. Cumulatively these amendments represent an increase of \$4.8M over the original contract values.
+
+The average contract duration was 1.04 years, and the average contract value (not including contracts under \$10k) was \$118.2K. The longest contract was 3.41 years. The largest contract by value (including amendments) was \$3.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

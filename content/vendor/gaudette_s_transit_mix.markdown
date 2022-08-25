@@ -1,7 +1,7 @@
 ---
 title: GAUDETTE S TRANSIT MIX
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: gaudette_s_transit_mix
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.4M in 2020-2021 on contracts with GAUDETTE S TRANSIT MIX.
+The Government of Canada spent an estimated **\$1.4M in 2020-2021** on contracts with GAUDETTE S TRANSIT MIX.
+
+Across 12 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (67%). Of contracts with amendments, the average increase in dollar value was 11% and the average number of amendments was 1.75. Cumulatively these amendments represent an increase of \$854.0K over the original contract values.
+
+The average contract duration was 0.6 years, and the average contract value (not including contracts under \$10k) was \$924.7K. The longest contract was 2.2 years. The largest contract by value (including amendments) was \$1.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

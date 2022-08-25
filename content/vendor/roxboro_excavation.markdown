@@ -1,7 +1,7 @@
 ---
 title: ROXBORO EXCAVATION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: roxboro_excavation
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$77.6K in 2021-2022 on contracts with ROXBORO EXCAVATION.
+The Government of Canada spent an estimated **\$77.6K in 2021-2022** on contracts with ROXBORO EXCAVATION.
+
+Across 3 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 359% and the average number of amendments was 5. Cumulatively these amendments represent an increase of \$927.8K over the original contract values.
+
+The average contract duration was 4.11 years, and the average contract value (not including contracts under \$10k) was \$4.0M. The longest contract was 4.85 years. The largest contract by value (including amendments) was \$11.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: CONSTRUCTION COTE FILS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: construction_cote_fils
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.5M in 2019-2020 on contracts with CONSTRUCTION COTE FILS.
+The Government of Canada spent an estimated **\$2.5M in 2019-2020** on contracts with CONSTRUCTION COTE FILS.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was 17% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$130.5K over the original contract values.
+
+The average contract duration was 0.94 years, and the average contract value (not including contracts under \$10k) was \$3.2M. The longest contract was 1.62 years. The largest contract by value (including amendments) was \$6.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: CANON
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: canon
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.9M in 2021-2022 on contracts with CANON.
+The Government of Canada spent an estimated **\$3.9M in 2021-2022** on contracts with CANON.
+
+Across 784 contracts active since the start of the 2017-2018 fiscal year, 132 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 48% and the average number of amendments was 1.41. Cumulatively these amendments represent an increase of \$1.7M over the original contract values.
+
+The average contract duration was 3.87 years, and the average contract value (not including contracts under \$10k) was \$39.7K. The longest contract was 8.01 years. The largest contract by value (including amendments) was \$1.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

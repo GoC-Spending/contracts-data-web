@@ -1,7 +1,7 @@
 ---
 title: CONSTRUCTION BUGERE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: construction_bugere
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$339.9K in 2021-2022 on contracts with CONSTRUCTION BUGERE.
+The Government of Canada spent an estimated **\$339.9K in 2021-2022** on contracts with CONSTRUCTION BUGERE.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (80%). Of contracts with amendments, the average increase in dollar value was 10% and the average number of amendments was 2.38. Cumulatively these amendments represent an increase of \$1.7M over the original contract values.
+
+The average contract duration was 1.07 years, and the average contract value (not including contracts under \$10k) was \$1.4M. The longest contract was 3 years. The largest contract by value (including amendments) was \$6.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: NAVTECH
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: navtech
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$42.4K in 2020-2021 on contracts with NAVTECH.
+The Government of Canada spent an estimated **\$42.4K in 2020-2021** on contracts with NAVTECH.
+
+Across 13 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 277% and the average number of amendments was 6.33. Cumulatively these amendments represent an increase of \$116.5K over the original contract values.
+
+The average contract duration was 1.4 years, and the average contract value (not including contracts under \$10k) was \$41.7M. The longest contract was 7.1 years. The largest contract by value (including amendments) was \$541.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

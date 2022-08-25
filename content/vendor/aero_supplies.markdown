@@ -1,7 +1,7 @@
 ---
 title: AERO SUPPLIES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: aero_supplies
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.2M in 2021-2022 on contracts with AERO SUPPLIES.
+The Government of Canada spent an estimated **\$3.2M in 2021-2022** on contracts with AERO SUPPLIES.
+
+Across 352 contracts active since the start of the 2017-2018 fiscal year, 22 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 4% and the average number of amendments was 1.05. Cumulatively these amendments represent an increase of \$186.9K over the original contract values.
+
+The average contract duration was 0.05 years, and the average contract value (not including contracts under \$10k) was \$23.3K. The longest contract was 0.37 years. The largest contract by value (including amendments) was \$365.2K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

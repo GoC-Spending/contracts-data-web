@@ -1,7 +1,7 @@
 ---
 title: SCA SHIPPING CONSULTANTS ASSOCIATED
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: sca_shipping_consultants_associated
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$9.4M in 2021-2022 on contracts with SCA SHIPPING CONSULTANTS ASSOCIATED.
+The Government of Canada spent an estimated **\$9.4M in 2021-2022** on contracts with SCA SHIPPING CONSULTANTS ASSOCIATED.
+
+Across 380 contracts active since the start of the 2017-2018 fiscal year, 68 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 19% and the average number of amendments was 1.04. Cumulatively these amendments represent an increase of \$10.4M over the original contract values.
+
+The average contract duration was 0.08 years, and the average contract value (not including contracts under \$10k) was \$192.3K. The longest contract was 3.04 years. The largest contract by value (including amendments) was \$11.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

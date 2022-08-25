@@ -1,7 +1,7 @@
 ---
 title: JJM CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: jjm_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$368.3K in 2020-2021 on contracts with JJM CONSTRUCTION.
+The Government of Canada spent an estimated **\$368.3K in 2020-2021** on contracts with JJM CONSTRUCTION.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (75%). Of contracts with amendments, the average increase in dollar value was 25% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$-1.5M over the original contract values.
+
+The average contract duration was 0.67 years, and the average contract value (not including contracts under \$10k) was \$5.2M. The longest contract was 1.52 years. The largest contract by value (including amendments) was \$18.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

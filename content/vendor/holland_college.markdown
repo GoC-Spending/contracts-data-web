@@ -1,7 +1,7 @@
 ---
 title: HOLLAND COLLEGE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: holland_college
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.4M in 2021-2022 on contracts with HOLLAND COLLEGE.
+The Government of Canada spent an estimated **\$4.4M in 2021-2022** on contracts with HOLLAND COLLEGE.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 409% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$8.8M over the original contract values.
+
+The average contract duration was 0.53 years, and the average contract value (not including contracts under \$10k) was \$1.6M. The longest contract was 2.5 years. The largest contract by value (including amendments) was \$11.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

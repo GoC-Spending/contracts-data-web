@@ -1,7 +1,7 @@
 ---
 title: WILLS TRANSFER
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: wills_transfer
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$9.2M in 2021-2022 on contracts with WILLS TRANSFER.
+The Government of Canada spent an estimated **\$9.2M in 2021-2022** on contracts with WILLS TRANSFER.
+
+Across 53 contracts active since the start of the 2017-2018 fiscal year, 21 have at least one amendment (40%). Of contracts with amendments, the average increase in dollar value was 84% and the average number of amendments was 1.62. Cumulatively these amendments represent an increase of \$326.1K over the original contract values.
+
+The average contract duration was 1.06 years, and the average contract value (not including contracts under \$10k) was \$175.3K. The longest contract was 4.05 years. The largest contract by value (including amendments) was \$3.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

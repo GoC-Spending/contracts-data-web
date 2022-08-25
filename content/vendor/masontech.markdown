@@ -1,7 +1,7 @@
 ---
 title: MASONTECH
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: masontech
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.8M in 2020-2021 on contracts with MASONTECH.
+The Government of Canada spent an estimated **\$1.8M in 2020-2021** on contracts with MASONTECH.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (75%). Of contracts with amendments, the average increase in dollar value was 69% and the average number of amendments was 6.67. Cumulatively these amendments represent an increase of \$4.0M over the original contract values.
+
+The average contract duration was 2.55 years, and the average contract value (not including contracts under \$10k) was \$3.5M. The longest contract was 3.51 years. The largest contract by value (including amendments) was \$6.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

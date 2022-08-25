@@ -1,7 +1,7 @@
 ---
 title: RONDAR
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: rondar
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.3M in 2021-2022 on contracts with RONDAR.
+The Government of Canada spent an estimated **\$1.3M in 2021-2022** on contracts with RONDAR.
+
+Across 28 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 32% and the average number of amendments was 1.67. Cumulatively these amendments represent an increase of \$2.8M over the original contract values.
+
+The average contract duration was 1.03 years, and the average contract value (not including contracts under \$10k) was \$595.2K. The longest contract was 5.54 years. The largest contract by value (including amendments) was \$6.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: Office of the Commissioner for Federal Judicial Affairs Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: fja-cmf
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Office of the Commissioner for Federal Judicial Affairs Canada spent an estimated \$3.0M in 2021-2022 on contracts.
+Office of the Commissioner for Federal Judicial Affairs Canada spent an estimated **\$3.0M in 2021-2022** on contracts.
+
+Across 415 contracts active since the start of the 2017-2018 fiscal year, 44 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 157% and the average number of amendments was 1.18. Cumulatively these amendments represent an increase of \$1.9M over the original contract values.
+
+The average contract duration was 1.04 years, and the average contract value (not including contracts under \$10k) was \$39.7K. The longest contract was 5.1 years. The largest contract by value (including amendments) was \$910.4K.
+
 {{< /entity_summary >}}
 
 ## Vendors

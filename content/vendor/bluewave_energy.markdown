@@ -1,7 +1,7 @@
 ---
 title: BLUEWAVE ENERGY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: bluewave_energy
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1M in 2021-2022 on contracts with BLUEWAVE ENERGY.
+The Government of Canada spent an estimated **\$1.1M in 2021-2022** on contracts with BLUEWAVE ENERGY.
+
+Across 242 contracts active since the start of the 2017-2018 fiscal year, 38 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 34% and the average number of amendments was 1.08. Cumulatively these amendments represent an increase of \$-657.1K over the original contract values.
+
+The average contract duration was 0.3 years, and the average contract value (not including contracts under \$10k) was \$52.2K. The longest contract was 2.05 years. The largest contract by value (including amendments) was \$996.1K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

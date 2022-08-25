@@ -1,7 +1,7 @@
 ---
 title: Office of the Public Sector Integrity Commissioner of Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: psic-ispc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Office of the Public Sector Integrity Commissioner of Canada spent an estimated \$1.4M in 2021-2022 on contracts.
+Office of the Public Sector Integrity Commissioner of Canada spent an estimated **\$1.4M in 2021-2022** on contracts.
+
+Across 88 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 158% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$2.0M over the original contract values.
+
+The average contract duration was 1.2 years, and the average contract value (not including contracts under \$10k) was \$91.7K. The longest contract was 8.01 years. The largest contract by value (including amendments) was \$1.3M.
+
 {{< /entity_summary >}}
 
 ## Vendors

@@ -1,7 +1,7 @@
 ---
 title: EBERHARD VON HUENE ASSOCIATES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: eberhard_von_huene_associates
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.5M in 2019-2020 on contracts with EBERHARD VON HUENE ASSOCIATES.
+The Government of Canada spent an estimated **\$1.5M in 2019-2020** on contracts with EBERHARD VON HUENE ASSOCIATES.
+
+Across 57 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 17% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$74.7K over the original contract values.
+
+The average contract duration was 0.46 years, and the average contract value (not including contracts under \$10k) was \$107.1K. The longest contract was 1.71 years. The largest contract by value (including amendments) was \$981.6K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

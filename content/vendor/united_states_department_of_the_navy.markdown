@@ -1,7 +1,7 @@
 ---
 title: UNITED STATES DEPARTMENT OF THE NAVY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: united_states_department_of_the_navy
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$56.3M in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF THE NAVY.
+The Government of Canada spent an estimated **\$56.3M in 2021-2022** on contracts with UNITED STATES DEPARTMENT OF THE NAVY.
+
+Across 51 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (22%). Of contracts with amendments, the average increase in dollar value was 3332% and the average number of amendments was 3.27. Cumulatively these amendments represent an increase of \$9.6M over the original contract values.
+
+The average contract duration was 7.38 years, and the average contract value (not including contracts under \$10k) was \$8.3M. The longest contract was 17.66 years. The largest contract by value (including amendments) was \$70.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

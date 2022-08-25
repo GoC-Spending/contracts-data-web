@@ -1,7 +1,7 @@
 ---
 title: ST LEONARD S SOCIETY HAMILTON
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: st_leonard_s_society_hamilton
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.0M in 2021-2022 on contracts with ST LEONARD S SOCIETY HAMILTON.
+The Government of Canada spent an estimated **\$3.0M in 2021-2022** on contracts with ST LEONARD S SOCIETY HAMILTON.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (70%). Of contracts with amendments, the average increase in dollar value was 166% and the average number of amendments was 2.43. Cumulatively these amendments represent an increase of \$12.2M over the original contract values.
+
+The average contract duration was 2.47 years, and the average contract value (not including contracts under \$10k) was \$2.0M. The longest contract was 4 years. The largest contract by value (including amendments) was \$5.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: M D CHARLTON
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: m_d_charlton
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.5M in 2021-2022 on contracts with M D CHARLTON.
+The Government of Canada spent an estimated **\$3.5M in 2021-2022** on contracts with M D CHARLTON.
+
+Across 269 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (3%). Of contracts with amendments, the average increase in dollar value was 184% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$1.6M over the original contract values.
+
+The average contract duration was 0.27 years, and the average contract value (not including contracts under \$10k) was \$92.2K. The longest contract was 4.93 years. The largest contract by value (including amendments) was \$2.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

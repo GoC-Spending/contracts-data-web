@@ -1,7 +1,7 @@
 ---
 title: TISSEUR
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: tisseur
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$14.4M in 2021-2022 on contracts with TISSEUR.
+The Government of Canada spent an estimated **\$14.4M in 2021-2022** on contracts with TISSEUR.
+
+Across 9 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 131% and the average number of amendments was 3.89. Cumulatively these amendments represent an increase of \$12.1M over the original contract values.
+
+The average contract duration was 1.68 years, and the average contract value (not including contracts under \$10k) was \$10.0M. The longest contract was 3.76 years. The largest contract by value (including amendments) was \$54.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

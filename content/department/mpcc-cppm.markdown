@@ -1,7 +1,7 @@
 ---
 title: Military Police Complaints Commission of Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: mpcc-cppm
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Military Police Complaints Commission of Canada spent an estimated \$340.3K in 2021-2022 on contracts.
+Military Police Complaints Commission of Canada spent an estimated **\$340.3K in 2021-2022** on contracts.
+
+Across 129 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 158% and the average number of amendments was 1.56. Cumulatively these amendments represent an increase of \$602.0K over the original contract values.
+
+The average contract duration was 1.02 years, and the average contract value (not including contracts under \$10k) was \$26.7K. The longest contract was 5 years. The largest contract by value (including amendments) was \$294.9K.
+
 {{< /entity_summary >}}
 
 ## Vendors

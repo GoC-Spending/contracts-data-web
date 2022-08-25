@@ -1,7 +1,7 @@
 ---
 title: THE RIGHT DOOR CONSULTING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: the_right_door_consulting
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.7M in 2021-2022 on contracts with THE RIGHT DOOR CONSULTING.
+The Government of Canada spent an estimated **\$6.7M in 2021-2022** on contracts with THE RIGHT DOOR CONSULTING.
+
+Across 267 contracts active since the start of the 2017-2018 fiscal year, 83 have at least one amendment (31%). Of contracts with amendments, the average increase in dollar value was 85% and the average number of amendments was 1.3. Cumulatively these amendments represent an increase of \$6.2M over the original contract values.
+
+The average contract duration was 0.82 years, and the average contract value (not including contracts under \$10k) was \$125.3K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$847.5K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

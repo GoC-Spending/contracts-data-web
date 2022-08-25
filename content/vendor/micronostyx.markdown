@@ -1,7 +1,7 @@
 ---
 title: MICRONOSTYX
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: micronostyx
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$10.7M in 2021-2022 on contracts with MICRONOSTYX.
+The Government of Canada spent an estimated **\$10.7M in 2021-2022** on contracts with MICRONOSTYX.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 164% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$278.1K over the original contract values.
+
+The average contract duration was 1.01 years, and the average contract value (not including contracts under \$10k) was \$3.0M. The longest contract was 3.84 years. The largest contract by value (including amendments) was \$16.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

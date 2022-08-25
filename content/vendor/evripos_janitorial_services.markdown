@@ -1,7 +1,7 @@
 ---
 title: EVRIPOS JANITORIAL SERVICES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: evripos_janitorial_services
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$742.4K in 2021-2022 on contracts with EVRIPOS JANITORIAL SERVICES.
+The Government of Canada spent an estimated **\$742.4K in 2021-2022** on contracts with EVRIPOS JANITORIAL SERVICES.
+
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 151% and the average number of amendments was 3.86. Cumulatively these amendments represent an increase of \$4.4M over the original contract values.
+
+The average contract duration was 3.19 years, and the average contract value (not including contracts under \$10k) was \$752.2K. The longest contract was 6.67 years. The largest contract by value (including amendments) was \$5.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

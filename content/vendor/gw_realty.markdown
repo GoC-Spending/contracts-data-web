@@ -1,7 +1,7 @@
 ---
 title: GW REALTY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: gw_realty
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$559.5K in 2021-2022 on contracts with GW REALTY.
+The Government of Canada spent an estimated **\$559.5K in 2021-2022** on contracts with GW REALTY.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (71%). Of contracts with amendments, the average increase in dollar value was 12% and the average number of amendments was 2.2. Cumulatively these amendments represent an increase of \$714.9K over the original contract values.
+
+The average contract duration was 1.32 years, and the average contract value (not including contracts under \$10k) was \$1.3M. The longest contract was 2.73 years. The largest contract by value (including amendments) was \$2.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

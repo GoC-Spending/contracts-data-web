@@ -1,7 +1,7 @@
 ---
 title: KEYSTONE ENVIRONMENTAL
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: keystone_environmental
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.0M in 2021-2022 on contracts with KEYSTONE ENVIRONMENTAL.
+The Government of Canada spent an estimated **\$4.0M in 2021-2022** on contracts with KEYSTONE ENVIRONMENTAL.
+
+Across 42 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 58% and the average number of amendments was 4.12. Cumulatively these amendments represent an increase of \$2.4M over the original contract values.
+
+The average contract duration was 1.08 years, and the average contract value (not including contracts under \$10k) was \$466.5K. The longest contract was 3.07 years. The largest contract by value (including amendments) was \$7.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

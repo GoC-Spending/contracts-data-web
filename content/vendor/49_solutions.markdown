@@ -1,7 +1,7 @@
 ---
 title: 49 SOLUTIONS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 49_solutions
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.9M in 2021-2022 on contracts with 49 SOLUTIONS.
+The Government of Canada spent an estimated **\$2.9M in 2021-2022** on contracts with 49 SOLUTIONS.
+
+Across 16 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (31%). Of contracts with amendments, the average increase in dollar value was 259% and the average number of amendments was 2.6. Cumulatively these amendments represent an increase of \$3.5M over the original contract values.
+
+The average contract duration was 0.95 years, and the average contract value (not including contracts under \$10k) was \$540.8K. The longest contract was 2.43 years. The largest contract by value (including amendments) was \$2.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

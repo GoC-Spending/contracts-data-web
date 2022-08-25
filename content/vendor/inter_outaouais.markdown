@@ -1,7 +1,7 @@
 ---
 title: INTER OUTAOUAIS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: inter_outaouais
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.4M in 2021-2022 on contracts with INTER OUTAOUAIS.
+The Government of Canada spent an estimated **\$1.4M in 2021-2022** on contracts with INTER OUTAOUAIS.
+
+Across 17 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 6% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$14.7K over the original contract values.
+
+The average contract duration was 0.94 years, and the average contract value (not including contracts under \$10k) was \$1.7M. The longest contract was 2.36 years. The largest contract by value (including amendments) was \$5.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

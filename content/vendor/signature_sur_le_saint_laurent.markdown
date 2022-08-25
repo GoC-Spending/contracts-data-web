@@ -1,7 +1,7 @@
 ---
 title: SIGNATURE SUR LE SAINT LAURENT
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: signature_sur_le_saint_laurent
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$144.5M in 2021-2022 on contracts with SIGNATURE SUR LE SAINT LAURENT.
+The Government of Canada spent an estimated **\$144.5M in 2021-2022** on contracts with SIGNATURE SUR LE SAINT LAURENT.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 11% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$497.1M over the original contract values.
+
+The average contract duration was 34.82 years, and the average contract value (not including contracts under \$10k) was \$5.0B. The longest contract was 34.82 years. The largest contract by value (including amendments) was \$5.0B.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

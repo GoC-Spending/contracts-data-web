@@ -1,7 +1,7 @@
 ---
 title: SIEMENS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: siemens
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.2M in 2021-2022 on contracts with SIEMENS.
+The Government of Canada spent an estimated **\$6.2M in 2021-2022** on contracts with SIEMENS.
+
+Across 387 contracts active since the start of the 2017-2018 fiscal year, 52 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 76% and the average number of amendments was 1.46. Cumulatively these amendments represent an increase of \$4.0M over the original contract values.
+
+The average contract duration was 1.12 years, and the average contract value (not including contracts under \$10k) was \$125.2K. The longest contract was 7.09 years. The largest contract by value (including amendments) was \$3.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

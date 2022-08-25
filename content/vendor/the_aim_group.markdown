@@ -1,7 +1,7 @@
 ---
 title: THE AIM GROUP
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: the_aim_group
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$38.8M in 2021-2022 on contracts with THE AIM GROUP.
+The Government of Canada spent an estimated **\$38.8M in 2021-2022** on contracts with THE AIM GROUP.
+
+Across 521 contracts active since the start of the 2017-2018 fiscal year, 212 have at least one amendment (41%). Of contracts with amendments, the average increase in dollar value was 1101937% and the average number of amendments was 1.95. Cumulatively these amendments represent an increase of \$63.8M over the original contract values.
+
+The average contract duration was 1.18 years, and the average contract value (not including contracts under \$10k) was \$535.8K. The longest contract was 6.47 years. The largest contract by value (including amendments) was \$15.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

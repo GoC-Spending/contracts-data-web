@@ -1,7 +1,7 @@
 ---
 title: Public Service Commission of Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: psc-cfp
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Public Service Commission of Canada spent an estimated \$5.3M in 2021-2022 on contracts.
+Public Service Commission of Canada spent an estimated **\$5.3M in 2021-2022** on contracts.
+
+Across 294 contracts active since the start of the 2017-2018 fiscal year, 53 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 124% and the average number of amendments was 2.62. Cumulatively these amendments represent an increase of \$8.3M over the original contract values.
+
+The average contract duration was 1.02 years, and the average contract value (not including contracts under \$10k) was \$114.3K. The longest contract was 5 years. The largest contract by value (including amendments) was \$2.3M.
+
 {{< /entity_summary >}}
 
 ## Vendors

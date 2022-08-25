@@ -1,7 +1,7 @@
 ---
 title: A SANTIN MASON CONTRACTOR
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: a_santin_mason_contractor
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.4M in 2020-2021 on contracts with A SANTIN MASON CONTRACTOR.
+The Government of Canada spent an estimated **\$3.4M in 2020-2021** on contracts with A SANTIN MASON CONTRACTOR.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 45% and the average number of amendments was 2.6. Cumulatively these amendments represent an increase of \$3.2M over the original contract values.
+
+The average contract duration was 2.26 years, and the average contract value (not including contracts under \$10k) was \$2.2M. The longest contract was 5.39 years. The largest contract by value (including amendments) was \$4.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: MAISON CROSS ROADS DE LA SOCIETE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: maison_cross_roads_de_la_societe
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.8M in 2021-2022 on contracts with MAISON CROSS ROADS DE LA SOCIETE.
+The Government of Canada spent an estimated **\$1.8M in 2021-2022** on contracts with MAISON CROSS ROADS DE LA SOCIETE.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 173% and the average number of amendments was 2.75. Cumulatively these amendments represent an increase of \$8.1M over the original contract values.
+
+The average contract duration was 2.79 years, and the average contract value (not including contracts under \$10k) was \$3.1M. The longest contract was 4.17 years. The largest contract by value (including amendments) was \$4.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

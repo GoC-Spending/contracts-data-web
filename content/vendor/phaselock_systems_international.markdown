@@ -1,7 +1,7 @@
 ---
 title: PHASELOCK SYSTEMS INTERNATIONAL
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: phaselock_systems_international
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.7M in 2021-2022 on contracts with PHASELOCK SYSTEMS INTERNATIONAL.
+The Government of Canada spent an estimated **\$1.7M in 2021-2022** on contracts with PHASELOCK SYSTEMS INTERNATIONAL.
+
+Across 262 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was 25% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$2.2K over the original contract values.
+
+The average contract duration was 0.44 years, and the average contract value (not including contracts under \$10k) was \$31.3K. The longest contract was 15.01 years. The largest contract by value (including amendments) was \$399.8K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

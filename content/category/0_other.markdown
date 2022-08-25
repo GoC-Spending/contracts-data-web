@@ -1,7 +1,7 @@
 ---
 title: (Other)
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 0_other
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$48.4M in 2021-2022 on (other) contracts.
+The Government of Canada spent an estimated **\$48.4M in 2021-2022** on (other) contracts.
+
+Across 1,378 contracts active since the start of the 2017-2018 fiscal year, 92 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 177% and the average number of amendments was 1.48. Cumulatively these amendments represent an increase of \$21.3M over the original contract values.
+
+The average contract duration was 0.64 years, and the average contract value (not including contracts under \$10k) was \$274.3K. The longest contract was 8.12 years. The largest contract by value (including amendments) was \$30.3M.
+
 {{< /entity_summary >}}
 
 ## Vendors

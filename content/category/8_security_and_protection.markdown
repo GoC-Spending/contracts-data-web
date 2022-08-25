@@ -1,7 +1,7 @@
 ---
 title: Security and protection
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 8_security_and_protection
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$557.5M in 2021-2022 on security and protection contracts.
+The Government of Canada spent an estimated **\$557.5M in 2021-2022** on security and protection contracts.
+
+Across 6,836 contracts active since the start of the 2017-2018 fiscal year, 1,678 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was 198% and the average number of amendments was 1.55. Cumulatively these amendments represent an increase of \$281.3M over the original contract values.
+
+The average contract duration was 0.96 years, and the average contract value (not including contracts under \$10k) was \$377.7K. The longest contract was 10.09 years. The largest contract by value (including amendments) was \$27.3M.
+
 {{< /entity_summary >}}
 
 ## Vendors

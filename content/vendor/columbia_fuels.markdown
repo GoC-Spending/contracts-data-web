@@ -1,7 +1,7 @@
 ---
 title: COLUMBIA FUELS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: columbia_fuels
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$13.8M in 2021-2022 on contracts with COLUMBIA FUELS.
+The Government of Canada spent an estimated **\$13.8M in 2021-2022** on contracts with COLUMBIA FUELS.
+
+Across 185 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 28% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$17.4K over the original contract values.
+
+The average contract duration was 0.09 years, and the average contract value (not including contracts under \$10k) was \$78.9K. The longest contract was 1 years. The largest contract by value (including amendments) was \$798.7K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

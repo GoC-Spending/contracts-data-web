@@ -1,7 +1,7 @@
 ---
 title: HAZELWOOD CONSTRUCTION SERVICES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: hazelwood_construction_services
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$5.1M in 2021-2022 on contracts with HAZELWOOD CONSTRUCTION SERVICES.
+The Government of Canada spent an estimated **\$5.1M in 2021-2022** on contracts with HAZELWOOD CONSTRUCTION SERVICES.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 23% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$5.3M over the original contract values.
+
+The average contract duration was 2.32 years, and the average contract value (not including contracts under \$10k) was \$28.3M. The longest contract was 2.32 years. The largest contract by value (including amendments) was \$28.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

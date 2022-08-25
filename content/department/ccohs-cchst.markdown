@@ -1,7 +1,7 @@
 ---
 title: Canadian Centre for Occupational Health and Safety
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ccohs-cchst
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Canadian Centre for Occupational Health and Safety spent an estimated \$902.8K in 2021-2022 on contracts.
+Canadian Centre for Occupational Health and Safety spent an estimated **\$902.8K in 2021-2022** on contracts.
+
+Across 111 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 25% and the average number of amendments was 1.29. Cumulatively these amendments represent an increase of \$54.3K over the original contract values.
+
+The average contract duration was 1.01 years, and the average contract value (not including contracts under \$10k) was \$34.7K. The longest contract was 8.34 years. The largest contract by value (including amendments) was \$214.1K.
+
 {{< /entity_summary >}}
 
 ## Vendors

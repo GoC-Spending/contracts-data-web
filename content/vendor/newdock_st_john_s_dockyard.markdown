@@ -1,7 +1,7 @@
 ---
 title: NEWDOCK ST JOHN S DOCKYARD
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: newdock_st_john_s_dockyard
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$11.7M in 2021-2022 on contracts with NEWDOCK ST JOHN S DOCKYARD.
+The Government of Canada spent an estimated **\$11.7M in 2021-2022** on contracts with NEWDOCK ST JOHN S DOCKYARD.
+
+Across 37 contracts active since the start of the 2017-2018 fiscal year, 31 have at least one amendment (84%). Of contracts with amendments, the average increase in dollar value was 37% and the average number of amendments was 1.61. Cumulatively these amendments represent an increase of \$35.7M over the original contract values.
+
+The average contract duration was 0.19 years, and the average contract value (not including contracts under \$10k) was \$2.6M. The longest contract was 1.55 years. The largest contract by value (including amendments) was \$22.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

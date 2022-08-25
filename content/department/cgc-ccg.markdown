@@ -1,7 +1,7 @@
 ---
 title: Canadian Grain Commission
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cgc-ccg
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Canadian Grain Commission spent an estimated \$6.2M in 2021-2022 on contracts.
+Canadian Grain Commission spent an estimated **\$6.2M in 2021-2022** on contracts.
+
+Across 607 contracts active since the start of the 2017-2018 fiscal year, 39 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 138% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$3.0M over the original contract values.
+
+The average contract duration was 0.93 years, and the average contract value (not including contracts under \$10k) was \$54.3K. The longest contract was 6.08 years. The largest contract by value (including amendments) was \$1.4M.
+
 {{< /entity_summary >}}
 
 ## Vendors

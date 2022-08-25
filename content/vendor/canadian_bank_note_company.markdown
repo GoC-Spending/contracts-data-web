@@ -1,7 +1,7 @@
 ---
 title: CANADIAN BANK NOTE COMPANY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: canadian_bank_note_company
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$121.3M in 2021-2022 on contracts with CANADIAN BANK NOTE COMPANY.
+The Government of Canada spent an estimated **\$121.3M in 2021-2022** on contracts with CANADIAN BANK NOTE COMPANY.
+
+Across 19 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (53%). Of contracts with amendments, the average increase in dollar value was 200% and the average number of amendments was 3.2. Cumulatively these amendments represent an increase of \$275.3M over the original contract values.
+
+The average contract duration was 4.58 years, and the average contract value (not including contracts under \$10k) was \$53.0M. The longest contract was 11.77 years. The largest contract by value (including amendments) was \$340.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: CONSTRUCTION LFG
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: construction_lfg
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.5M in 2021-2022 on contracts with CONSTRUCTION LFG.
+The Government of Canada spent an estimated **\$1.5M in 2021-2022** on contracts with CONSTRUCTION LFG.
+
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (86%). Of contracts with amendments, the average increase in dollar value was 28% and the average number of amendments was 3.17. Cumulatively these amendments represent an increase of \$9.1M over the original contract values.
+
+The average contract duration was 1.07 years, and the average contract value (not including contracts under \$10k) was \$4.1M. The longest contract was 4.75 years. The largest contract by value (including amendments) was \$11.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

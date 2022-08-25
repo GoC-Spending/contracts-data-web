@@ -1,7 +1,7 @@
 ---
 title: BC HYDRO
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: bc_hydro
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$29.4K in 2021-2022 on contracts with BC HYDRO.
+The Government of Canada spent an estimated **\$29.4K in 2021-2022** on contracts with BC HYDRO.
+
+Across 29 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (45%). Of contracts with amendments, the average increase in dollar value was -1% and the average number of amendments was 1.15. Cumulatively these amendments represent an increase of \$25.6K over the original contract values.
+
+The average contract duration was 1.08 years, and the average contract value (not including contracts under \$10k) was \$173.7K. The longest contract was 7.2 years. The largest contract by value (including amendments) was \$594.2K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

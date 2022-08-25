@@ -1,7 +1,7 @@
 ---
 title: Facilities and construction
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 1_facilities_and_construction
 categories: []
 tags: []

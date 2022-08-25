@@ -1,7 +1,7 @@
 ---
 title: FLOYD S CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: floyd_s_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$5.0M in 2021-2022 on contracts with FLOYD S CONSTRUCTION.
+The Government of Canada spent an estimated **\$5.0M in 2021-2022** on contracts with FLOYD S CONSTRUCTION.
+
+Across 30 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (30%). Of contracts with amendments, the average increase in dollar value was 15% and the average number of amendments was 1.56. Cumulatively these amendments represent an increase of \$811.0K over the original contract values.
+
+The average contract duration was 0.64 years, and the average contract value (not including contracts under \$10k) was \$749.4K. The longest contract was 2.56 years. The largest contract by value (including amendments) was \$4.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

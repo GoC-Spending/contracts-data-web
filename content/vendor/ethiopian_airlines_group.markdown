@@ -1,7 +1,7 @@
 ---
 title: ETHIOPIAN AIRLINES GROUP
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ethiopian_airlines_group
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.8M in 2020-2021 on contracts with ETHIOPIAN AIRLINES GROUP.
+The Government of Canada spent an estimated **\$2.8M in 2020-2021** on contracts with ETHIOPIAN AIRLINES GROUP.
+
+Across 8 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$0.0 over the original contract values.
+
+The average contract duration was 0.24 years, and the average contract value (not including contracts under \$10k) was \$645.6K. The longest contract was 0.89 years. The largest contract by value (including amendments) was \$1.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

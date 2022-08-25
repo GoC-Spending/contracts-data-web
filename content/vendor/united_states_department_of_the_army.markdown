@@ -1,7 +1,7 @@
 ---
 title: UNITED STATES DEPARTMENT OF THE ARMY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: united_states_department_of_the_army
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$12.0M in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF THE ARMY.
+The Government of Canada spent an estimated **\$12.0M in 2021-2022** on contracts with UNITED STATES DEPARTMENT OF THE ARMY.
+
+Across 21 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (57%). Of contracts with amendments, the average increase in dollar value was 96% and the average number of amendments was 2.17. Cumulatively these amendments represent an increase of \$4.8M over the original contract values.
+
+The average contract duration was 7.61 years, and the average contract value (not including contracts under \$10k) was \$4.6M. The longest contract was 10.68 years. The largest contract by value (including amendments) was \$13.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

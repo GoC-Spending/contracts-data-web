@@ -1,7 +1,7 @@
 ---
 title: MAPLESOFT CONSULTING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: maplesoft_consulting
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$39.2M in 2021-2022 on contracts with MAPLESOFT CONSULTING.
+The Government of Canada spent an estimated **\$39.2M in 2021-2022** on contracts with MAPLESOFT CONSULTING.
+
+Across 379 contracts active since the start of the 2017-2018 fiscal year, 250 have at least one amendment (66%). Of contracts with amendments, the average increase in dollar value was 149% and the average number of amendments was 1.98. Cumulatively these amendments represent an increase of \$92.6M over the original contract values.
+
+The average contract duration was 1.49 years, and the average contract value (not including contracts under \$10k) was \$758.6K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$30.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

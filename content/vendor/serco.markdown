@@ -1,7 +1,7 @@
 ---
 title: SERCO
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: serco
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$55.6M in 2021-2022 on contracts with SERCO.
+The Government of Canada spent an estimated **\$55.6M in 2021-2022** on contracts with SERCO.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (30%). Of contracts with amendments, the average increase in dollar value was 13% and the average number of amendments was 2.67. Cumulatively these amendments represent an increase of \$2.3M over the original contract values.
+
+The average contract duration was 2.87 years, and the average contract value (not including contracts under \$10k) was \$100.0M. The longest contract was 10.01 years. The largest contract by value (including amendments) was \$695.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

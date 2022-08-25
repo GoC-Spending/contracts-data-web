@@ -1,7 +1,7 @@
 ---
 title: M R ENGINEERING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: m_r_engineering
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1M in 2021-2022 on contracts with M R ENGINEERING.
+The Government of Canada spent an estimated **\$1.1M in 2021-2022** on contracts with M R ENGINEERING.
+
+Across 13 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (38%). Of contracts with amendments, the average increase in dollar value was 98% and the average number of amendments was 3.6. Cumulatively these amendments represent an increase of \$4.1M over the original contract values.
+
+The average contract duration was 1.8 years, and the average contract value (not including contracts under \$10k) was \$524.2K. The longest contract was 7.35 years. The largest contract by value (including amendments) was \$4.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

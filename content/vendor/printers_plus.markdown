@@ -1,7 +1,7 @@
 ---
 title: PRINTERS PLUS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: printers_plus
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.9M in 2021-2022 on contracts with PRINTERS PLUS.
+The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with PRINTERS PLUS.
+
+Across 382 contracts active since the start of the 2017-2018 fiscal year, 26 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 25% and the average number of amendments was 1.85. Cumulatively these amendments represent an increase of \$832.9K over the original contract values.
+
+The average contract duration was 1.03 years, and the average contract value (not including contracts under \$10k) was \$48.1K. The longest contract was 6.42 years. The largest contract by value (including amendments) was \$1.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

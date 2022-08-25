@@ -1,7 +1,7 @@
 ---
 title: TECHNOREM
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: technorem
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.5M in 2021-2022 on contracts with TECHNOREM.
+The Government of Canada spent an estimated **\$2.5M in 2021-2022** on contracts with TECHNOREM.
+
+Across 30 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (53%). Of contracts with amendments, the average increase in dollar value was 196% and the average number of amendments was 2.44. Cumulatively these amendments represent an increase of \$5.1M over the original contract values.
+
+The average contract duration was 1.5 years, and the average contract value (not including contracts under \$10k) was \$344.0K. The longest contract was 9.44 years. The largest contract by value (including amendments) was \$3.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

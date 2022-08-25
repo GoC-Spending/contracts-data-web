@@ -1,7 +1,7 @@
 ---
 title: GREENDALE RESOURCES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: greendale_resources
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$758.5K in 2021-2022 on contracts with GREENDALE RESOURCES.
+The Government of Canada spent an estimated **\$758.5K in 2021-2022** on contracts with GREENDALE RESOURCES.
+
+Across 25 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (24%). Of contracts with amendments, the average increase in dollar value was 41% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$419.4K over the original contract values.
+
+The average contract duration was 0.47 years, and the average contract value (not including contracts under \$10k) was \$215.8K. The longest contract was 2.48 years. The largest contract by value (including amendments) was \$1.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

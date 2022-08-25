@@ -1,7 +1,7 @@
 ---
 title: POMERLEAU
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pomerleau
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$189.0M in 2021-2022 on contracts with POMERLEAU.
+The Government of Canada spent an estimated **\$189.0M in 2021-2022** on contracts with POMERLEAU.
+
+Across 32 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 1405% and the average number of amendments was 4.31. Cumulatively these amendments represent an increase of \$353.5M over the original contract values.
+
+The average contract duration was 3.11 years, and the average contract value (not including contracts under \$10k) was \$38.4M. The longest contract was 5.78 years. The largest contract by value (including amendments) was \$238.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

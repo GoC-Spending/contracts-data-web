@@ -1,7 +1,7 @@
 ---
 title: CELEB CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: celeb_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.4M in 2021-2022 on contracts with CELEB CONSTRUCTION.
+The Government of Canada spent an estimated **\$2.4M in 2021-2022** on contracts with CELEB CONSTRUCTION.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 162% and the average number of amendments was 3.2. Cumulatively these amendments represent an increase of \$15.2M over the original contract values.
+
+The average contract duration was 3.29 years, and the average contract value (not including contracts under \$10k) was \$4.3M. The longest contract was 7.69 years. The largest contract by value (including amendments) was \$15.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

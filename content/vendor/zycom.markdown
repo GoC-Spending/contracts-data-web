@@ -1,7 +1,7 @@
 ---
 title: ZYCOM
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: zycom
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.0M in 2021-2022 on contracts with ZYCOM.
+The Government of Canada spent an estimated **\$3.0M in 2021-2022** on contracts with ZYCOM.
+
+Across 107 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 116% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$38.2K over the original contract values.
+
+The average contract duration was 1.54 years, and the average contract value (not including contracts under \$10k) was \$258.4K. The longest contract was 5.08 years. The largest contract by value (including amendments) was \$4.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

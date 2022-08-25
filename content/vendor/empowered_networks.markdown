@@ -1,7 +1,7 @@
 ---
 title: EMPOWERED NETWORKS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: empowered_networks
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.8M in 2021-2022 on contracts with EMPOWERED NETWORKS.
+The Government of Canada spent an estimated **\$1.8M in 2021-2022** on contracts with EMPOWERED NETWORKS.
+
+Across 52 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was 219% and the average number of amendments was 2.31. Cumulatively these amendments represent an increase of \$11.0M over the original contract values.
+
+The average contract duration was 1.18 years, and the average contract value (not including contracts under \$10k) was \$380.7K. The longest contract was 3.9 years. The largest contract by value (including amendments) was \$9.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

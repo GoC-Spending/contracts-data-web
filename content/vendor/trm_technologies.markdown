@@ -1,7 +1,7 @@
 ---
 title: TRM TECHNOLOGIES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: trm_technologies
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$8.8M in 2021-2022 on contracts with TRM TECHNOLOGIES.
+The Government of Canada spent an estimated **\$8.8M in 2021-2022** on contracts with TRM TECHNOLOGIES.
+
+Across 173 contracts active since the start of the 2017-2018 fiscal year, 77 have at least one amendment (45%). Of contracts with amendments, the average increase in dollar value was 1013172% and the average number of amendments was 2.06. Cumulatively these amendments represent an increase of \$25.1M over the original contract values.
+
+The average contract duration was 1.25 years, and the average contract value (not including contracts under \$10k) was \$380.9K. The longest contract was 6.24 years. The largest contract by value (including amendments) was \$7.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

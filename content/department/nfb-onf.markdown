@@ -1,7 +1,7 @@
 ---
 title: National Film Board
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: nfb-onf
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-National Film Board spent an estimated \$8.6M in 2021-2022 on contracts.
+National Film Board spent an estimated **\$8.6M in 2021-2022** on contracts.
+
+Across 1,136 contracts active since the start of the 2017-2018 fiscal year, 59 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 43% and the average number of amendments was 1.05. Cumulatively these amendments represent an increase of \$952.1K over the original contract values.
+
+The average contract duration was 0.61 years, and the average contract value (not including contracts under \$10k) was \$45.8K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$1.4M.
+
 {{< /entity_summary >}}
 
 ## Vendors

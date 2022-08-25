@@ -1,7 +1,7 @@
 ---
 title: ALLEN HASTINGS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: allen_hastings
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.0M in 2020-2021 on contracts with ALLEN HASTINGS.
+The Government of Canada spent an estimated **\$2.0M in 2020-2021** on contracts with ALLEN HASTINGS.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (75%). Of contracts with amendments, the average increase in dollar value was 1% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$136.9K over the original contract values.
+
+The average contract duration was 1.2 years, and the average contract value (not including contracts under \$10k) was \$2.3M. The longest contract was 2.61 years. The largest contract by value (including amendments) was \$5.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

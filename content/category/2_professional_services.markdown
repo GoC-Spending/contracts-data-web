@@ -1,7 +1,7 @@
 ---
 title: Professional services
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 2_professional_services
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.8B in 2021-2022 on professional services contracts.
+The Government of Canada spent an estimated **\$3.8B in 2021-2022** on professional services contracts.
+
+Across 79,111 contracts active since the start of the 2017-2018 fiscal year, 14,742 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 1183783% and the average number of amendments was 1.59. Cumulatively these amendments represent an increase of \$6.8B over the original contract values.
+
+The average contract duration was 0.9 years, and the average contract value (not including contracts under \$10k) was \$330.7K. The longest contract was 30.09 years. The largest contract by value (including amendments) was \$2.5B.
+
 {{< /entity_summary >}}
 
 ## Vendors

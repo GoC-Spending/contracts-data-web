@@ -1,7 +1,7 @@
 ---
 title: ST JOSEPH PRINT GROUP
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: st_joseph_print_group
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.2M in 2021-2022 on contracts with ST JOSEPH PRINT GROUP.
+The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with ST JOSEPH PRINT GROUP.
+
+Across 146 contracts active since the start of the 2017-2018 fiscal year, 18 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 71% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$4.4M over the original contract values.
+
+The average contract duration was 0.64 years, and the average contract value (not including contracts under \$10k) was \$96.7K. The longest contract was 9.1 years. The largest contract by value (including amendments) was \$5.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: EVALUATION PERSONNEL SELECTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: evaluation_personnel_selection
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.9M in 2021-2022 on contracts with EVALUATION PERSONNEL SELECTION.
+The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with EVALUATION PERSONNEL SELECTION.
+
+Across 117 contracts active since the start of the 2017-2018 fiscal year, 23 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 101% and the average number of amendments was 1.35. Cumulatively these amendments represent an increase of \$1.8M over the original contract values.
+
+The average contract duration was 0.81 years, and the average contract value (not including contracts under \$10k) was \$59.0K. The longest contract was 5.23 years. The largest contract by value (including amendments) was \$870.5K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

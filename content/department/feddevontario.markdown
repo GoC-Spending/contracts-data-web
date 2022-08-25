@@ -1,7 +1,7 @@
 ---
 title: Federal Economic Development Agency for Southern Ontario
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: feddevontario
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Federal Economic Development Agency for Southern Ontario spent an estimated \$2.9M in 2021-2022 on contracts.
+Federal Economic Development Agency for Southern Ontario spent an estimated **\$2.9M in 2021-2022** on contracts.
+
+Across 204 contracts active since the start of the 2017-2018 fiscal year, 31 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 71% and the average number of amendments was 1.32. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
+
+The average contract duration was 0.77 years, and the average contract value (not including contracts under \$10k) was \$82.3K. The longest contract was 7.98 years. The largest contract by value (including amendments) was \$5.3M.
+
 {{< /entity_summary >}}
 
 ## Vendors

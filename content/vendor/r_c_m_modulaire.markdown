@@ -1,7 +1,7 @@
 ---
 title: R C M MODULAIRE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: r_c_m_modulaire
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.3M in 2021-2022 on contracts with R C M MODULAIRE.
+The Government of Canada spent an estimated **\$1.3M in 2021-2022** on contracts with R C M MODULAIRE.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 487% and the average number of amendments was 9. Cumulatively these amendments represent an increase of \$6.0M over the original contract values.
+
+The average contract duration was 3.11 years, and the average contract value (not including contracts under \$10k) was \$3.6M. The longest contract was 5.5 years. The largest contract by value (including amendments) was \$7.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

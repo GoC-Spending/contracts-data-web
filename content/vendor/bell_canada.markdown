@@ -1,7 +1,7 @@
 ---
 title: BELL CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: bell_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$305.3M in 2021-2022 on contracts with BELL CANADA.
+The Government of Canada spent an estimated **\$305.3M in 2021-2022** on contracts with BELL CANADA.
+
+Across 1,064 contracts active since the start of the 2017-2018 fiscal year, 265 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was 112486% and the average number of amendments was 2.27. Cumulatively these amendments represent an increase of \$2.1B over the original contract values.
+
+The average contract duration was 2.18 years, and the average contract value (not including contracts under \$10k) was \$3.2M. The longest contract was 17.96 years. The largest contract by value (including amendments) was \$624.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

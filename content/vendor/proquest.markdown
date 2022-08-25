@@ -1,7 +1,7 @@
 ---
 title: PROQUEST
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: proquest
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.0M in 2021-2022 on contracts with PROQUEST.
+The Government of Canada spent an estimated **\$4.0M in 2021-2022** on contracts with PROQUEST.
+
+Across 143 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 23% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$489.5K over the original contract values.
+
+The average contract duration was 0.71 years, and the average contract value (not including contracts under \$10k) was \$96.1K. The longest contract was 3.96 years. The largest contract by value (including amendments) was \$973.4K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

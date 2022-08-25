@@ -1,7 +1,7 @@
 ---
 title: VAN HORNE CONSTRUCTUION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: van_horne_constructuion
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.9M in 2021-2022 on contracts with VAN HORNE CONSTRUCTUION.
+The Government of Canada spent an estimated **\$4.9M in 2021-2022** on contracts with VAN HORNE CONSTRUCTUION.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 0 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was NA and the average number of amendments was NA. Cumulatively these amendments represent an increase of \$NA over the original contract values.
+
+The average contract duration was 2.09 years, and the average contract value (not including contracts under \$10k) was \$10.6M. The longest contract was 2.09 years. The largest contract by value (including amendments) was \$10.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

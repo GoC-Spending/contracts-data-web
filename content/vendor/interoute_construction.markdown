@@ -1,7 +1,7 @@
 ---
 title: INTEROUTE CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: interoute_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$279.3K in 2020-2021 on contracts with INTEROUTE CONSTRUCTION.
+The Government of Canada spent an estimated **\$279.3K in 2020-2021** on contracts with INTEROUTE CONSTRUCTION.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (80%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 2.5. Cumulatively these amendments represent an increase of \$1.1M over the original contract values.
+
+The average contract duration was 1.21 years, and the average contract value (not including contracts under \$10k) was \$4.4M. The longest contract was 2.44 years. The largest contract by value (including amendments) was \$11.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

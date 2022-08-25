@@ -1,7 +1,7 @@
 ---
 title: Social Sciences and Humanities Research Council of Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: sshrc-crsh
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Social Sciences and Humanities Research Council of Canada spent an estimated \$1.3M in 2021-2022 on contracts.
+Social Sciences and Humanities Research Council of Canada spent an estimated **\$1.3M in 2021-2022** on contracts.
+
+Across 161 contracts active since the start of the 2017-2018 fiscal year, 32 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 609% and the average number of amendments was 1.44. Cumulatively these amendments represent an increase of \$1.7M over the original contract values.
+
+The average contract duration was 1.05 years, and the average contract value (not including contracts under \$10k) was \$53.4K. The longest contract was 8.27 years. The largest contract by value (including amendments) was \$484.1K.
+
 {{< /entity_summary >}}
 
 ## Vendors

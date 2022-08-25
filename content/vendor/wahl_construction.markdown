@@ -1,7 +1,7 @@
 ---
 title: WAHL CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: wahl_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.9M in 2021-2022 on contracts with WAHL CONSTRUCTION.
+The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with WAHL CONSTRUCTION.
+
+Across 83 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 72% and the average number of amendments was 1.06. Cumulatively these amendments represent an increase of \$-334.7K over the original contract values.
+
+The average contract duration was 0.52 years, and the average contract value (not including contracts under \$10k) was \$146.8K. The longest contract was 3 years. The largest contract by value (including amendments) was \$1.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

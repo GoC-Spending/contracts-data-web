@@ -1,7 +1,7 @@
 ---
 title: RUSSELL CHERNOFF RAND THOMPSON
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: russell_chernoff_rand_thompson
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.2M in 2021-2022 on contracts with RUSSELL CHERNOFF RAND THOMPSON.
+The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with RUSSELL CHERNOFF RAND THOMPSON.
+
+Across 27 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (44%). Of contracts with amendments, the average increase in dollar value was 641% and the average number of amendments was 1.67. Cumulatively these amendments represent an increase of \$4.4M over the original contract values.
+
+The average contract duration was 2.3 years, and the average contract value (not including contracts under \$10k) was \$458.1K. The longest contract was 5.68 years. The largest contract by value (including amendments) was \$1.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

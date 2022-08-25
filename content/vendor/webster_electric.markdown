@@ -1,7 +1,7 @@
 ---
 title: WEBSTER ELECTRIC
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: webster_electric
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.2M in 2021-2022 on contracts with WEBSTER ELECTRIC.
+The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with WEBSTER ELECTRIC.
+
+Across 91 contracts active since the start of the 2017-2018 fiscal year, 22 have at least one amendment (24%). Of contracts with amendments, the average increase in dollar value was 19% and the average number of amendments was 1.09. Cumulatively these amendments represent an increase of \$300.2K over the original contract values.
+
+The average contract duration was 0.39 years, and the average contract value (not including contracts under \$10k) was \$69.6K. The longest contract was 5 years. The largest contract by value (including amendments) was \$487.0K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: H H CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: h_h_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.9M in 2021-2022 on contracts with H H CONSTRUCTION.
+The Government of Canada spent an estimated **\$4.9M in 2021-2022** on contracts with H H CONSTRUCTION.
+
+Across 55 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 51% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$396.2K over the original contract values.
+
+The average contract duration was 0.28 years, and the average contract value (not including contracts under \$10k) was \$178.7K. The longest contract was 2.92 years. The largest contract by value (including amendments) was \$4.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

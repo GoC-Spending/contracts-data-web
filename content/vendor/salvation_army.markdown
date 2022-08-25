@@ -1,7 +1,7 @@
 ---
 title: SALVATION ARMY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: salvation_army
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$22.3M in 2021-2022 on contracts with SALVATION ARMY.
+The Government of Canada spent an estimated **\$22.3M in 2021-2022** on contracts with SALVATION ARMY.
+
+Across 59 contracts active since the start of the 2017-2018 fiscal year, 36 have at least one amendment (61%). Of contracts with amendments, the average increase in dollar value was 357% and the average number of amendments was 3.39. Cumulatively these amendments represent an increase of \$84.9M over the original contract values.
+
+The average contract duration was 2.82 years, and the average contract value (not including contracts under \$10k) was \$2.6M. The longest contract was 7 years. The largest contract by value (including amendments) was \$6.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

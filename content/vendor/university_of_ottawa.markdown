@@ -1,7 +1,7 @@
 ---
 title: UNIVERSITY OF OTTAWA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: university_of_ottawa
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.8M in 2021-2022 on contracts with UNIVERSITY OF OTTAWA.
+The Government of Canada spent an estimated **\$4.8M in 2021-2022** on contracts with UNIVERSITY OF OTTAWA.
+
+Across 231 contracts active since the start of the 2017-2018 fiscal year, 22 have at least one amendment (10%). Of contracts with amendments, the average increase in dollar value was 192% and the average number of amendments was 1.73. Cumulatively these amendments represent an increase of \$5.0M over the original contract values.
+
+The average contract duration was 0.74 years, and the average contract value (not including contracts under \$10k) was \$106.7K. The longest contract was 8.71 years. The largest contract by value (including amendments) was \$2.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

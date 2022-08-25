@@ -1,7 +1,7 @@
 ---
 title: KINETIC CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: kinetic_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$13.2M in 2021-2022 on contracts with KINETIC CONSTRUCTION.
+The Government of Canada spent an estimated **\$13.2M in 2021-2022** on contracts with KINETIC CONSTRUCTION.
+
+Across 21 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 2335% and the average number of amendments was 2.7. Cumulatively these amendments represent an increase of \$12.6M over the original contract values.
+
+The average contract duration was 1.26 years, and the average contract value (not including contracts under \$10k) was \$2.6M. The longest contract was 3.76 years. The largest contract by value (including amendments) was \$12.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

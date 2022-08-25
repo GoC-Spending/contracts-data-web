@@ -1,7 +1,7 @@
 ---
 title: VCI CONTROLS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: vci_controls
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$588.0K in 2021-2022 on contracts with VCI CONTROLS.
+The Government of Canada spent an estimated **\$588.0K in 2021-2022** on contracts with VCI CONTROLS.
+
+Across 40 contracts active since the start of the 2017-2018 fiscal year, 14 have at least one amendment (35%). Of contracts with amendments, the average increase in dollar value was 22% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$828.4K over the original contract values.
+
+The average contract duration was 2.05 years, and the average contract value (not including contracts under \$10k) was \$216.4K. The longest contract was 5.84 years. The largest contract by value (including amendments) was \$1.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

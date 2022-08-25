@@ -1,7 +1,7 @@
 ---
 title: JOHNSON S CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: johnson_s_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$528.4K in 2021-2022 on contracts with JOHNSON S CONSTRUCTION.
+The Government of Canada spent an estimated **\$528.4K in 2021-2022** on contracts with JOHNSON S CONSTRUCTION.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 18% and the average number of amendments was 2.29. Cumulatively these amendments represent an increase of \$839.3K over the original contract values.
+
+The average contract duration was 1.74 years, and the average contract value (not including contracts under \$10k) was \$4.7M. The longest contract was 3.93 years. The largest contract by value (including amendments) was \$8.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

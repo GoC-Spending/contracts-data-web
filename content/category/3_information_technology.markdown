@@ -1,7 +1,7 @@
 ---
 title: Information technology
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 3_information_technology
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.0B in 2021-2022 on information technology contracts.
+The Government of Canada spent an estimated **\$4.0B in 2021-2022** on information technology contracts.
+
+Across 52,670 contracts active since the start of the 2017-2018 fiscal year, 10,448 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 628590% and the average number of amendments was 2.23. Cumulatively these amendments represent an increase of \$8.9B over the original contract values.
+
+The average contract duration was 1.18 years, and the average contract value (not including contracts under \$10k) was \$524.0K. The longest contract was 31.02 years. The largest contract by value (including amendments) was \$1.1B.
+
 {{< /entity_summary >}}
 
 ## Vendors

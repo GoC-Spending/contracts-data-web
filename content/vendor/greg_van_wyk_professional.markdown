@@ -1,7 +1,7 @@
 ---
 title: GREG VAN WYK PROFESSIONAL
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: greg_van_wyk_professional
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$879.6K in 2021-2022 on contracts with GREG VAN WYK PROFESSIONAL.
+The Government of Canada spent an estimated **\$879.6K in 2021-2022** on contracts with GREG VAN WYK PROFESSIONAL.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (40%). Of contracts with amendments, the average increase in dollar value was 142% and the average number of amendments was 1.75. Cumulatively these amendments represent an increase of \$2.1M over the original contract values.
+
+The average contract duration was 2.45 years, and the average contract value (not including contracts under \$10k) was \$814.9K. The longest contract was 5 years. The largest contract by value (including amendments) was \$2.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

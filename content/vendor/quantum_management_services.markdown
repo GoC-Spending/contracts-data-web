@@ -1,7 +1,7 @@
 ---
 title: QUANTUM MANAGEMENT SERVICES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: quantum_management_services
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.6M in 2021-2022 on contracts with QUANTUM MANAGEMENT SERVICES.
+The Government of Canada spent an estimated **\$4.6M in 2021-2022** on contracts with QUANTUM MANAGEMENT SERVICES.
+
+Across 178 contracts active since the start of the 2017-2018 fiscal year, 55 have at least one amendment (31%). Of contracts with amendments, the average increase in dollar value was 118% and the average number of amendments was 1.56. Cumulatively these amendments represent an increase of \$70.4M over the original contract values.
+
+The average contract duration was 0.65 years, and the average contract value (not including contracts under \$10k) was \$818.9K. The longest contract was 7.59 years. The largest contract by value (including amendments) was \$133.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

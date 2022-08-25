@@ -1,7 +1,7 @@
 ---
 title: TRANSCONTINENTAL PRINTING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: transcontinental_printing
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$16.4M in 2020-2021 on contracts with TRANSCONTINENTAL PRINTING.
+The Government of Canada spent an estimated **\$16.4M in 2020-2021** on contracts with TRANSCONTINENTAL PRINTING.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 206% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$322.3K over the original contract values.
+
+The average contract duration was 2.71 years, and the average contract value (not including contracts under \$10k) was \$8.4M. The longest contract was 5.14 years. The largest contract by value (including amendments) was \$16.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: LEMAY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: lemay
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.5M in 2021-2022 on contracts with LEMAY.
+The Government of Canada spent an estimated **\$2.5M in 2021-2022** on contracts with LEMAY.
+
+Across 9 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (44%). Of contracts with amendments, the average increase in dollar value was 94% and the average number of amendments was 1.75. Cumulatively these amendments represent an increase of \$545.2K over the original contract values.
+
+The average contract duration was 1.42 years, and the average contract value (not including contracts under \$10k) was \$1.1M. The longest contract was 4.65 years. The largest contract by value (including amendments) was \$6.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

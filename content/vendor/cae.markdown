@@ -1,7 +1,7 @@
 ---
 title: CAE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cae
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$86.3M in 2021-2022 on contracts with CAE.
+The Government of Canada spent an estimated **\$86.3M in 2021-2022** on contracts with CAE.
+
+Across 60 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 2030% and the average number of amendments was 2.91. Cumulatively these amendments represent an increase of \$461.0M over the original contract values.
+
+The average contract duration was 1.79 years, and the average contract value (not including contracts under \$10k) was \$23.1M. The longest contract was 23.9 years. The largest contract by value (including amendments) was \$696.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

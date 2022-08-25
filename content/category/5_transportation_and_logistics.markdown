@@ -1,7 +1,7 @@
 ---
 title: Transportation and logistics
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 5_transportation_and_logistics
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$757.8M in 2021-2022 on transportation and logistics contracts.
+The Government of Canada spent an estimated **\$757.8M in 2021-2022** on transportation and logistics contracts.
+
+Across 29,678 contracts active since the start of the 2017-2018 fiscal year, 3,341 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 170093% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$657.1M over the original contract values.
+
+The average contract duration was 0.37 years, and the average contract value (not including contracts under \$10k) was \$195.6K. The longest contract was 11.94 years. The largest contract by value (including amendments) was \$782.7M.
+
 {{< /entity_summary >}}
 
 ## Vendors

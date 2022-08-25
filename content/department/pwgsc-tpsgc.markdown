@@ -1,7 +1,7 @@
 ---
 title: Public Services and Procurement Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pwgsc-tpsgc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Public Services and Procurement Canada spent an estimated \$3.8B in 2021-2022 on contracts.
+Public Services and Procurement Canada spent an estimated **\$3.8B in 2021-2022** on contracts.
+
+Across 30,165 contracts active since the start of the 2017-2018 fiscal year, 6,129 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 317% and the average number of amendments was 1.82. Cumulatively these amendments represent an increase of \$9.8B over the original contract values.
+
+The average contract duration was 1.04 years, and the average contract value (not including contracts under \$10k) was \$1.3M. The longest contract was 26.02 years. The largest contract by value (including amendments) was \$5.7B.
+
 {{< /entity_summary >}}
 
 ## Vendors

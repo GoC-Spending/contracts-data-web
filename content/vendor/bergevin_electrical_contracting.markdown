@@ -1,7 +1,7 @@
 ---
 title: BERGEVIN ELECTRICAL CONTRACTING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: bergevin_electrical_contracting
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.7M in 2018-2019 on contracts with BERGEVIN ELECTRICAL CONTRACTING.
+The Government of Canada spent an estimated **\$2.7M in 2018-2019** on contracts with BERGEVIN ELECTRICAL CONTRACTING.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 18% and the average number of amendments was 4. Cumulatively these amendments represent an increase of \$698.2K over the original contract values.
+
+The average contract duration was 0.65 years, and the average contract value (not including contracts under \$10k) was \$2.9M. The longest contract was 1.11 years. The largest contract by value (including amendments) was \$4.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: MOERAE SOLUTIONS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: moerae_solutions
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.7M in 2021-2022 on contracts with MOERAE SOLUTIONS.
+The Government of Canada spent an estimated **\$3.7M in 2021-2022** on contracts with MOERAE SOLUTIONS.
+
+Across 17 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (76%). Of contracts with amendments, the average increase in dollar value was 4354925% and the average number of amendments was 2.08. Cumulatively these amendments represent an increase of \$8.1M over the original contract values.
+
+The average contract duration was 1.65 years, and the average contract value (not including contracts under \$10k) was \$794.5K. The longest contract was 3.92 years. The largest contract by value (including amendments) was \$2.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

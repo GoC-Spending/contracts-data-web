@@ -1,7 +1,7 @@
 ---
 title: Natural Resources Canada
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: nrcan-rncan
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Natural Resources Canada spent an estimated \$138.3M in 2021-2022 on contracts.
+Natural Resources Canada spent an estimated **\$138.3M in 2021-2022** on contracts.
+
+Across 10,260 contracts active since the start of the 2017-2018 fiscal year, 1,138 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 145% and the average number of amendments was 1.52. Cumulatively these amendments represent an increase of \$148.8M over the original contract values.
+
+The average contract duration was 0.73 years, and the average contract value (not including contracts under \$10k) was \$82.9K. The longest contract was 30.09 years. The largest contract by value (including amendments) was \$11.5M.
+
 {{< /entity_summary >}}
 
 ## Vendors

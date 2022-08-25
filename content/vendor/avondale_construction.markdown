@@ -1,7 +1,7 @@
 ---
 title: AVONDALE CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: avondale_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.1M in 2021-2022 on contracts with AVONDALE CONSTRUCTION.
+The Government of Canada spent an estimated **\$6.1M in 2021-2022** on contracts with AVONDALE CONSTRUCTION.
+
+Across 32 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (34%). Of contracts with amendments, the average increase in dollar value was 21% and the average number of amendments was 2.18. Cumulatively these amendments represent an increase of \$3.4M over the original contract values.
+
+The average contract duration was 0.77 years, and the average contract value (not including contracts under \$10k) was \$1.8M. The longest contract was 2.29 years. The largest contract by value (including amendments) was \$18.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

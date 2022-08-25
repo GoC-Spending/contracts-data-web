@@ -1,7 +1,7 @@
 ---
 title: NUMBER TEN ARCHITECTURAL GROUP
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: number_ten_architectural_group
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.9M in 2021-2022 on contracts with NUMBER TEN ARCHITECTURAL GROUP.
+The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with NUMBER TEN ARCHITECTURAL GROUP.
+
+Across 83 contracts active since the start of the 2017-2018 fiscal year, 23 have at least one amendment (28%). Of contracts with amendments, the average increase in dollar value was 219% and the average number of amendments was 2.17. Cumulatively these amendments represent an increase of \$3.5M over the original contract values.
+
+The average contract duration was 1.25 years, and the average contract value (not including contracts under \$10k) was \$151.6K. The longest contract was 6.32 years. The largest contract by value (including amendments) was \$5.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

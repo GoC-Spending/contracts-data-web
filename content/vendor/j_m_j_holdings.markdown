@@ -1,7 +1,7 @@
 ---
 title: J M J HOLDINGS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: j_m_j_holdings
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.9M in 2021-2022 on contracts with J M J HOLDINGS.
+The Government of Canada spent an estimated **\$3.9M in 2021-2022** on contracts with J M J HOLDINGS.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 31% and the average number of amendments was 1.4. Cumulatively these amendments represent an increase of \$844.8K over the original contract values.
+
+The average contract duration was 1.17 years, and the average contract value (not including contracts under \$10k) was \$6.1M. The longest contract was 2.33 years. The largest contract by value (including amendments) was \$27.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: WINMAR CANADA INTERNATIONAL
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: winmar_canada_international
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$53.1M in 2020-2021 on contracts with WINMAR CANADA INTERNATIONAL.
+The Government of Canada spent an estimated **\$53.1M in 2020-2021** on contracts with WINMAR CANADA INTERNATIONAL.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 2555% and the average number of amendments was 5. Cumulatively these amendments represent an increase of \$51.1M over the original contract values.
+
+The average contract duration was 0.34 years, and the average contract value (not including contracts under \$10k) was \$53.1M. The longest contract was 0.34 years. The largest contract by value (including amendments) was \$53.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

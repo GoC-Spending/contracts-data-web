@@ -1,7 +1,7 @@
 ---
 title: CONSTRUCTION BLANCHARD ET
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: construction_blanchard_et
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.1M in 2019-2020 on contracts with CONSTRUCTION BLANCHARD ET.
+The Government of Canada spent an estimated **\$4.1M in 2019-2020** on contracts with CONSTRUCTION BLANCHARD ET.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 10% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$471.5K over the original contract values.
+
+The average contract duration was 1.79 years, and the average contract value (not including contracts under \$10k) was \$2.9M. The longest contract was 2.25 years. The largest contract by value (including amendments) was \$5.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

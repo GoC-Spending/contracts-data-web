@@ -1,7 +1,7 @@
 ---
 title: PEPIN FORTIN EPOO CONSTRUCTION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: pepin_fortin_epoo_construction
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.3M in 2017-2018 on contracts with PEPIN FORTIN EPOO CONSTRUCTION.
+The Government of Canada spent an estimated **\$6.3M in 2017-2018** on contracts with PEPIN FORTIN EPOO CONSTRUCTION.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 6% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$356.4K over the original contract values.
+
+The average contract duration was 0.72 years, and the average contract value (not including contracts under \$10k) was \$6.3M. The longest contract was 0.72 years. The largest contract by value (including amendments) was \$6.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

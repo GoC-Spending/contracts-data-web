@@ -1,7 +1,7 @@
 ---
 title: UNIVERSITY OF ALBERTA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: university_of_alberta
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.1M in 2021-2022 on contracts with UNIVERSITY OF ALBERTA.
+The Government of Canada spent an estimated **\$2.1M in 2021-2022** on contracts with UNIVERSITY OF ALBERTA.
+
+Across 176 contracts active since the start of the 2017-2018 fiscal year, 25 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 132% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
+
+The average contract duration was 0.82 years, and the average contract value (not including contracts under \$10k) was \$69.3K. The longest contract was 4.65 years. The largest contract by value (including amendments) was \$2.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

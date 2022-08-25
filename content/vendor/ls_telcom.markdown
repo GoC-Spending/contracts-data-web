@@ -1,7 +1,7 @@
 ---
 title: LS TELCOM
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ls_telcom
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$5.0M in 2021-2022 on contracts with LS TELCOM.
+The Government of Canada spent an estimated **\$5.0M in 2021-2022** on contracts with LS TELCOM.
+
+Across 3 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (67%). Of contracts with amendments, the average increase in dollar value was 16% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$9.8M over the original contract values.
+
+The average contract duration was 4 years, and the average contract value (not including contracts under \$10k) was \$22.9M. The longest contract was 6.92 years. The largest contract by value (including amendments) was \$43.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

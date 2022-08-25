@@ -1,7 +1,7 @@
 ---
 title: Office of the Intelligence Commissioner
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ocsec-bccst
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Office of the Intelligence Commissioner spent an estimated \$155.9K in 2021-2022 on contracts.
+Office of the Intelligence Commissioner spent an estimated **\$155.9K in 2021-2022** on contracts.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 0 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was NA and the average number of amendments was NA. Cumulatively these amendments represent an increase of \$NA over the original contract values.
+
+The average contract duration was 0.63 years, and the average contract value (not including contracts under \$10k) was \$74.9K. The longest contract was 1 years. The largest contract by value (including amendments) was \$145.4K.
+
 {{< /entity_summary >}}
 
 ## Vendors

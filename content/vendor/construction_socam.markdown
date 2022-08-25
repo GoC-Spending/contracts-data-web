@@ -1,7 +1,7 @@
 ---
 title: CONSTRUCTION SOCAM
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: construction_socam
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.8M in 2021-2022 on contracts with CONSTRUCTION SOCAM.
+The Government of Canada spent an estimated **\$1.8M in 2021-2022** on contracts with CONSTRUCTION SOCAM.
+
+Across 5 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 20% and the average number of amendments was 7. Cumulatively these amendments represent an increase of \$1.2M over the original contract values.
+
+The average contract duration was 3.18 years, and the average contract value (not including contracts under \$10k) was \$3.5M. The longest contract was 5.83 years. The largest contract by value (including amendments) was \$9.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

@@ -1,7 +1,7 @@
 ---
 title: RAYMOND CHABOT GRANT THORNTON
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: raymond_chabot_grant_thornton
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$13.8M in 2021-2022 on contracts with RAYMOND CHABOT GRANT THORNTON.
+The Government of Canada spent an estimated **\$13.8M in 2021-2022** on contracts with RAYMOND CHABOT GRANT THORNTON.
+
+Across 400 contracts active since the start of the 2017-2018 fiscal year, 96 have at least one amendment (24%). Of contracts with amendments, the average increase in dollar value was 120% and the average number of amendments was 1.44. Cumulatively these amendments represent an increase of \$16.8M over the original contract values.
+
+The average contract duration was 1.08 years, and the average contract value (not including contracts under \$10k) was \$180.3K. The longest contract was 8.21 years. The largest contract by value (including amendments) was \$7.1M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

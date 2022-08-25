@@ -1,7 +1,7 @@
 ---
 title: WHOOSHH INNOVATIONS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: whooshh_innovations
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.8M in 2020-2021 on contracts with WHOOSHH INNOVATIONS.
+The Government of Canada spent an estimated **\$6.8M in 2020-2021** on contracts with WHOOSHH INNOVATIONS.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 9% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$549.4K over the original contract values.
+
+The average contract duration was 0.25 years, and the average contract value (not including contracts under \$10k) was \$3.5M. The longest contract was 0.45 years. The largest contract by value (including amendments) was \$6.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

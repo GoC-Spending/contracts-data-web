@@ -1,7 +1,7 @@
 ---
 title: R R INTERNATIONAL TRANSLATION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: r_r_international_translation
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.9M in 2021-2022 on contracts with R R INTERNATIONAL TRANSLATION.
+The Government of Canada spent an estimated **\$2.9M in 2021-2022** on contracts with R R INTERNATIONAL TRANSLATION.
+
+Across 201 contracts active since the start of the 2017-2018 fiscal year, 40 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 187% and the average number of amendments was 1.25. Cumulatively these amendments represent an increase of \$2.3M over the original contract values.
+
+The average contract duration was 0.97 years, and the average contract value (not including contracts under \$10k) was \$118.7K. The longest contract was 4 years. The largest contract by value (including amendments) was \$1.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

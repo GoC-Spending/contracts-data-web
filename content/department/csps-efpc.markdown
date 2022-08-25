@@ -1,7 +1,7 @@
 ---
 title: Canada School of Public Service
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: csps-efpc
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Canada School of Public Service spent an estimated \$9.9M in 2021-2022 on contracts.
+Canada School of Public Service spent an estimated **\$9.9M in 2021-2022** on contracts.
+
+Across 523 contracts active since the start of the 2017-2018 fiscal year, 70 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 578% and the average number of amendments was 1.69. Cumulatively these amendments represent an increase of \$22.9M over the original contract values.
+
+The average contract duration was 0.95 years, and the average contract value (not including contracts under \$10k) was \$105.2K. The longest contract was 7.58 years. The largest contract by value (including amendments) was \$10.0M.
+
 {{< /entity_summary >}}
 
 ## Vendors

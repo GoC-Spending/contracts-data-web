@@ -1,7 +1,7 @@
 ---
 title: PRIMEX PROJECT MANAGEMENT
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: primex_project_management
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.4M in 2021-2022 on contracts with PRIMEX PROJECT MANAGEMENT.
+The Government of Canada spent an estimated **\$1.4M in 2021-2022** on contracts with PRIMEX PROJECT MANAGEMENT.
+
+Across 35 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 244% and the average number of amendments was 2.67. Cumulatively these amendments represent an increase of \$6.9M over the original contract values.
+
+The average contract duration was 1.65 years, and the average contract value (not including contracts under \$10k) was \$673.9K. The longest contract was 6.01 years. The largest contract by value (including amendments) was \$5.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

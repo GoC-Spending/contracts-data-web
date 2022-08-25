@@ -1,7 +1,7 @@
 ---
 title: LES ENTREPRISES FERVEL
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: les_entreprises_fervel
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$796.3K in 2021-2022 on contracts with LES ENTREPRISES FERVEL.
+The Government of Canada spent an estimated **\$796.3K in 2021-2022** on contracts with LES ENTREPRISES FERVEL.
+
+Across 11 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (82%). Of contracts with amendments, the average increase in dollar value was 3345% and the average number of amendments was 2.89. Cumulatively these amendments represent an increase of \$14.3M over the original contract values.
+
+The average contract duration was 3.72 years, and the average contract value (not including contracts under \$10k) was \$1.9M. The longest contract was 5.92 years. The largest contract by value (including amendments) was \$8.9M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

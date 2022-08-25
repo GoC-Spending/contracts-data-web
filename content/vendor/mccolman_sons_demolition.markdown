@@ -1,7 +1,7 @@
 ---
 title: MCCOLMAN SONS DEMOLITION
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: mccolman_sons_demolition
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$452.5K in 2021-2022 on contracts with MCCOLMAN SONS DEMOLITION.
+The Government of Canada spent an estimated **\$452.5K in 2021-2022** on contracts with MCCOLMAN SONS DEMOLITION.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 9% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$-62.6K over the original contract values.
+
+The average contract duration was 0.86 years, and the average contract value (not including contracts under \$10k) was \$748.2K. The longest contract was 2.31 years. The largest contract by value (including amendments) was \$2.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

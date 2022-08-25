@@ -1,7 +1,7 @@
 ---
 title: LIKE 10
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: like_10
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.1M in 2021-2022 on contracts with LIKE 10.
+The Government of Canada spent an estimated **\$1.1M in 2021-2022** on contracts with LIKE 10.
+
+Across 21 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (33%). Of contracts with amendments, the average increase in dollar value was 373% and the average number of amendments was 2.71. Cumulatively these amendments represent an increase of \$5.5M over the original contract values.
+
+The average contract duration was 1.35 years, and the average contract value (not including contracts under \$10k) was \$437.9K. The longest contract was 3.97 years. The largest contract by value (including amendments) was \$2.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

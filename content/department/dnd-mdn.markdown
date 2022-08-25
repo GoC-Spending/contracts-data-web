@@ -1,7 +1,7 @@
 ---
 title: National Defence
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: dnd-mdn
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-National Defence spent an estimated \$6.3B in 2021-2022 on contracts.
+National Defence spent an estimated **\$6.3B in 2021-2022** on contracts.
+
+Across 83,517 contracts active since the start of the 2017-2018 fiscal year, 7,567 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 2300% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$18.6B over the original contract values.
+
+The average contract duration was 0.51 years, and the average contract value (not including contracts under \$10k) was \$739.1K. The longest contract was 36.37 years. The largest contract by value (including amendments) was \$3.3B.
+
 {{< /entity_summary >}}
 
 ## Vendors

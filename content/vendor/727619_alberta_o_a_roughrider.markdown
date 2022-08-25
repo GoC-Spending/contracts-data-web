@@ -1,7 +1,7 @@
 ---
 title: 727619 ALBERTA O A ROUGHRIDER
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 727619_alberta_o_a_roughrider
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.0M in 2020-2021 on contracts with 727619 ALBERTA O A ROUGHRIDER.
+The Government of Canada spent an estimated **\$2.0M in 2020-2021** on contracts with 727619 ALBERTA O A ROUGHRIDER.
+
+Across 1 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 8% and the average number of amendments was 5. Cumulatively these amendments represent an increase of \$453.3K over the original contract values.
+
+The average contract duration was 3.08 years, and the average contract value (not including contracts under \$10k) was \$6.2M. The longest contract was 3.08 years. The largest contract by value (including amendments) was \$6.2M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

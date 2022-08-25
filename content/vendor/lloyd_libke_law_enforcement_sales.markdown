@@ -1,7 +1,7 @@
 ---
 title: LLOYD LIBKE LAW ENFORCEMENT SALES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: lloyd_libke_law_enforcement_sales
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.5M in 2020-2021 on contracts with LLOYD LIBKE LAW ENFORCEMENT SALES.
+The Government of Canada spent an estimated **\$2.5M in 2020-2021** on contracts with LLOYD LIBKE LAW ENFORCEMENT SALES.
+
+Across 6 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 59% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$3.7M over the original contract values.
+
+The average contract duration was 0.92 years, and the average contract value (not including contracts under \$10k) was \$1.6M. The longest contract was 2.15 years. The largest contract by value (including amendments) was \$5.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

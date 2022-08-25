@@ -1,7 +1,7 @@
 ---
 title: HARNOIS ENERGIES
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: harnois_energies
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$24.4M in 2021-2022 on contracts with HARNOIS ENERGIES.
+The Government of Canada spent an estimated **\$24.4M in 2021-2022** on contracts with HARNOIS ENERGIES.
+
+Across 644 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was -8% and the average number of amendments was 1.19. Cumulatively these amendments represent an increase of \$-40.7K over the original contract values.
+
+The average contract duration was 0.09 years, and the average contract value (not including contracts under \$10k) was \$53.2K. The longest contract was 2 years. The largest contract by value (including amendments) was \$526.7K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

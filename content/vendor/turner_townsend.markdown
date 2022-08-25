@@ -1,7 +1,7 @@
 ---
 title: TURNER TOWNSEND
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: turner_townsend
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$6.0M in 2021-2022 on contracts with TURNER TOWNSEND.
+The Government of Canada spent an estimated **\$6.0M in 2021-2022** on contracts with TURNER TOWNSEND.
+
+Across 16 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 181% and the average number of amendments was 1.88. Cumulatively these amendments represent an increase of \$12.2M over the original contract values.
+
+The average contract duration was 2.18 years, and the average contract value (not including contracts under \$10k) was \$2.0M. The longest contract was 5.08 years. The largest contract by value (including amendments) was \$12.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

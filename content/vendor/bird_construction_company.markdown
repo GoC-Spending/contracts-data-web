@@ -1,7 +1,7 @@
 ---
 title: BIRD CONSTRUCTION COMPANY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: bird_construction_company
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.6M in 2021-2022 on contracts with BIRD CONSTRUCTION COMPANY.
+The Government of Canada spent an estimated **\$3.6M in 2021-2022** on contracts with BIRD CONSTRUCTION COMPANY.
+
+Across 8 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 8% and the average number of amendments was 5.5. Cumulatively these amendments represent an increase of \$3.1M over the original contract values.
+
+The average contract duration was 1.73 years, and the average contract value (not including contracts under \$10k) was \$8.2M. The longest contract was 3.42 years. The largest contract by value (including amendments) was \$16.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

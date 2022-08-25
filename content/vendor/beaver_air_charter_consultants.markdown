@@ -1,7 +1,7 @@
 ---
 title: BEAVER AIR CHARTER CONSULTANTS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: beaver_air_charter_consultants
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.1M in 2021-2022 on contracts with BEAVER AIR CHARTER CONSULTANTS.
+The Government of Canada spent an estimated **\$2.1M in 2021-2022** on contracts with BEAVER AIR CHARTER CONSULTANTS.
+
+Across 285 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was -18% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-160.2K over the original contract values.
+
+The average contract duration was 0.02 years, and the average contract value (not including contracts under \$10k) was \$48.4K. The longest contract was 0.66 years. The largest contract by value (including amendments) was \$253.4K.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

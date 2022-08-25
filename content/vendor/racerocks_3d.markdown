@@ -1,7 +1,7 @@
 ---
 title: RACEROCKS 3D
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: racerocks_3d
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.9M in 2019-2020 on contracts with RACEROCKS 3D.
+The Government of Canada spent an estimated **\$2.9M in 2019-2020** on contracts with RACEROCKS 3D.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 1212% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$4.8M over the original contract values.
+
+The average contract duration was 0.65 years, and the average contract value (not including contracts under \$10k) was \$1.3M. The longest contract was 1.44 years. The largest contract by value (including amendments) was \$5.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

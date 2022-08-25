@@ -1,7 +1,7 @@
 ---
 title: ASC GERMANY
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: asc_germany
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.0M in 2021-2022 on contracts with ASC GERMANY.
+The Government of Canada spent an estimated **\$3.0M in 2021-2022** on contracts with ASC GERMANY.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 11% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$31.5K over the original contract values.
+
+The average contract duration was 0.47 years, and the average contract value (not including contracts under \$10k) was \$679.1K. The longest contract was 1.23 years. The largest contract by value (including amendments) was \$2.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

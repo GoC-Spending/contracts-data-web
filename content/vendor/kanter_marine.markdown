@@ -1,7 +1,7 @@
 ---
 title: KANTER MARINE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: kanter_marine
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.8M in 2021-2022 on contracts with KANTER MARINE.
+The Government of Canada spent an estimated **\$1.8M in 2021-2022** on contracts with KANTER MARINE.
+
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (80%). Of contracts with amendments, the average increase in dollar value was 859% and the average number of amendments was 3.12. Cumulatively these amendments represent an increase of \$8.6M over the original contract values.
+
+The average contract duration was 1.09 years, and the average contract value (not including contracts under \$10k) was \$1.9M. The longest contract was 2.33 years. The largest contract by value (including amendments) was \$6.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

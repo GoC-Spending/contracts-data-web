@@ -1,7 +1,7 @@
 ---
 title: SERVICE STAR BUILDING CLEANING
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: service_star_building_cleaning
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.2M in 2021-2022 on contracts with SERVICE STAR BUILDING CLEANING.
+The Government of Canada spent an estimated **\$3.2M in 2021-2022** on contracts with SERVICE STAR BUILDING CLEANING.
+
+Across 24 contracts active since the start of the 2017-2018 fiscal year, 15 have at least one amendment (62%). Of contracts with amendments, the average increase in dollar value was 149% and the average number of amendments was 2.93. Cumulatively these amendments represent an increase of \$6.9M over the original contract values.
+
+The average contract duration was 1.5 years, and the average contract value (not including contracts under \$10k) was \$802.1K. The longest contract was 5.25 years. The largest contract by value (including amendments) was \$3.7M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

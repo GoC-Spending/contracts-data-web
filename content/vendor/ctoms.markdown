@@ -1,7 +1,7 @@
 ---
 title: CTOMS
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: ctoms
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$450.9K in 2021-2022 on contracts with CTOMS.
+The Government of Canada spent an estimated **\$450.9K in 2021-2022** on contracts with CTOMS.
+
+Across 87 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (1%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$0.0 over the original contract values.
+
+The average contract duration was 0.2 years, and the average contract value (not including contracts under \$10k) was \$66.9K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$3.0M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

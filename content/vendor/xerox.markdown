@@ -1,7 +1,7 @@
 ---
 title: XEROX
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: xerox
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$13.5M in 2021-2022 on contracts with XEROX.
+The Government of Canada spent an estimated **\$13.5M in 2021-2022** on contracts with XEROX.
+
+Across 1,597 contracts active since the start of the 2017-2018 fiscal year, 303 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 62% and the average number of amendments was 1.77. Cumulatively these amendments represent an increase of \$22.4M over the original contract values.
+
+The average contract duration was 3.99 years, and the average contract value (not including contracts under \$10k) was \$84.8K. The longest contract was 11.51 years. The largest contract by value (including amendments) was \$28.4M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

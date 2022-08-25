@@ -1,7 +1,7 @@
 ---
 title: APOTEX
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: apotex
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$9.1M in 2021-2022 on contracts with APOTEX.
+The Government of Canada spent an estimated **\$9.1M in 2021-2022** on contracts with APOTEX.
+
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was -1410% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-278.5K over the original contract values.
+
+The average contract duration was 1.44 years, and the average contract value (not including contracts under \$10k) was \$2.8M. The longest contract was 2.29 years. The largest contract by value (including amendments) was \$10.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

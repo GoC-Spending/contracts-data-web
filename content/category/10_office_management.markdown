@@ -1,7 +1,7 @@
 ---
 title: Office management
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 10_office_management
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$363.5M in 2021-2022 on office management contracts.
+The Government of Canada spent an estimated **\$363.5M in 2021-2022** on office management contracts.
+
+Across 26,703 contracts active since the start of the 2017-2018 fiscal year, 2,349 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 155% and the average number of amendments was 1.59. Cumulatively these amendments represent an increase of \$446.9M over the original contract values.
+
+The average contract duration was 1 years, and the average contract value (not including contracts under \$10k) was \$103.4K. The longest contract was 22.24 years. The largest contract by value (including amendments) was \$340.9M.
+
 {{< /entity_summary >}}
 
 ## Vendors

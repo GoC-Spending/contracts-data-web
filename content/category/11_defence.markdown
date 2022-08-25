@@ -1,7 +1,7 @@
 ---
 title: Defence
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 11_defence
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.1B in 2021-2022 on defence contracts.
+The Government of Canada spent an estimated **\$3.1B in 2021-2022** on defence contracts.
+
+Across 32,264 contracts active since the start of the 2017-2018 fiscal year, 1,801 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 3720% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$11.1B over the original contract values.
+
+The average contract duration was 0.38 years, and the average contract value (not including contracts under \$10k) was \$964.6K. The longest contract was 23.9 years. The largest contract by value (including amendments) was \$2.4B.
+
 {{< /entity_summary >}}
 
 ## Vendors

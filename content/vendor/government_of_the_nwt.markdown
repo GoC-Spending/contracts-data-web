@@ -1,7 +1,7 @@
 ---
 title: GOVERNMENT OF THE NWT
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: government_of_the_nwt
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$4.5M in 2018-2019 on contracts with GOVERNMENT OF THE NWT.
+The Government of Canada spent an estimated **\$4.5M in 2018-2019** on contracts with GOVERNMENT OF THE NWT.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 29% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$1.1M over the original contract values.
+
+The average contract duration was 1.04 years, and the average contract value (not including contracts under \$10k) was \$4.8M. The longest contract was 1.08 years. The largest contract by value (including amendments) was \$4.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

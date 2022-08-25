@@ -1,7 +1,7 @@
 ---
 title: 736902 ONTARIO
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: 736902_ontario
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$1.2M in 2021-2022 on contracts with 736902 ONTARIO.
+The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with 736902 ONTARIO.
+
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (71%). Of contracts with amendments, the average increase in dollar value was 4% and the average number of amendments was 1.8. Cumulatively these amendments represent an increase of \$-55.8K over the original contract values.
+
+The average contract duration was 1.3 years, and the average contract value (not including contracts under \$10k) was \$1.4M. The longest contract was 2.36 years. The largest contract by value (including amendments) was \$4.8M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

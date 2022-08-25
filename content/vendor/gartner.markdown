@@ -1,7 +1,7 @@
 ---
 title: GARTNER
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: gartner
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$54.9M in 2021-2022 on contracts with GARTNER.
+The Government of Canada spent an estimated **\$54.9M in 2021-2022** on contracts with GARTNER.
+
+Across 1,191 contracts active since the start of the 2017-2018 fiscal year, 78 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 27% and the average number of amendments was 1.08. Cumulatively these amendments represent an increase of \$2.3M over the original contract values.
+
+The average contract duration was 0.71 years, and the average contract value (not including contracts under \$10k) was \$224.2K. The longest contract was 2 years. The largest contract by value (including amendments) was \$4.5M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

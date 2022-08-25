@@ -1,7 +1,7 @@
 ---
 title: AVI SPL CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: avi_spl_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$8.2M in 2021-2022 on contracts with AVI SPL CANADA.
+The Government of Canada spent an estimated **\$8.2M in 2021-2022** on contracts with AVI SPL CANADA.
+
+Across 664 contracts active since the start of the 2017-2018 fiscal year, 30 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 17% and the average number of amendments was 1.3. Cumulatively these amendments represent an increase of \$322.1K over the original contract values.
+
+The average contract duration was 0.32 years, and the average contract value (not including contracts under \$10k) was \$56.1K. The longest contract was 4 years. The largest contract by value (including amendments) was \$1.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

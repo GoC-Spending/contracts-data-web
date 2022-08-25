@@ -1,7 +1,7 @@
 ---
 title: Canadian Intergovernmental Conference Secretariat
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: cics-scic
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Canadian Intergovernmental Conference Secretariat spent an estimated \$371.5K in 2021-2022 on contracts.
+Canadian Intergovernmental Conference Secretariat spent an estimated **\$371.5K in 2021-2022** on contracts.
+
+Across 115 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 112% and the average number of amendments was 2.67. Cumulatively these amendments represent an increase of \$137.9K over the original contract values.
+
+The average contract duration was 0.3 years, and the average contract value (not including contracts under \$10k) was \$21.0K. The longest contract was 6.14 years. The largest contract by value (including amendments) was \$138.8K.
+
 {{< /entity_summary >}}
 
 ## Vendors

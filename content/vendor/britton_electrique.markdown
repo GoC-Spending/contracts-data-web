@@ -1,7 +1,7 @@
 ---
 title: BRITTON ELECTRIQUE
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: britton_electrique
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$2.0M in 2020-2021 on contracts with BRITTON ELECTRIQUE.
+The Government of Canada spent an estimated **\$2.0M in 2020-2021** on contracts with BRITTON ELECTRIQUE.
+
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 8% and the average number of amendments was 5. Cumulatively these amendments represent an increase of \$477.3K over the original contract values.
+
+The average contract duration was 2.45 years, and the average contract value (not including contracts under \$10k) was \$3.2M. The longest contract was 3.13 years. The largest contract by value (including amendments) was \$6.3M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

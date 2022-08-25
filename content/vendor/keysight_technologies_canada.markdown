@@ -1,7 +1,7 @@
 ---
 title: KEYSIGHT TECHNOLOGIES CANADA
 author: ''
-date: '2022-08-21'
+date: '2022-08-24'
 slug: keysight_technologies_canada
 categories: []
 tags: []
@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$3.2M in 2021-2022 on contracts with KEYSIGHT TECHNOLOGIES CANADA.
+The Government of Canada spent an estimated **\$3.2M in 2021-2022** on contracts with KEYSIGHT TECHNOLOGIES CANADA.
+
+Across 105 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 58% and the average number of amendments was 1.75. Cumulatively these amendments represent an increase of \$301.9K over the original contract values.
+
+The average contract duration was 0.6 years, and the average contract value (not including contracts under \$10k) was \$149.5K. The longest contract was 5.7 years. The largest contract by value (including amendments) was \$7.6M.
+
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}

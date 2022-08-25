@@ -41,9 +41,9 @@ tags: []
 {{< entity_summary >}}
 The Department of National Defence spent an estimated **\$6.3B in 2021-2022** on contracts. DND contracts for information technology or transportation and logistics are included in the “Defence” category below.
 
-Across 78,645 contracts initiated since the start of the 2017-2018 fiscal year, 6,254 have at least one amendment (8%). Of contracts with amendments, the average increase in dollar value was 1501% and the average number of amendments was 1.35. Cumulatively these amendments represent an increase of \$1.8B over the original contract values.
+Across 83,517 contracts active since the start of the 2017-2018 fiscal year, 7,567 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 2300% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$18.6B over the original contract values.
 
-The average contract duration was 0.37 years, and the average contract value (not including contracts under \$10k) was \$354.7K. The longest contract was 19.01 years. The largest contract by value (including amendments) was \$2.4B.
+The average contract duration was 0.51 years, and the average contract value (not including contracts under \$10k) was \$739.1K. The longest contract was 36.37 years. The largest contract by value (including amendments) was \$3.3B.
 
 {{< /entity_summary >}}
 

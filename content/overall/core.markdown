@@ -41,9 +41,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$15.1B in 2021-2022** on contracts across core public service departments and agencies (this excludes the Department of National Defence, commissions, review committees, and Offices of Parliament).
 
-Across 253,989 contracts initiated since the start of the 2017-2018 fiscal year, 35,118 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 548932% and the average number of amendments was 1.66. Cumulatively these amendments represent an increase of \$10.7B over the original contract values.
+Across 271,735 contracts active since the start of the 2017-2018 fiscal year, 42,922 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 1891895% and the average number of amendments was 1.81. Cumulatively these amendments represent an increase of \$27.8B over the original contract values.
 
-The average contract duration was 0.7 years, and the average contract value (not including contracts under \$10k) was \$249.7K. The longest contract was 21.01 years. The largest contract by value (including amendments) was \$2.9B.
+The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$420.3K. The longest contract was 34.82 years. The largest contract by value (including amendments) was \$5.7B.
 
 {{< /entity_summary >}}
 

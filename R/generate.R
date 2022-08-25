@@ -165,6 +165,7 @@ generate_all_pages <- function(remove_existing_folders = FALSE) {
   print(str_c("Start time: ", run_start_time))
   
   if(remove_existing_folders) {
+    print("Heads-up: Removing existing folders!")
     remove_existing_content_folders()
   }
   
@@ -184,6 +185,9 @@ build_all_pages <- function() {
   print(str_c("Start time: ", run_start_time))
   add_log_entry("start_time", run_start_time)
   add_log_entry("build_date", today())
+  
+  # Update the parse run log YAML file just in case it's been a while.
+  update_run_yaml()
   
   blogdown::build_site(build_rmd = TRUE)
   

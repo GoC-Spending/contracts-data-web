@@ -611,6 +611,7 @@ update_run_yaml <- function() {
   
 }
 
+# Note: this is currently being updated on every page load; that's probably unnecessary...!
 update_run_yaml()
 
 # Retrieve data from the research findings CSV files

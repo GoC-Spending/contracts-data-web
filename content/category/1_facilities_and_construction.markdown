@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated \$5.3B in 2021-2022 on facilities and construction contracts.
+The Government of Canada spent an estimated **\$5.3B in 2021-2022** on facilities and construction contracts.
+
+Across 59,581 contracts active since the start of the 2017-2018 fiscal year, 10,526 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 5382138% and the average number of amendments was 1.8. Cumulatively these amendments represent an increase of \$13.7B over the original contract values.
+
+The average contract duration was 0.84 years, and the average contract value (not including contracts under \$10k) was \$976.2K. The longest contract was 36.37 years. The largest contract by value (including amendments) was \$5.7B.
+
 {{< /entity_summary >}}
 
 ## Vendors

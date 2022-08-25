@@ -29,7 +29,12 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-Agriculture and Agri-Food Canada spent an estimated \$145.3M in 2021-2022 on contracts.
+Agriculture and Agri-Food Canada spent an estimated **\$145.3M in 2021-2022** on contracts.
+
+Across 9,160 contracts active since the start of the 2017-2018 fiscal year, 990 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 149% and the average number of amendments was 1.54. Cumulatively these amendments represent an increase of \$211.0M over the original contract values.
+
+The average contract duration was 0.59 years, and the average contract value (not including contracts under \$10k) was \$91.6K. The longest contract was 10.71 years. The largest contract by value (including amendments) was \$18.6M.
+
 {{< /entity_summary >}}
 
 ## Vendors

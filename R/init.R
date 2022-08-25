@@ -515,6 +515,24 @@ fancy_round <- function(number) {
 
 }
 
+# Add thousands separators, for counts of contracts and amendments etc.
+format_entity_count <- function(number) {
+  format(number,big.mark=",", trim=TRUE)
+}
+
+format_currency <- function(number) {
+  format(number,big.mark=",", digits = 2, nsmall = 2, trim=TRUE)
+}
+
+# Convert decimals to friendly percentages
+format_percentage <- function(percentage) {
+  str_c(percentage * 100, "%")
+}
+
+format_percentage_rounded <- function(percentage) {
+  str_c(round(percentage, digits = 2) * 100, "%")
+}
+
 # entity_type should be "categories", "vendors", or "departments"
 get_name_from_filename <- function(entity_filepath, entity_type) {
   
@@ -594,6 +612,32 @@ update_run_yaml <- function() {
 }
 
 update_run_yaml()
+
+# Retrieve data from the research findings CSV files
+
+get_research_finding <- function(function_name, summary_type, value_column, filter_column = FALSE, filter_search = FALSE) {
+  
+  file_path = str_c(csv_input_path, "overall/", summary_type, "/", function_name,".csv")
+  
+  data <- read_csv(file_path)
+  
+  if(filter_column != FALSE & filter_search != FALSE) {
+    data <- data %>%
+      filter(across(all_of(filter_column)) == !!filter_search)
+  }
+  
+  data %>%
+    pull(value_column) %>%
+    first()
+  
+}
+
+# Example usage
+# get_research_finding("s421_mean_contract_value", "all", "mean_overall_value")
+# get_research_finding("s421_mean_contract_value", "all", "n")
+# 
+# get_research_finding("s421_mean_contract_value_by_vendor", "all", "mean_overall_value", "d_vendor_name", "ALTIS HUMAN RESOURCES")
+# get_research_finding("s421_mean_contract_value_by_vendor", "all", "n", "d_vendor_name", "ALTIS HUMAN RESOURCES")
 
 # Link generation helpers ===================
 

@@ -404,12 +404,18 @@ get_original_vendor_names <- function(vendor) {
 
 display_original_vendor_names <- function(vendor) {
   
+  # Note: in the original_vendor_name included as the link text below, we'll replace a small set of characters to avoid breaking Markdown links.
+  # This includes `, *, and @
+  # Thanks to
+  # https://community.rstudio.com/t/removing-asterisk-and-brackets-from-a-column/69095/2
+  replacement_pattern <- "\\*|\\`|\\@"
+  
   search_prefix <- "https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text="
   names <- get_original_vendor_names(vendor)
   names <- names %>%
     mutate(
       url_encoded_name = url_encode(str_c("\"", original_vendor_name, "\"")),
-      markdown_link = str_c("[", original_vendor_name, "](", search_prefix, url_encoded_name, ")")
+      markdown_link = str_c("[", str_replace_all(original_vendor_name, pattern = replacement_pattern, replacement = ""), "](", search_prefix, url_encoded_name, ")")
     )
   
   names %>% pull(markdown_link) %>% str_c(collapse = " \n- ") %>% str_c('- ', .)

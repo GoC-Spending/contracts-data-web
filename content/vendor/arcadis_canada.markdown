@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$5.3M in 2021-2022** on contracts with ARCADIS CANADA.
 
-Across 218 contracts active since the start of the 2017-2018 fiscal year, 84 have at least one amendment (39%). Of contracts with amendments, the average increase in dollar value was 305% and the average number of amendments was 1.6. Cumulatively these amendments represent an increase of \$6.8M over the original contract values.
+Across 218 contracts active since the start of the 2017-2018 fiscal year, 84 have at least one amendment (39%). Of contracts with amendments, the average increase in dollar value was 199% and the average number of amendments was 1.6. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
 
 The average contract duration was 0.93 years, and the average contract value (not including contracts under \$10k) was \$167.4K. The longest contract was 5.24 years. The largest contract by value (including amendments) was \$3.8M.
 

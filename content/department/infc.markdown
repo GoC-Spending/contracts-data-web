@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Infrastructure Canada spent an estimated **\$164.6M in 2021-2022** on contracts.
 
-Across 564 contracts active since the start of the 2017-2018 fiscal year, 105 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 292% and the average number of amendments was 1.7. Cumulatively these amendments represent an increase of \$537.0M over the original contract values.
+Across 564 contracts active since the start of the 2017-2018 fiscal year, 105 have at least one amendment (19%). Of contracts with amendments, the average increase in dollar value was 277% and the average number of amendments was 1.7. Cumulatively these amendments represent an increase of \$537.0M over the original contract values.
 
 The average contract duration was 1.27 years, and the average contract value (not including contracts under \$10k) was \$9.1M. The longest contract was 34.82 years. The largest contract by value (including amendments) was \$5.0B.
 

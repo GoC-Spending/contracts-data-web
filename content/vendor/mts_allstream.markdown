@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$6.6M in 2021-2022** on contracts with MTS ALLSTREAM.
 
-Across 212 contracts active since the start of the 2017-2018 fiscal year, 95 have at least one amendment (45%). Of contracts with amendments, the average increase in dollar value was 487% and the average number of amendments was 1.27. Cumulatively these amendments represent an increase of \$55.6M over the original contract values.
+Across 212 contracts active since the start of the 2017-2018 fiscal year, 95 have at least one amendment (45%). Of contracts with amendments, the average increase in dollar value was 309% and the average number of amendments was 1.27. Cumulatively these amendments represent an increase of \$55.4M over the original contract values.
 
 The average contract duration was 2.11 years, and the average contract value (not including contracts under \$10k) was \$553.6K. The longest contract was 11.26 years. The largest contract by value (including amendments) was \$51.3M.
 

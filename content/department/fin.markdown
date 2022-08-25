@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Department of Finance Canada spent an estimated **\$17.6M in 2021-2022** on contracts.
 
-Across 606 contracts active since the start of the 2017-2018 fiscal year, 130 have at least one amendment (21%). Of contracts with amendments, the average increase in dollar value was 424% and the average number of amendments was 1.73. Cumulatively these amendments represent an increase of \$47.2M over the original contract values.
+Across 606 contracts active since the start of the 2017-2018 fiscal year, 130 have at least one amendment (21%). Of contracts with amendments, the average increase in dollar value was 408% and the average number of amendments was 1.73. Cumulatively these amendments represent an increase of \$47.2M over the original contract values.
 
 The average contract duration was 0.96 years, and the average contract value (not including contracts under \$10k) was \$168.8K. The longest contract was 8.64 years. The largest contract by value (including amendments) was \$23.2M.
 

@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Transport Canada spent an estimated **\$178.9M in 2021-2022** on contracts.
 
-Across 7,782 contracts active since the start of the 2017-2018 fiscal year, 992 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 99% and the average number of amendments was 2.55. Cumulatively these amendments represent an increase of \$201.4M over the original contract values.
+Across 7,782 contracts active since the start of the 2017-2018 fiscal year, 992 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 96% and the average number of amendments was 2.55. Cumulatively these amendments represent an increase of \$201.3M over the original contract values.
 
 The average contract duration was 0.68 years, and the average contract value (not including contracts under \$10k) was \$151.2K. The longest contract was 11.51 years. The largest contract by value (including amendments) was \$144.1M.
 

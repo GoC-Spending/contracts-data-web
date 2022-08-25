@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$514.2M in 2021-2022** on contracts with IBM CANADA.
 
-Across 1,023 contracts active since the start of the 2017-2018 fiscal year, 205 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 1335% and the average number of amendments was 2.52. Cumulatively these amendments represent an increase of \$484.0M over the original contract values.
+Across 1,023 contracts active since the start of the 2017-2018 fiscal year, 205 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 1328% and the average number of amendments was 2.52. Cumulatively these amendments represent an increase of \$484.0M over the original contract values.
 
 The average contract duration was 1.53 years, and the average contract value (not including contracts under \$10k) was \$3.9M. The longest contract was 20.01 years. The largest contract by value (including amendments) was \$660.5M.
 
@@ -102,7 +102,7 @@ The average contract duration was 1.53 years, and the average contract value (no
 - [IBM CA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IBM%20CA%20LTD%22)
 - [IBM Canada Ltée](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IBM%20Canada%20Lt%c3%a9e%22)
 - [COGNOS CORP.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22COGNOS%20CORP.%22)
-- [IBM CAN\*91898807](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IBM%20CAN%2a91898807%22)
+- [IBM CAN91898807](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IBM%20CAN%2a91898807%22)
 - [SPSS CANADIAN GOVERNMENT GROUP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SPSS%20CANADIAN%20GOVERNMENT%20GROUP%22)
 - [SPSS, AN IBM COMPANY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SPSS%2c%20AN%20IBM%20COMPANY%22)
 {{< /details >}}

@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$15.6M in 2021-2022** on contracts with ECLIPSYS SOLUTIONS.
 
-Across 317 contracts active since the start of the 2017-2018 fiscal year, 50 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 872% and the average number of amendments was 1.74. Cumulatively these amendments represent an increase of \$29.1M over the original contract values.
+Across 317 contracts active since the start of the 2017-2018 fiscal year, 50 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 315% and the average number of amendments was 1.74. Cumulatively these amendments represent an increase of \$29.1M over the original contract values.
 
 The average contract duration was 1.22 years, and the average contract value (not including contracts under \$10k) was \$349.8K. The longest contract was 6 years. The largest contract by value (including amendments) was \$15.6M.
 

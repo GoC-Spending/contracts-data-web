@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with AIR LIQUIDE CANADA.
 
-Across 241 contracts active since the start of the 2017-2018 fiscal year, 47 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 41% and the average number of amendments was 1.38. Cumulatively these amendments represent an increase of \$394.3K over the original contract values.
+Across 241 contracts active since the start of the 2017-2018 fiscal year, 47 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 37% and the average number of amendments was 1.38. Cumulatively these amendments represent an increase of \$387.8K over the original contract values.
 
 The average contract duration was 0.7 years, and the average contract value (not including contracts under \$10k) was \$33.0K. The longest contract was 8.46 years. The largest contract by value (including amendments) was \$293.0K.
 

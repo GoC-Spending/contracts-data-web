@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$7.5M in 2021-2022** on contracts with NATIONS TRANSLATION GROUP.
 
-Across 378 contracts active since the start of the 2017-2018 fiscal year, 87 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 144% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$8.0M over the original contract values.
+Across 378 contracts active since the start of the 2017-2018 fiscal year, 87 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 119% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$7.9M over the original contract values.
 
 The average contract duration was 0.88 years, and the average contract value (not including contracts under \$10k) was \$90.3K. The longest contract was 8.64 years. The largest contract by value (including amendments) was \$7.3M.
 

@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$3.1M in 2021-2022** on contracts with WAJAX.
 
-Across 508 contracts active since the start of the 2017-2018 fiscal year, 61 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 15% and the average number of amendments was 1.21. Cumulatively these amendments represent an increase of \$951.7K over the original contract values.
+Across 508 contracts active since the start of the 2017-2018 fiscal year, 61 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 10% and the average number of amendments was 1.21. Cumulatively these amendments represent an increase of \$939.2K over the original contract values.
 
 The average contract duration was 0.35 years, and the average contract value (not including contracts under \$10k) was \$102.3K. The longest contract was 5.05 years. The largest contract by value (including amendments) was \$19.4M.
 

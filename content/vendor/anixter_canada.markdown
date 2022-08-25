@@ -51,7 +51,7 @@ The average contract duration was 0.25 years, and the average contract value (no
 - [ANIXTER CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ANIXTER%20CANADA%20LTD%22)
 - [ANXITER CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ANXITER%20CANADA%20INC.%22)
 - [ANIZTER CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ANIZTER%20CANADA%20INC.%22)
-- [\*ANIXTER CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aANIXTER%20CANADA%22)
+- [ANIXTER CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aANIXTER%20CANADA%22)
 - [anixter canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22anixter%20canada%22)
 - [ANXTER CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ANXTER%20CANADA%20INC%22)
 {{< /details >}}

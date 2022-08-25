@@ -44,7 +44,7 @@ The average contract duration was 0.51 years, and the average contract value (no
 - [Life Technologies](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Life%20Technologies%22)
 - [Life Technologies Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Life%20Technologies%20Inc.%22)
 - [LIFE TECHNOLOGIES CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LIFE%20TECHNOLOGIES%20CORPORATION%22)
-- [(**LIFE?**) TECHNOLOGIES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%40LIFE%20TECHNOLOGIES%20INC.%22)
+- [LIFE TECHNOLOGIES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%40LIFE%20TECHNOLOGIES%20INC.%22)
 - [Life Technologies Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Life%20Technologies%20Inc%22)
 - [LIFE TECHNOLOGIES LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LIFE%20TECHNOLOGIES%20LIMITED%22)
 {{< /details >}}

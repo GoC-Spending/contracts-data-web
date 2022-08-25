@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$2.1M in 2021-2022** on contracts with YAMAHA MOTORS CANADA.
 
-Across 260 contracts active since the start of the 2017-2018 fiscal year, 18 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 43% and the average number of amendments was 1.17. Cumulatively these amendments represent an increase of \$-48.6K over the original contract values.
+Across 260 contracts active since the start of the 2017-2018 fiscal year, 18 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was -6% and the average number of amendments was 1.17. Cumulatively these amendments represent an increase of \$-69.6K over the original contract values.
 
 The average contract duration was 0.23 years, and the average contract value (not including contracts under \$10k) was \$38.2K. The longest contract was 1.2 years. The largest contract by value (including amendments) was \$243.0K.
 

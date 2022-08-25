@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Royal Canadian Mounted Police spent an estimated **\$605.9M in 2021-2022** on contracts.
 
-Across 16,838 contracts active since the start of the 2017-2018 fiscal year, 2,069 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 1790915% and the average number of amendments was 1.6. Cumulatively these amendments represent an increase of \$566.0M over the original contract values.
+Across 16,838 contracts active since the start of the 2017-2018 fiscal year, 2,069 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 173% and the average number of amendments was 1.6. Cumulatively these amendments represent an increase of \$532.3M over the original contract values.
 
 The average contract duration was 0.83 years, and the average contract value (not including contracts under \$10k) was \$228.8K. The longest contract was 29.02 years. The largest contract by value (including amendments) was \$63.1M.
 

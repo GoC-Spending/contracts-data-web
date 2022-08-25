@@ -68,7 +68,12 @@ The average contract duration was 0.55 years, and the average contract value (no
 - [Levitt- Safety Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Levitt-%20Safety%20Limited%22)
 - [LEVITT SATEFY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LEVITT%20SATEFY%22)
 - [Levitt safety Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Levitt%20safety%20Ltd%22)
-- \[Levitt-Safety Ltd`](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Levitt-Safety%20Ltd%60%22)  - [levittsafety](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22levittsafety%22)  - [Levitt -Safety](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Levitt%20-Safety%22)  - [levitt-safety limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22levitt-safety%20limited%22)  - [levitt-safety](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22levitt-safety%22)`{{\< /details \>}}\`{=html}
+- [Levitt-Safety Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Levitt-Safety%20Ltd%60%22)
+- [levittsafety](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22levittsafety%22)
+- [Levitt -Safety](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Levitt%20-Safety%22)
+- [levitt-safety limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22levitt-safety%20limited%22)
+- [levitt-safety](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22levitt-safety%22)
+{{< /details >}}
 
 ## Departments and agencies
 

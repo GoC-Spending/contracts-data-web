@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Innovation, Science and Economic Development Canada spent an estimated **\$220.3M in 2021-2022** on contracts.
 
-Across 6,427 contracts active since the start of the 2017-2018 fiscal year, 926 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 204% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$227.1M over the original contract values.
+Across 6,427 contracts active since the start of the 2017-2018 fiscal year, 926 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 178% and the average number of amendments was 1.49. Cumulatively these amendments represent an increase of \$227.0M over the original contract values.
 
 The average contract duration was 0.8 years, and the average contract value (not including contracts under \$10k) was \$156.7K. The longest contract was 12.72 years. The largest contract by value (including amendments) was \$43.5M.
 

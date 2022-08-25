@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$385.2K in 2021-2022** on contracts with CANADIAN DEVELOPMENT CONSULTANTS.
 
-Across 44 contracts active since the start of the 2017-2018 fiscal year, 15 have at least one amendment (34%). Of contracts with amendments, the average increase in dollar value was 191% and the average number of amendments was 1.13. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
+Across 44 contracts active since the start of the 2017-2018 fiscal year, 15 have at least one amendment (34%). Of contracts with amendments, the average increase in dollar value was 174% and the average number of amendments was 1.13. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
 
 The average contract duration was 0.87 years, and the average contract value (not including contracts under \$10k) was \$219.6K. The longest contract was 4.28 years. The largest contract by value (including amendments) was \$2.0M.
 

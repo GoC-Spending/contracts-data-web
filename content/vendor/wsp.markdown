@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$97.6M in 2021-2022** on contracts with WSP.
 
-Across 1,055 contracts active since the start of the 2017-2018 fiscal year, 314 have at least one amendment (30%). Of contracts with amendments, the average increase in dollar value was 222% and the average number of amendments was 1.98. Cumulatively these amendments represent an increase of \$332.1M over the original contract values.
+Across 1,055 contracts active since the start of the 2017-2018 fiscal year, 314 have at least one amendment (30%). Of contracts with amendments, the average increase in dollar value was 191% and the average number of amendments was 1.98. Cumulatively these amendments represent an increase of \$332.0M over the original contract values.
 
 The average contract duration was 1.26 years, and the average contract value (not including contracts under \$10k) was \$588.7K. The longest contract was 8.06 years. The largest contract by value (including amendments) was \$405.0M.
 
@@ -67,7 +67,7 @@ The average contract duration was 1.26 years, and the average contract value (no
 - [WSP GROUP AFRICA (pty) Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WSP%20GROUP%20AFRICA%20%28pty%29%20Ltd%22)
 - [MMM Group Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MMM%20Group%20Ltd%22)
 - [WSP Canada Inc (Cambridge)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WSP%20Canada%20Inc%20%28Cambridge%29%22)
-- [\*MMM Group Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aMMM%20Group%20Limited%22)
+- [MMM Group Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aMMM%20Group%20Limited%22)
 - [WSP Polska Sp. z o.o.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WSP%20Polska%20Sp.%20z%20o.o.%22)
 - [WSP Canada Inc. (Moncton)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WSP%20Canada%20Inc.%20%20%20%28Moncton%29%22)
 - [WSP Canda Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WSP%20Canda%20Inc.%22)

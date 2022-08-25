@@ -41,7 +41,7 @@ The average contract duration was 0.74 years, and the average contract value (no
 - [UNIVERSITY OF OTTAWA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22UNIVERSITY%20OF%20OTTAWA%22)
 - [University of Ottawa](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22University%20of%20Ottawa%22)
 - [Univeristy of Ottawa](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Univeristy%20of%20Ottawa%22)
-- [\*UNIVERSITY OF OTTAWA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aUNIVERSITY%20OF%20OTTAWA%22)
+- [UNIVERSITY OF OTTAWA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aUNIVERSITY%20OF%20OTTAWA%22)
 - [University Of Ottawa](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22University%20Of%20Ottawa%22)
 - [UNIVERSITY OF OTTAWA,](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22UNIVERSITY%20OF%20OTTAWA%2c%22)
 - [UNIVERISTY OF OTTAWA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22UNIVERISTY%20OF%20OTTAWA%22)

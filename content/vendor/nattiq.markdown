@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with NATTIQ.
 
-Across 101 contracts active since the start of the 2017-2018 fiscal year, 27 have at least one amendment (27%). Of contracts with amendments, the average increase in dollar value was 189% and the average number of amendments was 1.7. Cumulatively these amendments represent an increase of \$2.8M over the original contract values.
+Across 101 contracts active since the start of the 2017-2018 fiscal year, 27 have at least one amendment (27%). Of contracts with amendments, the average increase in dollar value was 125% and the average number of amendments was 1.7. Cumulatively these amendments represent an increase of \$2.7M over the original contract values.
 
 The average contract duration was 0.88 years, and the average contract value (not including contracts under \$10k) was \$133.0K. The longest contract was 4.75 years. The largest contract by value (including amendments) was \$1.7M.
 

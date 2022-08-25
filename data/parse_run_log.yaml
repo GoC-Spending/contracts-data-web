@@ -1,8 +1,7 @@
-start_time: 2022-08-24 16:36:19
-csv_date: '2022-08-24'
+start_time: 2022-08-25 11:46:43
+csv_date: '2022-08-25'
 csv_source: pre-downloaded
-total_csv_entries: '896948'
-end_time: 2022-08-24 19:38:23
-run_duration: '3.03'
-run_memory_mb: '4945.1'
-run_duration_hours: '3.03'
+total_csv_entries: '896950'
+end_time: 2022-08-25 14:45:12
+run_duration_hours: '2.97'
+run_memory_mb: '4954.8'

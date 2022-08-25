@@ -44,7 +44,8 @@ The average contract duration was 0.94 years, and the average contract value (no
 - [Inter-Outaouais](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Inter-Outaouais%22)
 - [INTER OUTAOUAIS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22INTER%20OUTAOUAIS%20INC%22)
 - [Inter Outaouasis](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Inter%20Outaouasis%22)
-- \[Inter Outaouais Inc`](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Inter%20Outaouais%20Inc%60%22)`{{\< /details \>}}\`{=html}
+- [Inter Outaouais Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Inter%20Outaouais%20Inc%60%22)
+{{< /details >}}
 
 ## Departments and agencies
 

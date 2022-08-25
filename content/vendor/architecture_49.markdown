@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$11.2M in 2021-2022** on contracts with ARCHITECTURE 49.
 
-Across 237 contracts active since the start of the 2017-2018 fiscal year, 78 have at least one amendment (33%). Of contracts with amendments, the average increase in dollar value was 170% and the average number of amendments was 2.09. Cumulatively these amendments represent an increase of \$22.9M over the original contract values.
+Across 237 contracts active since the start of the 2017-2018 fiscal year, 78 have at least one amendment (33%). Of contracts with amendments, the average increase in dollar value was 161% and the average number of amendments was 2.09. Cumulatively these amendments represent an increase of \$22.9M over the original contract values.
 
 The average contract duration was 1.28 years, and the average contract value (not including contracts under \$10k) was \$339.6K. The longest contract was 9.53 years. The largest contract by value (including amendments) was \$13.2M.
 

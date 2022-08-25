@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$488.0K in 2020-2021** on contracts with LES TRADUCTIONS TESSIER.
 
-Across 105 contracts active since the start of the 2017-2018 fiscal year, 21 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 123% and the average number of amendments was 1.14. Cumulatively these amendments represent an increase of \$722.4K over the original contract values.
+Across 105 contracts active since the start of the 2017-2018 fiscal year, 21 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 50% and the average number of amendments was 1.14. Cumulatively these amendments represent an increase of \$712.3K over the original contract values.
 
 The average contract duration was 0.99 years, and the average contract value (not including contracts under \$10k) was \$136.0K. The longest contract was 4 years. The largest contract by value (including amendments) was \$2.3M.
 

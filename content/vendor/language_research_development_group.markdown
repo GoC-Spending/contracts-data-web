@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$7.8M in 2021-2022** on contracts with LANGUAGE RESEARCH DEVELOPMENT GROUP.
 
-Across 219 contracts active since the start of the 2017-2018 fiscal year, 52 have at least one amendment (24%). Of contracts with amendments, the average increase in dollar value was 172% and the average number of amendments was 1.6. Cumulatively these amendments represent an increase of \$16.5M over the original contract values.
+Across 219 contracts active since the start of the 2017-2018 fiscal year, 52 have at least one amendment (24%). Of contracts with amendments, the average increase in dollar value was 143% and the average number of amendments was 1.6. Cumulatively these amendments represent an increase of \$16.4M over the original contract values.
 
 The average contract duration was 1 years, and the average contract value (not including contracts under \$10k) was \$207.8K. The longest contract was 5.22 years. The largest contract by value (including amendments) was \$9.2M.
 

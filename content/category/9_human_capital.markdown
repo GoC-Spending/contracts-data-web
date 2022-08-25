@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$286.4M in 2021-2022** on human capital contracts.
 
-Across 18,391 contracts active since the start of the 2017-2018 fiscal year, 2,354 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 125% and the average number of amendments was 1.51. Cumulatively these amendments represent an increase of \$357.3M over the original contract values.
+Across 18,391 contracts active since the start of the 2017-2018 fiscal year, 2,353 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 110% and the average number of amendments was 1.51. Cumulatively these amendments represent an increase of \$356.8M over the original contract values.
 
 The average contract duration was 0.72 years, and the average contract value (not including contracts under \$10k) was \$80.6K. The longest contract was 10.87 years. The largest contract by value (including amendments) was \$32.2M.
 

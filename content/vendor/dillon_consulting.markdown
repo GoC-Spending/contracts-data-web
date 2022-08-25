@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$11.1M in 2021-2022** on contracts with DILLON CONSULTING.
 
-Across 508 contracts active since the start of the 2017-2018 fiscal year, 115 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 109% and the average number of amendments was 1.61. Cumulatively these amendments represent an increase of \$6.7M over the original contract values.
+Across 508 contracts active since the start of the 2017-2018 fiscal year, 115 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 103% and the average number of amendments was 1.61. Cumulatively these amendments represent an increase of \$6.6M over the original contract values.
 
 The average contract duration was 0.7 years, and the average contract value (not including contracts under \$10k) was \$97.7K. The longest contract was 4.49 years. The largest contract by value (including amendments) was \$2.1M.
 

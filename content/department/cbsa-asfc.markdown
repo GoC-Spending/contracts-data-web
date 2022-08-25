@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Canada Border Services Agency spent an estimated **\$400.5M in 2021-2022** on contracts.
 
-Across 5,118 contracts active since the start of the 2017-2018 fiscal year, 1,123 have at least one amendment (22%). Of contracts with amendments, the average increase in dollar value was 165% and the average number of amendments was 1.64. Cumulatively these amendments represent an increase of \$639.6M over the original contract values.
+Across 5,118 contracts active since the start of the 2017-2018 fiscal year, 1,123 have at least one amendment (22%). Of contracts with amendments, the average increase in dollar value was 135% and the average number of amendments was 1.64. Cumulatively these amendments represent an increase of \$639.5M over the original contract values.
 
 The average contract duration was 1.23 years, and the average contract value (not including contracts under \$10k) was \$480.6K. The longest contract was 10.51 years. The largest contract by value (including amendments) was \$160.6M.
 

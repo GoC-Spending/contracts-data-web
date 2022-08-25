@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Correctional Investigator Canada spent an estimated **\$255.1K in 2021-2022** on contracts.
 
-Across 30 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 103% and the average number of amendments was 1.57. Cumulatively these amendments represent an increase of \$229.6K over the original contract values.
+Across 32 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (22%). Of contracts with amendments, the average increase in dollar value was 103% and the average number of amendments was 1.57. Cumulatively these amendments represent an increase of \$229.6K over the original contract values.
 
-The average contract duration was 0.97 years, and the average contract value (not including contracts under \$10k) was \$36.4K. The longest contract was 5 years. The largest contract by value (including amendments) was \$262.8K.
+The average contract duration was 0.96 years, and the average contract value (not including contracts under \$10k) was \$37.4K. The longest contract was 5 years. The largest contract by value (including amendments) was \$262.8K.
 
 {{< /entity_summary >}}
 

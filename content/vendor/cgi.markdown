@@ -40,7 +40,7 @@ The average contract duration was 1.58 years, and the average contract value (no
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [CGI INFORMATION SYSTEMS AND](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CGI%20INFORMATION%20SYSTEMS%20AND%22)
 - [CGI](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CGI%22)
-- [\* CGI INFORMATION SYSTEMS &](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2a%20CGI%20INFORMATION%20SYSTEMS%20%26%22)
+- [CGI INFORMATION SYSTEMS &](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2a%20CGI%20INFORMATION%20SYSTEMS%20%26%22)
 - [CGI Information Systems &](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CGI%20Information%20Systems%20%26%22)
 - [Conseillers en gestion et informatique CGI inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Conseillers%20en%20gestion%20et%20informatique%20CGI%20inc.%22)
 - [CGI INFORMATION SYSTEMS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CGI%20INFORMATION%20SYSTEMS%22)

@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$52.4M in 2021-2022** on contracts with EXCEL HUMAN RESOURCES.
 
-Across 1,623 contracts active since the start of the 2017-2018 fiscal year, 671 have at least one amendment (41%). Of contracts with amendments, the average increase in dollar value was 270047% and the average number of amendments was 1.85. Cumulatively these amendments represent an increase of \$109.8M over the original contract values.
+Across 1,623 contracts active since the start of the 2017-2018 fiscal year, 671 have at least one amendment (41%). Of contracts with amendments, the average increase in dollar value was 174% and the average number of amendments was 1.85. Cumulatively these amendments represent an increase of \$109.3M over the original contract values.
 
 The average contract duration was 0.97 years, and the average contract value (not including contracts under \$10k) was \$214.0K. The longest contract was 7.36 years. The largest contract by value (including amendments) was \$14.1M.
 

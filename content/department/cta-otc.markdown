@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Canadian Transportation Agency spent an estimated **\$3.4M in 2021-2022** on contracts.
 
-Across 297 contracts active since the start of the 2017-2018 fiscal year, 69 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 11284422% and the average number of amendments was 2.14. Cumulatively these amendments represent an increase of \$3.0M over the original contract values.
+Across 297 contracts active since the start of the 2017-2018 fiscal year, 69 have at least one amendment (23%). Of contracts with amendments, the average increase in dollar value was 170% and the average number of amendments was 2.14. Cumulatively these amendments represent an increase of \$2.8M over the original contract values.
 
 The average contract duration was 1.49 years, and the average contract value (not including contracts under \$10k) was \$57.8K. The longest contract was 6.25 years. The largest contract by value (including amendments) was \$778.6K.
 

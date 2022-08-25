@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.1B in 2021-2022** on contracts with BROOKFIELD GLOBAL INTEGRATED SOLUTIONS.
 
-Across 374 contracts active since the start of the 2017-2018 fiscal year, 21 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 50% and the average number of amendments was 1.1. Cumulatively these amendments represent an increase of \$3.8B over the original contract values.
+Across 374 contracts active since the start of the 2017-2018 fiscal year, 21 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 31% and the average number of amendments was 1.1. Cumulatively these amendments represent an increase of \$3.8B over the original contract values.
 
 The average contract duration was 0.6 years, and the average contract value (not including contracts under \$10k) was \$43.2M. The longest contract was 13.41 years. The largest contract by value (including amendments) was \$5.7B.
 

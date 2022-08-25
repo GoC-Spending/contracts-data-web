@@ -67,7 +67,7 @@ The average contract duration was 0.64 years, and the average contract value (no
 - [ST JOSEPH PRINT GROUP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ST%20JOSEPH%20PRINT%20GROUP%22)
 - [ST. JOSEPH CORPORATION PRINT GROUP INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ST.%20JOSEPH%20CORPORATION%20PRINT%20GROUP%20INC.%22)
 - [St. Jospeh Print Group Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St.%20Jospeh%20Print%20Group%20Inc.%22)
-- [\* St-Joseph Print Group Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2a%20St-Joseph%20Print%20Group%20Inc.%22)
+- [St-Joseph Print Group Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2a%20St-Joseph%20Print%20Group%20Inc.%22)
 - [St-Joseph Print Group inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St-Joseph%20Print%20Group%20inc.%22)
 - [St. Joseph’s Print Group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St.%20Joseph%27s%20Print%20Group%22)
 - [St. Josephs Print Group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St.%20Josephs%20Print%20Group%22)

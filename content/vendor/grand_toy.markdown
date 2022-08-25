@@ -45,7 +45,7 @@ The average contract duration was 0.22 years, and the average contract value (no
 - [GRAND & TOY LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GRAND%20%26%20TOY%20LTD%22)
 - [Grand & Toy Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Grand%20%26%20Toy%20Ltd%22)
 - [Grand & Toy Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Grand%20%26%20Toy%20Limited%22)
-- [GRAND & TOYS \*](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GRAND%20%26%20TOYS%20%2a%22)
+- [GRAND & TOYS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GRAND%20%26%20TOYS%20%2a%22)
 - [GRAND & toy](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GRAND%20%26%20toy%22)
 - [grand & toy](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22grand%20%26%20toy%22)
 - [Grand & Toys Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Grand%20%26%20Toys%20Ltd%22)

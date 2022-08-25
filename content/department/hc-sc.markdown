@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 Health Canada spent an estimated **\$341.3M in 2021-2022** on contracts.
 
-Across 7,548 contracts active since the start of the 2017-2018 fiscal year, 1,136 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 441% and the average number of amendments was 1.4. Cumulatively these amendments represent an increase of \$470.4M over the original contract values.
+Across 7,550 contracts active since the start of the 2017-2018 fiscal year, 1,135 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 143% and the average number of amendments was 1.4. Cumulatively these amendments represent an increase of \$470.1M over the original contract values.
 
-The average contract duration was 0.99 years, and the average contract value (not including contracts under \$10k) was \$226.7K. The longest contract was 13.36 years. The largest contract by value (including amendments) was \$254.6M.
+The average contract duration was 0.99 years, and the average contract value (not including contracts under \$10k) was \$226.6K. The longest contract was 13.36 years. The largest contract by value (including amendments) was \$254.6M.
 
 {{< /entity_summary >}}
 

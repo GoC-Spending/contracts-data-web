@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$22.9M in 2021-2022** on contracts with MINDWIRE SYSTEMS.
 
-Across 614 contracts active since the start of the 2017-2018 fiscal year, 375 have at least one amendment (61%). Of contracts with amendments, the average increase in dollar value was 2483093% and the average number of amendments was 2.26. Cumulatively these amendments represent an increase of \$75.7M over the original contract values.
+Across 614 contracts active since the start of the 2017-2018 fiscal year, 375 have at least one amendment (61%). Of contracts with amendments, the average increase in dollar value was 165% and the average number of amendments was 2.26. Cumulatively these amendments represent an increase of \$65.9M over the original contract values.
 
 The average contract duration was 1.23 years, and the average contract value (not including contracts under \$10k) was \$355.7K. The longest contract was 7.12 years. The largest contract by value (including amendments) was \$11.0M.
 

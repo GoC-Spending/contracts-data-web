@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$47.8M in 2021-2022** on contracts with IMPERIAL OIL.
 
-Across 1,453 contracts active since the start of the 2017-2018 fiscal year, 72 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 256% and the average number of amendments was 1.46. Cumulatively these amendments represent an increase of \$1.6M over the original contract values.
+Across 1,453 contracts active since the start of the 2017-2018 fiscal year, 72 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 135% and the average number of amendments was 1.44. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
 
 The average contract duration was 0.19 years, and the average contract value (not including contracts under \$10k) was \$118.1K. The longest contract was 5.53 years. The largest contract by value (including amendments) was \$2.3M.
 
@@ -114,7 +114,7 @@ The average contract duration was 0.19 years, and the average contract value (no
 - [ExxonMobil Aviation (aka Imperial Oil)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ExxonMobil%20Aviation%20%28aka%20Imperial%20Oil%29%22)
 - [Esso Petroleum Canada, Imperial Oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Esso%20Petroleum%20Canada%2c%20Imperial%20Oil%22)
 - [IMPERIAL OIL COMMERCIAL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20OIL%20COMMERCIAL%22)
-- [I\*mperial Oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22I%2amperial%20Oil%22)
+- [Imperial Oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22I%2amperial%20Oil%22)
 - [Imperial Oil Limited,](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20Oil%20Limited%2c%22)
 - [Imperial Oit](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20Oit%22)
 - [Imperial Oil (Exxon)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20Oil%20%28Exxon%29%22)

@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$11.6M in 2021-2022** on contracts with ENGLOBE.
 
-Across 652 contracts active since the start of the 2017-2018 fiscal year, 112 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 166% and the average number of amendments was 1.48. Cumulatively these amendments represent an increase of \$16.0M over the original contract values.
+Across 652 contracts active since the start of the 2017-2018 fiscal year, 112 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 70% and the average number of amendments was 1.48. Cumulatively these amendments represent an increase of \$15.9M over the original contract values.
 
 The average contract duration was 0.75 years, and the average contract value (not including contracts under \$10k) was \$183.5K. The longest contract was 6.51 years. The largest contract by value (including amendments) was \$16.1M.
 

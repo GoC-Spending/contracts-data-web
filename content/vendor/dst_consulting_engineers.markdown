@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.4M in 2021-2022** on contracts with DST CONSULTING ENGINEERS.
 
-Across 226 contracts active since the start of the 2017-2018 fiscal year, 33 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 112% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$1.9M over the original contract values.
+Across 226 contracts active since the start of the 2017-2018 fiscal year, 33 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 103% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$1.9M over the original contract values.
 
 The average contract duration was 0.67 years, and the average contract value (not including contracts under \$10k) was \$69.6K. The longest contract was 5.3 years. The largest contract by value (including amendments) was \$1.5M.
 

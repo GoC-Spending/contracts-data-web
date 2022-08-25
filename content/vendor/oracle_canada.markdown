@@ -64,7 +64,7 @@ The average contract duration was 0.95 years, and the average contract value (no
 - [Oracle Corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Oracle%20Corporation%22)
 - [Oracle Canada ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Oracle%20%20Canada%20ULC%22)
 - [Oracle University](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Oracle%20University%22)
-- [\*Oracle Canada ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aOracle%20Canada%20ULC%22)
+- [Oracle Canada ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2aOracle%20Canada%20ULC%22)
 - [ORACLE CORPORATION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ORACLE%20CORPORATION%20LTD.%22)
 - [ORACLE UNIVERSITY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ORACLE%20UNIVERSITY%22)
 - [oracle canada ulc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22oracle%20canada%20ulc%22)

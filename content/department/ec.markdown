@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 Environment and Climate Change Canada spent an estimated **\$199.6M in 2021-2022** on contracts.
 
-Across 12,085 contracts active since the start of the 2017-2018 fiscal year, 1,103 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 531726% and the average number of amendments was 1.53. Cumulatively these amendments represent an increase of \$277.4M over the original contract values.
+Across 12,085 contracts active since the start of the 2017-2018 fiscal year, 1,103 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 150% and the average number of amendments was 1.53. Cumulatively these amendments represent an increase of \$276.2M over the original contract values.
 
 The average contract duration was 0.87 years, and the average contract value (not including contracts under \$10k) was \$88.8K. The longest contract was 15.05 years. The largest contract by value (including amendments) was \$124.8M.
 

@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$307.6M in 2021-2022** on contracts with CALIAN.
 
-Across 986 contracts active since the start of the 2017-2018 fiscal year, 444 have at least one amendment (45%). Of contracts with amendments, the average increase in dollar value was 172% and the average number of amendments was 1.98. Cumulatively these amendments represent an increase of \$840.9M over the original contract values.
+Across 986 contracts active since the start of the 2017-2018 fiscal year, 444 have at least one amendment (45%). Of contracts with amendments, the average increase in dollar value was 144% and the average number of amendments was 1.98. Cumulatively these amendments represent an increase of \$840.8M over the original contract values.
 
 The average contract duration was 1.17 years, and the average contract value (not including contracts under \$10k) was \$1.5M. The longest contract was 13.01 years. The largest contract by value (including amendments) was \$995.6M.
 
@@ -79,7 +79,7 @@ The average contract duration was 1.17 years, and the average contract value (no
 - [CALIAN Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CALIAN%20Ltd.%22)
 - [CALAIN LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CALAIN%20LTD%22)
 - [CALIAN (CALIAN) LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CALIAN%20%28CALIAN%29%20LTD%22)
-- [\*\* CALIAN LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2a%2a%20CALIAN%20LTD.%22)
+- [CALIAN LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%2a%2a%20CALIAN%20LTD.%22)
 - [Calian. Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Calian.%20Ltd%22)
 - [Calian limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Calian%20limited%22)
 - [Calian Ltd, DWP Solutions Inc, in joint venture](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Calian%20Ltd%2c%20DWP%20Solutions%20Inc%2c%20in%20joint%20venture%22)

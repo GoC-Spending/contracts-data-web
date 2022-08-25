@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 National Research Council Canada spent an estimated **\$223.4M in 2021-2022** on contracts.
 
-Across 14,379 contracts active since the start of the 2017-2018 fiscal year, 1,711 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 115973% and the average number of amendments was 1.77. Cumulatively these amendments represent an increase of \$-907.7M over the original contract values.
+Across 14,379 contracts active since the start of the 2017-2018 fiscal year, 1,711 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 83% and the average number of amendments was 1.77. Cumulatively these amendments represent an increase of \$-909.4M over the original contract values.
 
 The average contract duration was 0.54 years, and the average contract value (not including contracts under \$10k) was \$81.1K. The longest contract was 18.68 years. The largest contract by value (including amendments) was \$28.6M.
 

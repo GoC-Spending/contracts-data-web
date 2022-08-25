@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$298.6M in 2021-2022** on contracts with MICROSOFT CANADA.
 
-Across 1,103 contracts active since the start of the 2017-2018 fiscal year, 168 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 426% and the average number of amendments was 2.17. Cumulatively these amendments represent an increase of \$553.5M over the original contract values.
+Across 1,103 contracts active since the start of the 2017-2018 fiscal year, 168 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 425% and the average number of amendments was 2.17. Cumulatively these amendments represent an increase of \$553.5M over the original contract values.
 
 The average contract duration was 1.54 years, and the average contract value (not including contracts under \$10k) was \$2.0M. The longest contract was 20.01 years. The largest contract by value (including amendments) was \$1.1B.
 

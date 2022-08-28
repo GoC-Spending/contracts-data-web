@@ -137,13 +137,12 @@ remove_existing_content_folders <- function() {
 
   content_folder <- here("content/")
   
-  output_vendor_path <- str_c(content_folder, "vendor")
+  
   output_department_path <- str_c(content_folder, "department")
   output_category_path <- str_c(content_folder, "category")
   
-  if(fs::dir_exists(output_vendor_path)) {
-    fs::dir_delete(output_vendor_path)
-  }
+  remove_existing_vendor_folders()
+  
   if(fs::dir_exists(output_department_path)) {
     fs::dir_delete(output_department_path)
   }
@@ -153,20 +152,34 @@ remove_existing_content_folders <- function() {
 
 }
 
+# At this point, usually just need to regenerate the vendor folders
+remove_existing_vendor_folders <- function() {
+  
+  content_folder <- here("content/")
+  output_vendor_path <- str_c(content_folder, "vendor")
+  if(fs::dir_exists(output_vendor_path)) {
+    fs::dir_delete(output_vendor_path)
+  }
+  
+}
+
 # Regenerate all the things!! ==================
 
 # Currently takes about 3 minutes
 # Note: if existing content folders are removed, then the
 # "serve site" function will regenerate all missing .markdown files
 # which is equivalent to the build_all_pages() function below.
-generate_all_pages <- function(remove_existing_folders = FALSE) {
+generate_all_pages <- function(remove_all_existing_folders = FALSE, remove_vendor_folders = FALSE) {
   # Start time
   run_start_time <- now()
   print(str_c("Start time: ", run_start_time))
   
-  if(remove_existing_folders) {
-    print("Heads-up: Removing existing folders!")
+  if(remove_all_existing_folders) {
+    print("Heads-up: Removing all existing folders!")
     remove_existing_content_folders()
+  } else if(remove_vendor_folders) {
+    print("Heads-up: Removing existing vendor folders!")
+    remove_existing_vendor_folders()
   }
   
   generate_all_category_pages()

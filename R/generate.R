@@ -213,3 +213,10 @@ build_all_pages <- function() {
   # Write the log to a YAML file
   update_build_log_yaml()
 }
+
+
+# Do everything!
+generate_and_build <- function() {
+  generate_all_pages(TRUE)
+  build_all_pages()
+}

@@ -332,20 +332,36 @@ get_fiscal_year_data_by_entity_and_department <- function(department, entity_typ
     path <- str_c(get_department_path(department), "summary_by_fiscal_year_by_category.csv")
   }
   
-  data <- read_csv(path) %>%
-    format_totals() %>%
-    rename_column_names() %>%
-    pivot_by_fiscal_year()
+  data <- read_csv(path)
   
-  return(data)
+  # For departments and vendors, there can end up being situations where none of the department's vendors are in the top list of included vendors, making the vendor data empty for that department.
+  # This attempts to handle those cases.
+  if(count(data) > 0) {
+    data <- data %>%
+      format_totals() %>%
+      rename_column_names() %>%
+      pivot_by_fiscal_year()
+    
+    return(data)
+  } else {
+    return(FALSE)
+  }
+
 }
 
 dt_vendors_by_fiscal_year_by_department <- function(department) {
   
   data <- get_fiscal_year_data_by_entity_and_department(department, "vendors")
   
-  data %>%
-    dt_fiscal_year()
+  # Note: data is a tibble if there is data, and FALSE if not.
+  # Review if this should be handled more rigorously.
+  # See get_fiscal_year_data_by_entity_and_department for more details - small departments may have 0 vendors that were large enough to be in the set of included vendors.
+  if(! is.logical(data)) {
+    data %>%
+      dt_fiscal_year()
+  } else {
+    htmltools::p(class="no-table-data", "No data available – none of this department’s vendors were large enough to be included in the results.")
+  }
   
 }
 

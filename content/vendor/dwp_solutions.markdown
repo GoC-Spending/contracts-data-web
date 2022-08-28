@@ -1,7 +1,7 @@
 ---
 title: DWP SOLUTIONS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: dwp_solutions
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$70.1K in 2021-2022** on contracts with DWP SOLUTIONS.
 
-Across 11 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (73%). Of contracts with amendments, the average increase in dollar value was 252% and the average number of amendments was 2.38. Cumulatively these amendments represent an increase of \$21.6M over the original contract values.
+Across 11 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (73%). Of contracts with amendments, the average increase in dollar value was 178% and the average number of amendments was 2.38. Cumulatively these amendments represent an increase of \$17.8M over the original contract values.
 
 The average contract duration was 3.19 years, and the average contract value (not including contracts under \$10k) was \$2.6M. The longest contract was 5.5 years. The largest contract by value (including amendments) was \$11.7M.
 

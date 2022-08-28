@@ -1,7 +1,7 @@
 ---
 title: GEN MEC ACL
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: gen_mec_acl
 categories: []
 tags: []

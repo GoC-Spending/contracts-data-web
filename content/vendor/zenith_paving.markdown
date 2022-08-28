@@ -1,7 +1,7 @@
 ---
 title: ZENITH PAVING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: zenith_paving
 categories: []
 tags: []
@@ -43,8 +43,8 @@ The average contract duration was 0.55 years, and the average contract value (no
 - [ZENITH PAVING LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZENITH%20PAVING%20LTD%22)
 - [Zenith Paving Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Zenith%20Paving%20Ltd.%22)
 - [Zenith Paving Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Zenith%20Paving%20Limited%22)
-- [ZENITH PAVING LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZENITH%20PAVING%20LTD.%22)
 - [ZENITH PAVING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZENITH%20PAVING%22)
+- [ZENITH PAVING LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZENITH%20PAVING%20LTD.%22)
 {{< /details >}}
 
 ## Departments and agencies

@@ -1,7 +1,7 @@
 ---
 title: KETZA PACIFIC CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ketza_pacific_construction
 categories: []
 tags: []

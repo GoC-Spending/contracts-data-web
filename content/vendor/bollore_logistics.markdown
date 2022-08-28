@@ -1,7 +1,7 @@
 ---
 title: BOLLORE LOGISTICS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: bollore_logistics
 categories: []
 tags: []

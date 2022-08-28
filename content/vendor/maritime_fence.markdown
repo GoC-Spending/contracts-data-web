@@ -1,7 +1,7 @@
 ---
 title: MARITIME FENCE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: maritime_fence
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$794.0K in 2021-2022** on contracts with MARITIME FENCE.
 
-Across 28 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 32% and the average number of amendments was 3.67. Cumulatively these amendments represent an increase of \$3.3M over the original contract values.
+Across 28 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 26% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$3.3M over the original contract values.
 
 The average contract duration was 0.43 years, and the average contract value (not including contracts under \$10k) was \$329.8K. The longest contract was 3.62 years. The largest contract by value (including amendments) was \$7.0M.
 
@@ -39,8 +39,8 @@ The average contract duration was 0.43 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [MARITIME FENCE LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MARITIME%20FENCE%20LTD.%22)
-- [Maritime Fence Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Maritime%20Fence%20Ltd%22)
 - [Maritime Fence Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Maritime%20Fence%20Ltd.%22)
+- [Maritime Fence Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Maritime%20Fence%20Ltd%22)
 - [Maritime Fence](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Maritime%20Fence%22)
 - [MARITIME FENCE LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MARITIME%20FENCE%20LTD%22)
 - [Maritime Fencing](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Maritime%20Fencing%22)

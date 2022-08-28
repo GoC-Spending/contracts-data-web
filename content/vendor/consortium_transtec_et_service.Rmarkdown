@@ -1,7 +1,7 @@
 ---
 title: CONSORTIUM TRANSTEC ET SERVICE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: consortium_transtec_et_service
 categories: []
 tags: []

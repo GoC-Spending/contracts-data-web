@@ -1,7 +1,7 @@
 ---
 title: L A HEBERT
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: l_a_hebert
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.8M in 2021-2022** on contracts with L A HEBERT.
 
-Across 4 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (75%). Of contracts with amendments, the average increase in dollar value was 5% and the average number of amendments was 3.33. Cumulatively these amendments represent an increase of \$424.6K over the original contract values.
+Across 4 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 9% and the average number of amendments was 2.75. Cumulatively these amendments represent an increase of \$746.0K over the original contract values.
 
 The average contract duration was 1.45 years, and the average contract value (not including contracts under \$10k) was \$3.2M. The longest contract was 2.19 years. The largest contract by value (including amendments) was \$6.1M.
 
@@ -40,6 +40,7 @@ The average contract duration was 1.45 years, and the average contract value (no
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [L.A. HÉBERT LTÉE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L.A.%20H%c3%89BERT%20LT%c3%89E%22)
 - [L.A. Hebert Ltee](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L.A.%20Hebert%20Ltee%22)
+- [L.A. HÉBERT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L.A.%20H%c3%89BERT%22)
 {{< /details >}}
 
 ## Departments and agencies

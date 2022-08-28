@@ -1,7 +1,7 @@
 ---
 title: SECURIGUARD SERVICES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: securiguard_services
 categories: []
 tags: []
@@ -40,6 +40,7 @@ The average contract duration was 4.33 years, and the average contract value (no
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Securiguard Services Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Securiguard%20Services%20Ltd%22)
 - [SECURIGUARD SERVICES LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SECURIGUARD%20SERVICES%20LIMITED%22)
+- [Securiguard Services Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Securiguard%20Services%20Limited%22)
 - [SECURIGUARD SEVICES LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SECURIGUARD%20SEVICES%20LTD%22)
 {{< /details >}}
 

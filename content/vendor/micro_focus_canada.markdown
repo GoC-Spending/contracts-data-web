@@ -1,7 +1,7 @@
 ---
 title: MICRO FOCUS CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: micro_focus_canada
 categories: []
 tags: []

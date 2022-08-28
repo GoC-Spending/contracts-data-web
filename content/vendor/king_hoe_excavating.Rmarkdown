@@ -1,7 +1,7 @@
 ---
 title: KING HOE EXCAVATING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: king_hoe_excavating
 categories: []
 tags: []

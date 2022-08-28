@@ -1,7 +1,7 @@
 ---
 title: MAISON JOINS TOI
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: maison_joins_toi
 categories: []
 tags: []

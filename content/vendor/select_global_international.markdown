@@ -1,7 +1,7 @@
 ---
 title: SELECT GLOBAL INTERNATIONAL
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: select_global_international
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: CASP AEROSPACE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: casp_aerospace
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.3M in 2021-2022** on contracts with CASP AEROSPACE.
 
-Across 9 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (22%). Of contracts with amendments, the average increase in dollar value was 666% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$18.8M over the original contract values.
+Across 9 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (22%). Of contracts with amendments, the average increase in dollar value was 127% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$12.4M over the original contract values.
 
 The average contract duration was 2 years, and the average contract value (not including contracts under \$10k) was \$2.9M. The longest contract was 11.05 years. The largest contract by value (including amendments) was \$20.0M.
 

@@ -1,7 +1,7 @@
 ---
 title: WILDSTONE CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: wildstone_construction
 categories: []
 tags: []

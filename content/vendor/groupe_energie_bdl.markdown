@@ -1,7 +1,7 @@
 ---
 title: GROUPE ENERGIE BDL
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: groupe_energie_bdl
 categories: []
 tags: []
@@ -39,6 +39,7 @@ The average contract duration was 0.08 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [GROUPE ENERGIE BDL INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GROUPE%20ENERGIE%20BDL%20INC%22)
+- [Groupe Énergie BDL Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Groupe%20%c3%89nergie%20BDL%20Inc.%22)
 - [Groupe Energie BDL Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Groupe%20Energie%20BDL%20Inc%22)
 - [GROUPE ENERGIE BDL INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GROUPE%20ENERGIE%20BDL%20INC.%22)
 - [Groupe Energie BDL Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Groupe%20Energie%20BDL%20Inc.%22)

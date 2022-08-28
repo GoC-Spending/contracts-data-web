@@ -1,7 +1,7 @@
 ---
 title: VAN KAPPEL INTERNATIONAL
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: van_kappel_international
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: MACONNERIE RAINVILLE ET FRERES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: maconnerie_rainville_et_freres
 categories: []
 tags: []
@@ -40,6 +40,7 @@ The average contract duration was 1.57 years, and the average contract value (no
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [MAÇONNERIE RAINVILLE ET FRÈRES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MA%c3%87ONNERIE%20RAINVILLE%20ET%20FR%c3%88RES%20INC.%22)
 - [Maconnerie Rainville et Freres Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Maconnerie%20Rainville%20et%20Freres%20Inc.%22)
+- [MACONNERIE RAINVILLE ET FRERES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MACONNERIE%20RAINVILLE%20ET%20FRERES%20INC.%22)
 {{< /details >}}
 
 ## Departments and agencies

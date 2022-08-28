@@ -1,7 +1,7 @@
 ---
 title: DAIMLER
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: daimler
 categories: []
 tags: []
@@ -46,7 +46,9 @@ The average contract duration was 0.66 years, and the average contract value (no
 - [DAIMLER CHRYSLER CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DAIMLER%20CHRYSLER%20CANADA%20INC.%22)
 - [Daimlet AG](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Daimlet%20AG%22)
 - [Daimler (Mercedes)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Daimler%20%28Mercedes%29%22)
+- [FLEET - DAIMLERCHRYSLER CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FLEET%20-%20DAIMLERCHRYSLER%20CANADA%20INC.%22)
 - [Daimler Ag](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Daimler%20Ag%22)
+- [DAIMLER CHRYSLER CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DAIMLER%20CHRYSLER%20CANADA%20INC%22)
 - [DAIMLERCHRYSLER CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DAIMLERCHRYSLER%20CANADA%20INC.%22)
 - [Daimler AG - Mercedes-Benz Vertrieb Deutschland](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Daimler%20AG%20-%20Mercedes-Benz%20Vertrieb%20Deutschland%22)
 - [Daimler](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Daimler%22)
@@ -54,7 +56,7 @@ The average contract duration was 0.66 years, and the average contract value (no
 - [DAIMLERCHRYSLER AG DIPLOMATIC SALES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DAIMLERCHRYSLER%20AG%20DIPLOMATIC%20SALES%22)
 - [DAIMLER CHRYSLER](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DAIMLER%20CHRYSLER%22)
 - [daimler AG](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22daimler%20AG%22)
-- [DAIMLER CHRYSLER CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DAIMLER%20CHRYSLER%20CANADA%20INC%22)
+- [Daimler Chrysler Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Daimler%20Chrysler%20Canada%22)
 - [Dailmer AG](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dailmer%20AG%22)
 {{< /details >}}
 

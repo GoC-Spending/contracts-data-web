@@ -1,7 +1,7 @@
 ---
 title: OTIS ELEVATOR
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: otis_elevator
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with OTIS ELEVATOR.
 
-Across 81 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 75% and the average number of amendments was 1.94. Cumulatively these amendments represent an increase of \$1.3M over the original contract values.
+Across 81 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 69% and the average number of amendments was 2.06. Cumulatively these amendments represent an increase of \$1.1M over the original contract values.
 
 The average contract duration was 3.27 years, and the average contract value (not including contracts under \$10k) was \$322.2K. The longest contract was 26.02 years. The largest contract by value (including amendments) was \$17.4M.
 

@@ -1,7 +1,7 @@
 ---
 title: CANADIAN BASE OPERATORS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: canadian_base_operators
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$845.2K in 2021-2022** on contracts with CANADIAN BASE OPERATORS.
 
-Across 117 contracts active since the start of the 2017-2018 fiscal year, 44 have at least one amendment (38%). Of contracts with amendments, the average increase in dollar value was 6% and the average number of amendments was 1.61. Cumulatively these amendments represent an increase of \$204.5K over the original contract values.
+Across 117 contracts active since the start of the 2017-2018 fiscal year, 44 have at least one amendment (38%). Of contracts with amendments, the average increase in dollar value was 4% and the average number of amendments was 1.61. Cumulatively these amendments represent an increase of \$196.7K over the original contract values.
 
 The average contract duration was 0.29 years, and the average contract value (not including contracts under \$10k) was \$191.1K. The longest contract was 3.47 years. The largest contract by value (including amendments) was \$8.5M.
 

@@ -1,7 +1,7 @@
 ---
 title: COMMVAULT SYSTEMS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: commvault_systems
 categories: []
 tags: []
@@ -42,10 +42,10 @@ The average contract duration was 1.1 years, and the average contract value (not
 - [COMMVAULT SYSTEMS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22COMMVAULT%20SYSTEMS%20CANADA%20INC%22)
 - [COMMVAULT SYSTEMS CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22COMMVAULT%20SYSTEMS%20CANADA%20INC.%22)
 - [COMMVAULT CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22COMMVAULT%20CANADA%22)
+- [CommVault Systems Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CommVault%20Systems%20Canada%20Inc.%22)
 - [COMMVAULT SYSTEMS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22COMMVAULT%20SYSTEMS%22)
 - [Commvault Systems Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Commvault%20Systems%20Inc.%22)
 - [CommVault Systems (Canada) Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CommVault%20Systems%20%28Canada%29%20Inc.%22)
-- [CommVault Systems Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CommVault%20Systems%20Canada%20Inc.%22)
 - [Commvault Systems Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Commvault%20Systems%20Canada%22)
 - [Commvault Systems Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Commvault%20Systems%20Inc%22)
 - [CommVault Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CommVault%20Canada%22)

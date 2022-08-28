@@ -1,7 +1,7 @@
 ---
 title: ASC GERMANY
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: asc_germany
 categories: []
 tags: []

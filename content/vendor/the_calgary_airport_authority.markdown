@@ -1,7 +1,7 @@
 ---
 title: THE CALGARY AIRPORT AUTHORITY
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: the_calgary_airport_authority
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$5.6M in 2021-2022** on contracts with THE CALGARY AIRPORT AUTHORITY.
 
-Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 1053% and the average number of amendments was 5. Cumulatively these amendments represent an increase of \$7.0M over the original contract values.
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 999% and the average number of amendments was 5. Cumulatively these amendments represent an increase of \$6.9M over the original contract values.
 
 The average contract duration was 1.88 years, and the average contract value (not including contracts under \$10k) was \$3.8M. The longest contract was 2.4 years. The largest contract by value (including amendments) was \$7.6M.
 
@@ -39,6 +39,7 @@ The average contract duration was 1.88 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [THE CALGARY AIRPORT AUTHORITY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22THE%20CALGARY%20AIRPORT%20AUTHORITY%22)
+- [The Calgary Airport Authority](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22The%20Calgary%20Airport%20Authority%22)
 {{< /details >}}
 
 ## Departments and agencies

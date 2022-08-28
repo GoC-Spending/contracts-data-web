@@ -1,7 +1,7 @@
 ---
 title: BERGEVIN ELECTRICAL CONTRACTING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: bergevin_electrical_contracting
 categories: []
 tags: []
@@ -38,8 +38,8 @@ The average contract duration was 0.65 years, and the average contract value (no
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
-- [BERGEVIN ELECTRICAL CONTRACTING LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BERGEVIN%20ELECTRICAL%20CONTRACTING%20LTD%22)
 - [Bergevin Electrical Contracting Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bergevin%20Electrical%20Contracting%20Ltd%22)
+- [BERGEVIN ELECTRICAL CONTRACTING LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BERGEVIN%20ELECTRICAL%20CONTRACTING%20LTD%22)
 - [Bergevin Electrical Contracting Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bergevin%20Electrical%20Contracting%20Ltd.%22)
 {{< /details >}}
 

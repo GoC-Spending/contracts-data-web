@@ -1,7 +1,7 @@
 ---
 title: N P A
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: n_p_a
 categories: []
 tags: []

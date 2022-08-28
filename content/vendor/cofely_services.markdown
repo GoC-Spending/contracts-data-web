@@ -1,7 +1,7 @@
 ---
 title: COFELY SERVICES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: cofely_services
 categories: []
 tags: []

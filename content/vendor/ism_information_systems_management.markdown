@@ -1,7 +1,7 @@
 ---
 title: ISM INFORMATION SYSTEMS MANAGEMENT
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ism_information_systems_management
 categories: []
 tags: []

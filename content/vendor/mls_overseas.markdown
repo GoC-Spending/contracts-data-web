@@ -1,7 +1,7 @@
 ---
 title: MLS OVERSEAS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: mls_overseas
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$5.9M in 2021-2022** on contracts with MLS OVERSEAS.
 
-Across 463 contracts active since the start of the 2017-2018 fiscal year, 154 have at least one amendment (33%). Of contracts with amendments, the average increase in dollar value was 20% and the average number of amendments was 1.12. Cumulatively these amendments represent an increase of \$1.7M over the original contract values.
+Across 463 contracts active since the start of the 2017-2018 fiscal year, 154 have at least one amendment (33%). Of contracts with amendments, the average increase in dollar value was 18% and the average number of amendments was 1.12. Cumulatively these amendments represent an increase of \$1.4M over the original contract values.
 
 The average contract duration was 0.08 years, and the average contract value (not including contracts under \$10k) was \$97.0K. The longest contract was 11.18 years. The largest contract by value (including amendments) was \$403.5K.
 

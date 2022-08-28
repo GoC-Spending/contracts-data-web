@@ -1,7 +1,7 @@
 ---
 title: MAN ENERGY SOLUTIONS CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: man_energy_solutions_canada
 categories: []
 tags: []

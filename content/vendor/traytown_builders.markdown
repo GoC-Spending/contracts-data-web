@@ -1,7 +1,7 @@
 ---
 title: TRAYTOWN BUILDERS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: traytown_builders
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$13.7K in 2021-2022** on contracts with TRAYTOWN BUILDERS.
 
-Across 12 contracts active since the start of the 2017-2018 fiscal year, 5 have at least one amendment (42%). Of contracts with amendments, the average increase in dollar value was 31% and the average number of amendments was 2.6. Cumulatively these amendments represent an increase of \$720.1K over the original contract values.
+Across 12 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 31% and the average number of amendments was 2.5. Cumulatively these amendments represent an increase of \$819.5K over the original contract values.
 
-The average contract duration was 1 years, and the average contract value (not including contracts under \$10k) was \$654.3K. The longest contract was 3.2 years. The largest contract by value (including amendments) was \$5.0M.
+The average contract duration was 1.02 years, and the average contract value (not including contracts under \$10k) was \$654.3K. The longest contract was 3.2 years. The largest contract by value (including amendments) was \$5.0M.
 
 {{< /entity_summary >}}
 

@@ -1,7 +1,7 @@
 ---
 title: GLOBAL UPHOLSTERY
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: global_upholstery
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$2.0M in 2021-2022** on contracts with GLOBAL UPHOLSTERY.
 
-Across 563 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 8% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$36.3K over the original contract values.
+Across 563 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 6% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-22.7K over the original contract values.
 
 The average contract duration was 0.26 years, and the average contract value (not including contracts under \$10k) was \$34.0K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$1.1M.
 

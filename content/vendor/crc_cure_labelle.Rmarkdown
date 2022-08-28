@@ -1,7 +1,7 @@
 ---
 title: CRC CURE LABELLE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: crc_cure_labelle
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: INDAL TECHNOLOGIES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: indal_technologies
 categories: []
 tags: []

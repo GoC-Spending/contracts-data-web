@@ -1,7 +1,7 @@
 ---
 title: AMEX BANK OF CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: amex_bank_of_canada
 categories: []
 tags: []

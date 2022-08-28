@@ -1,7 +1,7 @@
 ---
 title: ANCHOR QEA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: anchor_qea
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: TENAQUIP
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: tenaquip
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$4.5M in 2021-2022** on contracts with TENAQUIP.
 
-Across 263 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (3%). Of contracts with amendments, the average increase in dollar value was -9% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-977.8K over the original contract values.
+Across 263 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (3%). Of contracts with amendments, the average increase in dollar value was -9% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-977.9K over the original contract values.
 
 The average contract duration was 0.18 years, and the average contract value (not including contracts under \$10k) was \$36.0K. The longest contract was 3 years. The largest contract by value (including amendments) was \$2.4M.
 
@@ -52,6 +52,7 @@ The average contract duration was 0.18 years, and the average contract value (no
 - [TÉNAQUIP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22T%c3%89NAQUIP%22)
 - [Tenaquip Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Tenaquip%20Ltd.%22)
 - [tenaquip ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22tenaquip%20ltd%22)
+- [Tenaquip Ltée](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Tenaquip%20Lt%c3%a9e%22)
 - [tenaquip](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22tenaquip%22)
 - [Tenaquip LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Tenaquip%20LTD.%22)
 - [TENEQUIP LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TENEQUIP%20LTD%22)
@@ -59,7 +60,6 @@ The average contract duration was 0.18 years, and the average contract value (no
 - [teanaquip](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22teanaquip%22)
 - [Tenquip Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Tenquip%20Limited%22)
 - [Tenequip Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Tenequip%20Ltd.%22)
-- [Tenaquip Ltée](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Tenaquip%20Lt%c3%a9e%22)
 - [TENAQUIP Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TENAQUIP%20Ltd%22)
 - [TENQUIP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TENQUIP%22)
 {{< /details >}}

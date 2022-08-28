@@ -1,7 +1,7 @@
 ---
 title: UNIVERSITY OF SASKATCHEWAN
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: university_of_saskatchewan
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.4M in 2021-2022** on contracts with UNIVERSITY OF SASKATCHEWAN.
 
-Across 79 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 180% and the average number of amendments was 1.92. Cumulatively these amendments represent an increase of \$4.1M over the original contract values.
+Across 79 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 175% and the average number of amendments was 1.92. Cumulatively these amendments represent an increase of \$4.1M over the original contract values.
 
 The average contract duration was 1.04 years, and the average contract value (not including contracts under \$10k) was \$154.9K. The longest contract was 5.7 years. The largest contract by value (including amendments) was \$1.5M.
 

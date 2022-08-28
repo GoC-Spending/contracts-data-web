@@ -1,7 +1,7 @@
 ---
 title: MUNICIPAL READY MIX
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: municipal_ready_mix
 categories: []
 tags: []

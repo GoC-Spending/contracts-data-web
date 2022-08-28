@@ -1,7 +1,7 @@
 ---
 title: NAPPAQ DESIGN CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: nappaq_design_construction
 categories: []
 tags: []
@@ -39,6 +39,7 @@ The average contract duration was 0.67 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [NAPPAQ DESIGN & CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NAPPAQ%20DESIGN%20%26%20CONSTRUCTION%20LTD.%22)
+- [Nappaq Design & Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nappaq%20Design%20%26%20Construction%20Ltd.%22)
 {{< /details >}}
 
 ## Departments and agencies

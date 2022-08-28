@@ -1,7 +1,7 @@
 ---
 title: KFN ENTERPRISES PARTNERSHIP
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: kfn_enterprises_partnership
 categories: []
 tags: []

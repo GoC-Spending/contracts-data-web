@@ -1,7 +1,7 @@
 ---
 title: VMWARE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: vmware
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$32.4M in 2021-2022** on contracts with VMWARE.
 
-Across 225 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 3171% and the average number of amendments was 1.45. Cumulatively these amendments represent an increase of \$30.7M over the original contract values.
+Across 225 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 2960% and the average number of amendments was 1.45. Cumulatively these amendments represent an increase of \$30.4M over the original contract values.
 
 The average contract duration was 0.94 years, and the average contract value (not including contracts under \$10k) was \$783.4K. The longest contract was 4.02 years. The largest contract by value (including amendments) was \$28.1M.
 

@@ -1,7 +1,7 @@
 ---
 title: BARRIE MACKAY CONTRACTING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: barrie_mackay_contracting
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$5.3M in 2020-2021** on contracts with BARRIE MACKAY CONTRACTING.
 
-Across 2 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 11% and the average number of amendments was 4.5. Cumulatively these amendments represent an increase of \$2.1M over the original contract values.
+Across 2 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 11% and the average number of amendments was 5.5. Cumulatively these amendments represent an increase of \$2.1M over the original contract values.
 
 The average contract duration was 3.44 years, and the average contract value (not including contracts under \$10k) was \$10.2M. The longest contract was 4.15 years. The largest contract by value (including amendments) was \$11.1M.
 
@@ -39,6 +39,7 @@ The average contract duration was 3.44 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Barrie MacKay Contracting Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Barrie%20MacKay%20Contracting%20Ltd%22)
+- [Barrie MacKay Contracting](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Barrie%20MacKay%20Contracting%22)
 {{< /details >}}
 
 ## Departments and agencies

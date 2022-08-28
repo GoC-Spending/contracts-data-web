@@ -1,7 +1,7 @@
 ---
 title: NATIONAL ARTS CENTRE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: national_arts_centre
 categories: []
 tags: []

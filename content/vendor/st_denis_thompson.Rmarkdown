@@ -1,7 +1,7 @@
 ---
 title: ST DENIS THOMPSON
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: st_denis_thompson
 categories: []
 tags: []

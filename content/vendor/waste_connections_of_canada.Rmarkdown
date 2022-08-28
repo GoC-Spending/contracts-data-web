@@ -1,7 +1,7 @@
 ---
 title: WASTE CONNECTIONS OF CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: waste_connections_of_canada
 categories: []
 tags: []

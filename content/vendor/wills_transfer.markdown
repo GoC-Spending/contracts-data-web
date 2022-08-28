@@ -1,7 +1,7 @@
 ---
 title: WILLS TRANSFER
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: wills_transfer
 categories: []
 tags: []
@@ -40,9 +40,9 @@ The average contract duration was 1.06 years, and the average contract value (no
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [WILLS TRANSFER LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WILLS%20TRANSFER%20LIMITED%22)
 - [WILLS TRANSFER LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WILLS%20TRANSFER%20LTD%22)
+- [Wills Transfer Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Wills%20Transfer%20Ltd.%22)
 - [WILLS TRANSFER LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WILLS%20TRANSFER%20LTD.%22)
 - [Wills Transfer Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Wills%20Transfer%20Ltd%22)
-- [Wills Transfer Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Wills%20Transfer%20Ltd.%22)
 - [Wills Transfer Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Wills%20Transfer%20Limited%22)
 {{< /details >}}
 

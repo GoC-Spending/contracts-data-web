@@ -1,7 +1,7 @@
 ---
 title: UNISOURCE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: unisource
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$5.7M in 2021-2022** on contracts with UNISOURCE.
 
-Across 401 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 9% and the average number of amendments was 1.25. Cumulatively these amendments represent an increase of \$329.6K over the original contract values.
+Across 401 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 7% and the average number of amendments was 1.25. Cumulatively these amendments represent an increase of \$324.8K over the original contract values.
 
 The average contract duration was 0.57 years, and the average contract value (not including contracts under \$10k) was \$103.0K. The longest contract was 3.53 years. The largest contract by value (including amendments) was \$8.8M.
 

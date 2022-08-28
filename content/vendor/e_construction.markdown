@@ -1,7 +1,7 @@
 ---
 title: E CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: e_construction
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$631.1K in 2021-2022** on contracts with E CONSTRUCTION.
 
-Across 35 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 4% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$369.3K over the original contract values.
+Across 35 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 3% and the average number of amendments was 1.67. Cumulatively these amendments represent an increase of \$382.5K over the original contract values.
 
 The average contract duration was 0.26 years, and the average contract value (not including contracts under \$10k) was \$382.7K. The longest contract was 1.46 years. The largest contract by value (including amendments) was \$7.4M.
 

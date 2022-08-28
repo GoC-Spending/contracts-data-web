@@ -1,7 +1,7 @@
 ---
 title: NORTRAX CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: nortrax_canada
 categories: []
 tags: []
@@ -43,9 +43,9 @@ The average contract duration was 0.38 years, and the average contract value (no
 - [Nortrax Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nortrax%20Canada%20Inc.%22)
 - [nortrax Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22nortrax%20Canada%20Inc.%22)
 - [NORTRAX CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NORTRAX%20CANADA%20INC%22)
+- [Nortrax Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nortrax%20Canada%20Inc%22)
 - [NORTRAX Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NORTRAX%20Canada%20Inc.%22)
 - [NORTRAX CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NORTRAX%20CANADA%22)
-- [Nortrax Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nortrax%20Canada%20Inc%22)
 - [NORTRAX Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NORTRAX%20Canada%20Ltd%22)
 - [NORTRAX Canada Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NORTRAX%20Canada%20Ltd.%22)
 {{< /details >}}

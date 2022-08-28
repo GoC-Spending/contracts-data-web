@@ -1,7 +1,7 @@
 ---
 title: CNW GROUP
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: cnw_group
 categories: []
 tags: []
@@ -39,11 +39,11 @@ The average contract duration was 1.12 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [CNW GROUP LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20GROUP%20LTD.%22)
+- [CNW Group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20Group%22)
 - [CNW GROUP LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20GROUP%20LIMITED%22)
 - [CNW GROUP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20GROUP%22)
 - [CNW Group Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20Group%20Ltd%22)
 - [CNW GROUP LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20GROUP%20LTD%22)
-- [CNW Group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20Group%22)
 - [CNW Group Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20Group%20Ltd.%22)
 - [Cnw Group Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Cnw%20Group%20Ltd.%22)
 - [CNW Group LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CNW%20Group%20LTD%22)

@@ -1,7 +1,7 @@
 ---
 title: BGLA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: bgla
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$628.1K in 2021-2022** on contracts with BGLA.
 
-Across 15 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (60%). Of contracts with amendments, the average increase in dollar value was 727% and the average number of amendments was 3.22. Cumulatively these amendments represent an increase of \$4.4M over the original contract values.
+Across 15 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (60%). Of contracts with amendments, the average increase in dollar value was 727% and the average number of amendments was 3.44. Cumulatively these amendments represent an increase of \$4.4M over the original contract values.
 
 The average contract duration was 1.95 years, and the average contract value (not including contracts under \$10k) was \$454.4K. The longest contract was 5.44 years. The largest contract by value (including amendments) was \$2.2M.
 

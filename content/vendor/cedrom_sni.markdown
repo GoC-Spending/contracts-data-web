@@ -1,7 +1,7 @@
 ---
 title: CEDROM SNI
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: cedrom_sni
 categories: []
 tags: []

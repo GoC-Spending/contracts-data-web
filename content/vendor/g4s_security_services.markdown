@@ -1,7 +1,7 @@
 ---
 title: G4S SECURITY SERVICES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: g4s_security_services
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$21.0M in 2021-2022** on contracts with G4S SECURITY SERVICES.
 
-Across 43 contracts active since the start of the 2017-2018 fiscal year, 19 have at least one amendment (44%). Of contracts with amendments, the average increase in dollar value was 251% and the average number of amendments was 3.53. Cumulatively these amendments represent an increase of \$29.2M over the original contract values.
+Across 43 contracts active since the start of the 2017-2018 fiscal year, 19 have at least one amendment (44%). Of contracts with amendments, the average increase in dollar value was 249% and the average number of amendments was 3.53. Cumulatively these amendments represent an increase of \$28.9M over the original contract values.
 
 The average contract duration was 2.43 years, and the average contract value (not including contracts under \$10k) was \$2.1M. The longest contract was 6.67 years. The largest contract by value (including amendments) was \$25.3M.
 
@@ -61,11 +61,13 @@ The average contract duration was 2.43 years, and the average contract value (no
 - [G4S Secure Solutions AG](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20Secure%20Solutions%20AG%22)
 - [G4S SECURITY SERVICES (BDOS) LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20SECURITY%20SERVICES%20%28BDOS%29%20LTD%22)
 - [G4S Secure Solutions Bangladesh (P)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20Secure%20Solutions%20Bangladesh%20%28P%29%22)
+- [G4S CASH SOLUTIONS (CANADA) LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20CASH%20SOLUTIONS%20%28CANADA%29%20LTD.%22)
 - [G4S SECURE SOLUTIONS (CANADA) LTD./G4S SOLUTIONS DE SECURITE (CANADA)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20SECURE%20SOLUTIONS%20%28CANADA%29%20LTD.%2fG4S%20SOLUTIONS%20DE%20SECURITE%20%28CANADA%29%22)
 - [G4S SECURE SOLUTIONS (SA)(PTY) LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20SECURE%20SOLUTIONS%20%28SA%29%28PTY%29%20LTD%22)
 - [G4S SECURITY SERVICES CIA. LTDA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20SECURITY%20SERVICES%20CIA.%20LTDA%22)
 - [G4S SECURITY SERVICES BANGLADESH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20SECURITY%20SERVICES%20BANGLADESH%22)
 - [G4S CASH SOLUTIONS (CANADA)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20CASH%20SOLUTIONS%20%28CANADA%29%22)
+- [G4S CASH SERVICES (CANADA) LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20CASH%20SERVICES%20%28CANADA%29%20LTD.%22)
 - [G4S FACILITIES MANAGEMENT LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20FACILITIES%20MANAGEMENT%20LTD.%22)
 - [G4S Security Solutions](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20Security%20Solutions%22)
 - [G4S ZHEJIANG SECURE SOLUTIONS CO.,](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22G4S%20ZHEJIANG%20SECURE%20SOLUTIONS%20CO.%2c%22)

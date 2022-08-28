@@ -1,7 +1,7 @@
 ---
 title: EUROVIA QUEBEC CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: eurovia_quebec_construction
 categories: []
 tags: []
@@ -39,6 +39,7 @@ The average contract duration was 0.76 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Eurovia Québec Construction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Eurovia%20Qu%c3%a9bec%20Construction%22)
+- [Eurovia Québec Construction inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Eurovia%20Qu%c3%a9bec%20Construction%20inc.%22)
 - [Eurovia Québec Construction Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Eurovia%20Qu%c3%a9bec%20Construction%20Inc.%22)
 - [EUROVIA QUEBEC CONSTRUCTION INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EUROVIA%20QUEBEC%20CONSTRUCTION%20INC.%22)
 - [Eurovia Quebec Construction Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Eurovia%20Quebec%20Construction%20Inc.%22)

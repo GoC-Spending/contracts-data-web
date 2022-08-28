@@ -1,7 +1,7 @@
 ---
 title: LEONARDO
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: leonardo
 categories: []
 tags: []
@@ -29,11 +29,11 @@ tags: []
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary >}}
-The Government of Canada spent an estimated **\$18.8M in 2021-2022** on contracts with LEONARDO.
+The Government of Canada spent an estimated **\$24.7M in 2021-2022** on contracts with LEONARDO.
 
-Across 10 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 444% and the average number of amendments was 6.5. Cumulatively these amendments represent an increase of \$106.2M over the original contract values.
+Across 36 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 138% and the average number of amendments was 3.67. Cumulatively these amendments represent an increase of \$83.7M over the original contract values.
 
-The average contract duration was 1.52 years, and the average contract value (not including contracts under \$10k) was \$13.2M. The longest contract was 6.78 years. The largest contract by value (including amendments) was \$124.8M.
+The average contract duration was 1.84 years, and the average contract value (not including contracts under \$10k) was \$7.6M. The longest contract was 7.02 years. The largest contract by value (including amendments) was \$124.8M.
 
 {{< /entity_summary >}}
 
@@ -41,17 +41,41 @@ The average contract duration was 1.52 years, and the average contract value (no
 - [LEONARDO GERMANY GMBH FKA:SELEX ES GMBH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LEONARDO%20GERMANY%20GMBH%20FKA%3aSELEX%20ES%20GMBH%22)
 - [LEONARDO GERMANY GMBH FKA:SELEX ES GMBH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LEONARDO%20GERMANY%20GMBH%20%20FKA%3aSELEX%20ES%20GMBH%22)
 - [LEONARDO GERMANY GMBH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LEONARDO%20GERMANY%20GMBH%22)
+- [DRS Technologies Canada Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Technologies%20Canada%20Ltd.%22)
+- [DRS Sustainment Systems Inc (DRS-SSI)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Sustainment%20Systems%20Inc%20%28DRS-SSI%29%22)
+- [DRS ICAS LLC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20ICAS%20LLC%22)
+- [DRS EW & NETWORK SYSTEMS INCORPORATED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20EW%20%26%20NETWORK%20SYSTEMS%20INCORPORATED%22)
+- [DRS TECHNOLOGIES CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20TECHNOLOGIES%20CANADA%20LTD.%22)
+- [DRS C3 SYSTEMS, Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20C3%20SYSTEMS%2c%20Inc%22)
+- [DRS POWER & CONTROL TECHNOLOGIES, INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20POWER%20%26%20CONTROL%20TECHNOLOGIES%2c%20INC.%22)
 - [LEONARDO UK](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LEONARDO%20UK%22)
 - [Leonardo DRS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Leonardo%20DRS%22)
+- [DRS Technologies](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Technologies%22)
+- [DRS Power & Control Technologies, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Power%20%26%20Control%20Technologies%2c%20Inc.%22)
 - [Leonardo MW Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Leonardo%20MW%20Ltd%22)
+- [DRS Training & Control Systems, LLC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Training%20%26%20Control%20Systems%2c%20LLC.%22)
+- [DRS TECHNOLOGIES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20TECHNOLOGIES%20INC.%22)
 - [Leonardo UK Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Leonardo%20UK%20Ltd.%22)
+- [DRS Pivotal Power Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Pivotal%20Power%20Inc.%22)
+- [DRS C3 & AVIATION COMPANY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20C3%20%26%20AVIATION%20COMPANY%22)
+- [DRS TECHNOLOGIES CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20TECHNOLOGIES%20CANADA%20LTD%22)
+- [DRS Training & Control Systems Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Training%20%26%20Control%20Systems%20Inc%22)
+- [DRS INFRARED TECHNOLOGIES, LP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20INFRARED%20TECHNOLOGIES%2c%20LP%22)
 - [LEONARD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LEONARD%22)
+- [DRS Technologies Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Technologies%20Canada%20Ltd%22)
+- [DRS TRAINING & CONTROL SYSTEMS LLC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20TRAINING%20%26%20CONTROL%20SYSTEMS%20LLC%22)
+- [DRS Technologies Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Technologies%20Canada%20Inc%22)
+- [DRS Technologies Canada LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Technologies%20Canada%20LTD%22)
+- [DRS Technologies Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Technologies%20Canada%22)
+- [DRS Weather Systems, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Weather%20Systems%2c%20Inc.%22)
+- [DRS WEATHER SYSTEMS, INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20WEATHER%20SYSTEMS%2c%20INC%22)
+- [DRS Technologies Canada CO](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DRS%20Technologies%20Canada%20CO%22)
 {{< /details >}}
 
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>"],[3323.65,18470677.4],[1266137.3,18509449.66],[601611.83,18572070.32],[null,18809791.21]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>"],[8768499.94,18470677.4],[9833637.84,18509449.66],[7492849.2,18572070.32],[5891587.38,18809791.21]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/leonardo/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
 </p>
@@ -59,7 +83,7 @@ The average contract duration was 1.52 years, and the average contract value (no
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/3_information_technology/\">Information technology<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[18462201.05,11800,null],[18509449.66,null,1266137.3],[18410270.98,null,763411.16],[18410270.98,null,399520.23]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/1_facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/11_defence/\">Defence<\/a>","<a href=\"/categories/3_information_technology/\">Information technology<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[25039815.9,2169769.71,11800,17791.72],[24882082.15,2175714.29,null,1285291.07],[24292322.94,909519.91,null,863076.67],[24292322.94,null,null,409055.65]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/leonardo/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

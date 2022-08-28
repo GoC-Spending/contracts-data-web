@@ -1,7 +1,7 @@
 ---
 title: TAURUS CONTRACTORS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: taurus_contractors
 categories: []
 tags: []

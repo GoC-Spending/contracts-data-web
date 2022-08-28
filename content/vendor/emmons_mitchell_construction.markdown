@@ -1,7 +1,7 @@
 ---
 title: EMMONS MITCHELL CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: emmons_mitchell_construction
 categories: []
 tags: []
@@ -47,8 +47,9 @@ The average contract duration was 1.19 years, and the average contract value (no
 - [EMMONS & MITCHELL CONSTRUCTION 2000 LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EMMONS%20%26%20MITCHELL%20CONSTRUCTION%202000%20LTD.%22)
 - [Emmons & Mitchell Construction 2000 Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Emmons%20%26%20Mitchell%20Construction%202000%20Ltd.%22)
 - [EMMONS & MITCHELL CONSTRUCTION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EMMONS%20%26%20MITCHELL%20CONSTRUCTION%22)
-- [Emmons & Mitchell Construction Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Emmons%20%26%20Mitchell%20Construction%20Limited%22)
 - [Emmons & Mitchell Construction(2000](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Emmons%20%26%20Mitchell%20Construction%282000%22)
+- [Emmons & Mitchell Construction Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Emmons%20%26%20Mitchell%20Construction%20Limited%22)
+- [EMMONS & MITCHELL CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EMMONS%20%26%20MITCHELL%20CONSTRUCTION%20LTD.%22)
 {{< /details >}}
 
 ## Departments and agencies

@@ -1,7 +1,7 @@
 ---
 title: LEAR CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: lear_construction
 categories: []
 tags: []

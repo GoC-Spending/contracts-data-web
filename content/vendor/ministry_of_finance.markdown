@@ -1,7 +1,7 @@
 ---
 title: MINISTRY OF FINANCE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ministry_of_finance
 categories: []
 tags: []
@@ -39,6 +39,7 @@ The average contract duration was 2.63 years, and the average contract value (no
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [MINISTER OF FINANCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MINISTER%20OF%20FINANCE%22)
+- [Ministry of Finance](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ministry%20of%20Finance%22)
 - [Minister Of Finance](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Minister%20Of%20Finance%22)
 - [MINISTRY OF FINANCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MINISTRY%20OF%20FINANCE%22)
 {{< /details >}}

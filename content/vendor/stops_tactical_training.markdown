@@ -1,7 +1,7 @@
 ---
 title: STOPS TACTICAL TRAINING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: stops_tactical_training
 categories: []
 tags: []

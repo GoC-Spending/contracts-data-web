@@ -1,7 +1,7 @@
 ---
 title: LES ENTREPRISES P E C
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: les_entreprises_p_e_c
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$9.4M in 2021-2022** on contracts with LES ENTREPRISES P E C.
 
-Across 22 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 26% and the average number of amendments was 2.82. Cumulatively these amendments represent an increase of \$8.4M over the original contract values.
+Across 23 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 22% and the average number of amendments was 2.82. Cumulatively these amendments represent an increase of \$7.3M over the original contract values.
 
-The average contract duration was 0.75 years, and the average contract value (not including contracts under \$10k) was \$2.2M. The longest contract was 2.13 years. The largest contract by value (including amendments) was \$12.0M.
+The average contract duration was 0.74 years, and the average contract value (not including contracts under \$10k) was \$2.1M. The longest contract was 2.13 years. The largest contract by value (including amendments) was \$12.0M.
 
 {{< /entity_summary >}}
 

@@ -1,7 +1,7 @@
 ---
 title: ARDENT GLOBAL
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ardent_global
 categories: []
 tags: []

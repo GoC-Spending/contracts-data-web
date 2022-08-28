@@ -1,7 +1,7 @@
 ---
 title: LANDCO CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: landco_construction
 categories: []
 tags: []

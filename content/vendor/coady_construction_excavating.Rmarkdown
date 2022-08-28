@@ -1,7 +1,7 @@
 ---
 title: COADY CONSTRUCTION EXCAVATING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: coady_construction_excavating
 categories: []
 tags: []

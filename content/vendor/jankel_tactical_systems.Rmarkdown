@@ -1,7 +1,7 @@
 ---
 title: JANKEL TACTICAL SYSTEMS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: jankel_tactical_systems
 categories: []
 tags: []

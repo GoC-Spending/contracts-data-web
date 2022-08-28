@@ -1,7 +1,7 @@
 ---
 title: RGT CLOUTHIER CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: rgt_clouthier_construction
 categories: []
 tags: []

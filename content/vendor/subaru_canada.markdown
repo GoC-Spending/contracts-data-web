@@ -1,7 +1,7 @@
 ---
 title: SUBARU CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: subaru_canada
 categories: []
 tags: []
@@ -43,6 +43,8 @@ The average contract duration was 0.37 years, and the average contract value (no
 - [Subaru Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Subaru%20Canada%20Inc%22)
 - [SUBARU CANADA, INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SUBARU%20CANADA%2c%20INC.%22)
 - [SUBARU CANADA LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SUBARU%20CANADA%20LIMITED%22)
+- [SUBARU CANADA , INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SUBARU%20CANADA%20%2c%20INC.%22)
+- [Subaru Canada, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Subaru%20Canada%2c%20Inc.%22)
 - [SUBARU CANADA IN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SUBARU%20CANADA%20IN%22)
 - [SUBARU CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SUBARU%20CANADA%20INC%22)
 - [SUBARU CANADA INCORPORATED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SUBARU%20CANADA%20INCORPORATED%22)

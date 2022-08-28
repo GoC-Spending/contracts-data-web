@@ -1,7 +1,7 @@
 ---
 title: METOCEAN TELEMATICS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: metocean_telematics
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$6.1M in 2021-2022** on contracts with METOCEAN TELEMATICS.
 
-Across 33 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (36%). Of contracts with amendments, the average increase in dollar value was 226% and the average number of amendments was 2.92. Cumulatively these amendments represent an increase of \$22.7M over the original contract values.
+Across 33 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (36%). Of contracts with amendments, the average increase in dollar value was 225% and the average number of amendments was 2.92. Cumulatively these amendments represent an increase of \$22.7M over the original contract values.
 
 The average contract duration was 1.23 years, and the average contract value (not including contracts under \$10k) was \$1.4M. The longest contract was 5.09 years. The largest contract by value (including amendments) was \$18.0M.
 

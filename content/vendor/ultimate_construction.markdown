@@ -1,7 +1,7 @@
 ---
 title: ULTIMATE CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ultimate_construction
 categories: []
 tags: []

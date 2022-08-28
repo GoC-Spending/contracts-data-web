@@ -1,7 +1,7 @@
 ---
 title: EXXONMOBIL
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: exxonmobil
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$8.9M in 2021-2022** on contracts with EXXONMOBIL.
 
-Across 1,028 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was 18% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$12.9K over the original contract values.
+Across 1,028 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was 13% and the average number of amendments was 2. Cumulatively these amendments represent an increase of \$10.2K over the original contract values.
 
 The average contract duration was 0.05 years, and the average contract value (not including contracts under \$10k) was \$36.1K. The longest contract was 4.02 years. The largest contract by value (including amendments) was \$160.5K.
 

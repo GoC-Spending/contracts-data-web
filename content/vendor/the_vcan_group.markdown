@@ -1,7 +1,7 @@
 ---
 title: THE VCAN GROUP
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: the_vcan_group
 categories: []
 tags: []

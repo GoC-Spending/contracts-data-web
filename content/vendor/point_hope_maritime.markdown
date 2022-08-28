@@ -1,7 +1,7 @@
 ---
 title: POINT HOPE MARITIME
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: point_hope_maritime
 categories: []
 tags: []

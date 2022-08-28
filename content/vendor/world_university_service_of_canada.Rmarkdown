@@ -1,7 +1,7 @@
 ---
 title: WORLD UNIVERSITY SERVICE OF CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: world_university_service_of_canada
 categories: []
 tags: []

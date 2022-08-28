@@ -1,7 +1,7 @@
 ---
 title: HITRAC
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: hitrac
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$2.9M in 2021-2022** on contracts with HITRAC.
 
-Across 41 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$0.0 over the original contract values.
+Across 41 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was -90% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-583.7K over the original contract values.
 
 The average contract duration was 0.33 years, and the average contract value (not including contracts under \$10k) was \$328.2K. The longest contract was 1.18 years. The largest contract by value (including amendments) was \$3.2M.
 

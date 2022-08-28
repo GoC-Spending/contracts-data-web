@@ -1,7 +1,7 @@
 ---
 title: NATO SEASPARROW SURFACE MISSILE SYSTEM PROJECT
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: nato_seasparrow_surface_missile_system_project
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$10.1M in 2021-2022** on contracts with NATO SEASPARROW SURFACE MISSILE SYSTEM PROJECT.
 
-Across 14 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 39% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$3.1M over the original contract values.
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was -9% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-43.3M over the original contract values.
 
 The average contract duration was 7.26 years, and the average contract value (not including contracts under \$10k) was \$5.2M. The longest contract was 7.84 years. The largest contract by value (including amendments) was \$36.6M.
 

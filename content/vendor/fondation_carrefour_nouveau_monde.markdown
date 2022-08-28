@@ -1,7 +1,7 @@
 ---
 title: FONDATION CARREFOUR NOUVEAU MONDE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: fondation_carrefour_nouveau_monde
 categories: []
 tags: []

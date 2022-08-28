@@ -1,7 +1,7 @@
 ---
 title: FLEETWAY
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: fleetway
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$12.4M in 2021-2022** on contracts with FLEETWAY.
 
-Across 18 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (56%). Of contracts with amendments, the average increase in dollar value was 259% and the average number of amendments was 3.2. Cumulatively these amendments represent an increase of \$189.8M over the original contract values.
+Across 19 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (47%). Of contracts with amendments, the average increase in dollar value was 141% and the average number of amendments was 2.89. Cumulatively these amendments represent an increase of \$151.8M over the original contract values.
 
-The average contract duration was 2.87 years, and the average contract value (not including contracts under \$10k) was \$15.8M. The longest contract was 13.03 years. The largest contract by value (including amendments) was \$207.7M.
+The average contract duration was 2.6 years, and the average contract value (not including contracts under \$10k) was \$15.8M. The longest contract was 13.03 years. The largest contract by value (including amendments) was \$207.7M.
 
 {{< /entity_summary >}}
 

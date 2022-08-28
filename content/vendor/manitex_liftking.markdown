@@ -1,7 +1,7 @@
 ---
 title: MANITEX LIFTKING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: manitex_liftking
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$945.2K in 2019-2020** on contracts with MANITEX LIFTKING.
 
-Across 8 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$0.0 over the original contract values.
+Across 8 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was -25% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-745.6K over the original contract values.
 
 The average contract duration was 1.74 years, and the average contract value (not including contracts under \$10k) was \$1.5M. The longest contract was 5 years. The largest contract by value (including amendments) was \$4.9M.
 

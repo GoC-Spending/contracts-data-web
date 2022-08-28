@@ -1,7 +1,7 @@
 ---
 title: WEIR CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: weir_canada
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$41.7M in 2021-2022** on contracts with WEIR CANADA.
 
-Across 8 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 742% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$467.5M over the original contract values.
+Across 8 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 289% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$394.0M over the original contract values.
 
 The average contract duration was 2.2 years, and the average contract value (not including contracts under \$10k) was \$66.3M. The longest contract was 12.76 years. The largest contract by value (including amendments) was \$530.5M.
 
@@ -41,6 +41,7 @@ The average contract duration was 2.2 years, and the average contract value (not
 - [Weir Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Weir%20Canada%20Inc.%22)
 - [WEIR CANADA, INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WEIR%20CANADA%2c%20INC.%22)
 - [WEIR CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WEIR%20CANADA%20INC.%22)
+- [WEIR CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WEIR%20CANADA%22)
 - [WEIR MARINE ENGINEERING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WEIR%20MARINE%20ENGINEERING%22)
 - [WEIR CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WEIR%20CANADA%20INC%22)
 {{< /details >}}

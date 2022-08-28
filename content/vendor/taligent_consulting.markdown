@@ -1,7 +1,7 @@
 ---
 title: TALIGENT CONSULTING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: taligent_consulting
 categories: []
 tags: []

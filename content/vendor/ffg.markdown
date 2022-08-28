@@ -1,7 +1,7 @@
 ---
 title: FFG
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ffg
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$3.7M in 2021-2022** on contracts with FFG.
 
-Across 25 contracts active since the start of the 2017-2018 fiscal year, 13 have at least one amendment (52%). Of contracts with amendments, the average increase in dollar value was 2173% and the average number of amendments was 1.77. Cumulatively these amendments represent an increase of \$217.1M over the original contract values.
+Across 25 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 75% and the average number of amendments was 1.67. Cumulatively these amendments represent an increase of \$62.3M over the original contract values.
 
-The average contract duration was 2.1 years, and the average contract value (not including contracts under \$10k) was \$10.1M. The longest contract was 6.2 years. The largest contract by value (including amendments) was \$192.2M.
+The average contract duration was 1.95 years, and the average contract value (not including contracts under \$10k) was \$10.1M. The longest contract was 6.2 years. The largest contract by value (including amendments) was \$192.2M.
 
 {{< /entity_summary >}}
 

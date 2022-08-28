@@ -1,7 +1,7 @@
 ---
 title: F M INSTALLATIONS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: f_m_installations
 categories: []
 tags: []

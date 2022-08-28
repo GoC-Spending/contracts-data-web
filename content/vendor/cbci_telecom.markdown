@@ -1,7 +1,7 @@
 ---
 title: CBCI TELECOM
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: cbci_telecom
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$6.9M in 2021-2022** on contracts with CBCI TELECOM.
 
-Across 720 contracts active since the start of the 2017-2018 fiscal year, 37 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 89% and the average number of amendments was 1.14. Cumulatively these amendments represent an increase of \$883.2K over the original contract values.
+Across 722 contracts active since the start of the 2017-2018 fiscal year, 36 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 71% and the average number of amendments was 1.08. Cumulatively these amendments represent an increase of \$739.7K over the original contract values.
 
-The average contract duration was 0.35 years, and the average contract value (not including contracts under \$10k) was \$67.9K. The longest contract was 4.35 years. The largest contract by value (including amendments) was \$3.3M.
+The average contract duration was 0.35 years, and the average contract value (not including contracts under \$10k) was \$67.8K. The longest contract was 4.35 years. The largest contract by value (including amendments) was \$3.3M.
 
 {{< /entity_summary >}}
 
@@ -55,6 +55,7 @@ The average contract duration was 0.35 years, and the average contract value (no
 - [CBCI TELECOM CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CBCI%20TELECOM%20CANADA%22)
 - [CBCI Telecom Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CBCI%20Telecom%20Canada%20Inc.%22)
 - [CBCI Telecom Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CBCI%20Telecom%20Canada%20Inc%22)
+- [CBCI TÉLÉCOM.COM](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CBCI%20T%c3%89L%c3%89COM.COM%22)
 - [CBCI TLECOM CANADA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CBCI%20TLECOM%20CANADA%20INC.%22)
 - [CBCI TELECOM CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CBCI%20TELECOM%20%20CANADA%20INC%22)
 - [CBCI Telecom.Com](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CBCI%20Telecom.Com%22)

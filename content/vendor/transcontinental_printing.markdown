@@ -1,7 +1,7 @@
 ---
 title: TRANSCONTINENTAL PRINTING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: transcontinental_printing
 categories: []
 tags: []
@@ -41,6 +41,8 @@ The average contract duration was 2.71 years, and the average contract value (no
 - [Transcontinental Printing INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Transcontinental%20Printing%20INC%22)
 - [TRANSCONTINENTAL PRINTING INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TRANSCONTINENTAL%20PRINTING%20INC.%22)
 - [TRANSCONTINENTAL PRINTING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TRANSCONTINENTAL%20PRINTING%22)
+- [Transcontinental Printing](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Transcontinental%20Printing%22)
+- [Transcontinental Printing Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Transcontinental%20Printing%20Inc.%22)
 - [TRANSCONTINENTAL PRINT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TRANSCONTINENTAL%20PRINT%22)
 {{< /details >}}
 

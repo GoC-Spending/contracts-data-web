@@ -1,7 +1,7 @@
 ---
 title: TROY LIFE FIRE SAFETY
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: troy_life_fire_safety
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$972.3K in 2021-2022** on contracts with TROY LIFE FIRE SAFETY.
 
-Across 63 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 61% and the average number of amendments was 1.7. Cumulatively these amendments represent an increase of \$1.4M over the original contract values.
+Across 64 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 55% and the average number of amendments was 1.7. Cumulatively these amendments represent an increase of \$1.4M over the original contract values.
 
-The average contract duration was 1.25 years, and the average contract value (not including contracts under \$10k) was \$233.6K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$6.2M.
+The average contract duration was 1.28 years, and the average contract value (not including contracts under \$10k) was \$230.2K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$6.2M.
 
 {{< /entity_summary >}}
 

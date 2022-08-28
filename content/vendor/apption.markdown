@@ -1,7 +1,7 @@
 ---
 title: APPTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: apption
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$2.1M in 2021-2022** on contracts with APPTION.
 
-Across 14 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 328% and the average number of amendments was 2.43. Cumulatively these amendments represent an increase of \$8.2M over the original contract values.
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 242% and the average number of amendments was 2.43. Cumulatively these amendments represent an increase of \$7.7M over the original contract values.
 
 The average contract duration was 1.92 years, and the average contract value (not including contracts under \$10k) was \$902.3K. The longest contract was 4.02 years. The largest contract by value (including amendments) was \$3.5M.
 

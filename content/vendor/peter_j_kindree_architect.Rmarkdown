@@ -1,7 +1,7 @@
 ---
 title: PETER J KINDREE ARCHITECT
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: peter_j_kindree_architect
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: CANADIAN EMERGENCY VENTILATORS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: canadian_emergency_ventilators
 categories: []
 tags: []

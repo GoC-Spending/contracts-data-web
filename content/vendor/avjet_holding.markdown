@@ -1,7 +1,7 @@
 ---
 title: AVJET HOLDING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: avjet_holding
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.6M in 2021-2022** on contracts with AVJET HOLDING.
 
-Across 325 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (3%). Of contracts with amendments, the average increase in dollar value was 15% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$489.7K over the original contract values.
+Across 325 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (3%). Of contracts with amendments, the average increase in dollar value was 12% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$102.3K over the original contract values.
 
 The average contract duration was 0.03 years, and the average contract value (not including contracts under \$10k) was \$35.4K. The longest contract was 1.08 years. The largest contract by value (including amendments) was \$1.8M.
 

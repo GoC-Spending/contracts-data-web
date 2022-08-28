@@ -1,7 +1,7 @@
 ---
 title: L W DENNIS CONTRACTING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: l_w_dennis_contracting
 categories: []
 tags: []
@@ -41,6 +41,7 @@ The average contract duration was 2.18 years, and the average contract value (no
 - [L. W. Dennis Contracting Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L.%20W.%20Dennis%20Contracting%20Ltd.%22)
 - [L. W. DENNIS CONTRACTING LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L.%20W.%20DENNIS%20CONTRACTING%20LTD.%22)
 - [L.W. Dennis Contracting](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L.W.%20Dennis%20Contracting%22)
+- [L.W. Dennis Contracting Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L.W.%20Dennis%20Contracting%20Ltd.%22)
 {{< /details >}}
 
 ## Departments and agencies

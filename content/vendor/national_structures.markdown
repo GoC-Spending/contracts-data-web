@@ -1,7 +1,7 @@
 ---
 title: NATIONAL STRUCTURES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: national_structures
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$419.6K in 2020-2021** on contracts with NATIONAL STRUCTURES.
 
-Across 3 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 5% and the average number of amendments was 2.33. Cumulatively these amendments represent an increase of \$359.4K over the original contract values.
+Across 3 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 5% and the average number of amendments was 2.67. Cumulatively these amendments represent an increase of \$359.4K over the original contract values.
 
 The average contract duration was 1.35 years, and the average contract value (not including contracts under \$10k) was \$2.2M. The longest contract was 1.86 years. The largest contract by value (including amendments) was \$3.6M.
 

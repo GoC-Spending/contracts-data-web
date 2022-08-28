@@ -1,7 +1,7 @@
 ---
 title: PATTISON SIGN GROUP
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: pattison_sign_group
 categories: []
 tags: []
@@ -31,20 +31,21 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.1M in 2021-2022** on contracts with PATTISON SIGN GROUP.
 
-Across 140 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 20% and the average number of amendments was 1.06. Cumulatively these amendments represent an increase of \$226.8K over the original contract values.
+Across 141 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 20% and the average number of amendments was 1.06. Cumulatively these amendments represent an increase of \$226.8K over the original contract values.
 
-The average contract duration was 0.41 years, and the average contract value (not including contracts under \$10k) was \$73.9K. The longest contract was 1.67 years. The largest contract by value (including amendments) was \$1.4M.
+The average contract duration was 0.42 years, and the average contract value (not including contracts under \$10k) was \$76.9K. The longest contract was 1.67 years. The largest contract by value (including amendments) was \$1.4M.
 
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
-- [PATTISON SIGNS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PATTISON%20SIGNS%22)
 - [ENSEIGNES PATTISON SIGN GROUP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENSEIGNES%20PATTISON%20SIGN%20GROUP%22)
+- [PATTISON SIGNS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PATTISON%20SIGNS%22)
 - [Pattison Signs](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pattison%20Signs%22)
 - [PATTISON SIGNS GROUP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PATTISON%20SIGNS%20GROUP%22)
 - [Enseignes Pattison Sign Group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Enseignes%20Pattison%20Sign%20Group%22)
 - [PATTISON SIGN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PATTISON%20SIGN%22)
 - [Pattison Sign](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pattison%20Sign%22)
+- [ENSEIGNES PATTISON](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENSEIGNES%20PATTISON%22)
 - [PATTISON OUTDOOR ADVERTISING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PATTISON%20OUTDOOR%20ADVERTISING%22)
 - [Enseignes Pattison](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Enseignes%20Pattison%22)
 - [Enseignes Pattison sign group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Enseignes%20Pattison%20sign%20group%22)

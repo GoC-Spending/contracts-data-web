@@ -1,7 +1,7 @@
 ---
 title: J D G CONSTRUCTION MANAGEMENT
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: j_d_g_construction_management
 categories: []
 tags: []

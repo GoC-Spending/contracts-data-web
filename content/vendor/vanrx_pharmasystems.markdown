@@ -1,7 +1,7 @@
 ---
 title: VANRX PHARMASYSTEMS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: vanrx_pharmasystems
 categories: []
 tags: []

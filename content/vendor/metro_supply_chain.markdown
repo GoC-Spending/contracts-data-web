@@ -1,7 +1,7 @@
 ---
 title: METRO SUPPLY CHAIN
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: metro_supply_chain
 categories: []
 tags: []

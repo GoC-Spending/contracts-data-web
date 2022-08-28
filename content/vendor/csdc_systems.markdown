@@ -1,7 +1,7 @@
 ---
 title: CSDC SYSTEMS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: csdc_systems
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$385.3K in 2021-2022** on contracts with CSDC SYSTEMS.
 
-Across 101 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 179% and the average number of amendments was 1.44. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
+Across 103 contracts active since the start of the 2017-2018 fiscal year, 16 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 179% and the average number of amendments was 1.44. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
 
-The average contract duration was 1.21 years, and the average contract value (not including contracts under \$10k) was \$69.6K. The longest contract was 7.58 years. The largest contract by value (including amendments) was \$879.6K.
+The average contract duration was 1.21 years, and the average contract value (not including contracts under \$10k) was \$68.9K. The longest contract was 7.58 years. The largest contract by value (including amendments) was \$879.6K.
 
 {{< /entity_summary >}}
 

@@ -1,7 +1,7 @@
 ---
 title: GALENVS SCIENCES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: galenvs_sciences
 categories: []
 tags: []

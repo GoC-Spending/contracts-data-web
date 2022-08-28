@@ -1,7 +1,7 @@
 ---
 title: ONX ENTERPRISE SOLUTIONS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: onx_enterprise_solutions
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$15.4M in 2021-2022** on contracts with ONX ENTERPRISE SOLUTIONS.
 
-Across 297 contracts active since the start of the 2017-2018 fiscal year, 15 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 125% and the average number of amendments was 1.13. Cumulatively these amendments represent an increase of \$2.3M over the original contract values.
+Across 297 contracts active since the start of the 2017-2018 fiscal year, 15 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 56% and the average number of amendments was 1.13. Cumulatively these amendments represent an increase of \$1.7M over the original contract values.
 
 The average contract duration was 2.38 years, and the average contract value (not including contracts under \$10k) was \$396.8K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$10.2M.
 
@@ -66,6 +66,7 @@ The average contract duration was 2.38 years, and the average contract value (no
 - [Onx Enterprise solutions](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Onx%20Enterprise%20solutions%22)
 - [ONX CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ONX%20CANADA%20INC%22)
 - [ONX Enterprises Solutions](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ONX%20Enterprises%20Solutions%22)
+- [ONX Ottawa Branch](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ONX%20Ottawa%20Branch%22)
 - [ONX Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ONX%20Canada%22)
 - [OnX Corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OnX%20Corporation%22)
 - [OnX Enterprise Solutions, LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OnX%20Enterprise%20Solutions%2c%20LTD%22)

@@ -1,7 +1,7 @@
 ---
 title: TOFCON CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: tofcon_construction
 categories: []
 tags: []

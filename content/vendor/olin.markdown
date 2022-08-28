@@ -1,7 +1,7 @@
 ---
 title: OLIN
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: olin
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$342.4K in 2021-2022** on contracts with OLIN.
 
-Across 14 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 1197% and the average number of amendments was 1.83. Cumulatively these amendments represent an increase of \$4.2M over the original contract values.
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 6 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 1076% and the average number of amendments was 1.83. Cumulatively these amendments represent an increase of \$4.2M over the original contract values.
 
 The average contract duration was 1.22 years, and the average contract value (not including contracts under \$10k) was \$695.9K. The longest contract was 3.45 years. The largest contract by value (including amendments) was \$4.9M.
 

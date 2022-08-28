@@ -1,7 +1,7 @@
 ---
 title: LE GROUPE DRUMCO CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: le_groupe_drumco_construction
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: ENMAX
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: enmax
 categories: []
 tags: []
@@ -47,6 +47,7 @@ The average contract duration was 0.44 years, and the average contract value (no
 - [Enmax](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Enmax%22)
 - [Enmax Energy Coorporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Enmax%20Energy%20Coorporation%22)
 - [Enmax energy corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Enmax%20energy%20corporation%22)
+- [Enmax Corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Enmax%20Corporation%22)
 {{< /details >}}
 
 ## Departments and agencies

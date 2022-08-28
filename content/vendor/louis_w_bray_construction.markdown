@@ -1,7 +1,7 @@
 ---
 title: LOUIS W BRAY CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: louis_w_bray_construction
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$8.2M in 2021-2022** on contracts with LOUIS W BRAY CONSTRUCTION.
 
-Across 10 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (80%). Of contracts with amendments, the average increase in dollar value was 30% and the average number of amendments was 4.88. Cumulatively these amendments represent an increase of \$11.7M over the original contract values.
+Across 10 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (80%). Of contracts with amendments, the average increase in dollar value was 30% and the average number of amendments was 5. Cumulatively these amendments represent an increase of \$11.7M over the original contract values.
 
 The average contract duration was 2.13 years, and the average contract value (not including contracts under \$10k) was \$5.9M. The longest contract was 3.64 years. The largest contract by value (including amendments) was \$24.5M.
 

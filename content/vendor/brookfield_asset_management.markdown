@@ -1,7 +1,7 @@
 ---
 title: BROOKFIELD ASSET MANAGEMENT
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: brookfield_asset_management
 categories: []
 tags: []
@@ -43,12 +43,13 @@ The average contract duration was 1.55 years, and the average contract value (no
 - [BROOKFIELD GLOBAL RELOCATION SERVS(](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20GLOBAL%20RELOCATION%20SERVS%28%22)
 - [BROOKFIELD PROPERTIES (PI) INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20PROPERTIES%20%28PI%29%20INC.%22)
 - [BROOKFIELD LEPAGE JOHNSON CONTROLS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20LEPAGE%20JOHNSON%20CONTROLS%22)
+- [Brookfield Global Relocation Servic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Global%20Relocation%20Servic%22)
 - [BROOKFIELD GLOBAL RELOCATION SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20GLOBAL%20RELOCATION%20SERVICES%22)
 - [BROOKFIELD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%22)
 - [Brookfield Brp Canada Corp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Brp%20Canada%20Corp%22)
 - [BROOKFIELD OFFICE PROP MNGT LP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20OFFICE%20%20PROP%20MNGT%20LP%22)
 - [Brookfield Johnson Controls Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Johnson%20Controls%20Canada%22)
-- [Brookfield Global Relocation Servic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Global%20Relocation%20Servic%22)
+- [Brookfield Global Relocation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Global%20Relocation%22)
 - [Brookfield Properties Management](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Properties%20Management%22)
 - [Brookfield Properties Mgmt](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Properties%20Mgmt%22)
 - [BROOKFIELD BRP CANADA CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20BRP%20CANADA%20CORPORATION%22)
@@ -57,6 +58,7 @@ The average contract duration was 1.55 years, and the average contract value (no
 - [BROOKFIELD PROPERTIES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20PROPERTIES%22)
 - [BROOKFIELD PROPERTIES CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20PROPERTIES%20CORPORATION%22)
 - [Brookfield Properties Management Co](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brookfield%20Properties%20Management%20Co%22)
+- [BROOKFIELD GLOBAL RELOCATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOKFIELD%20GLOBAL%20RELOCATION%22)
 {{< /details >}}
 
 ## Departments and agencies

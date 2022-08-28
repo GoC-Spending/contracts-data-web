@@ -1,7 +1,7 @@
 ---
 title: EMS TECHNOLOGIES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ems_technologies
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$8.9M in 2021-2022** on contracts with EMS TECHNOLOGIES.
 
-Across 3 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 377% and the average number of amendments was 3.67. Cumulatively these amendments represent an increase of \$131.8M over the original contract values.
+Across 3 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (100%). Of contracts with amendments, the average increase in dollar value was 169% and the average number of amendments was 3.67. Cumulatively these amendments represent an increase of \$131.5M over the original contract values.
 
 The average contract duration was 9.17 years, and the average contract value (not including contracts under \$10k) was \$57.4M. The longest contract was 18.67 years. The largest contract by value (including amendments) was \$166.1M.
 

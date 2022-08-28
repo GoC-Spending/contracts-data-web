@@ -1,7 +1,7 @@
 ---
 title: CH2M HILL CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ch2m_hill_canada
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$3.2M in 2021-2022** on contracts with CH2M HILL CANADA.
 
-Across 7 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 94% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$1.6M over the original contract values.
+Across 7 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 91% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$1.5M over the original contract values.
 
 The average contract duration was 1.28 years, and the average contract value (not including contracts under \$10k) was \$1.7M. The longest contract was 3.84 years. The largest contract by value (including amendments) was \$6.6M.
 
@@ -43,6 +43,7 @@ The average contract duration was 1.28 years, and the average contract value (no
 - [CH2M Hill Canada Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CH2M%20Hill%20Canada%20Limited%22)
 - [CH2M Hill Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CH2M%20Hill%20Canada%22)
 - [CH2M HILL CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CH2M%20HILL%20CANADA%20LTD.%22)
+- [CH2M Hill Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CH2M%20Hill%20Canada%20Ltd%22)
 {{< /details >}}
 
 ## Departments and agencies

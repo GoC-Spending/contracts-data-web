@@ -1,7 +1,7 @@
 ---
 title: J W LINDSAY ENTERPRISES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: j_w_lindsay_enterprises
 categories: []
 tags: []
@@ -41,6 +41,7 @@ The average contract duration was 0.74 years, and the average contract value (no
 - [J.W. LINDSAY ENTERPRISES LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J.W.%20LINDSAY%20ENTERPRISES%20LIMITED%22)
 - [J.W. Lindsay Enterprises Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J.W.%20Lindsay%20Enterprises%20Limited%22)
 - [J.W. LINDSAY ENTERPRISES LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J.W.%20LINDSAY%20ENTERPRISES%20LTD.%22)
+- [J.W. Lindsay Enterprises](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J.W.%20Lindsay%20Enterprises%22)
 {{< /details >}}
 
 ## Departments and agencies

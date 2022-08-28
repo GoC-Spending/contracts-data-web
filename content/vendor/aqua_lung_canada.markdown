@@ -1,7 +1,7 @@
 ---
 title: AQUA LUNG CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: aqua_lung_canada
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$290.9K in 2021-2022** on contracts with AQUA LUNG CANADA.
 
-Across 66 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 1% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$990.3 over the original contract values.
+Across 67 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was -6% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-83.0K over the original contract values.
 
-The average contract duration was 0.4 years, and the average contract value (not including contracts under \$10k) was \$267.2K. The longest contract was 5.07 years. The largest contract by value (including amendments) was \$7.4M.
+The average contract duration was 0.43 years, and the average contract value (not including contracts under \$10k) was \$264.3K. The longest contract was 5.07 years. The largest contract by value (including amendments) was \$7.4M.
 
 {{< /entity_summary >}}
 
@@ -51,9 +51,11 @@ The average contract duration was 0.4 years, and the average contract value (not
 - [Aqua Lung canada LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aqua%20Lung%20canada%20LTD%22)
 - [Aqua-lung Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aqua-lung%20Canada%22)
 - [Aqualung Canada LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aqualung%20Canada%20LTD%22)
+- [AQUALUNG CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AQUALUNG%20CANADA%22)
 - [Aqua-Lung Canada LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aqua-Lung%20Canada%20LTD.%22)
 - [Aqua-Lung Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aqua-Lung%20Canada%22)
 - [Aqua-Lung canada LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aqua-Lung%20canada%20LTD%22)
+- [AQUA LUNG CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AQUA%20LUNG%20CANADA%20LTD.%22)
 {{< /details >}}
 
 ## Departments and agencies

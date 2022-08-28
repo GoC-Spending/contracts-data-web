@@ -1,7 +1,7 @@
 ---
 title: VAISALA CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: vaisala_canada
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with VAISALA CANADA.
 
-Across 57 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 202% and the average number of amendments was 2.62. Cumulatively these amendments represent an increase of \$4.1M over the original contract values.
+Across 57 contracts active since the start of the 2017-2018 fiscal year, 8 have at least one amendment (14%). Of contracts with amendments, the average increase in dollar value was 183% and the average number of amendments was 2.62. Cumulatively these amendments represent an increase of \$3.9M over the original contract values.
 
 The average contract duration was 0.8 years, and the average contract value (not including contracts under \$10k) was \$268.3K. The longest contract was 6.82 years. The largest contract by value (including amendments) was \$2.3M.
 

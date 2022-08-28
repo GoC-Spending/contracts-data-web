@@ -1,7 +1,7 @@
 ---
 title: WM M 1993
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: wm_m_1993
 categories: []
 tags: []

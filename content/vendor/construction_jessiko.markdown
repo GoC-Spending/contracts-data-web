@@ -1,7 +1,7 @@
 ---
 title: CONSTRUCTION JESSIKO
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: construction_jessiko
 categories: []
 tags: []
@@ -42,6 +42,7 @@ The average contract duration was 0.38 years, and the average contract value (no
 - [CONSTRUCTION JESSIKO INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CONSTRUCTION%20JESSIKO%20INC.%22)
 - [CONSTRUCTION JESSIKO INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CONSTRUCTION%20JESSIKO%20INC%22)
 - [Construction Jessiko inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Construction%20Jessiko%20inc.%22)
+- [Construction Jessiko Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Construction%20Jessiko%20Inc%22)
 - [Construction Jessiko Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Construction%20Jessiko%20Inc.%22)
 - [Construction Jessiko inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Construction%20Jessiko%20inc%22)
 {{< /details >}}

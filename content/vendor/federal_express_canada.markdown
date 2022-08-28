@@ -1,7 +1,7 @@
 ---
 title: FEDERAL EXPRESS CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: federal_express_canada
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$73.4M in 2021-2022** on contracts with FEDERAL EXPRESS CANADA.
 
-Across 48 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was 80% and the average number of amendments was 1.58. Cumulatively these amendments represent an increase of \$294.7K over the original contract values.
+Across 48 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (25%). Of contracts with amendments, the average increase in dollar value was 73% and the average number of amendments was 1.58. Cumulatively these amendments represent an increase of \$294.7K over the original contract values.
 
 The average contract duration was 0.76 years, and the average contract value (not including contracts under \$10k) was \$1.9M. The longest contract was 5 years. The largest contract by value (including amendments) was \$90.4M.
 

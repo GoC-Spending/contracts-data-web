@@ -1,7 +1,7 @@
 ---
 title: DALIAN ENTERPRISES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: dalian_enterprises
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$19.1M in 2021-2022** on contracts with DALIAN ENTERPRISES.
 
-Across 148 contracts active since the start of the 2017-2018 fiscal year, 71 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 1044% and the average number of amendments was 1.46. Cumulatively these amendments represent an increase of \$19.6M over the original contract values.
+Across 148 contracts active since the start of the 2017-2018 fiscal year, 71 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 1042% and the average number of amendments was 1.46. Cumulatively these amendments represent an increase of \$19.5M over the original contract values.
 
 The average contract duration was 1.27 years, and the average contract value (not including contracts under \$10k) was \$474.5K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$9.5M.
 

@@ -1,7 +1,7 @@
 ---
 title: ATS SERVICES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: ats_services
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.3M in 2021-2022** on contracts with ATS SERVICES.
 
-Across 22 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 48% and the average number of amendments was 1.64. Cumulatively these amendments represent an increase of \$1.4M over the original contract values.
+Across 22 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 46% and the average number of amendments was 1.64. Cumulatively these amendments represent an increase of \$1.3M over the original contract values.
 
 The average contract duration was 2.72 years, and the average contract value (not including contracts under \$10k) was \$582.0K. The longest contract was 7.09 years. The largest contract by value (including amendments) was \$2.4M.
 

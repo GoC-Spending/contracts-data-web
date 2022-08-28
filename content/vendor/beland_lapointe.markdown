@@ -1,7 +1,7 @@
 ---
 title: BELAND LAPOINTE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: beland_lapointe
 categories: []
 tags: []

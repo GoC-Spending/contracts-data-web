@@ -1,7 +1,7 @@
 ---
 title: TITAN BOATS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: titan_boats
 categories: []
 tags: []
@@ -42,6 +42,7 @@ The average contract duration was 0.69 years, and the average contract value (no
 - [Titan Boats Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Titan%20Boats%20Ltd%22)
 - [TITAN BOATS LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TITAN%20BOATS%20LTD%22)
 - [TITAN BOATS LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TITAN%20BOATS%20LIMITED%22)
+- [Titan Boats](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Titan%20Boats%22)
 {{< /details >}}
 
 ## Departments and agencies

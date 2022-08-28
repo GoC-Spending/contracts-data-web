@@ -1,7 +1,7 @@
 ---
 title: COCO PAVING
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: coco_paving
 categories: []
 tags: []
@@ -43,6 +43,7 @@ The average contract duration was 0.34 years, and the average contract value (no
 - [CoCo Paving Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CoCo%20Paving%20Inc.%22)
 - [Coco Paving](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Coco%20Paving%22)
 - [Coco Paving Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Coco%20Paving%20Inc%22)
+- [COCO PAVING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22COCO%20PAVING%22)
 - [COCO PAVING INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22COCO%20PAVING%20INC%22)
 {{< /details >}}
 

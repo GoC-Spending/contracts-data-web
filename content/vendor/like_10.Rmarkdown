@@ -1,7 +1,7 @@
 ---
 title: LIKE 10
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: like_10
 categories: []
 tags: []

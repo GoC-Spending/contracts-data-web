@@ -1,7 +1,7 @@
 ---
 title: CHANDOS CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: chandos_construction
 categories: []
 tags: []
@@ -41,6 +41,7 @@ The average contract duration was 2.08 years, and the average contract value (no
 - [CHANDOS CONSTRUCTION LP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CHANDOS%20CONSTRUCTION%20LP%22)
 - [Chandos Construction Lp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Chandos%20Construction%20Lp%22)
 - [CHANDOS CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CHANDOS%20CONSTRUCTION%20LTD.%22)
+- [Chandos Contruction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Chandos%20Contruction%20Ltd.%22)
 {{< /details >}}
 
 ## Departments and agencies

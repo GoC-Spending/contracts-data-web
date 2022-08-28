@@ -1,7 +1,7 @@
 ---
 title: MORIYAMA TESHIMA ARCHITECTS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: moriyama_teshima_architects
 categories: []
 tags: []

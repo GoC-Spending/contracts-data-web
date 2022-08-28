@@ -1,7 +1,7 @@
 ---
 title: EVRIPOS JANITORIAL SERVICES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: evripos_janitorial_services
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$742.4K in 2021-2022** on contracts with EVRIPOS JANITORIAL SERVICES.
 
-Across 14 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 151% and the average number of amendments was 3.86. Cumulatively these amendments represent an increase of \$4.4M over the original contract values.
+Across 14 contracts active since the start of the 2017-2018 fiscal year, 7 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 143% and the average number of amendments was 4. Cumulatively these amendments represent an increase of \$4.3M over the original contract values.
 
 The average contract duration was 3.19 years, and the average contract value (not including contracts under \$10k) was \$752.2K. The longest contract was 6.67 years. The largest contract by value (including amendments) was \$5.4M.
 
@@ -42,6 +42,7 @@ The average contract duration was 3.19 years, and the average contract value (no
 - [EVRIPOS JANITORIAL SERVICES LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVRIPOS%20JANITORIAL%20SERVICES%20LTD%22)
 - [EVRIPOS JANITORAL SERVICES LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVRIPOS%20JANITORAL%20SERVICES%20LTD%22)
 - [EVRIPOS JANITORAL SERVICES LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVRIPOS%20JANITORAL%20SERVICES%20LTD.%22)
+- [EVRIPOS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVRIPOS%22)
 - [Evripos Janitorial Services Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Evripos%20Janitorial%20Services%20Ltd%22)
 - [EVRIPOS JANITORIAL Services LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVRIPOS%20JANITORIAL%20Services%20LTD%22)
 - [EVRIPOS JANITORIAL SERVICES LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVRIPOS%20JANITORIAL%20SERVICES%20LIMITED%22)

@@ -1,7 +1,7 @@
 ---
 title: WASTE MANAGEMENT OF CANADA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: waste_management_of_canada
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$745.6K in 2021-2022** on contracts with WASTE MANAGEMENT OF CANADA.
 
-Across 118 contracts active since the start of the 2017-2018 fiscal year, 18 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 45% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$988.9K over the original contract values.
+Across 119 contracts active since the start of the 2017-2018 fiscal year, 18 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 45% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$988.9K over the original contract values.
 
-The average contract duration was 0.65 years, and the average contract value (not including contracts under \$10k) was \$50.2K. The longest contract was 4.41 years. The largest contract by value (including amendments) was \$928.8K.
+The average contract duration was 0.67 years, and the average contract value (not including contracts under \$10k) was \$55.9K. The longest contract was 4.41 years. The largest contract by value (including amendments) was \$928.8K.
 
 {{< /entity_summary >}}
 

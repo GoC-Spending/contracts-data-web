@@ -1,7 +1,7 @@
 ---
 title: UNIVERSITY OF GUELPH
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: university_of_guelph
 categories: []
 tags: []
@@ -40,6 +40,7 @@ The average contract duration was 0.95 years, and the average contract value (no
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [UNIVERSITY OF GUELPH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22UNIVERSITY%20OF%20GUELPH%22)
 - [University of Guelph](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22University%20of%20Guelph%22)
+- [UNIVERSITY OF GUELPH-](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22UNIVERSITY%20OF%20GUELPH-%22)
 {{< /details >}}
 
 ## Departments and agencies

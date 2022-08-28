@@ -1,7 +1,7 @@
 ---
 title: ZUTPHEN CONTRACTOR
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: zutphen_contractor
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$6.6M in 2021-2022** on contracts with ZUTPHEN CONTRACTOR.
 
-Across 23 contracts active since the start of the 2017-2018 fiscal year, 11 have at least one amendment (48%). Of contracts with amendments, the average increase in dollar value was 4% and the average number of amendments was 1.64. Cumulatively these amendments represent an increase of \$1.4M over the original contract values.
+Across 23 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (52%). Of contracts with amendments, the average increase in dollar value was 4% and the average number of amendments was 1.67. Cumulatively these amendments represent an increase of \$1.6M over the original contract values.
 
 The average contract duration was 0.79 years, and the average contract value (not including contracts under \$10k) was \$1.9M. The longest contract was 1.74 years. The largest contract by value (including amendments) was \$8.9M.
 

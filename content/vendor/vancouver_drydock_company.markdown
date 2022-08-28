@@ -1,7 +1,7 @@
 ---
 title: VANCOUVER DRYDOCK COMPANY
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: vancouver_drydock_company
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$23.5M in 2021-2022** on contracts with VANCOUVER DRYDOCK COMPANY.
 
-Across 6 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 9% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$844.3K over the original contract values.
+Across 6 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (50%). Of contracts with amendments, the average increase in dollar value was 7% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$520.5K over the original contract values.
 
 The average contract duration was 0.48 years, and the average contract value (not including contracts under \$10k) was \$6.8M. The longest contract was 1.05 years. The largest contract by value (including amendments) was \$11.0M.
 

@@ -1,7 +1,7 @@
 ---
 title: KRAUSS MAFFEI WEGMANN
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: krauss_maffei_wegmann
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.6M in 2021-2022** on contracts with KRAUSS MAFFEI WEGMANN.
 
-Across 26 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (35%). Of contracts with amendments, the average increase in dollar value was -4% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-328.6K over the original contract values.
+Across 27 contracts active since the start of the 2017-2018 fiscal year, 9 have at least one amendment (33%). Of contracts with amendments, the average increase in dollar value was -12% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$-8.8M over the original contract values.
 
-The average contract duration was 1.7 years, and the average contract value (not including contracts under \$10k) was \$909.1K. The longest contract was 5.06 years. The largest contract by value (including amendments) was \$3.7M.
+The average contract duration was 1.75 years, and the average contract value (not including contracts under \$10k) was \$1.1M. The longest contract was 5.06 years. The largest contract by value (including amendments) was \$5.9M.
 
 {{< /entity_summary >}}
 

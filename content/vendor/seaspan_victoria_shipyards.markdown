@@ -1,7 +1,7 @@
 ---
 title: SEASPAN VICTORIA SHIPYARDS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: seaspan_victoria_shipyards
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$156.5M in 2021-2022** on contracts with SEASPAN VICTORIA SHIPYARDS.
 
-Across 15 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 4038% and the average number of amendments was 2.67. Cumulatively these amendments represent an increase of \$733.4M over the original contract values.
+Across 15 contracts active since the start of the 2017-2018 fiscal year, 2 have at least one amendment (13%). Of contracts with amendments, the average increase in dollar value was 919% and the average number of amendments was 3. Cumulatively these amendments represent an increase of \$730.4M over the original contract values.
 
-The average contract duration was 2.33 years, and the average contract value (not including contracts under \$10k) was \$89.8M. The longest contract was 13.8 years. The largest contract by value (including amendments) was \$768.9M.
+The average contract duration was 2.1 years, and the average contract value (not including contracts under \$10k) was \$89.8M. The longest contract was 13.8 years. The largest contract by value (including amendments) was \$768.9M.
 
 {{< /entity_summary >}}
 

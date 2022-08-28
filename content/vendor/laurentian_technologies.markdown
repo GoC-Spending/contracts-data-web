@@ -1,7 +1,7 @@
 ---
 title: LAURENTIAN TECHNOLOGIES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: laurentian_technologies
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$6.2M in 2021-2022** on contracts with LAURENTIAN TECHNOLOGIES.
 
-Across 64 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was 6% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$91.8K over the original contract values.
+Across 64 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (5%). Of contracts with amendments, the average increase in dollar value was -23% and the average number of amendments was 1.33. Cumulatively these amendments represent an increase of \$-153.5K over the original contract values.
 
 The average contract duration was 1.68 years, and the average contract value (not including contracts under \$10k) was \$477.8K. The longest contract was 5.05 years. The largest contract by value (including amendments) was \$4.4M.
 

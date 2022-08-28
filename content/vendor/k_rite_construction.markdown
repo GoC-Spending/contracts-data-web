@@ -1,7 +1,7 @@
 ---
 title: K RITE CONSTRUCTION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: k_rite_construction
 categories: []
 tags: []
@@ -41,6 +41,7 @@ The average contract duration was 1.35 years, and the average contract value (no
 - [K-RITE CONSTRUCTION LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22K-RITE%20CONSTRUCTION%20LTD%22)
 - [K-Rite Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22K-Rite%20Construction%20Ltd.%22)
 - [K-RITE CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22K-RITE%20CONSTRUCTION%20LTD.%22)
+- [K-Rite construction Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22K-Rite%20construction%20Ltd%22)
 - [K-Rite Construction Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22K-Rite%20Construction%20Ltd%22)
 {{< /details >}}
 

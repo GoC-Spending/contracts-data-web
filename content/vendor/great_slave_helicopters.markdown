@@ -1,7 +1,7 @@
 ---
 title: GREAT SLAVE HELICOPTERS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: great_slave_helicopters
 categories: []
 tags: []
@@ -48,6 +48,7 @@ The average contract duration was 0.52 years, and the average contract value (no
 - [GREAT SLAVE HELICOPTERS 2018 LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTERS%202018%20LTD%22)
 - [GREAT SLAVE HELICOPTERS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTERS%22)
 - [GREAT SLAVE HELICOPTER LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTER%20LTD%22)
+- [Great Slave Helicopters Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Great%20Slave%20Helicopters%20Ltd.%22)
 - [GREAT SLAVE HELICOPTORS LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTORS%20LTD.%22)
 {{< /details >}}
 

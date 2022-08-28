@@ -1,7 +1,7 @@
 ---
 title: ENVIRONICS RESEARCH GROUP
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: environics_research_group
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$2.3M in 2021-2022** on contracts with ENVIRONICS RESEARCH GROUP.
 
-Across 87 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 1.3. Cumulatively these amendments represent an increase of \$-42.1K over the original contract values.
+Across 87 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 1.3. Cumulatively these amendments represent an increase of \$-59.9K over the original contract values.
 
 The average contract duration was 0.7 years, and the average contract value (not including contracts under \$10k) was \$118.5K. The longest contract was 3.96 years. The largest contract by value (including amendments) was \$596.4K.
 
@@ -41,11 +41,11 @@ The average contract duration was 0.7 years, and the average contract value (not
 - [ENVIRONICS RESEARCH GROUP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENVIRONICS%20RESEARCH%20GROUP%22)
 - [ENVIRONICS RESEARCH GROUP LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENVIRONICS%20RESEARCH%20GROUP%20LIMITED%22)
 - [Environics Research Group Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Environics%20Research%20Group%20Ltd%22)
+- [Environics Research Group Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Environics%20Research%20Group%20Limited%22)
 - [ENVIRONICS RESEARCH GROUP LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENVIRONICS%20RESEARCH%20GROUP%20LTD%22)
 - [Environics Research Group Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Environics%20Research%20Group%20Ltd.%22)
 - [Environics Research Group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Environics%20Research%20Group%22)
 - [ENVIRONICS RESEARCH GROUP LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENVIRONICS%20RESEARCH%20GROUP%20LTD.%22)
-- [Environics Research Group Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Environics%20Research%20Group%20Limited%22)
 - [ENVIRONICS RESEARCH GROUP LIMITED.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENVIRONICS%20RESEARCH%20GROUP%20LIMITED.%22)
 - [ENVIRONICS RESEARCH GROUP LMT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ENVIRONICS%20RESEARCH%20GROUP%20LMT%22)
 {{< /details >}}

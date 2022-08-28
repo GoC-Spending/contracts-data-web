@@ -1,7 +1,7 @@
 ---
 title: KAYWAY INDUSTRIES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: kayway_industries
 categories: []
 tags: []
@@ -31,14 +31,15 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.9M in 2021-2022** on contracts with KAYWAY INDUSTRIES.
 
-Across 104 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 21% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$55.7K over the original contract values.
+Across 105 contracts active since the start of the 2017-2018 fiscal year, 4 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 21% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$55.7K over the original contract values.
 
-The average contract duration was 0.32 years, and the average contract value (not including contracts under \$10k) was \$86.7K. The longest contract was 1.16 years. The largest contract by value (including amendments) was \$288.2K.
+The average contract duration was 0.32 years, and the average contract value (not including contracts under \$10k) was \$86.1K. The longest contract was 1.16 years. The largest contract by value (including amendments) was \$288.2K.
 
 {{< /entity_summary >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Kayway Industries](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Kayway%20Industries%22)
+- [KAYWAY INDUSTRIES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22KAYWAY%20INDUSTRIES%22)
 {{< /details >}}
 
 ## Departments and agencies

@@ -1,7 +1,7 @@
 ---
 title: SYSTEMATIX SOLUTIONS
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: systematix_solutions
 categories: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$45.8M in 2021-2022** on contracts with SYSTEMATIX SOLUTIONS.
 
-Across 148 contracts active since the start of the 2017-2018 fiscal year, 101 have at least one amendment (68%). Of contracts with amendments, the average increase in dollar value was 269% and the average number of amendments was 2.4. Cumulatively these amendments represent an increase of \$86.7M over the original contract values.
+Across 148 contracts active since the start of the 2017-2018 fiscal year, 101 have at least one amendment (68%). Of contracts with amendments, the average increase in dollar value was 269% and the average number of amendments was 2.4. Cumulatively these amendments represent an increase of \$85.4M over the original contract values.
 
 The average contract duration was 2.13 years, and the average contract value (not including contracts under \$10k) was \$2.1M. The longest contract was 7.55 years. The largest contract by value (including amendments) was \$33.0M.
 

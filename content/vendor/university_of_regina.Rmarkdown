@@ -1,7 +1,7 @@
 ---
 title: UNIVERSITY OF REGINA
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: university_of_regina
 categories: []
 tags: []

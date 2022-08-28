@@ -1,7 +1,7 @@
 ---
 title: 4 OFFICE AUTOMATION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: 4_office_automation
 categories: []
 tags: []
@@ -31,9 +31,9 @@ tags: []
 {{< entity_summary >}}
 The Government of Canada spent an estimated **\$1.2M in 2021-2022** on contracts with 4 OFFICE AUTOMATION.
 
-Across 211 contracts active since the start of the 2017-2018 fiscal year, 90 have at least one amendment (43%). Of contracts with amendments, the average increase in dollar value was 65% and the average number of amendments was 2.22. Cumulatively these amendments represent an increase of \$671.8K over the original contract values.
+Across 212 contracts active since the start of the 2017-2018 fiscal year, 89 have at least one amendment (42%). Of contracts with amendments, the average increase in dollar value was 62% and the average number of amendments was 2.22. Cumulatively these amendments represent an increase of \$-1.6M over the original contract values.
 
-The average contract duration was 2.76 years, and the average contract value (not including contracts under \$10k) was \$41.0K. The longest contract was 7.21 years. The largest contract by value (including amendments) was \$1.9M.
+The average contract duration was 2.75 years, and the average contract value (not including contracts under \$10k) was \$41.1K. The longest contract was 7.21 years. The largest contract by value (including amendments) was \$1.9M.
 
 {{< /entity_summary >}}
 

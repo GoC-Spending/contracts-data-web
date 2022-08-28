@@ -1,7 +1,7 @@
 ---
 title: ROOF TILE MANAGEMENT
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: roof_tile_management
 categories: []
 tags: []
@@ -40,6 +40,7 @@ The average contract duration was 1.44 years, and the average contract value (no
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Roof Tile Management Inc,](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Roof%20Tile%20Management%20Inc%2c%22)
 - [Roof Tile Management Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Roof%20Tile%20Management%20Inc.%22)
+- [ROOF TILE MANAGEMENT INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ROOF%20TILE%20MANAGEMENT%20INC.%22)
 {{< /details >}}
 
 ## Departments and agencies

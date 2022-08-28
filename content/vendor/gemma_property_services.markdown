@@ -1,7 +1,7 @@
 ---
 title: GEMMA PROPERTY SERVICES
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: gemma_property_services
 categories: []
 tags: []

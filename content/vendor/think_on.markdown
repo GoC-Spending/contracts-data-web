@@ -1,7 +1,7 @@
 ---
 title: THINK ON
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: think_on
 categories: []
 tags: []

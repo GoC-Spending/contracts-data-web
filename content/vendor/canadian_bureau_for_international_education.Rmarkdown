@@ -1,7 +1,7 @@
 ---
 title: CANADIAN BUREAU FOR INTERNATIONAL EDUCATION
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: canadian_bureau_for_international_education
 categories: []
 tags: []

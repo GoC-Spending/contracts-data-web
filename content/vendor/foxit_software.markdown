@@ -1,7 +1,7 @@
 ---
 title: FOXIT SOFTWARE
 author: ''
-date: '2022-08-24'
+date: '2022-08-27'
 slug: foxit_software
 categories: []
 tags: []

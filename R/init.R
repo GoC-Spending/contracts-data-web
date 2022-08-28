@@ -101,6 +101,10 @@ pivot_by_fiscal_year <- function(df, values_from = "total", num_of_years = 4) {
   df <- df %>%
     filter(d_fiscal_year %in% years_to_include)
   
+  # Remove inflation-adjusted columns, e.g. total_constant_2019_dollars
+  df <- df %>%
+    select(! ends_with("_dollars"))
+  
   # Pivot!
   df <- df %>%
     pivot_wider(names_from = d_fiscal_year, values_from = !!values_from)

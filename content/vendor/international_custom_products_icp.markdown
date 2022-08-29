@@ -1,7 +1,7 @@
 ---
 title: INTERNATIONAL CUSTOM PRODUCTS ICP
 author: ''
-date: '2022-08-27'
+date: '2022-08-28'
 slug: international_custom_products_icp
 categories: []
 tags: []
@@ -52,7 +52,7 @@ The average contract duration was 1.02 years, and the average contract value (no
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/11_defence/\">Defence<\/a>"],[137920.43],[5593439.57]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[2,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2]},{"className":"dt-right","targets":[1,2]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/defence/\">Defence<\/a>"],[137920.43],[5593439.57]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[2,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2]},{"className":"dt-right","targets":[1,2]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/international_custom_products_icp/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

@@ -1,8 +1,8 @@
 ---
-title: Transportation and logistics
+title: Travel
 author: ''
-date: '2022-08-27'
-slug: 5_transportation_and_logistics
+date: '2022-08-28'
+slug: travel
 categories: []
 tags: []
 ---
@@ -12,14 +12,14 @@ tags: []
 source("../../R/init.R")
 current_filename <- get_current_filename()
 entity_type <- "categories"
-current_name <- get_name_from_filename(current_filename, entity_type)
-lookup_name <- current_filename
+lookup_name <- get_category_label_by_path(current_filename)
+current_name <- get_name_from_filename(lookup_name, entity_type)
 research_summary_type <- "all"
 
 ```
 
 `r blogdown::shortcode_html("entity_summary")`
-The Government of Canada spent an estimated **\$`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)`** on `r str_to_lower(current_name)` contracts.
+The Government of Canada spent an estimated **\$`r get_most_recent_fiscal_year_total(lookup_name, entity_type)` in `r get_most_recent_fiscal_year_year(lookup_name, entity_type)`** on `r str_to_lower(current_name)` contracts.
 
 Across `r format_entity_count(get_research_finding("s431_number_of_contracts_by_category", research_summary_type, "contracts", "d_most_recent_category", lookup_name))` contracts active since the start of the 2017-2018 fiscal year, `r format_entity_count(get_research_finding("s431_number_of_contracts_by_category", research_summary_type, "contracts_with_amendments", "d_most_recent_category", lookup_name))` have at least one amendment (`r format_percentage_rounded(get_research_finding("s431_number_of_contracts_by_category", research_summary_type, "has_amendments_percentage", "d_most_recent_category", lookup_name))`). Of contracts with amendments, the average increase in dollar value was `r format_percentage_rounded(get_research_finding("s432_mean_amendment_increase_percentage_by_category", research_summary_type, "mean_amendment_increase_percentage", "d_most_recent_category", lookup_name))` and the average number of amendments was `r get_research_finding("s434_mean_number_of_amendments_by_category", research_summary_type, "mean_number_of_amendments", "d_most_recent_category", lookup_name)`. Cumulatively these amendments represent an increase of \$`r fancy_round(get_research_finding("s433_total_amendment_increase_value_by_category", research_summary_type, "total_amendment_increase_value", "d_most_recent_category", lookup_name))` over the original contract values.
 
@@ -31,8 +31,8 @@ The average contract duration was `r get_research_finding("s424_mean_duration_by
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
-dt_vendors_by_fiscal_year_by_category(current_filename)
-a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_vendor.csv")
+dt_vendors_by_fiscal_year_by_category(lookup_name)
+a_table_source_data_github(lookup_name, entity_type, "summary_by_fiscal_year_by_vendor.csv")
 
 ```
 
@@ -40,7 +40,7 @@ a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_yea
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
-dt_departments_by_fiscal_year_by_category(current_filename)
-a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_department.csv")
+dt_departments_by_fiscal_year_by_category(lookup_name)
+a_table_source_data_github(lookup_name, entity_type, "summary_by_fiscal_year_by_department.csv")
 
 ```

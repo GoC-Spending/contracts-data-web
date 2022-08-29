@@ -1,7 +1,7 @@
 ---
 title: MCAFEE INTERNATIONAL
 author: ''
-date: '2022-08-27'
+date: '2022-08-28'
 slug: mcafee_international
 categories: []
 tags: []
@@ -56,7 +56,7 @@ The average contract duration was 1.47 years, and the average contract value (no
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/3_information_technology/\">Information technology<\/a>"],[5581358.08],[1731180.36]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[2,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2]},{"className":"dt-right","targets":[1,2]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/other/\">(Other)<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>"],[2745091.51,2836266.57],[1331181.36,399999]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[2,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2]},{"className":"dt-right","targets":[1,2]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/mcafee_international/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

@@ -1,7 +1,7 @@
 ---
 title: MUFACTOR
 author: ''
-date: '2022-08-27'
+date: '2022-08-28'
 slug: mufactor
 categories: []
 tags: []
@@ -52,7 +52,7 @@ The average contract duration was 1 years, and the average contract value (not i
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/4_medical/\">Medical<\/a>"],[256160830]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/medical/\">Medical<\/a>"],[256160830]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/mufactor/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

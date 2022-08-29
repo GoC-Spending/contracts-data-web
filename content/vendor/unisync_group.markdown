@@ -1,7 +1,7 @@
 ---
 title: UNISYNC GROUP
 author: ''
-date: '2022-08-27'
+date: '2022-08-28'
 slug: unisync_group
 categories: []
 tags: []
@@ -53,7 +53,7 @@ The average contract duration was 0.07 years, and the average contract value (no
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/2_professional_services/\">Professional services<\/a>","<a href=\"/categories/4_medical/\">Medical<\/a>","<a href=\"/categories/6_industrial_products_and_services/\">Industrial products and services<\/a>"],[21860.08,null,null],[null,24814.8,6246342.83]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[2,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2]},{"className":"dt-right","targets":[1,2]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/medical/\">Medical<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>"],[21860.08,null,null],[null,24814.8,6246342.83]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[2,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2]},{"className":"dt-right","targets":[1,2]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/unisync_group/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

@@ -43,6 +43,8 @@ meta_tables <- meta_tables %>%
     matching = map(file_path, read_csv)
   )
 
+category_labels <- read_csv(str_c(csv_input_path, "../categories/category_labels.csv"))
+
 # Loop through or retrieve vendors, departments, and categories =====
 
 get_meta_list <- function(entity_type) {
@@ -74,6 +76,24 @@ get_meta_filepath_by_name <- function(entity_type, name) {
     filter(name == !!name) %>%
     pull(filepath)
   return(entry)
+  
+}
+
+# More advanced labels for categories and vendors ======
+
+get_category_label_by_category <- function(original_category, output_column = "category_path") {
+  
+  category_labels %>%
+    filter(original_category == !!original_category) %>%
+    pull(output_column)
+  
+}
+
+get_category_label_by_path <- function(category_path, output_column = "original_category") {
+  
+  category_labels %>%
+    filter(category_path == !!category_path) %>%
+    pull(output_column)
   
 }
 
@@ -210,12 +230,12 @@ add_first_column_links_department <- function(df, replace = TRUE) {
 # add_first_column_links(df)
 add_first_column_links_category <- function(df, replace = TRUE) {
   
-  meta_categories <- get_meta_list("categories")
+  # meta_categories <- get_meta_list("categories")
   df <- df %>%
-    left_join(meta_categories, by = c("Category" = "filepath"))
+    left_join(category_labels, by = c("Category" = "original_category"))
   df <- df %>%
     mutate(
-      href = str_c('<a href="/categories/', Category, '/">', name, "</a>")
+      href = str_c('<a href="/categories/', category_path, '/">', category_name, "</a>")
     )
   
   if(replace == TRUE) {
@@ -223,7 +243,7 @@ add_first_column_links_category <- function(df, replace = TRUE) {
       mutate(
         Category = href
       ) %>%
-      select(! c(name, href)) %>%
+      select(! c(href, leading_zero_category, category_path, category_name)) %>%
       return()
   }
   else {

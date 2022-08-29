@@ -122,11 +122,11 @@ generate_category_page <- function(name, filepath) {
 }
 
 generate_all_category_pages <- function() {
-  categories <- get_meta_list("categories")
-  names <- categories %>% 
-    pull("name")
-  filepaths <- categories %>% 
-    pull("filepath")
+  # Uses category_labels instead for a wider range of category naming options. Hashtag path dependency!
+  names <- category_labels %>% 
+    pull("category_name")
+  filepaths <- category_labels %>% 
+    pull("category_path")
   map2(names, filepaths, generate_category_page)
 }
 

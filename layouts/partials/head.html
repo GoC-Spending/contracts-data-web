@@ -4,11 +4,11 @@
 
 {{ if eq .RelPermalink "/" }}
 <title>{{ .Site.Title }}</title>
-<meta property="og:title" content="{{ .Site.Title }}">
-<meta property="og:type" content="website">
+<!-- <meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:type" content="website"> -->
 {{ else }}
-<title>{{ .Title }}{{ with .Params.subtitle }} - {{ . }} {{ end }} - {{ .Site.Title }}</title>
-<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
+<title>{{ .Title }}{{ with .Params.subtitle }} – {{ . }} {{ end }} – {{ .Site.Title }}</title>
+<!-- <meta property="og:title" content="{{ .Title }} – {{ .Site.Title }}"> -->
 {{ end }}
 {{ with .Site.Params.favicon }}
   <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
@@ -18,13 +18,16 @@
 <meta property="description" content="{{ .Site.Params.description }}">
 {{ else }}
   {{ if .Description }}
-  <meta property="description" content="{{ .Description }}">
+<meta property="description" content="{{ .Description }}">
   {{ end }}
 {{ end }}
 
 {{ if .Keywords }}
 <meta property="keywords" content ="{{ delimit .Keywords ", " }}">
 {{ end }}
+
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
 
 {{ with .OutputFormats.Get "RSS" }}
 <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />

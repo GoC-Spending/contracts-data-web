@@ -588,6 +588,12 @@ get_name_from_filename <- function(entity_filepath, entity_type) {
     filter(filepath == !!entity_filepath) %>%
     pull(name)
   
+  # Handling for extraneous apostrophes, e.g.
+  # "Office of the Taxpayers' Ombudsperson"
+  # which might break quoted YAML strings, for example.
+  entity <- entity %>%
+    str_replace_all("'", "")
+  
   entity
   
 }

@@ -1,25 +1,33 @@
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-source("../../R/init.R")
-current_filename <- get_current_filename()
-entity_type <- "vendors"
-current_name <- get_name_from_filename(current_filename, entity_type)
-lookup_name <- current_name
-research_summary_type <- "all"
-
-most_recent_fiscal_year_total <- get_most_recent_fiscal_year_total(current_filename, entity_type)
-most_recent_fiscal_year_year <- get_most_recent_fiscal_year_year(current_filename, entity_type)
-
-s424_mean_duration_by_vendor <- get_research_finding("s424_mean_duration_by_vendor", research_summary_type, "mean_years", "d_vendor_name", lookup_name)
-s421_mean_contract_value_by_vendor <- fancy_round(get_research_finding("s421_mean_contract_value_by_vendor", research_summary_type, "mean_overall_value", "d_vendor_name", lookup_name))
-s425_max_duration_by_vendor <- get_research_finding("s425_max_duration_by_vendor", research_summary_type, "max_years", "d_vendor_name", lookup_name)
-s422_max_contract_value_by_vendor <- fancy_round(get_research_finding("s422_max_contract_value_by_vendor", research_summary_type, "max_overall_value", "d_vendor_name", lookup_name))
-
-```
 ---
 title: '{{ .Name }}'
 author: ''
 date: '{{ .Date }}'
+r_init: '`r 
+source("../../R/init.R")
+
+current_filename <- get_current_filename()
+
+entity_type <- "vendors"
+
+current_name <- get_name_from_filename(current_filename, entity_type)
+
+lookup_name <- current_name
+
+research_summary_type <- "all"
+
+
+most_recent_fiscal_year_total <- get_most_recent_fiscal_year_total(current_filename, entity_type)
+
+most_recent_fiscal_year_year <- get_most_recent_fiscal_year_year(current_filename, entity_type)
+
+
+s424_mean_duration_by_vendor <- get_research_finding("s424_mean_duration_by_vendor", research_summary_type, "mean_years", "d_vendor_name", lookup_name)
+
+s421_mean_contract_value_by_vendor <- fancy_round(get_research_finding("s421_mean_contract_value_by_vendor", research_summary_type, "mean_overall_value", "d_vendor_name", lookup_name))
+
+s425_max_duration_by_vendor <- get_research_finding("s425_max_duration_by_vendor", research_summary_type, "max_years", "d_vendor_name", lookup_name)
+
+s422_max_contract_value_by_vendor <- fancy_round(get_research_finding("s422_max_contract_value_by_vendor", research_summary_type, "max_overall_value", "d_vendor_name", lookup_name))`'
 
 description: 'The Government of Canada spent an estimated $`r most_recent_fiscal_year_total` in `r most_recent_fiscal_year_year` on contracts with `r current_name`. The average contract duration was `r s424_mean_duration_by_vendor` year, and the average contract value (not including contracts under $10k) was $`r s421_mean_contract_value_by_vendor`. The longest contract was `r s425_max_duration_by_vendor` year. The largest contract by value (including amendments) was $`r s422_max_contract_value_by_vendor`.'
 

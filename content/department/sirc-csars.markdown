@@ -1,7 +1,7 @@
 ---
 title: Security Intelligence Review Committee
 author: ''
-date: '2022-08-28'
+date: '2022-08-29'
 slug: sirc-csars
 categories: []
 tags: []
@@ -40,7 +40,7 @@ The average contract duration was 0.75 years, and the average contract value (no
 ## Vendors
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/itex/\">ITEX<\/a>","<a href=\"/vendors/totem_offisource/\">TOTEM OFFISOURCE<\/a>"],[49195.72,10760.26]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/adga_group/\">ADGA GROUP<\/a>","<a href=\"/vendors/avi_spl_canada/\">AVI SPL CANADA<\/a>","<a href=\"/vendors/dell_computer/\">DELL COMPUTER<\/a>","<a href=\"/vendors/itex/\">ITEX<\/a>","<a href=\"/vendors/microsoft_canada/\">MICROSOFT CANADA<\/a>","<a href=\"/vendors/nisha_techonologies/\">NISHA TECHONOLOGIES<\/a>","<a href=\"/vendors/northern_micro/\">NORTHERN MICRO<\/a>","<a href=\"/vendors/qmr/\">QMR<\/a>","<a href=\"/vendors/softchoice/\">SOFTCHOICE<\/a>","<a href=\"/vendors/totem_offisource/\">TOTEM OFFISOURCE<\/a>"],[45872.2,43565.39,11529,null,18957.02,77268,null,null,382937.49,null],[null,null,null,49195.72,null,96705.4,42627.12,22019,33222.34,10760.26]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2017-2018<\/th>\n      <th>2018-2019<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[2,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2]},{"className":"dt-right","targets":[1,2]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/sirc-csars/summary_by_fiscal_year_by_vendor.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

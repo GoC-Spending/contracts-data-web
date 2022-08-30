@@ -1,7 +1,7 @@
 ---
 title: Farm Products Council of Canada
 author: ''
-date: '2022-08-28'
+date: '2022-08-29'
 slug: fpcc-cpac
 categories: []
 tags: []
@@ -40,7 +40,7 @@ The average contract duration was 0.66 years, and the average contract value (no
 ## Vendors
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/interactive_audio_visual/\">INTERACTIVE AUDIO VISUAL<\/a>"],[149990.75]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/artemp_personnel_services/\">ARTEMP PERSONNEL SERVICES<\/a>","<a href=\"/vendors/interactive_audio_visual/\">INTERACTIVE AUDIO VISUAL<\/a>","<a href=\"/vendors/pleiad_canada/\">PLEIAD CANADA<\/a>","<a href=\"/vendors/the_right_door_consulting/\">THE RIGHT DOOR CONSULTING<\/a>"],[21750,null,null,null],[73287.8,149990.75,147749.72,38928.5],[73771.44,null,148316.5,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2018-2019<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[3,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3]},{"className":"dt-right","targets":[1,2,3]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/fpcc-cpac/summary_by_fiscal_year_by_vendor.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

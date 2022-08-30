@@ -1,7 +1,7 @@
 ---
 title: SKILLSOFT CANADA
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: skillsoft_canada
 categories: []
 tags: []

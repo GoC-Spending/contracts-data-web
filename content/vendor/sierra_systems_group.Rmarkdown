@@ -1,7 +1,7 @@
 ---
 title: SIERRA SYSTEMS GROUP
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: sierra_systems_group
 categories: []
 tags: []

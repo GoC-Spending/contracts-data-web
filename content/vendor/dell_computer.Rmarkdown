@@ -1,7 +1,7 @@
 ---
 title: DELL COMPUTER
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: dell_computer
 categories: []
 tags: []

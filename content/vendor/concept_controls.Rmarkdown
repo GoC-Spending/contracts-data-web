@@ -1,7 +1,7 @@
 ---
 title: CONCEPT CONTROLS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: concept_controls
 categories: []
 tags: []

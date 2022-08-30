@@ -1,7 +1,7 @@
 ---
 title: J 1 CONTRACTING
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: j_1_contracting
 categories: []
 tags: []

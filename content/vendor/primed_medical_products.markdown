@@ -1,7 +1,7 @@
 ---
 title: PRIMED MEDICAL PRODUCTS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: primed_medical_products
 categories: []
 tags: []

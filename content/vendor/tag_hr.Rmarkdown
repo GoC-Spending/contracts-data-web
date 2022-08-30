@@ -1,7 +1,7 @@
 ---
 title: TAG HR
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: tag_hr
 categories: []
 tags: []

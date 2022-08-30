@@ -1,7 +1,7 @@
 ---
 title: MASKIMO CONSTRUCTION
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: maskimo_construction
 categories: []
 tags: []

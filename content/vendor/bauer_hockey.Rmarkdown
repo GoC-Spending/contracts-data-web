@@ -1,7 +1,7 @@
 ---
 title: BAUER HOCKEY
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: bauer_hockey
 categories: []
 tags: []

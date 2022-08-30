@@ -1,7 +1,7 @@
 ---
 title: TEAM CERTAS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: team_certas
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: ALLEN HASTINGS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: allen_hastings
 categories: []
 tags: []

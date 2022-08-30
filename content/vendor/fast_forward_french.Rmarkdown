@@ -1,7 +1,7 @@
 ---
 title: FAST FORWARD FRENCH
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: fast_forward_french
 categories: []
 tags: []

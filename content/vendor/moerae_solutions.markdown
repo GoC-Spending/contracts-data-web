@@ -1,7 +1,7 @@
 ---
 title: MOERAE SOLUTIONS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: moerae_solutions
 categories: []
 tags: []

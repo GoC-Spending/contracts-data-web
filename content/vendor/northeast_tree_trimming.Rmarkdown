@@ -1,7 +1,7 @@
 ---
 title: NORTHEAST TREE TRIMMING
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: northeast_tree_trimming
 categories: []
 tags: []

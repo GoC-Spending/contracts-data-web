@@ -1,7 +1,7 @@
 ---
 title: CITRIX
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: citrix
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: CONTRACT COMMUNITY
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: contract_community
 categories: []
 tags: []

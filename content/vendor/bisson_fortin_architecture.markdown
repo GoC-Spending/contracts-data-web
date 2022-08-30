@@ -1,7 +1,7 @@
 ---
 title: BISSON FORTIN ARCHITECTURE
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: bisson_fortin_architecture
 categories: []
 tags: []

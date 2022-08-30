@@ -1,7 +1,7 @@
 ---
 title: WAMPUM RECORDS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: wampum_records
 categories: []
 tags: []

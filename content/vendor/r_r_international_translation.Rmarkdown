@@ -1,7 +1,7 @@
 ---
 title: R R INTERNATIONAL TRANSLATION
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: r_r_international_translation
 categories: []
 tags: []

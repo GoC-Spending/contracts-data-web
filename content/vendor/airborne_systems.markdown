@@ -1,7 +1,7 @@
 ---
 title: AIRBORNE SYSTEMS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: airborne_systems
 categories: []
 tags: []

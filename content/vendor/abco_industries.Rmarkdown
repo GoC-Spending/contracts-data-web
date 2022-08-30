@@ -1,7 +1,7 @@
 ---
 title: ABCO INDUSTRIES
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: abco_industries
 categories: []
 tags: []

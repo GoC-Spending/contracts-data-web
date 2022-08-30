@@ -1,7 +1,7 @@
 ---
 title: Office of the Information Commissioner of Canada
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: oic-ci
 categories: []
 tags: []

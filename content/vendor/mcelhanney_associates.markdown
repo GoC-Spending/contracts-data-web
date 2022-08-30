@@ -1,7 +1,7 @@
 ---
 title: MCELHANNEY ASSOCIATES
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: mcelhanney_associates
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: WPP GROUP CANADA COMMUNICATIONS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: wpp_group_canada_communications
 categories: []
 tags: []

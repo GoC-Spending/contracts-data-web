@@ -1,7 +1,7 @@
 ---
 title: HERCULES SLR
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: hercules_slr
 categories: []
 tags: []

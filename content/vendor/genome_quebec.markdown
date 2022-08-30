@@ -1,7 +1,7 @@
 ---
 title: GENOME QUEBEC
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: genome_quebec
 categories: []
 tags: []

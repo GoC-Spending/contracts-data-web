@@ -1,7 +1,7 @@
 ---
 title: ROCHE DIAGNOSTICS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: roche_diagnostics
 categories: []
 tags: []

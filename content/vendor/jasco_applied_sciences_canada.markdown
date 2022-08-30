@@ -1,7 +1,7 @@
 ---
 title: JASCO APPLIED SCIENCES CANADA
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: jasco_applied_sciences_canada
 categories: []
 tags: []

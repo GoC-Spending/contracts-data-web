@@ -1,7 +1,7 @@
 ---
 title: RESOLVE SALVAGE FIRE AMERICAS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: resolve_salvage_fire_americas
 categories: []
 tags: []

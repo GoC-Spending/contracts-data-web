@@ -1,7 +1,7 @@
 ---
 title: MCCOLMAN SONS DEMOLITION
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: mccolman_sons_demolition
 categories: []
 tags: []

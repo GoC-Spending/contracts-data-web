@@ -1,7 +1,7 @@
 ---
 title: COSSETTE COMMUNICATIONS
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: cossette_communications
 categories: []
 tags: []

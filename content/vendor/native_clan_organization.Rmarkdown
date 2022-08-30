@@ -1,7 +1,7 @@
 ---
 title: NATIVE CLAN ORGANIZATION
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: native_clan_organization
 categories: []
 tags: []

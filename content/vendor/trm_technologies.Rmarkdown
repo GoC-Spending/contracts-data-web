@@ -1,7 +1,7 @@
 ---
 title: TRM TECHNOLOGIES
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: trm_technologies
 categories: []
 tags: []

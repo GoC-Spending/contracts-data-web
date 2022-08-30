@@ -1,7 +1,7 @@
 ---
 title: MCKINSEY AND COMPANY
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: mckinsey_and_company
 categories: []
 tags: []

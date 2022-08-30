@@ -1,7 +1,7 @@
 ---
 title: VFS GLOBAL
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: vfs_global
 categories: []
 tags: []

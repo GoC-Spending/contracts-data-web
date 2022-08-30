@@ -1,7 +1,7 @@
 ---
 title: IIC TECHNOLOGIES
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: iic_technologies
 categories: []
 tags: []

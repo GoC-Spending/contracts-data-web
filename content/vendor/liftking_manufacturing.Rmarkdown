@@ -1,7 +1,7 @@
 ---
 title: LIFTKING MANUFACTURING
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: liftking_manufacturing
 categories: []
 tags: []

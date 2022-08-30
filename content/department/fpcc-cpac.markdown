@@ -1,7 +1,7 @@
 ---
 title: Farm Products Council of Canada
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: fpcc-cpac
 categories: []
 tags: []

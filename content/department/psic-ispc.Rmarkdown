@@ -1,7 +1,7 @@
 ---
 title: Office of the Public Sector Integrity Commissioner of Canada
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: psic-ispc
 categories: []
 tags: []

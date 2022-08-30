@@ -1,7 +1,7 @@
 ---
 title: NATIONS TRANSLATION GROUP
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: nations_translation_group
 categories: []
 tags: []

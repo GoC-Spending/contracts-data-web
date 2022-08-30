@@ -1,7 +1,7 @@
 ---
 title: MINISTRY OF FINANCE
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: ministry_of_finance
 categories: []
 tags: []

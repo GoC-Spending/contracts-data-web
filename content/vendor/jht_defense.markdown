@@ -1,7 +1,7 @@
 ---
 title: JHT DEFENSE
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: jht_defense
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: HARNOIS ENERGIES
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: harnois_energies
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: METALCRAFT MARINE
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: metalcraft_marine
 categories: []
 tags: []

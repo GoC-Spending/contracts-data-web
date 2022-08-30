@@ -1,7 +1,7 @@
 ---
 title: STRYKER CANADA
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: stryker_canada
 categories: []
 tags: []

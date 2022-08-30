@@ -1,7 +1,7 @@
 ---
 title: SOCIETE ELIZABETH FRY DU QUEBEC
 author: ''
-date: '2022-08-29'
+date: '2022-08-30'
 slug: societe_elizabeth_fry_du_quebec
 categories: []
 tags: []

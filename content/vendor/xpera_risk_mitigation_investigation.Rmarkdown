@@ -5,4 +5,69 @@ date: '2022-08-29'
 slug: xpera_risk_mitigation_investigation
 categories: []
 tags: []
+r_init: |-
+  `r source("../../R/init.R")
+  current_filename <- get_current_filename()
+  entity_type <- "vendors"
+  current_name <- get_name_from_filename(current_filename, entity_type)
+  lookup_name <- current_name
+  research_summary_type <- "all"
+
+  most_recent_fiscal_year_total <- get_most_recent_fiscal_year_total(current_filename, entity_type)
+  most_recent_fiscal_year_year <- get_most_recent_fiscal_year_year(current_filename, entity_type)
+
+  s424_mean_duration_by_vendor <- get_research_finding("s424_mean_duration_by_vendor", research_summary_type, "mean_years", "d_vendor_name", lookup_name)
+  s421_mean_contract_value_by_vendor <- fancy_round(get_research_finding("s421_mean_contract_value_by_vendor", research_summary_type, "mean_overall_value", "d_vendor_name", lookup_name))
+  s425_max_duration_by_vendor <- get_research_finding("s425_max_duration_by_vendor", research_summary_type, "max_years", "d_vendor_name", lookup_name)
+  s422_max_contract_value_by_vendor <- fancy_round(get_research_finding("s422_max_contract_value_by_vendor", research_summary_type, "max_overall_value", "d_vendor_name", lookup_name))`
+description: The Government of Canada spent an estimated $`r most_recent_fiscal_year_total`
+  in `r most_recent_fiscal_year_year` on contracts with `r current_name`. The average
+  contract duration was `r s424_mean_duration_by_vendor` year, and the average contract
+  value (not including contracts under $10k) was $`r s421_mean_contract_value_by_vendor`.
+  The longest contract was `r s425_max_duration_by_vendor` year. The largest contract
+  by value (including amendments) was $`r s422_max_contract_value_by_vendor`.
+most_recent_fiscal_year_total: '`r most_recent_fiscal_year_total`'
+most_recent_fiscal_year_year: '`r most_recent_fiscal_year_year`'
+s431_number_of_contracts_by_vendor: '`r format_entity_count(get_research_finding("s431_number_of_contracts_by_vendor",
+  research_summary_type, "contracts", "d_vendor_name", lookup_name))`'
+s431_number_of_contracts_by_vendor_with_amendments: '`r format_entity_count(get_research_finding("s431_number_of_contracts_by_vendor",
+  research_summary_type, "contracts_with_amendments", "d_vendor_name", lookup_name))`'
+s431_number_of_contracts_amendments_percentage: '`r format_percentage_rounded(get_research_finding("s431_number_of_contracts_by_vendor",
+  research_summary_type, "has_amendments_percentage", "d_vendor_name", lookup_name))`'
+s432_mean_amendment_increase_percentage_by_vendor: '`r format_percentage_rounded(get_research_finding("s432_mean_amendment_increase_percentage_by_vendor",
+  research_summary_type, "mean_amendment_increase_percentage", "d_vendor_name", lookup_name))`'
+s434_mean_number_of_amendments_by_vendor: '`r get_research_finding("s434_mean_number_of_amendments_by_vendor",
+  research_summary_type, "mean_number_of_amendments", "d_vendor_name", lookup_name)`'
+s433_total_amendment_increase_value_by_vendor: '`r fancy_round(get_research_finding("s433_total_amendment_increase_value_by_vendor",
+  research_summary_type, "total_amendment_increase_value", "d_vendor_name", lookup_name))`'
+s424_mean_duration_by_vendor: '`r s424_mean_duration_by_vendor`'
+s421_mean_contract_value_by_vendor: '`r s421_mean_contract_value_by_vendor`'
+s425_max_duration_by_vendor: '`r s425_max_duration_by_vendor`'
+s422_max_contract_value_by_vendor: '`r s422_max_contract_value_by_vendor`'
 ---
+
+`r blogdown::shortcode_html("entity_summary_params")`
+`r blogdown::shortcode_html("/entity_summary_params")`
+
+`r blogdown::shortcode_html("details", summary = "See original contracts and amendments", panel_body_class="vendor-names-list")`
+```{r, echo=FALSE, results='asis', message=FALSE}
+cat(display_original_vendor_names(current_filename))
+```
+`r blogdown::shortcode_html("/details")`
+
+## Departments and agencies
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+dt_departments_by_fiscal_year_by_vendor(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_department.csv")
+
+```
+
+## Categories
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+dt_categories_by_fiscal_year_by_vendor(current_filename)
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_category.csv")
+
+```

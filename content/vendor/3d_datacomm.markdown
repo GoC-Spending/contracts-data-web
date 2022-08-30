@@ -5,4 +5,88 @@ date: '2022-08-29'
 slug: 3d_datacomm
 categories: []
 tags: []
+r_init: |-
+  
+description: The Government of Canada spent an estimated $1.4M
+  in 2021-2022 on contracts with 3D DATACOMM. The average
+  contract duration was 0.2 year, and the average contract
+  value (not including contracts under $10k) was $54.5K.
+  The longest contract was 1.07 year. The largest contract
+  by value (including amendments) was $670.5K.
+most_recent_fiscal_year_total: '1.4M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts_by_vendor: '115'
+s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts_amendments_percentage: '3%'
+s432_mean_amendment_increase_percentage_by_vendor: '-12%'
+s434_mean_number_of_amendments_by_vendor: '1'
+s433_total_amendment_increase_value_by_vendor: '-20.8K'
+s424_mean_duration_by_vendor: '0.2'
+s421_mean_contract_value_by_vendor: '54.5K'
+s425_max_duration_by_vendor: '1.07'
+s422_max_contract_value_by_vendor: '670.5K'
 ---
+
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
+
+{{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [3D DATACOMM](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATACOMM%22)
+- [3D DATACOMM INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATACOMM%20INC.%22)
+- [3 D Datacomm Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223%20D%20Datacomm%20Inc%22)
+- [3D datacomm Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20datacomm%20Inc.%22)
+- [3D DATACOMM INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATACOMM%20INC%22)
+- [3D DATACOM](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATACOM%22)
+- [3Ddatacomm](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223Ddatacomm%22)
+- [3D Datacamm](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20Datacamm%22)
+- [3 D DATACOMM INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223%20D%20DATACOMM%20INC.%22)
+- [3 D DATACOMM INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223%20D%20DATACOMM%20INC%22)
+- [3D Datacomm Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20Datacomm%20Inc.%22)
+- [\#D Datacomm Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%23D%20Datacomm%20Inc%22)
+- [3d Datacom](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223d%20Datacom%22)
+- [3D Datacomm](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20Datacomm%22)
+- [3D DATA COMM](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATA%20COMM%22)
+- [3D DATACOM INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATACOM%20INC%22)
+- [3D Datacomm Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20Datacomm%20Inc%22)
+- [3D datacomm](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20datacomm%22)
+- [3D Datacom](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20Datacom%22)
+- [3D DATACOOM](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATACOOM%22)
+- [3D DATACOM INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%223D%20DATACOM%20INC.%22)
+{{< /details >}}
+
+## Departments and agencies
+
+<div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/cra-arc/\">Canada Revenue Agency<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/iaac-aeic/\">Impact Assessment Agency of Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/ssc-spc/\">Shared Services Canada<\/a>","<a href=\"/departments/vac-acc/\">Veterans Affairs Canada<\/a>"],[10717.06,null,157830.51,105176.62,16021.47,null,19554.81,null,355116.65,null],[null,null,2032075.89,10538.61,null,15610.8,55137.39,166100.02,121505.38,25875],[null,null,772069.93,null,null,102907.12,14589.36,471035.77,30246.64,null],[null,82887.88,564245.21,30847.76,null,null,509769,143168.47,95816.2,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/3d_datacomm/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
+</p>
+
+## Categories
+
+<div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>"],[19554.81,null,105176.62,506059.18,33626.51],[null,null,10538.61,2400693.68,15610.8],[null,51847.7,null,1236094,102907.12],[10515.21,589663.37,30847.76,776116.78,19591.4]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/3d_datacomm/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
+</p>

@@ -1,0 +1,14 @@
+<div class="entity-summary">
+
+    <p>The Government of Canada spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on contracts with {{ .Page.Params.title }}.</p>
+    <p>Across {{ .Page.Params.s431_number_of_contracts_by_vendor }} {{ if eq .Page.Params.s431_number_of_contracts_by_vendor "1" }}contract{{ else }}contracts{{ end }} active since the start of the {{ $.Site.Data.parse_run_log.summary_start_fiscal_year }} fiscal year, {{ .Page.Params.s431_number_of_contracts_by_vendor_with_amendments }} {{ if eq .Page.Params.s431_number_of_contracts_by_vendor_with_amendments "1" }}has{{ else }}have{{ end }} at least one amendment ({{ .Page.Params.s431_number_of_contracts_amendments_percentage }}). 
+        
+    {{ if gt .Page.Params.s431_number_of_contracts_by_vendor_with_amendments 0 }}
+        Of contracts with amendments, the average increase in dollar value was {{ .Page.Params.s432_mean_amendment_increase_percentage_by_vendor }} and the average number of amendments was {{ .Page.Params.s434_mean_number_of_amendments_by_vendor }}. Cumulatively these amendments represent an increase of ${{ .Page.Params.s433_total_amendment_increase_value_by_vendor }} over the original contract values.
+    {{ end }}
+    
+    </p>
+    <p>The average contract duration was {{ .Page.Params.s424_mean_duration_by_vendor }} {{ if eq .Page.Params.s424_mean_duration_by_vendor "1" }}year{{ else }}years{{ end }}, and the average contract value (not including contracts under $10k) was ${{ .Page.Params.s421_mean_contract_value_by_vendor }}. The longest contract was {{ .Page.Params.s425_max_duration_by_vendor }} {{ if eq .Page.Params.s425_max_duration_by_vendor "1" }}year{{ else }}years{{ end }}. The largest contract by value (including amendments) was ${{ .Page.Params.s422_max_contract_value_by_vendor }}.</p>
+
+    {{ .Inner | markdownify }}
+</div>

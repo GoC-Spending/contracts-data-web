@@ -5,6 +5,21 @@ date: '2022-08-28'
 slug: gabriela_oliveira
 categories: []
 tags: []
+
+description: 'The Government of Canada spent an estimated $51.8M in 2021-2022 on contracts with GABRIELA OLIVEIRA. The average contract duration was 1 year, and the average contract value (not including contracts under $10k) was $56.3M. The longest contract was 1 year. The largest contract by value (including amendments) was $56.3M.'
+
+most_recent_fiscal_year_total: '51.8M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts_by_vendor: '1'
+s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts_amendments_percentage: '0%'
+s432_mean_amendment_increase_percentage_by_vendor: 'NA'
+s434_mean_number_of_amendments_by_vendor: 'NA'
+s433_total_amendment_increase_value_by_vendor: 'NA'
+s424_mean_duration_by_vendor: '1'
+s421_mean_contract_value_by_vendor: '56.3M'
+s425_max_duration_by_vendor: '1'
+s422_max_contract_value_by_vendor: '56.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +43,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-The Government of Canada spent an estimated **\$51.8M in 2021-2022** on contracts with GABRIELA OLIVEIRA.
-
-Across 1 contracts active since the start of the 2017-2018 fiscal year, 0 have at least one amendment (0%). Of contracts with amendments, the average increase in dollar value was NA and the average number of amendments was NA. Cumulatively these amendments represent an increase of \$NA over the original contract values.
-
-The average contract duration was 1 years, and the average contract value (not including contracts under \$10k) was \$56.3M. The longest contract was 1 years. The largest contract by value (including amendments) was \$56.3M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [GABRIELA OLIVEIRA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GABRIELA%20OLIVEIRA%22)

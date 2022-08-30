@@ -65,3 +65,11 @@ main h2 {
     margin-top: 5px;
     max-width: 390px;
 }
+
+.page-type-meta main {
+    p, ul, ol {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 1.0em;
+    }
+}

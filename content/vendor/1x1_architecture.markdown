@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with 1X1 ARCHITECTURE. The average
+  in 2021-2022 on contracts with 1X1 Architecture. The average
   contract duration was 1.56 years, and the average contract value
   (not including contracts under $10k) was $131.9K. The longest
   contract was 4.07 years. The largest contract by value (including

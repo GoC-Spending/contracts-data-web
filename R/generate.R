@@ -85,7 +85,7 @@ generate_vendor_page <- function(name, filepath) {
 generate_all_vendor_pages <- function() {
   vendors <- get_meta_list("vendors")
   names <- vendors %>% 
-    pull("name")
+    pull("display_label")
   filepaths <- vendors %>% 
     pull("filepath")
   map2(names, filepaths, generate_vendor_page)

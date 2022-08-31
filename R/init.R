@@ -57,12 +57,12 @@ get_meta_list <- function(entity_type) {
 
 # e.g. get_meta_name_by_filepath("departments", "aafc-aac")
 # returns "Agriculture and Agri-Food Canada | Agriculture et Agroalimentaire Canada"
-get_meta_name_by_filepath <- function(entity_type, filepath) {
+get_meta_name_by_filepath <- function(entity_type, filepath, output_column = "name") {
   
   meta_table <- get_meta_list(entity_type)
   entry <- meta_table %>%
     filter(filepath == !!filepath) %>%
-    pull(name)
+    pull(output_column)
   return(entry)
   
 }
@@ -182,7 +182,7 @@ add_first_column_links_vendor <- function(df, replace = TRUE) {
     left_join(meta_vendors, by = c("Vendor" = "name"))
   df <- df %>%
     mutate(
-      href = str_c('<a href="/vendors/', filepath, '/">', Vendor, "</a>")
+      href = str_c('<a href="/vendors/', filepath, '/">', display_label, "</a>")
     )
   
   if(replace == TRUE) {
@@ -190,7 +190,7 @@ add_first_column_links_vendor <- function(df, replace = TRUE) {
       mutate(
         Vendor = href
       ) %>%
-      select(! c(filepath, href)) %>%
+      select(! c(filepath, display_label, href)) %>%
       return()
   }
   else {
@@ -580,13 +580,13 @@ format_percentage_rounded <- function(percentage) {
 }
 
 # entity_type should be "categories", "vendors", or "departments"
-get_name_from_filename <- function(entity_filepath, entity_type) {
+get_name_from_filename <- function(entity_filepath, entity_type, output_column = "name") {
   
   meta_entities <- get_meta_list(entity_type)
   
   entity <- meta_entities %>%
     filter(filepath == !!entity_filepath) %>%
-    pull(name)
+    pull(output_column)
   
   # Handling for extraneous apostrophes, e.g.
   # "Office of the Taxpayers' Ombudsperson"

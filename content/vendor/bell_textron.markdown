@@ -1,5 +1,5 @@
 ---
-title: BELL TEXTRON
+title: Bell Textron
 author: ''
 date: '2022-08-30'
 slug: bell_textron
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $22.1M
-  in 2021-2022 on contracts with BELL TEXTRON. The average
+  in 2021-2022 on contracts with Bell Textron. The average
   contract duration was 0.13 years, and the average contract value
   (not including contracts under $10k) was $5.7M. The longest
   contract was 9.22 years. The largest contract by value (including
   amendments) was $797.6M.
+lookup_name: 'BELL TEXTRON'
 most_recent_fiscal_year_total: '22.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '283'

@@ -1,5 +1,5 @@
 ---
-title: ALLIED SHIPBUILDERS
+title: Allied Shipbuilders
 author: ''
 date: '2022-08-30'
 slug: allied_shipbuilders
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $14.6M
-  in 2021-2022 on contracts with ALLIED SHIPBUILDERS. The average
+  in 2021-2022 on contracts with Allied Shipbuilders. The average
   contract duration was 0.44 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 1.67 years. The largest contract by value (including
   amendments) was $18.7M.
+lookup_name: 'ALLIED SHIPBUILDERS'
 most_recent_fiscal_year_total: '14.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

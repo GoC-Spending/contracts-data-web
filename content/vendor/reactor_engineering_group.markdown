@@ -1,5 +1,5 @@
 ---
-title: REACTOR ENGINEERING GROUP
+title: Reactor Engineering Group
 author: ''
 date: '2022-08-30'
 slug: reactor_engineering_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $37.6M
-  in 2021-2022 on contracts with REACTOR ENGINEERING GROUP. The average
+  in 2021-2022 on contracts with Reactor Engineering Group. The average
   contract duration was 0.64 years, and the average contract value
   (not including contracts under $10k) was $48.3M. The longest
   contract was 0.64 years. The largest contract by value (including
   amendments) was $48.3M.
+lookup_name: 'REACTOR ENGINEERING GROUP'
 most_recent_fiscal_year_total: '37.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

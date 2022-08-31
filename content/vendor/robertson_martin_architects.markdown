@@ -1,5 +1,5 @@
 ---
-title: ROBERTSON MARTIN ARCHITECTS
+title: Robertson Martin Architects
 author: ''
 date: '2022-08-30'
 slug: robertson_martin_architects
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with ROBERTSON MARTIN ARCHITECTS. The average
+  in 2021-2022 on contracts with Robertson Martin Architects. The average
   contract duration was 1.65 years, and the average contract value
   (not including contracts under $10k) was $446.4K. The longest
   contract was 5.48 years. The largest contract by value (including
   amendments) was $4.4M.
+lookup_name: 'ROBERTSON MARTIN ARCHITECTS'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '31'

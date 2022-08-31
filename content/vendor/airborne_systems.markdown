@@ -1,5 +1,5 @@
 ---
-title: AIRBORNE SYSTEMS
+title: Airborne Systems
 author: ''
 date: '2022-08-30'
 slug: airborne_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.2M
-  in 2019-2020 on contracts with AIRBORNE SYSTEMS. The average
+  in 2019-2020 on contracts with Airborne Systems. The average
   contract duration was 1.69 years, and the average contract value
   (not including contracts under $10k) was $8.1M. The longest
   contract was 2.9 years. The largest contract by value (including
   amendments) was $16.2M.
+lookup_name: 'AIRBORNE SYSTEMS'
 most_recent_fiscal_year_total: '4.2M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

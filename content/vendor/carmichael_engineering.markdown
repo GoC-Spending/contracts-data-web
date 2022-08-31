@@ -1,5 +1,5 @@
 ---
-title: CARMICHAEL ENGINEERING
+title: Carmichael Engineering
 author: ''
 date: '2022-08-30'
 slug: carmichael_engineering
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with CARMICHAEL ENGINEERING. The average
+  in 2021-2022 on contracts with Carmichael Engineering. The average
   contract duration was 0.79 years, and the average contract value
   (not including contracts under $10k) was $106.5K. The longest
   contract was 7 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'CARMICHAEL ENGINEERING'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '68'

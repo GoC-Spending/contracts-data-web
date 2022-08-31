@@ -1,5 +1,5 @@
 ---
-title: HFI PYROTECHNICS
+title: HFI Pyrotechnics
 author: ''
 date: '2022-08-30'
 slug: hfi_pyrotechnics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.6M
-  in 2021-2022 on contracts with HFI PYROTECHNICS. The average
+  in 2021-2022 on contracts with HFI Pyrotechnics. The average
   contract duration was 1.2 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 4.84 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'HFI PYROTECHNICS'
 most_recent_fiscal_year_total: '10.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'

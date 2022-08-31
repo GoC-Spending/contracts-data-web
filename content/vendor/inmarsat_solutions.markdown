@@ -1,5 +1,5 @@
 ---
-title: INMARSAT SOLUTIONS
+title: Inmarsat Solutions
 author: ''
 date: '2022-08-30'
 slug: inmarsat_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $30.5M
-  in 2021-2022 on contracts with INMARSAT SOLUTIONS. The average
+  in 2021-2022 on contracts with Inmarsat Solutions. The average
   contract duration was 4.26 years, and the average contract value
   (not including contracts under $10k) was $33.3M. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $138.0M.
+lookup_name: 'INMARSAT SOLUTIONS'
 most_recent_fiscal_year_total: '30.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

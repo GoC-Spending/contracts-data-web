@@ -1,5 +1,5 @@
 ---
-title: THYSSENKRUPP ELEVATOR
+title: Thyssenkrupp Elevator
 author: ''
 date: '2022-08-30'
 slug: thyssenkrupp_elevator
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $800.6K
-  in 2021-2022 on contracts with THYSSENKRUPP ELEVATOR. The average
+  in 2021-2022 on contracts with Thyssenkrupp Elevator. The average
   contract duration was 1.95 years, and the average contract value
   (not including contracts under $10k) was $162.8K. The longest
   contract was 12.99 years. The largest contract by value (including
   amendments) was $7.7M.
+lookup_name: 'THYSSENKRUPP ELEVATOR'
 most_recent_fiscal_year_total: '800.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '118'

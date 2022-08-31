@@ -1,5 +1,5 @@
 ---
-title: MAISON JOINS TOI
+title: Maison Joins Toi
 author: ''
 date: '2022-08-30'
 slug: maison_joins_toi
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with MAISON JOINS TOI. The average
+  in 2021-2022 on contracts with Maison Joins Toi. The average
   contract duration was 4.67 years, and the average contract value
   (not including contracts under $10k) was $3.5M. The longest
   contract was 7 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'MAISON JOINS TOI'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

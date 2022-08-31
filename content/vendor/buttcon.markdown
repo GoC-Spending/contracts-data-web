@@ -1,5 +1,5 @@
 ---
-title: BUTTCON
+title: Buttcon
 author: ''
 date: '2022-08-30'
 slug: buttcon
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.0M
-  in 2021-2022 on contracts with BUTTCON. The average
+  in 2021-2022 on contracts with Buttcon. The average
   contract duration was 2.38 years, and the average contract value
   (not including contracts under $10k) was $6.5M. The longest
   contract was 5.72 years. The largest contract by value (including
   amendments) was $14.3M.
+lookup_name: 'BUTTCON'
 most_recent_fiscal_year_total: '4.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

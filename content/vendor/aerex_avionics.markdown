@@ -1,5 +1,5 @@
 ---
-title: AEREX AVIONICS
+title: AEREX Avionics
 author: ''
 date: '2022-08-30'
 slug: aerex_avionics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.4M
-  in 2021-2022 on contracts with AEREX AVIONICS. The average
+  in 2021-2022 on contracts with AEREX Avionics. The average
   contract duration was 3.76 years, and the average contract value
   (not including contracts under $10k) was $2.4M. The longest
   contract was 5.03 years. The largest contract by value (including
   amendments) was $11.5M.
+lookup_name: 'AEREX AVIONICS'
 most_recent_fiscal_year_total: '6.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '26'

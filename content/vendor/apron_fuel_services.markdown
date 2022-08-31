@@ -1,5 +1,5 @@
 ---
-title: APRON FUEL SERVICES
+title: Apron Fuel Services
 author: ''
 date: '2022-08-30'
 slug: apron_fuel_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.3M
-  in 2021-2022 on contracts with APRON FUEL SERVICES. The average
+  in 2021-2022 on contracts with Apron Fuel Services. The average
   contract duration was 0.07 years, and the average contract value
   (not including contracts under $10k) was $54.8K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $1.7M.
+lookup_name: 'APRON FUEL SERVICES'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '419'

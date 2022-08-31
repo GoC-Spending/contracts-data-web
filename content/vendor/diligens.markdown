@@ -1,5 +1,5 @@
 ---
-title: DILIGENS
+title: Diligens
 author: ''
 date: '2022-08-30'
 slug: diligens
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $883.2K
-  in 2021-2022 on contracts with DILIGENS. The average
+  in 2021-2022 on contracts with Diligens. The average
   contract duration was 1.39 years, and the average contract value
   (not including contracts under $10k) was $253.1K. The longest
   contract was 4.2 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'DILIGENS'
 most_recent_fiscal_year_total: '883.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '32'

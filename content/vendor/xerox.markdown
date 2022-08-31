@@ -1,5 +1,5 @@
 ---
-title: XEROX
+title: Xerox
 author: ''
 date: '2022-08-30'
 slug: xerox
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.6M
-  in 2021-2022 on contracts with XEROX. The average
+  in 2021-2022 on contracts with Xerox. The average
   contract duration was 4.03 years, and the average contract value
   (not including contracts under $10k) was $81.5K. The longest
   contract was 11.51 years. The largest contract by value (including
   amendments) was $28.4M.
+lookup_name: 'XEROX'
 most_recent_fiscal_year_total: '13.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,687'

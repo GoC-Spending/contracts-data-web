@@ -1,5 +1,5 @@
 ---
-title: HORSESHOE HILL CONSTRUCTION
+title: Horseshoe Hill Construction
 author: ''
 date: '2022-08-30'
 slug: horseshoe_hill_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
-  in 2019-2020 on contracts with HORSESHOE HILL CONSTRUCTION. The average
+  in 2019-2020 on contracts with Horseshoe Hill Construction. The average
   contract duration was 3.1 years, and the average contract value
   (not including contracts under $10k) was $7.3M. The longest
   contract was 3.1 years. The largest contract by value (including
   amendments) was $7.3M.
+lookup_name: 'HORSESHOE HILL CONSTRUCTION'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

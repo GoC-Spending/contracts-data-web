@@ -1,5 +1,5 @@
 ---
-title: ASBEX
+title: Asbex
 author: ''
 date: '2022-08-30'
 slug: asbex
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.4M
-  in 2021-2022 on contracts with ASBEX. The average
+  in 2021-2022 on contracts with Asbex. The average
   contract duration was 0.68 years, and the average contract value
   (not including contracts under $10k) was $241.5K. The longest
   contract was 3.48 years. The largest contract by value (including
   amendments) was $6.7M.
+lookup_name: 'ASBEX'
 most_recent_fiscal_year_total: '4.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '83'

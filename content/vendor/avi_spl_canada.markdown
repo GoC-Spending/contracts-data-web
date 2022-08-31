@@ -1,5 +1,5 @@
 ---
-title: AVI SPL CANADA
+title: AVI SPL Canada
 author: ''
 date: '2022-08-30'
 slug: avi_spl_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.2M
-  in 2021-2022 on contracts with AVI SPL CANADA. The average
+  in 2021-2022 on contracts with AVI SPL Canada. The average
   contract duration was 0.32 years, and the average contract value
   (not including contracts under $10k) was $56.3K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $1.6M.
+lookup_name: 'AVI SPL CANADA'
 most_recent_fiscal_year_total: '8.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '664'

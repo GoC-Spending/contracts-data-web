@@ -1,5 +1,5 @@
 ---
-title: GRIFFIN ENGINEERED SYSTEMS
+title: Griffin Engineered Systems
 author: ''
 date: '2022-08-30'
 slug: griffin_engineered_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
-  in 2021-2022 on contracts with GRIFFIN ENGINEERED SYSTEMS. The average
+  in 2021-2022 on contracts with Griffin Engineered Systems. The average
   contract duration was 0.89 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 1.52 years. The largest contract by value (including
   amendments) was $6.3M.
+lookup_name: 'GRIFFIN ENGINEERED SYSTEMS'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

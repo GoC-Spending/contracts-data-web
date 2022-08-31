@@ -1,5 +1,5 @@
 ---
-title: TELECOMMUNICATION SUPPORT SERVICES
+title: Telecommunication Support Services
 author: ''
 date: '2022-08-30'
 slug: telecommunication_support_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $645.4K
-  in 2021-2022 on contracts with TELECOMMUNICATION SUPPORT SERVICES. The average
+  in 2021-2022 on contracts with Telecommunication Support Services. The average
   contract duration was 1.57 years, and the average contract value
   (not including contracts under $10k) was $1.6M. The longest
   contract was 3.01 years. The largest contract by value (including
   amendments) was $2.4M.
+lookup_name: 'TELECOMMUNICATION SUPPORT SERVICES'
 most_recent_fiscal_year_total: '645.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

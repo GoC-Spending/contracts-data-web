@@ -1,5 +1,5 @@
 ---
-title: SELEX
+title: Selex
 author: ''
 date: '2022-08-30'
 slug: selex
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $12.3M
-  in 2021-2022 on contracts with SELEX. The average
+  in 2021-2022 on contracts with Selex. The average
   contract duration was 3.49 years, and the average contract value
   (not including contracts under $10k) was $41.6M. The longest
   contract was 6.78 years. The largest contract by value (including
   amendments) was $83.2M.
+lookup_name: 'SELEX'
 most_recent_fiscal_year_total: '12.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

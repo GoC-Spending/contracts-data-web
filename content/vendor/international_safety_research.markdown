@@ -1,5 +1,5 @@
 ---
-title: INTERNATIONAL SAFETY RESEARCH
+title: International Safety Research
 author: ''
 date: '2022-08-30'
 slug: international_safety_research
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $814.4K
-  in 2021-2022 on contracts with INTERNATIONAL SAFETY RESEARCH. The average
+  in 2021-2022 on contracts with International Safety Research. The average
   contract duration was 2.14 years, and the average contract value
   (not including contracts under $10k) was $757.6K. The longest
   contract was 5.54 years. The largest contract by value (including
   amendments) was $3.4M.
+lookup_name: 'INTERNATIONAL SAFETY RESEARCH'
 most_recent_fiscal_year_total: '814.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '24'

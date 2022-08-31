@@ -1,5 +1,5 @@
 ---
-title: ISOPLEX
+title: Isoplex
 author: ''
 date: '2022-08-30'
 slug: isoplex
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $113.6M
-  in 2020-2021 on contracts with ISOPLEX. The average
+  in 2020-2021 on contracts with Isoplex. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $113.6M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $113.6M.
+lookup_name: 'ISOPLEX'
 most_recent_fiscal_year_total: '113.6M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

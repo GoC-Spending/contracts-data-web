@@ -1,5 +1,5 @@
 ---
-title: 727619 ALBERTA O A ROUGHRIDER
+title: 727619 Alberta O A Roughrider
 author: ''
 date: '2022-08-30'
 slug: 727619_alberta_o_a_roughrider
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2020-2021 on contracts with 727619 ALBERTA O A ROUGHRIDER. The average
+  in 2020-2021 on contracts with 727619 Alberta O A Roughrider. The average
   contract duration was 3.08 years, and the average contract value
   (not including contracts under $10k) was $6.2M. The longest
   contract was 3.08 years. The largest contract by value (including
   amendments) was $6.2M.
+lookup_name: '727619 ALBERTA O A ROUGHRIDER'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

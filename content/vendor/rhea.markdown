@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $3.0M
   (not including contracts under $10k) was $70.7K. The longest
   contract was 2.92 years. The largest contract by value (including
   amendments) was $858.5K.
+lookup_name: 'RHEA'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '95'

@@ -1,5 +1,5 @@
 ---
-title: CANADIAN BUREAU FOR INTERNATIONAL EDUCATION
+title: Canadian Bureau for International Education
 author: ''
 date: '2022-08-30'
 slug: canadian_bureau_for_international_education
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.4M
-  in 2021-2022 on contracts with CANADIAN BUREAU FOR INTERNATIONAL EDUCATION. The average
+  in 2021-2022 on contracts with Canadian Bureau for International Education. The average
   contract duration was 1.96 years, and the average contract value
   (not including contracts under $10k) was $9.1M. The longest
   contract was 6.95 years. The largest contract by value (including
   amendments) was $49.9M.
+lookup_name: 'CANADIAN BUREAU FOR INTERNATIONAL EDUCATION'
 most_recent_fiscal_year_total: '6.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

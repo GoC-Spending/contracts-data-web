@@ -1,5 +1,5 @@
 ---
-title: HORIZANT
+title: Horizant
 author: ''
 date: '2022-08-30'
 slug: horizant
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with HORIZANT. The average
+  in 2021-2022 on contracts with Horizant. The average
   contract duration was 1.11 years, and the average contract value
   (not including contracts under $10k) was $170.5K. The longest
   contract was 8.76 years. The largest contract by value (including
   amendments) was $5.9M.
+lookup_name: 'HORIZANT'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '66'

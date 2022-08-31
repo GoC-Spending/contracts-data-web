@@ -1,5 +1,5 @@
 ---
-title: TELUS CANADA
+title: Telus Canada
 author: ''
 date: '2022-08-30'
 slug: telus_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $83.7M
-  in 2021-2022 on contracts with TELUS CANADA. The average
+  in 2021-2022 on contracts with Telus Canada. The average
   contract duration was 1.42 years, and the average contract value
   (not including contracts under $10k) was $1.5M. The longest
   contract was 14.79 years. The largest contract by value (including
   amendments) was $307.8M.
+lookup_name: 'TELUS CANADA'
 most_recent_fiscal_year_total: '83.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '730'

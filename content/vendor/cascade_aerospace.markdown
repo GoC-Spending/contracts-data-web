@@ -1,5 +1,5 @@
 ---
-title: CASCADE AEROSPACE
+title: Cascade Aerospace
 author: ''
 date: '2022-08-30'
 slug: cascade_aerospace
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $87.4M
-  in 2021-2022 on contracts with CASCADE AEROSPACE. The average
+  in 2021-2022 on contracts with Cascade Aerospace. The average
   contract duration was 10.31 years, and the average contract value
   (not including contracts under $10k) was $312.1M. The longest
   contract was 19.02 years. The largest contract by value (including
   amendments) was $1.0B.
+lookup_name: 'CASCADE AEROSPACE'
 most_recent_fiscal_year_total: '87.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

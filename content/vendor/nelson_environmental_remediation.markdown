@@ -1,5 +1,5 @@
 ---
-title: NELSON ENVIRONMENTAL REMEDIATION
+title: Nelson Environmental Remediation
 author: ''
 date: '2022-08-30'
 slug: nelson_environmental_remediation
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $169.6K
-  in 2021-2022 on contracts with NELSON ENVIRONMENTAL REMEDIATION. The average
+  in 2021-2022 on contracts with Nelson Environmental Remediation. The average
   contract duration was 0.41 years, and the average contract value
   (not including contracts under $10k) was $910.6K. The longest
   contract was 0.68 years. The largest contract by value (including
   amendments) was $2.4M.
+lookup_name: 'NELSON ENVIRONMENTAL REMEDIATION'
 most_recent_fiscal_year_total: '169.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

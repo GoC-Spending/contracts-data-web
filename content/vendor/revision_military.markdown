@@ -1,5 +1,5 @@
 ---
-title: REVISION MILITARY
+title: Revision Military
 author: ''
 date: '2022-08-30'
 slug: revision_military
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $756.7K
-  in 2019-2020 on contracts with REVISION MILITARY. The average
+  in 2019-2020 on contracts with Revision Military. The average
   contract duration was 1.22 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $21.9M.
+lookup_name: 'REVISION MILITARY'
 most_recent_fiscal_year_total: '756.7K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '11'

@@ -1,5 +1,5 @@
 ---
-title: ASOKAN BUSINESS INTERIORS
+title: Asokan Business Interiors
 author: ''
 date: '2022-08-30'
 slug: asokan_business_interiors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.8M
-  in 2021-2022 on contracts with ASOKAN BUSINESS INTERIORS. The average
+  in 2021-2022 on contracts with Asokan Business Interiors. The average
   contract duration was 0.41 years, and the average contract value
   (not including contracts under $10k) was $56.9K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $2.7M.
+lookup_name: 'ASOKAN BUSINESS INTERIORS'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '324'

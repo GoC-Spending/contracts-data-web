@@ -1,5 +1,5 @@
 ---
-title: WOODWARD S OIL
+title: Woodward’s Oil
 author: ''
 date: '2022-08-30'
 slug: woodward_s_oil
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $308.5K
-  in 2021-2022 on contracts with WOODWARD S OIL. The average
+  in 2021-2022 on contracts with Woodward’s Oil. The average
   contract duration was 0.14 years, and the average contract value
   (not including contracts under $10k) was $194.1K. The longest
   contract was 1.01 years. The largest contract by value (including
   amendments) was $2.4M.
+lookup_name: 'WOODWARD S OIL'
 most_recent_fiscal_year_total: '308.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '119'

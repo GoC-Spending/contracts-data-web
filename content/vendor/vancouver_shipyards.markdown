@@ -1,5 +1,5 @@
 ---
-title: VANCOUVER SHIPYARDS
+title: Vancouver Shipyards
 author: ''
 date: '2022-08-30'
 slug: vancouver_shipyards
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $472.4M
-  in 2021-2022 on contracts with VANCOUVER SHIPYARDS. The average
+  in 2021-2022 on contracts with Vancouver Shipyards. The average
   contract duration was 2.96 years, and the average contract value
   (not including contracts under $10k) was $241.7M. The longest
   contract was 9.01 years. The largest contract by value (including
   amendments) was $2.4B.
+lookup_name: 'VANCOUVER SHIPYARDS'
 most_recent_fiscal_year_total: '472.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '23'

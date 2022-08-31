@@ -1,5 +1,5 @@
 ---
-title: BROOKFIELD GLOBAL INTEGRATED SOLUTIONS
+title: Brookfield Global Integrated Solutions
 author: ''
 date: '2022-08-30'
 slug: brookfield_global_integrated_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1B
-  in 2021-2022 on contracts with BROOKFIELD GLOBAL INTEGRATED SOLUTIONS. The average
+  in 2021-2022 on contracts with Brookfield Global Integrated Solutions. The average
   contract duration was 0.6 years, and the average contract value
   (not including contracts under $10k) was $43.2M. The longest
   contract was 13.41 years. The largest contract by value (including
   amendments) was $5.7B.
+lookup_name: 'BROOKFIELD GLOBAL INTEGRATED SOLUTIONS'
 most_recent_fiscal_year_total: '1.1B'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '374'

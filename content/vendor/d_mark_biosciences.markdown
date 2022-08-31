@@ -1,5 +1,5 @@
 ---
-title: D MARK BIOSCIENCES
+title: D Mark Biosciences
 author: ''
 date: '2022-08-30'
 slug: d_mark_biosciences
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $386.2K
-  in 2021-2022 on contracts with D MARK BIOSCIENCES. The average
+  in 2021-2022 on contracts with D Mark Biosciences. The average
   contract duration was 0.37 years, and the average contract value
   (not including contracts under $10k) was $148.5K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $3.4M.
+lookup_name: 'D MARK BIOSCIENCES'
 most_recent_fiscal_year_total: '386.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '36'

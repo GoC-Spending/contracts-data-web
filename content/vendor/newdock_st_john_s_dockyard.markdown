@@ -1,5 +1,5 @@
 ---
-title: NEWDOCK ST JOHN S DOCKYARD
+title: Newdock St John’s Dockyard
 author: ''
 date: '2022-08-30'
 slug: newdock_st_john_s_dockyard
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.7M
-  in 2021-2022 on contracts with NEWDOCK ST JOHN S DOCKYARD. The average
+  in 2021-2022 on contracts with Newdock St John’s Dockyard. The average
   contract duration was 0.19 years, and the average contract value
   (not including contracts under $10k) was $2.6M. The longest
   contract was 1.55 years. The largest contract by value (including
   amendments) was $22.8M.
+lookup_name: 'NEWDOCK ST JOHN S DOCKYARD'
 most_recent_fiscal_year_total: '11.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '37'

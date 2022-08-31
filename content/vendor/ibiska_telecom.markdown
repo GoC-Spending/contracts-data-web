@@ -1,5 +1,5 @@
 ---
-title: IBISKA TELECOM
+title: Ibiska Telecom
 author: ''
 date: '2022-08-30'
 slug: ibiska_telecom
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $67.3M
-  in 2021-2022 on contracts with IBISKA TELECOM. The average
+  in 2021-2022 on contracts with Ibiska Telecom. The average
   contract duration was 1.67 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 7.99 years. The largest contract by value (including
   amendments) was $32.2M.
+lookup_name: 'IBISKA TELECOM'
 most_recent_fiscal_year_total: '67.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '312'

@@ -1,5 +1,5 @@
 ---
-title: LES EQUIPEMENTS CLAUDE PEDNEAULT
+title: Les Equipements Claude Pedneault
 author: ''
 date: '2022-08-30'
 slug: les_equipements_claude_pedneault
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
-  in 2021-2022 on contracts with LES EQUIPEMENTS CLAUDE PEDNEAULT. The average
+  in 2021-2022 on contracts with Les Equipements Claude Pedneault. The average
   contract duration was 1.15 years, and the average contract value
   (not including contracts under $10k) was $470.8K. The longest
   contract was 3.32 years. The largest contract by value (including
   amendments) was $2.5M.
+lookup_name: 'LES EQUIPEMENTS CLAUDE PEDNEAULT'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '11'

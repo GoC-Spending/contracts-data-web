@@ -1,5 +1,5 @@
 ---
-title: POINT HOPE MARITIME
+title: Point Hope Maritime
 author: ''
 date: '2022-08-30'
 slug: point_hope_maritime
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.6M
-  in 2021-2022 on contracts with POINT HOPE MARITIME. The average
+  in 2021-2022 on contracts with Point Hope Maritime. The average
   contract duration was 0.53 years, and the average contract value
   (not including contracts under $10k) was $2.3M. The longest
   contract was 2.55 years. The largest contract by value (including
   amendments) was $12.7M.
+lookup_name: 'POINT HOPE MARITIME'
 most_recent_fiscal_year_total: '6.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

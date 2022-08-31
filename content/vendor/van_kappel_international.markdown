@@ -1,5 +1,5 @@
 ---
-title: VAN KAPPEL INTERNATIONAL
+title: Van Kappel International
 author: ''
 date: '2022-08-30'
 slug: van_kappel_international
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
-  in 2021-2022 on contracts with VAN KAPPEL INTERNATIONAL. The average
+  in 2021-2022 on contracts with Van Kappel International. The average
   contract duration was 0.65 years, and the average contract value
   (not including contracts under $10k) was $958.5K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $8.2M.
+lookup_name: 'VAN KAPPEL INTERNATIONAL'
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

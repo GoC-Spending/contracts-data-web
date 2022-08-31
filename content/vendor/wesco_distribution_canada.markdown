@@ -1,5 +1,5 @@
 ---
-title: WESCO DISTRIBUTION CANADA
+title: WESCO Distribution Canada
 author: ''
 date: '2022-08-30'
 slug: wesco_distribution_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $724.9K
-  in 2021-2022 on contracts with WESCO DISTRIBUTION CANADA. The average
+  in 2021-2022 on contracts with WESCO Distribution Canada. The average
   contract duration was 0.31 years, and the average contract value
   (not including contracts under $10k) was $29.5K. The longest
   contract was 10.27 years. The largest contract by value (including
   amendments) was $338.9K.
+lookup_name: 'WESCO DISTRIBUTION CANADA'
 most_recent_fiscal_year_total: '724.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '190'

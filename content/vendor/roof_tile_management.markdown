@@ -1,5 +1,5 @@
 ---
-title: ROOF TILE MANAGEMENT
+title: Roof Tile Management
 author: ''
 date: '2022-08-30'
 slug: roof_tile_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $533.6K
-  in 2021-2022 on contracts with ROOF TILE MANAGEMENT. The average
+  in 2021-2022 on contracts with Roof Tile Management. The average
   contract duration was 1.44 years, and the average contract value
   (not including contracts under $10k) was $5.8M. The longest
   contract was 1.44 years. The largest contract by value (including
   amendments) was $5.8M.
+lookup_name: 'ROOF TILE MANAGEMENT'
 most_recent_fiscal_year_total: '533.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

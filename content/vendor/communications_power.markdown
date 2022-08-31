@@ -1,5 +1,5 @@
 ---
-title: COMMUNICATIONS POWER
+title: Communications Power
 author: ''
 date: '2022-08-30'
 slug: communications_power
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $256.0K
-  in 2021-2022 on contracts with COMMUNICATIONS POWER. The average
+  in 2021-2022 on contracts with Communications Power. The average
   contract duration was 3.98 years, and the average contract value
   (not including contracts under $10k) was $4.4M. The longest
   contract was 4.47 years. The largest contract by value (including
   amendments) was $4.6M.
+lookup_name: 'COMMUNICATIONS POWER'
 most_recent_fiscal_year_total: '256.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

@@ -1,5 +1,5 @@
 ---
-title: FEAST INTERACTIVE
+title: FEAST Interactive
 author: ''
 date: '2022-08-30'
 slug: feast_interactive
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
-  in 2021-2022 on contracts with FEAST INTERACTIVE. The average
+  in 2021-2022 on contracts with FEAST Interactive. The average
   contract duration was 1.13 years, and the average contract value
   (not including contracts under $10k) was $650.1K. The longest
   contract was 2.23 years. The largest contract by value (including
   amendments) was $2.2M.
+lookup_name: 'FEAST INTERACTIVE'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

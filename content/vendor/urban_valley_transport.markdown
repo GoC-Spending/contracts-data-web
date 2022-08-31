@@ -1,5 +1,5 @@
 ---
-title: URBAN VALLEY TRANSPORT
+title: Urban Valley Transport
 author: ''
 date: '2022-08-30'
 slug: urban_valley_transport
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.1M
-  in 2021-2022 on contracts with URBAN VALLEY TRANSPORT. The average
+  in 2021-2022 on contracts with Urban Valley Transport. The average
   contract duration was 1.51 years, and the average contract value
   (not including contracts under $10k) was $16.6M. The longest
   contract was 1.51 years. The largest contract by value (including
   amendments) was $16.6M.
+lookup_name: 'URBAN VALLEY TRANSPORT'
 most_recent_fiscal_year_total: '9.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

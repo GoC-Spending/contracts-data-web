@@ -1,5 +1,5 @@
 ---
-title: UNIVERSAL HELICOPTERS
+title: Universal Helicopters
 author: ''
 date: '2022-08-30'
 slug: universal_helicopters
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2020-2021 on contracts with UNIVERSAL HELICOPTERS. The average
+  in 2020-2021 on contracts with Universal Helicopters. The average
   contract duration was 0.38 years, and the average contract value
   (not including contracts under $10k) was $222.6K. The longest
   contract was 4.76 years. The largest contract by value (including
   amendments) was $6.0M.
+lookup_name: 'UNIVERSAL HELICOPTERS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '46'

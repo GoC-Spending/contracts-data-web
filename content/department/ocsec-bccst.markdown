@@ -15,6 +15,7 @@ description: 'Office of the Intelligence Commissioner spent an estimated $155.9K
   contracts under $10k) was $74.9K. The longest contract was
   1 years. The largest contract by value (including amendments)
   was $145.4K.'
+lookup_name: 'ocsec-bccst'
 most_recent_fiscal_year_total: '155.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'
@@ -56,7 +57,7 @@ s422_max_contract_value: '145.4K'
 ## Vendors
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/calian/\">CALIAN<\/a>"],[24814.8]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/calian/\">Calian<\/a>"],[24814.8]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2020-2021<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/ocsec-bccst/summary_by_fiscal_year_by_vendor.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

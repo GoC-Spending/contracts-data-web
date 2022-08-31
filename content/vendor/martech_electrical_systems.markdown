@@ -1,5 +1,5 @@
 ---
-title: MARTECH ELECTRICAL SYSTEMS
+title: Martech Electrical Systems
 author: ''
 date: '2022-08-30'
 slug: martech_electrical_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2020-2021 on contracts with MARTECH ELECTRICAL SYSTEMS. The average
+  in 2020-2021 on contracts with Martech Electrical Systems. The average
   contract duration was 2.49 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 4.43 years. The largest contract by value (including
   amendments) was $3.3M.
+lookup_name: 'MARTECH ELECTRICAL SYSTEMS'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '4'

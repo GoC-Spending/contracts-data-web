@@ -1,5 +1,5 @@
 ---
-title: LLOYD S REGISTER CANADA
+title: Lloyd’s Register Canada
 author: ''
 date: '2022-08-30'
 slug: lloyd_s_register_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.5M
-  in 2021-2022 on contracts with LLOYD S REGISTER CANADA. The average
+  in 2021-2022 on contracts with Lloyd’s Register Canada. The average
   contract duration was 0.53 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $54.0M.
+lookup_name: 'LLOYD S REGISTER CANADA'
 most_recent_fiscal_year_total: '5.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '31'

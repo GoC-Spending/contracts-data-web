@@ -1,5 +1,5 @@
 ---
-title: L D WATSON E S MACEWEN ALLAN
+title: L D Watson E S Macewen Allan
 author: ''
 date: '2022-08-30'
 slug: l_d_watson_e_s_macewen_allan
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with L D WATSON E S MACEWEN ALLAN. The average
+  in 2021-2022 on contracts with L D Watson E S Macewen Allan. The average
   contract duration was 2.38 years, and the average contract value
   (not including contracts under $10k) was $712.8K. The longest
   contract was 6.76 years. The largest contract by value (including
   amendments) was $3.7M.
+lookup_name: 'L D WATSON E S MACEWEN ALLAN'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '11'

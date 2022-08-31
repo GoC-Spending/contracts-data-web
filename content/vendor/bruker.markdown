@@ -1,5 +1,5 @@
 ---
-title: BRUKER
+title: Bruker
 author: ''
 date: '2022-08-30'
 slug: bruker
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
-  in 2021-2022 on contracts with BRUKER. The average
+  in 2021-2022 on contracts with Bruker. The average
   contract duration was 0.72 years, and the average contract value
   (not including contracts under $10k) was $92.8K. The longest
   contract was 5.2 years. The largest contract by value (including
   amendments) was $795.6K.
+lookup_name: 'BRUKER'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '93'

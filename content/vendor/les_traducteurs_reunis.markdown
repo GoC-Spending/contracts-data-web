@@ -1,5 +1,5 @@
 ---
-title: LES TRADUCTEURS REUNIS
+title: Les Traducteurs Reunis
 author: ''
 date: '2022-08-30'
 slug: les_traducteurs_reunis
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with LES TRADUCTEURS REUNIS. The average
+  in 2021-2022 on contracts with Les Traducteurs Reunis. The average
   contract duration was 0.47 years, and the average contract value
   (not including contracts under $10k) was $172.5K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'LES TRADUCTEURS REUNIS'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '57'

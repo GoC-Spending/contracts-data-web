@@ -1,5 +1,5 @@
 ---
-title: CANADIAN PAEDIATRIC SOCIETY
+title: Canadian Paediatric Society
 author: ''
 date: '2022-08-30'
 slug: canadian_paediatric_society
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
-  in 2021-2022 on contracts with CANADIAN PAEDIATRIC SOCIETY. The average
+  in 2021-2022 on contracts with Canadian Paediatric Society. The average
   contract duration was 5.41 years, and the average contract value
   (not including contracts under $10k) was $6.2M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $19.0M.
+lookup_name: 'CANADIAN PAEDIATRIC SOCIETY'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

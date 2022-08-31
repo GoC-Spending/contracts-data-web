@@ -1,5 +1,5 @@
 ---
-title: GLOBAL LIFE SCIENCES SOLUTIONS
+title: Global Life Sciences Solutions
 author: ''
 date: '2022-08-30'
 slug: global_life_sciences_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $14.1M
-  in 2021-2022 on contracts with GLOBAL LIFE SCIENCES SOLUTIONS. The average
+  in 2021-2022 on contracts with Global Life Sciences Solutions. The average
   contract duration was 0.35 years, and the average contract value
   (not including contracts under $10k) was $300.7K. The longest
   contract was 1.57 years. The largest contract by value (including
   amendments) was $2.8M.
+lookup_name: 'GLOBAL LIFE SCIENCES SOLUTIONS'
 most_recent_fiscal_year_total: '14.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '63'

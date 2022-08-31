@@ -1,5 +1,5 @@
 ---
-title: ICEBERG NETWORKS
+title: Iceberg Networks
 author: ''
 date: '2022-08-30'
 slug: iceberg_networks
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
-  in 2021-2022 on contracts with ICEBERG NETWORKS. The average
+  in 2021-2022 on contracts with Iceberg Networks. The average
   contract duration was 1.14 years, and the average contract value
   (not including contracts under $10k) was $262.7K. The longest
   contract was 2.1 years. The largest contract by value (including
   amendments) was $1.0M.
+lookup_name: 'ICEBERG NETWORKS'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '28'

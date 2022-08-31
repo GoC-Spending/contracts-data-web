@@ -1,5 +1,5 @@
 ---
-title: NORTHWEST MARINE TECHNOLOGY
+title: Northwest Marine Technology
 author: ''
 date: '2022-08-30'
 slug: northwest_marine_technology
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with NORTHWEST MARINE TECHNOLOGY. The average
+  in 2021-2022 on contracts with Northwest Marine Technology. The average
   contract duration was 0.27 years, and the average contract value
   (not including contracts under $10k) was $664.5K. The longest
   contract was 0.94 years. The largest contract by value (including
   amendments) was $1.9M.
+lookup_name: 'NORTHWEST MARINE TECHNOLOGY'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

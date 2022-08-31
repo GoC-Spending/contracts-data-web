@@ -1,5 +1,5 @@
 ---
-title: GEMTEC
+title: Gemtec
 author: ''
 date: '2022-08-30'
 slug: gemtec
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.5M
-  in 2021-2022 on contracts with GEMTEC. The average
+  in 2021-2022 on contracts with Gemtec. The average
   contract duration was 0.82 years, and the average contract value
   (not including contracts under $10k) was $100.5K. The longest
   contract was 5.38 years. The largest contract by value (including
   amendments) was $2.4M.
+lookup_name: 'GEMTEC'
 most_recent_fiscal_year_total: '3.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '242'

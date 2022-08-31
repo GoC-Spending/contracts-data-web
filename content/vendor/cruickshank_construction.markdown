@@ -1,5 +1,5 @@
 ---
-title: CRUICKSHANK CONSTRUCTION
+title: Cruickshank Construction
 author: ''
 date: '2022-08-30'
 slug: cruickshank_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
-  in 2019-2020 on contracts with CRUICKSHANK CONSTRUCTION. The average
+  in 2019-2020 on contracts with Cruickshank Construction. The average
   contract duration was 1.56 years, and the average contract value
   (not including contracts under $10k) was $4.1M. The longest
   contract was 2.61 years. The largest contract by value (including
   amendments) was $8.1M.
+lookup_name: 'CRUICKSHANK CONSTRUCTION'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '4'

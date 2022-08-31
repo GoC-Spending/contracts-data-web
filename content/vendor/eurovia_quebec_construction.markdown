@@ -1,5 +1,5 @@
 ---
-title: EUROVIA QUEBEC CONSTRUCTION
+title: Eurovia Quebec Construction
 author: ''
 date: '2022-08-30'
 slug: eurovia_quebec_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $123.9K
-  in 2021-2022 on contracts with EUROVIA QUEBEC CONSTRUCTION. The average
+  in 2021-2022 on contracts with Eurovia Quebec Construction. The average
   contract duration was 0.76 years, and the average contract value
   (not including contracts under $10k) was $2.3M. The longest
   contract was 1.75 years. The largest contract by value (including
   amendments) was $9.9M.
+lookup_name: 'EUROVIA QUEBEC CONSTRUCTION'
 most_recent_fiscal_year_total: '123.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

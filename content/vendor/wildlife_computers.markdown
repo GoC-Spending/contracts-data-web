@@ -1,5 +1,5 @@
 ---
-title: WILDLIFE COMPUTERS
+title: Wildlife Computers
 author: ''
 date: '2022-08-30'
 slug: wildlife_computers
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $714.8K
-  in 2021-2022 on contracts with WILDLIFE COMPUTERS. The average
+  in 2021-2022 on contracts with Wildlife Computers. The average
   contract duration was 0.19 years, and the average contract value
   (not including contracts under $10k) was $61.6K. The longest
   contract was 0.64 years. The largest contract by value (including
   amendments) was $386.0K.
+lookup_name: 'WILDLIFE COMPUTERS'
 most_recent_fiscal_year_total: '714.8K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '87'

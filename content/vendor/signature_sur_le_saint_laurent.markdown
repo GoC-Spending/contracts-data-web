@@ -1,5 +1,5 @@
 ---
-title: SIGNATURE SUR LE SAINT LAURENT
+title: Signature sur le Saint Laurent
 author: ''
 date: '2022-08-30'
 slug: signature_sur_le_saint_laurent
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $144.5M
-  in 2021-2022 on contracts with SIGNATURE SUR LE SAINT LAURENT. The average
+  in 2021-2022 on contracts with Signature sur le Saint Laurent. The average
   contract duration was 34.82 years, and the average contract value
   (not including contracts under $10k) was $5.0B. The longest
   contract was 34.82 years. The largest contract by value (including
   amendments) was $5.0B.
+lookup_name: 'SIGNATURE SUR LE SAINT LAURENT'
 most_recent_fiscal_year_total: '144.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

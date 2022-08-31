@@ -1,5 +1,5 @@
 ---
-title: WESTBURY NATIONAL SHOW SYSTEMS
+title: Westbury National Show Systems
 author: ''
 date: '2022-08-30'
 slug: westbury_national_show_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $30.3K
-  in 2021-2022 on contracts with WESTBURY NATIONAL SHOW SYSTEMS. The average
+  in 2021-2022 on contracts with Westbury National Show Systems. The average
   contract duration was 0.26 years, and the average contract value
   (not including contracts under $10k) was $72.7K. The longest
   contract was 2.24 years. The largest contract by value (including
   amendments) was $1.3M.
+lookup_name: 'WESTBURY NATIONAL SHOW SYSTEMS'
 most_recent_fiscal_year_total: '30.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '99'

@@ -1,5 +1,5 @@
 ---
-title: BRS INNOVATIONS
+title: BRS Innovations
 author: ''
 date: '2022-08-30'
 slug: brs_innovations
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with BRS INNOVATIONS. The average
+  in 2021-2022 on contracts with BRS Innovations. The average
   contract duration was 1.25 years, and the average contract value
   (not including contracts under $10k) was $413.4K. The longest
   contract was 3.37 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'BRS INNOVATIONS'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

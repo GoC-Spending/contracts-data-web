@@ -1,5 +1,5 @@
 ---
-title: ARTEX SPORTSWEAR
+title: Artex Sportswear
 author: ''
 date: '2022-08-30'
 slug: artex_sportswear
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
-  in 2021-2022 on contracts with ARTEX SPORTSWEAR. The average
+  in 2021-2022 on contracts with Artex Sportswear. The average
   contract duration was 2.48 years, and the average contract value
   (not including contracts under $10k) was $984.3K. The longest
   contract was 5.16 years. The largest contract by value (including
   amendments) was $4.7M.
+lookup_name: 'ARTEX SPORTSWEAR'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '26'

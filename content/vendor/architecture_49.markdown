@@ -1,5 +1,5 @@
 ---
-title: ARCHITECTURE 49
+title: Architecture 49
 author: ''
 date: '2022-08-30'
 slug: architecture_49
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.2M
-  in 2021-2022 on contracts with ARCHITECTURE 49. The average
+  in 2021-2022 on contracts with Architecture 49. The average
   contract duration was 1.28 years, and the average contract value
   (not including contracts under $10k) was $339.6K. The longest
   contract was 9.53 years. The largest contract by value (including
   amendments) was $13.2M.
+lookup_name: 'ARCHITECTURE 49'
 most_recent_fiscal_year_total: '11.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '237'

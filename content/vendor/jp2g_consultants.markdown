@@ -1,5 +1,5 @@
 ---
-title: JP2G CONSULTANTS
+title: JP2G Consultants
 author: ''
 date: '2022-08-30'
 slug: jp2g_consultants
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
-  in 2021-2022 on contracts with JP2G CONSULTANTS. The average
+  in 2021-2022 on contracts with JP2G Consultants. The average
   contract duration was 1.19 years, and the average contract value
   (not including contracts under $10k) was $104.2K. The longest
   contract was 4.69 years. The largest contract by value (including
   amendments) was $526.8K.
+lookup_name: 'JP2G CONSULTANTS'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '91'

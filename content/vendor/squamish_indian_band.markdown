@@ -1,5 +1,5 @@
 ---
-title: SQUAMISH INDIAN BAND
+title: Squamish Indian Band
 author: ''
 date: '2022-08-30'
 slug: squamish_indian_band
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.2M
-  in 2019-2020 on contracts with SQUAMISH INDIAN BAND. The average
+  in 2019-2020 on contracts with Squamish Indian Band. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $18.3M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $28.6M.
+lookup_name: 'SQUAMISH INDIAN BAND'
 most_recent_fiscal_year_total: '13.2M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '3'

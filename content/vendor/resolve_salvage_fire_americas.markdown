@@ -1,5 +1,5 @@
 ---
-title: RESOLVE SALVAGE FIRE AMERICAS
+title: Resolve Salvage Fire Americas
 author: ''
 date: '2022-08-30'
 slug: resolve_salvage_fire_americas
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.5M
-  in 2021-2022 on contracts with RESOLVE SALVAGE FIRE AMERICAS. The average
+  in 2021-2022 on contracts with Resolve Salvage Fire Americas. The average
   contract duration was 0.25 years, and the average contract value
   (not including contracts under $10k) was $6.5M. The longest
   contract was 0.25 years. The largest contract by value (including
   amendments) was $6.5M.
+lookup_name: 'RESOLVE SALVAGE FIRE AMERICAS'
 most_recent_fiscal_year_total: '6.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

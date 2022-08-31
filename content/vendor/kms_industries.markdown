@@ -1,5 +1,5 @@
 ---
-title: KMS INDUSTRIES
+title: KMS Industries
 author: ''
 date: '2022-08-30'
 slug: kms_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $170.2K
-  in 2021-2022 on contracts with KMS INDUSTRIES. The average
+  in 2021-2022 on contracts with KMS Industries. The average
   contract duration was 0.27 years, and the average contract value
   (not including contracts under $10k) was $827.0K. The longest
   contract was 1.08 years. The largest contract by value (including
   amendments) was $3.8M.
+lookup_name: 'KMS INDUSTRIES'
 most_recent_fiscal_year_total: '170.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'

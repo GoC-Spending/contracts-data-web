@@ -1,5 +1,5 @@
 ---
-title: FRECON CONSTRUCTION
+title: Frecon Construction
 author: ''
 date: '2022-08-30'
 slug: frecon_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with FRECON CONSTRUCTION. The average
+  in 2021-2022 on contracts with Frecon Construction. The average
   contract duration was 0.55 years, and the average contract value
   (not including contracts under $10k) was $305.5K. The longest
   contract was 1.19 years. The largest contract by value (including
   amendments) was $855.4K.
+lookup_name: 'FRECON CONSTRUCTION'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

@@ -1,5 +1,5 @@
 ---
-title: VFA CANADA
+title: VFA Canada
 author: ''
 date: '2022-08-30'
 slug: vfa_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with VFA CANADA. The average
+  in 2021-2022 on contracts with VFA Canada. The average
   contract duration was 1.36 years, and the average contract value
   (not including contracts under $10k) was $559.3K. The longest
   contract was 8.01 years. The largest contract by value (including
   amendments) was $3.7M.
+lookup_name: 'VFA CANADA'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

@@ -1,5 +1,5 @@
 ---
-title: TRADUCTIONS PIERRE CLOUTIER
+title: Traductions Pierre Cloutier
 author: ''
 date: '2022-08-30'
 slug: traductions_pierre_cloutier
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
-  in 2020-2021 on contracts with TRADUCTIONS PIERRE CLOUTIER. The average
+  in 2020-2021 on contracts with Traductions Pierre Cloutier. The average
   contract duration was 0.44 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 0.66 years. The largest contract by value (including
   amendments) was $5.1M.
+lookup_name: 'TRADUCTIONS PIERRE CLOUTIER'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '4'

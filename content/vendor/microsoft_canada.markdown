@@ -1,5 +1,5 @@
 ---
-title: MICROSOFT CANADA
+title: Microsoft Canada
 author: ''
 date: '2022-08-30'
 slug: microsoft_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $298.6M
-  in 2021-2022 on contracts with MICROSOFT CANADA. The average
+  in 2021-2022 on contracts with Microsoft Canada. The average
   contract duration was 1.54 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 20.01 years. The largest contract by value (including
   amendments) was $1.1B.
+lookup_name: 'MICROSOFT CANADA'
 most_recent_fiscal_year_total: '298.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,103'

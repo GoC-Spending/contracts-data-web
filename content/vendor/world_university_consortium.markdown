@@ -1,5 +1,5 @@
 ---
-title: WORLD UNIVERSITY CONSORTIUM
+title: World University Consortium
 author: ''
 date: '2022-08-30'
 slug: world_university_consortium
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
-  in 2021-2022 on contracts with WORLD UNIVERSITY CONSORTIUM. The average
+  in 2021-2022 on contracts with World University Consortium. The average
   contract duration was 5.19 years, and the average contract value
   (not including contracts under $10k) was $14.8M. The longest
   contract was 5.19 years. The largest contract by value (including
   amendments) was $14.8M.
+lookup_name: 'WORLD UNIVERSITY CONSORTIUM'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

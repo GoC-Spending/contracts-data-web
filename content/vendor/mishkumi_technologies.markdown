@@ -1,5 +1,5 @@
 ---
-title: MISHKUMI TECHNOLOGIES
+title: Mishkumi Technologies
 author: ''
 date: '2022-08-30'
 slug: mishkumi_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.7K
-  in 2021-2022 on contracts with MISHKUMI TECHNOLOGIES. The average
+  in 2021-2022 on contracts with Mishkumi Technologies. The average
   contract duration was 0.38 years, and the average contract value
   (not including contracts under $10k) was $118.8K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $4.2M.
+lookup_name: 'MISHKUMI TECHNOLOGIES'
 most_recent_fiscal_year_total: '2.7K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '207'

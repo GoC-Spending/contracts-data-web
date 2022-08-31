@@ -1,5 +1,5 @@
 ---
-title: J J TRAILERS MANUFACTURERS AND SALES
+title: J J Trailers Manufacturers and Sales
 author: ''
 date: '2022-08-30'
 slug: j_j_trailers_manufacturers_and_sales
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
-  in 2021-2022 on contracts with J J TRAILERS MANUFACTURERS AND SALES. The average
+  in 2021-2022 on contracts with J J Trailers Manufacturers and Sales. The average
   contract duration was 0.67 years, and the average contract value
   (not including contracts under $10k) was $523.3K. The longest
   contract was 1.48 years. The largest contract by value (including
   amendments) was $1.8M.
+lookup_name: 'J J TRAILERS MANUFACTURERS AND SALES'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

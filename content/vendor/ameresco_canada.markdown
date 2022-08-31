@@ -1,5 +1,5 @@
 ---
-title: AMERESCO CANADA
+title: Ameresco Canada
 author: ''
 date: '2022-08-30'
 slug: ameresco_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $21.8M
-  in 2021-2022 on contracts with AMERESCO CANADA. The average
+  in 2021-2022 on contracts with Ameresco Canada. The average
   contract duration was 8.41 years, and the average contract value
   (not including contracts under $10k) was $16.6M. The longest
   contract was 18.66 years. The largest contract by value (including
   amendments) was $67.2M.
+lookup_name: 'AMERESCO CANADA'
 most_recent_fiscal_year_total: '21.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

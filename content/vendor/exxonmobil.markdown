@@ -1,5 +1,5 @@
 ---
-title: EXXONMOBIL
+title: ExxonMobil
 author: ''
 date: '2022-08-30'
 slug: exxonmobil
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.9M
-  in 2021-2022 on contracts with EXXONMOBIL. The average
+  in 2021-2022 on contracts with ExxonMobil. The average
   contract duration was 0.05 years, and the average contract value
   (not including contracts under $10k) was $36.1K. The longest
   contract was 4.02 years. The largest contract by value (including
   amendments) was $160.5K.
+lookup_name: 'EXXONMOBIL'
 most_recent_fiscal_year_total: '8.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,028'

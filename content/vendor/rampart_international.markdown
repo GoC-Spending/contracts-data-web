@@ -1,5 +1,5 @@
 ---
-title: RAMPART INTERNATIONAL
+title: Rampart International
 author: ''
 date: '2022-08-30'
 slug: rampart_international
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.1M
-  in 2021-2022 on contracts with RAMPART INTERNATIONAL. The average
+  in 2021-2022 on contracts with Rampart International. The average
   contract duration was 0.39 years, and the average contract value
   (not including contracts under $10k) was $84.0K. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'RAMPART INTERNATIONAL'
 most_recent_fiscal_year_total: '4.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '245'

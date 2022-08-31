@@ -1,5 +1,5 @@
 ---
-title: UNIVERSITY OF WATERLOO
+title: University of Waterloo
 author: ''
 date: '2022-08-30'
 slug: university_of_waterloo
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.0M
-  in 2021-2022 on contracts with UNIVERSITY OF WATERLOO. The average
+  in 2021-2022 on contracts with University of Waterloo. The average
   contract duration was 0.86 years, and the average contract value
   (not including contracts under $10k) was $243.0K. The longest
   contract was 7.76 years. The largest contract by value (including
   amendments) was $6.3M.
+lookup_name: 'UNIVERSITY OF WATERLOO'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '128'

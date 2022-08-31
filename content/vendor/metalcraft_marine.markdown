@@ -1,5 +1,5 @@
 ---
-title: METALCRAFT MARINE
+title: Metalcraft Marine
 author: ''
 date: '2022-08-30'
 slug: metalcraft_marine
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.5M
-  in 2021-2022 on contracts with METALCRAFT MARINE. The average
+  in 2021-2022 on contracts with Metalcraft Marine. The average
   contract duration was 2.47 years, and the average contract value
   (not including contracts under $10k) was $5.9M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $21.9M.
+lookup_name: 'METALCRAFT MARINE'
 most_recent_fiscal_year_total: '4.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

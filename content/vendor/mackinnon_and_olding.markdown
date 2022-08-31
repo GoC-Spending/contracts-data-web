@@ -1,5 +1,5 @@
 ---
-title: MACKINNON AND OLDING
+title: MacKinnon and Olding
 author: ''
 date: '2022-08-30'
 slug: mackinnon_and_olding
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
-  in 2021-2022 on contracts with MACKINNON AND OLDING. The average
+  in 2021-2022 on contracts with MacKinnon and Olding. The average
   contract duration was 0.17 years, and the average contract value
   (not including contracts under $10k) was $96.7K. The longest
   contract was 1.48 years. The largest contract by value (including
   amendments) was $2.7M.
+lookup_name: 'MACKINNON AND OLDING'
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '300'

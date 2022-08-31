@@ -1,5 +1,5 @@
 ---
-title: TEKNION
+title: Teknion
 author: ''
 date: '2022-08-30'
 slug: teknion
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $20.7M
-  in 2021-2022 on contracts with TEKNION. The average
+  in 2021-2022 on contracts with Teknion. The average
   contract duration was 0.37 years, and the average contract value
   (not including contracts under $10k) was $87.8K. The longest
   contract was 7.79 years. The largest contract by value (including
   amendments) was $3.0M.
+lookup_name: 'TEKNION'
 most_recent_fiscal_year_total: '20.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,553'

@@ -1,5 +1,5 @@
 ---
-title: LANSDOWNE TECHNOLOGIES
+title: Lansdowne Technologies
 author: ''
 date: '2022-08-30'
 slug: lansdowne_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with LANSDOWNE TECHNOLOGIES. The average
+  in 2021-2022 on contracts with Lansdowne Technologies. The average
   contract duration was 0.94 years, and the average contract value
   (not including contracts under $10k) was $97.2K. The longest
   contract was 6.96 years. The largest contract by value (including
   amendments) was $1.1M.
+lookup_name: 'LANSDOWNE TECHNOLOGIES'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '97'

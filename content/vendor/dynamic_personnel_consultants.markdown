@@ -1,5 +1,5 @@
 ---
-title: DYNAMIC PERSONNEL CONSULTANTS
+title: Dynamic Personnel Consultants
 author: ''
 date: '2022-08-30'
 slug: dynamic_personnel_consultants
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with DYNAMIC PERSONNEL CONSULTANTS. The average
+  in 2021-2022 on contracts with Dynamic Personnel Consultants. The average
   contract duration was 0.84 years, and the average contract value
   (not including contracts under $10k) was $72.9K. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $905.9K.
+lookup_name: 'DYNAMIC PERSONNEL CONSULTANTS'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '192'

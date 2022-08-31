@@ -1,5 +1,5 @@
 ---
-title: ALCAIDE WEBSTER ARCHITECTS
+title: Alcaide Webster Architects
 author: ''
 date: '2022-08-30'
 slug: alcaide_webster_architects
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.5M
-  in 2021-2022 on contracts with ALCAIDE WEBSTER ARCHITECTS. The average
+  in 2021-2022 on contracts with Alcaide Webster Architects. The average
   contract duration was 1.2 years, and the average contract value
   (not including contracts under $10k) was $379.3K. The longest
   contract was 3.52 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'ALCAIDE WEBSTER ARCHITECTS'
 most_recent_fiscal_year_total: '2.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '26'

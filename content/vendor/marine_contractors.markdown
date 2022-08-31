@@ -1,5 +1,5 @@
 ---
-title: MARINE CONTRACTORS
+title: Marine Contractors
 author: ''
 date: '2022-08-30'
 slug: marine_contractors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $51.1K
-  in 2020-2021 on contracts with MARINE CONTRACTORS. The average
+  in 2020-2021 on contracts with Marine Contractors. The average
   contract duration was 0.4 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 0.95 years. The largest contract by value (including
   amendments) was $8.3M.
+lookup_name: 'MARINE CONTRACTORS'
 most_recent_fiscal_year_total: '51.1K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '11'

@@ -1,5 +1,5 @@
 ---
-title: DLS TECHNOLOGY
+title: DLS Technology
 author: ''
 date: '2022-08-30'
 slug: dls_technology
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.3M
-  in 2021-2022 on contracts with DLS TECHNOLOGY. The average
+  in 2021-2022 on contracts with DLS Technology. The average
   contract duration was 1.24 years, and the average contract value
   (not including contracts under $10k) was $176.1K. The longest
   contract was 5.17 years. The largest contract by value (including
   amendments) was $1.3M.
+lookup_name: 'DLS TECHNOLOGY'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '82'

@@ -1,5 +1,5 @@
 ---
-title: ADVANCED PARAMEDIC
+title: Advanced Paramedic
 author: ''
 date: '2022-08-30'
 slug: advanced_paramedic
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.0M
-  in 2021-2022 on contracts with ADVANCED PARAMEDIC. The average
+  in 2021-2022 on contracts with Advanced Paramedic. The average
   contract duration was 1.53 years, and the average contract value
   (not including contracts under $10k) was $3.8M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $10.7M.
+lookup_name: 'ADVANCED PARAMEDIC'
 most_recent_fiscal_year_total: '4.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

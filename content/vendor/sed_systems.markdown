@@ -1,5 +1,5 @@
 ---
-title: SED SYSTEMS
+title: Sed Systems
 author: ''
 date: '2022-08-30'
 slug: sed_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
-  in 2020-2021 on contracts with SED SYSTEMS. The average
+  in 2020-2021 on contracts with Sed Systems. The average
   contract duration was 2.67 years, and the average contract value
   (not including contracts under $10k) was $8.7M. The longest
   contract was 5.09 years. The largest contract by value (including
   amendments) was $17.4M.
+lookup_name: 'SED SYSTEMS'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '2'

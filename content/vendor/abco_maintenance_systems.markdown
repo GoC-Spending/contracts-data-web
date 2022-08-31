@@ -1,5 +1,5 @@
 ---
-title: ABCO MAINTENANCE SYSTEMS
+title: Abco Maintenance Systems
 author: ''
 date: '2022-08-30'
 slug: abco_maintenance_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2020-2021 on contracts with ABCO MAINTENANCE SYSTEMS. The average
+  in 2020-2021 on contracts with Abco Maintenance Systems. The average
   contract duration was 0.56 years, and the average contract value
   (not including contracts under $10k) was $200.3K. The longest
   contract was 3.47 years. The largest contract by value (including
   amendments) was $4.8M.
+lookup_name: 'ABCO MAINTENANCE SYSTEMS'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '58'

@@ -1,5 +1,5 @@
 ---
-title: J 1 CONTRACTING
+title: J 1 Contracting
 author: ''
 date: '2022-08-30'
 slug: j_1_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.0M
-  in 2019-2020 on contracts with J 1 CONTRACTING. The average
+  in 2019-2020 on contracts with J 1 Contracting. The average
   contract duration was 1.71 years, and the average contract value
   (not including contracts under $10k) was $18.9M. The longest
   contract was 2.97 years. The largest contract by value (including
   amendments) was $30.8M.
+lookup_name: 'J 1 CONTRACTING'
 most_recent_fiscal_year_total: '7.0M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

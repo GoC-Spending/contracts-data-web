@@ -1,5 +1,5 @@
 ---
-title: MERCEDES BENZ CANADA
+title: Mercedes Benz Canada
 author: ''
 date: '2022-08-30'
 slug: mercedes_benz_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.6M
-  in 2021-2022 on contracts with MERCEDES BENZ CANADA. The average
+  in 2021-2022 on contracts with Mercedes Benz Canada. The average
   contract duration was 1.01 years, and the average contract value
   (not including contracts under $10k) was $197.8K. The longest
   contract was 2.81 years. The largest contract by value (including
   amendments) was $3.0M.
+lookup_name: 'MERCEDES BENZ CANADA'
 most_recent_fiscal_year_total: '6.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '100'

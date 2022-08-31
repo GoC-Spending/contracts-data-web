@@ -1,5 +1,5 @@
 ---
-title: STOPS TACTICAL TRAINING
+title: Stops Tactical Training
 author: ''
 date: '2022-08-30'
 slug: stops_tactical_training
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
-  in 2020-2021 on contracts with STOPS TACTICAL TRAINING. The average
+  in 2020-2021 on contracts with Stops Tactical Training. The average
   contract duration was 3.02 years, and the average contract value
   (not including contracts under $10k) was $5.6M. The longest
   contract was 6.03 years. The largest contract by value (including
   amendments) was $11.1M.
+lookup_name: 'STOPS TACTICAL TRAINING'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '2'

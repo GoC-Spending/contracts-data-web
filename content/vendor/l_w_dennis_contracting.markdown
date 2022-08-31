@@ -1,5 +1,5 @@
 ---
-title: L W DENNIS CONTRACTING
+title: L W Dennis Contracting
 author: ''
 date: '2022-08-30'
 slug: l_w_dennis_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with L W DENNIS CONTRACTING. The average
+  in 2021-2022 on contracts with L W Dennis Contracting. The average
   contract duration was 2.18 years, and the average contract value
   (not including contracts under $10k) was $3.3M. The longest
   contract was 4.59 years. The largest contract by value (including
   amendments) was $5.4M.
+lookup_name: 'L W DENNIS CONTRACTING'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

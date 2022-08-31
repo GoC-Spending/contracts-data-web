@@ -1,5 +1,5 @@
 ---
-title: NATIONAL TEST PILOT SCHOOL
+title: National Test Pilot School
 author: ''
 date: '2022-08-30'
 slug: national_test_pilot_school
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $258.8K
-  in 2019-2020 on contracts with NATIONAL TEST PILOT SCHOOL. The average
+  in 2019-2020 on contracts with National Test Pilot School. The average
   contract duration was 1.03 years, and the average contract value
   (not including contracts under $10k) was $4.4M. The longest
   contract was 2.09 years. The largest contract by value (including
   amendments) was $15.0M.
+lookup_name: 'NATIONAL TEST PILOT SCHOOL'
 most_recent_fiscal_year_total: '258.8K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '4'

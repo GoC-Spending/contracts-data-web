@@ -1,5 +1,5 @@
 ---
-title: LOCKHEED MARTIN
+title: Lockheed Martin
 author: ''
 date: '2022-08-30'
 slug: lockheed_martin
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $44.6M
-  in 2021-2022 on contracts with LOCKHEED MARTIN. The average
+  in 2021-2022 on contracts with Lockheed Martin. The average
   contract duration was 3.22 years, and the average contract value
   (not including contracts under $10k) was $67.1M. The longest
   contract was 13.01 years. The largest contract by value (including
   amendments) was $1.8B.
+lookup_name: 'LOCKHEED MARTIN'
 most_recent_fiscal_year_total: '44.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '46'

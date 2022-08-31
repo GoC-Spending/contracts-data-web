@@ -1,5 +1,5 @@
 ---
-title: HOULE ELECTRIC
+title: Houle Electric
 author: ''
 date: '2022-08-30'
 slug: houle_electric
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
-  in 2021-2022 on contracts with HOULE ELECTRIC. The average
+  in 2021-2022 on contracts with Houle Electric. The average
   contract duration was 0.74 years, and the average contract value
   (not including contracts under $10k) was $252.6K. The longest
   contract was 5.71 years. The largest contract by value (including
   amendments) was $3.3M.
+lookup_name: 'HOULE ELECTRIC'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '70'

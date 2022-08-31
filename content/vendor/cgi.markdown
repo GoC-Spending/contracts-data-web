@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $60.8M
   (not including contracts under $10k) was $1.3M. The longest
   contract was 9.09 years. The largest contract by value (including
   amendments) was $71.3M.
+lookup_name: 'CGI'
 most_recent_fiscal_year_total: '60.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '259'

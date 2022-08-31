@@ -1,5 +1,5 @@
 ---
-title: VANCOUVER DRYDOCK COMPANY
+title: Vancouver Drydock Company
 author: ''
 date: '2022-08-30'
 slug: vancouver_drydock_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $23.5M
-  in 2021-2022 on contracts with VANCOUVER DRYDOCK COMPANY. The average
+  in 2021-2022 on contracts with Vancouver Drydock Company. The average
   contract duration was 0.48 years, and the average contract value
   (not including contracts under $10k) was $6.8M. The longest
   contract was 1.05 years. The largest contract by value (including
   amendments) was $11.0M.
+lookup_name: 'VANCOUVER DRYDOCK COMPANY'
 most_recent_fiscal_year_total: '23.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

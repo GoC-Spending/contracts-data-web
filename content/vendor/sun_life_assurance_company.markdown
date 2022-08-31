@@ -1,5 +1,5 @@
 ---
-title: SUN LIFE ASSURANCE COMPANY
+title: Sun Life Assurance Company
 author: ''
 date: '2022-08-30'
 slug: sun_life_assurance_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $44.6M
-  in 2021-2022 on contracts with SUN LIFE ASSURANCE COMPANY. The average
+  in 2021-2022 on contracts with Sun Life Assurance Company. The average
   contract duration was 5.66 years, and the average contract value
   (not including contracts under $10k) was $32.2M. The longest
   contract was 17.2 years. The largest contract by value (including
   amendments) was $459.1M.
+lookup_name: 'SUN LIFE ASSURANCE COMPANY'
 most_recent_fiscal_year_total: '44.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

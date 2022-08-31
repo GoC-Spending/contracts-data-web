@@ -1,5 +1,5 @@
 ---
-title: ARDENT GLOBAL
+title: Ardent Global
 author: ''
 date: '2022-08-30'
 slug: ardent_global
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.9M
-  in 2018-2019 on contracts with ARDENT GLOBAL. The average
+  in 2018-2019 on contracts with Ardent Global. The average
   contract duration was 0.13 years, and the average contract value
   (not including contracts under $10k) was $7.8M. The longest
   contract was 0.25 years. The largest contract by value (including
   amendments) was $15.1M.
+lookup_name: 'ARDENT GLOBAL'
 most_recent_fiscal_year_total: '15.9M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '2'

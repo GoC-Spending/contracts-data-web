@@ -1,5 +1,5 @@
 ---
-title: DOMUS BUILDING CLEANING
+title: Domus Building Cleaning
 author: ''
 date: '2022-08-30'
 slug: domus_building_cleaning
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with DOMUS BUILDING CLEANING. The average
+  in 2021-2022 on contracts with Domus Building Cleaning. The average
   contract duration was 0.94 years, and the average contract value
   (not including contracts under $10k) was $782.1K. The longest
   contract was 10.02 years. The largest contract by value (including
   amendments) was $17.5M.
+lookup_name: 'DOMUS BUILDING CLEANING'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '27'

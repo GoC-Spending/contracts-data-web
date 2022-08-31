@@ -1,5 +1,5 @@
 ---
-title: 2536 4589 QUEBEC
+title: 2536 4589 Quebec
 author: ''
 date: '2022-08-30'
 slug: 2536_4589_quebec
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2020-2021 on contracts with 2536 4589 QUEBEC. The average
+  in 2020-2021 on contracts with 2536 4589 Quebec. The average
   contract duration was 5.02 years, and the average contract value
   (not including contracts under $10k) was $10.4M. The longest
   contract was 5.02 years. The largest contract by value (including
   amendments) was $10.4M.
+lookup_name: '2536 4589 QUEBEC'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

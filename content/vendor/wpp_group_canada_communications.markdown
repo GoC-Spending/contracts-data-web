@@ -1,5 +1,5 @@
 ---
-title: WPP GROUP CANADA COMMUNICATIONS
+title: WPP Group Canada Communications
 author: ''
 date: '2022-08-30'
 slug: wpp_group_canada_communications
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.5M
-  in 2021-2022 on contracts with WPP GROUP CANADA COMMUNICATIONS. The average
+  in 2021-2022 on contracts with WPP Group Canada Communications. The average
   contract duration was 0.56 years, and the average contract value
   (not including contracts under $10k) was $328.6K. The longest
   contract was 1.85 years. The largest contract by value (including
   amendments) was $8.1M.
+lookup_name: 'WPP GROUP CANADA COMMUNICATIONS'
 most_recent_fiscal_year_total: '15.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '64'

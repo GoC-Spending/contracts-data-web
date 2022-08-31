@@ -1,5 +1,5 @@
 ---
-title: ABCO INDUSTRIES
+title: ABCO Industries
 author: ''
 date: '2022-08-30'
 slug: abco_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.2M
-  in 2021-2022 on contracts with ABCO INDUSTRIES. The average
+  in 2021-2022 on contracts with ABCO Industries. The average
   contract duration was 0.98 years, and the average contract value
   (not including contracts under $10k) was $3.7M. The longest
   contract was 3.49 years. The largest contract by value (including
   amendments) was $9.9M.
+lookup_name: 'ABCO INDUSTRIES'
 most_recent_fiscal_year_total: '6.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

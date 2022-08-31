@@ -1,5 +1,5 @@
 ---
-title: MASKIMO CONSTRUCTION
+title: Maskimo Construction
 author: ''
 date: '2022-08-30'
 slug: maskimo_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2020-2021 on contracts with MASKIMO CONSTRUCTION. The average
+  in 2020-2021 on contracts with Maskimo Construction. The average
   contract duration was 1.78 years, and the average contract value
   (not including contracts under $10k) was $3.5M. The longest
   contract was 7.47 years. The largest contract by value (including
   amendments) was $8.4M.
+lookup_name: 'MASKIMO CONSTRUCTION'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '7'

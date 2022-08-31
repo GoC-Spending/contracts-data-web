@@ -1,5 +1,5 @@
 ---
-title: SYM COMMUNICATIONS
+title: SYM Communications
 author: ''
 date: '2022-08-30'
 slug: sym_communications
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with SYM COMMUNICATIONS. The average
+  in 2021-2022 on contracts with SYM Communications. The average
   contract duration was 1.21 years, and the average contract value
   (not including contracts under $10k) was $205.8K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $1.0M.
+lookup_name: 'SYM COMMUNICATIONS'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '41'

@@ -1,5 +1,5 @@
 ---
-title: CONSTRUCTION JESSIKO
+title: Construction Jessiko
 author: ''
 date: '2022-08-30'
 slug: construction_jessiko
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with CONSTRUCTION JESSIKO. The average
+  in 2021-2022 on contracts with Construction Jessiko. The average
   contract duration was 0.38 years, and the average contract value
   (not including contracts under $10k) was $434.0K. The longest
   contract was 1.24 years. The largest contract by value (including
   amendments) was $1.2M.
+lookup_name: 'CONSTRUCTION JESSIKO'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'

@@ -1,5 +1,5 @@
 ---
-title: MED ENG HOLDINGS
+title: Med Eng Holdings
 author: ''
 date: '2022-08-30'
 slug: med_eng_holdings
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
-  in 2021-2022 on contracts with MED ENG HOLDINGS. The average
+  in 2021-2022 on contracts with Med Eng Holdings. The average
   contract duration was 0.8 years, and the average contract value
   (not including contracts under $10k) was $381.6K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $6.8M.
+lookup_name: 'MED ENG HOLDINGS'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '41'

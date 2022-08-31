@@ -1,5 +1,5 @@
 ---
-title: CALKO GROUP
+title: Calko Group
 author: ''
 date: '2022-08-30'
 slug: calko_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.6M
-  in 2021-2022 on contracts with CALKO GROUP. The average
+  in 2021-2022 on contracts with Calko Group. The average
   contract duration was 1.35 years, and the average contract value
   (not including contracts under $10k) was $10.5M. The longest
   contract was 1.73 years. The largest contract by value (including
   amendments) was $12.9M.
+lookup_name: 'CALKO GROUP'
 most_recent_fiscal_year_total: '3.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

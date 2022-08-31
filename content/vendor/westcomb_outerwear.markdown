@@ -1,5 +1,5 @@
 ---
-title: WESTCOMB OUTERWEAR
+title: Westcomb Outerwear
 author: ''
 date: '2022-08-30'
 slug: westcomb_outerwear
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.1M
-  in 2021-2022 on contracts with WESTCOMB OUTERWEAR. The average
+  in 2021-2022 on contracts with Westcomb Outerwear. The average
   contract duration was 1.6 years, and the average contract value
   (not including contracts under $10k) was $11.8M. The longest
   contract was 1.6 years. The largest contract by value (including
   amendments) was $11.8M.
+lookup_name: 'WESTCOMB OUTERWEAR'
 most_recent_fiscal_year_total: '5.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

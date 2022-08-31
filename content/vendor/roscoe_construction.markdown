@@ -1,5 +1,5 @@
 ---
-title: ROSCOE CONSTRUCTION
+title: Roscoe Construction
 author: ''
 date: '2022-08-30'
 slug: roscoe_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
-  in 2021-2022 on contracts with ROSCOE CONSTRUCTION. The average
+  in 2021-2022 on contracts with Roscoe Construction. The average
   contract duration was 0.83 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 2.52 years. The largest contract by value (including
   amendments) was $11.0M.
+lookup_name: 'ROSCOE CONSTRUCTION'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '26'

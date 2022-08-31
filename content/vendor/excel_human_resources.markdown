@@ -1,5 +1,5 @@
 ---
-title: EXCEL HUMAN RESOURCES
+title: Excel Human Resources
 author: ''
 date: '2022-08-30'
 slug: excel_human_resources
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $52.5M
-  in 2021-2022 on contracts with EXCEL HUMAN RESOURCES. The average
+  in 2021-2022 on contracts with Excel Human Resources. The average
   contract duration was 0.97 years, and the average contract value
   (not including contracts under $10k) was $215.6K. The longest
   contract was 7.36 years. The largest contract by value (including
   amendments) was $14.1M.
+lookup_name: 'EXCEL HUMAN RESOURCES'
 most_recent_fiscal_year_total: '52.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,623'

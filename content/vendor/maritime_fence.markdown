@@ -1,5 +1,5 @@
 ---
-title: MARITIME FENCE
+title: Maritime Fence
 author: ''
 date: '2022-08-30'
 slug: maritime_fence
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $794.0K
-  in 2021-2022 on contracts with MARITIME FENCE. The average
+  in 2021-2022 on contracts with Maritime Fence. The average
   contract duration was 0.43 years, and the average contract value
   (not including contracts under $10k) was $329.8K. The longest
   contract was 3.62 years. The largest contract by value (including
   amendments) was $7.0M.
+lookup_name: 'MARITIME FENCE'
 most_recent_fiscal_year_total: '794.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '28'

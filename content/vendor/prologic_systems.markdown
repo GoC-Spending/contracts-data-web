@@ -1,5 +1,5 @@
 ---
-title: PROLOGIC SYSTEMS
+title: Prologic Systems
 author: ''
 date: '2022-08-30'
 slug: prologic_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $764.3K
-  in 2021-2022 on contracts with PROLOGIC SYSTEMS. The average
+  in 2021-2022 on contracts with Prologic Systems. The average
   contract duration was 0.81 years, and the average contract value
   (not including contracts under $10k) was $86.9K. The longest
   contract was 2.41 years. The largest contract by value (including
   amendments) was $390.6K.
+lookup_name: 'PROLOGIC SYSTEMS'
 most_recent_fiscal_year_total: '764.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '85'

@@ -1,5 +1,5 @@
 ---
-title: AV NUNAVUT FUELS
+title: AV Nunavut Fuels
 author: ''
 date: '2022-08-30'
 slug: av_nunavut_fuels
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.6M
-  in 2021-2022 on contracts with AV NUNAVUT FUELS. The average
+  in 2021-2022 on contracts with AV Nunavut Fuels. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $8.0M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $8.0M.
+lookup_name: 'AV NUNAVUT FUELS'
 most_recent_fiscal_year_total: '6.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

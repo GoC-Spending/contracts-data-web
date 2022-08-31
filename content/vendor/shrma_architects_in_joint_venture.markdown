@@ -1,5 +1,5 @@
 ---
-title: SHRMA ARCHITECTS IN JOINT VENTURE
+title: SHRMA Architects In Joint Venture
 author: ''
 date: '2022-08-30'
 slug: shrma_architects_in_joint_venture
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.2K
-  in 2020-2021 on contracts with SHRMA ARCHITECTS IN JOINT VENTURE. The average
+  in 2020-2021 on contracts with SHRMA Architects In Joint Venture. The average
   contract duration was 2.55 years, and the average contract value
   (not including contracts under $10k) was $4.1M. The longest
   contract was 4.81 years. The largest contract by value (including
   amendments) was $6.8M.
+lookup_name: 'SHRMA ARCHITECTS IN JOINT VENTURE'
 most_recent_fiscal_year_total: '13.2K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '2'

@@ -1,5 +1,5 @@
 ---
-title: MORPHO CANADA
+title: Morpho Canada
 author: ''
 date: '2022-08-30'
 slug: morpho_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with MORPHO CANADA. The average
+  in 2021-2022 on contracts with Morpho Canada. The average
   contract duration was 0.77 years, and the average contract value
   (not including contracts under $10k) was $211.5K. The longest
   contract was 9.01 years. The largest contract by value (including
   amendments) was $5.3M.
+lookup_name: 'MORPHO CANADA'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '68'

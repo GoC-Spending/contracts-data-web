@@ -1,5 +1,5 @@
 ---
-title: A TECH ROOFING
+title: A Tech Roofing
 author: ''
 date: '2022-08-30'
 slug: a_tech_roofing
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
-  in 2021-2022 on contracts with A TECH ROOFING. The average
+  in 2021-2022 on contracts with A Tech Roofing. The average
   contract duration was 0.35 years, and the average contract value
   (not including contracts under $10k) was $791.0K. The longest
   contract was 0.58 years. The largest contract by value (including
   amendments) was $1.9M.
+lookup_name: 'A TECH ROOFING'
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

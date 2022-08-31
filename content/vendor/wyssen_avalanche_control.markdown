@@ -1,5 +1,5 @@
 ---
-title: WYSSEN AVALANCHE CONTROL
+title: Wyssen Avalanche Control
 author: ''
 date: '2022-08-30'
 slug: wyssen_avalanche_control
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $501.2K
-  in 2021-2022 on contracts with WYSSEN AVALANCHE CONTROL. The average
+  in 2021-2022 on contracts with Wyssen Avalanche Control. The average
   contract duration was 1.6 years, and the average contract value
   (not including contracts under $10k) was $872.9K. The longest
   contract was 3.89 years. The largest contract by value (including
   amendments) was $3.5M.
+lookup_name: 'WYSSEN AVALANCHE CONTROL'
 most_recent_fiscal_year_total: '501.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

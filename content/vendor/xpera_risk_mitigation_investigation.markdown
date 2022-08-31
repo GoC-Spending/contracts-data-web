@@ -1,5 +1,5 @@
 ---
-title: XPERA RISK MITIGATION INVESTIGATION
+title: Xpera Risk Mitigation Investigation
 author: ''
 date: '2022-08-30'
 slug: xpera_risk_mitigation_investigation
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.8M
-  in 2021-2022 on contracts with XPERA RISK MITIGATION INVESTIGATION. The average
+  in 2021-2022 on contracts with Xpera Risk Mitigation Investigation. The average
   contract duration was 0.08 years, and the average contract value
   (not including contracts under $10k) was $4.4M. The longest
   contract was 0.09 years. The largest contract by value (including
   amendments) was $4.5M.
+lookup_name: 'XPERA RISK MITIGATION INVESTIGATION'
 most_recent_fiscal_year_total: '8.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

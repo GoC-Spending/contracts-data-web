@@ -1,5 +1,5 @@
 ---
-title: ENTREPRISE CLAVEAU
+title: Entreprise Claveau
 author: ''
 date: '2022-08-30'
 slug: entreprise_claveau
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.8M
-  in 2017-2018 on contracts with ENTREPRISE CLAVEAU. The average
+  in 2017-2018 on contracts with Entreprise Claveau. The average
   contract duration was 0.51 years, and the average contract value
   (not including contracts under $10k) was $3.9M. The longest
   contract was 0.92 years. The largest contract by value (including
   amendments) was $7.8M.
+lookup_name: 'ENTREPRISE CLAVEAU'
 most_recent_fiscal_year_total: '7.8M'
 most_recent_fiscal_year_year: '2017-2018'
 s431_number_of_contracts: '2'

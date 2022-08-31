@@ -1,5 +1,5 @@
 ---
-title: FISHER PAYKEL HEALTHCARE
+title: Fisher Paykel Healthcare
 author: ''
 date: '2022-08-30'
 slug: fisher_paykel_healthcare
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.8M
-  in 2021-2022 on contracts with FISHER PAYKEL HEALTHCARE. The average
+  in 2021-2022 on contracts with Fisher Paykel Healthcare. The average
   contract duration was 0.81 years, and the average contract value
   (not including contracts under $10k) was $3.1M. The longest
   contract was 1.01 years. The largest contract by value (including
   amendments) was $4.6M.
+lookup_name: 'FISHER PAYKEL HEALTHCARE'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

@@ -1,5 +1,5 @@
 ---
-title: VIRTUAL POSSIBILITIES DIVISION
+title: Virtual Possibilities Division
 author: ''
 date: '2022-08-30'
 slug: virtual_possibilities_division
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $173.0M
-  in 2020-2021 on contracts with VIRTUAL POSSIBILITIES DIVISION. The average
+  in 2020-2021 on contracts with Virtual Possibilities Division. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $173.0M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $173.0M.
+lookup_name: 'VIRTUAL POSSIBILITIES DIVISION'
 most_recent_fiscal_year_total: '173.0M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

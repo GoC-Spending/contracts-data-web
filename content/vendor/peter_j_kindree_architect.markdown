@@ -1,5 +1,5 @@
 ---
-title: PETER J KINDREE ARCHITECT
+title: Peter J Kindree Architect
 author: ''
 date: '2022-08-30'
 slug: peter_j_kindree_architect
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
-  in 2021-2022 on contracts with PETER J KINDREE ARCHITECT. The average
+  in 2021-2022 on contracts with Peter J Kindree Architect. The average
   contract duration was 2.13 years, and the average contract value
   (not including contracts under $10k) was $397.2K. The longest
   contract was 4.15 years. The largest contract by value (including
   amendments) was $983.8K.
+lookup_name: 'PETER J KINDREE ARCHITECT'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '15'

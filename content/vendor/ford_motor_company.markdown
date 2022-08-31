@@ -1,5 +1,5 @@
 ---
-title: FORD MOTOR COMPANY
+title: Ford Motor Company
 author: ''
 date: '2022-08-30'
 slug: ford_motor_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $90.1M
-  in 2021-2022 on contracts with FORD MOTOR COMPANY. The average
+  in 2021-2022 on contracts with Ford Motor Company. The average
   contract duration was 0.5 years, and the average contract value
   (not including contracts under $10k) was $195.2K. The longest
   contract was 10.38 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'FORD MOTOR COMPANY'
 most_recent_fiscal_year_total: '90.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,901'

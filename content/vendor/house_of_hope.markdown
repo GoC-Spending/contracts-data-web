@@ -1,5 +1,5 @@
 ---
-title: HOUSE OF HOPE
+title: House of Hope
 author: ''
 date: '2022-08-30'
 slug: house_of_hope
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
-  in 2021-2022 on contracts with HOUSE OF HOPE. The average
+  in 2021-2022 on contracts with House of Hope. The average
   contract duration was 3.58 years, and the average contract value
   (not including contracts under $10k) was $2.3M. The longest
   contract was 5.56 years. The largest contract by value (including
   amendments) was $4.8M.
+lookup_name: 'HOUSE OF HOPE'
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

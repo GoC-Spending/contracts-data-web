@@ -1,5 +1,5 @@
 ---
-title: SUTHERLAND EXCAVATING
+title: Sutherland Excavating
 author: ''
 date: '2022-08-30'
 slug: sutherland_excavating
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
-  in 2021-2022 on contracts with SUTHERLAND EXCAVATING. The average
+  in 2021-2022 on contracts with Sutherland Excavating. The average
   contract duration was 0.34 years, and the average contract value
   (not including contracts under $10k) was $57.8K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $800.0K.
+lookup_name: 'SUTHERLAND EXCAVATING'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '336'

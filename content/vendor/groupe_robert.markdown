@@ -1,5 +1,5 @@
 ---
-title: GROUPE ROBERT
+title: Groupe Robert
 author: ''
 date: '2022-08-30'
 slug: groupe_robert
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.1M
-  in 2021-2022 on contracts with GROUPE ROBERT. The average
+  in 2021-2022 on contracts with Groupe Robert. The average
   contract duration was 1.44 years, and the average contract value
   (not including contracts under $10k) was $15.2M. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $30.3M.
+lookup_name: 'GROUPE ROBERT'
 most_recent_fiscal_year_total: '15.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

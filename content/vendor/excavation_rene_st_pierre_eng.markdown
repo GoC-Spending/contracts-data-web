@@ -1,5 +1,5 @@
 ---
-title: EXCAVATION RENE ST PIERRE ENG
+title: Excavation Rene St Pierre Eng
 author: ''
 date: '2022-08-30'
 slug: excavation_rene_st_pierre_eng
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.0M
-  in 2019-2020 on contracts with EXCAVATION RENE ST PIERRE ENG. The average
+  in 2019-2020 on contracts with Excavation Rene St Pierre Eng. The average
   contract duration was 1.55 years, and the average contract value
   (not including contracts under $10k) was $10.1M. The longest
   contract was 2.45 years. The largest contract by value (including
   amendments) was $12.3M.
+lookup_name: 'EXCAVATION RENE ST PIERRE ENG'
 most_recent_fiscal_year_total: '5.0M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

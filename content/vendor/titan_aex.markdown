@@ -1,5 +1,5 @@
 ---
-title: TITAN AEX
+title: Titan AEX
 author: ''
 date: '2022-08-30'
 slug: titan_aex
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.6M
-  in 2021-2022 on contracts with TITAN AEX. The average
+  in 2021-2022 on contracts with Titan AEX. The average
   contract duration was 6.01 years, and the average contract value
   (not including contracts under $10k) was $19.9M. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $28.0M.
+lookup_name: 'TITAN AEX'
 most_recent_fiscal_year_total: '6.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

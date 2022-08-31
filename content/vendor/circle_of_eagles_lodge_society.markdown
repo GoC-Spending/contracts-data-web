@@ -1,5 +1,5 @@
 ---
-title: CIRCLE OF EAGLES LODGE SOCIETY
+title: Circle of Eagles Lodge Society
 author: ''
 date: '2022-08-30'
 slug: circle_of_eagles_lodge_society
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with CIRCLE OF EAGLES LODGE SOCIETY. The average
+  in 2021-2022 on contracts with Circle of Eagles Lodge Society. The average
   contract duration was 2.33 years, and the average contract value
   (not including contracts under $10k) was $4.0M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $5.2M.
+lookup_name: 'CIRCLE OF EAGLES LODGE SOCIETY'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

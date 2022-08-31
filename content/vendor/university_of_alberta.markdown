@@ -1,5 +1,5 @@
 ---
-title: UNIVERSITY OF ALBERTA
+title: University of Alberta
 author: ''
 date: '2022-08-30'
 slug: university_of_alberta
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with UNIVERSITY OF ALBERTA. The average
+  in 2021-2022 on contracts with University of Alberta. The average
   contract duration was 0.82 years, and the average contract value
   (not including contracts under $10k) was $70.1K. The longest
   contract was 4.65 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'UNIVERSITY OF ALBERTA'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '176'

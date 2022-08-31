@@ -1,5 +1,5 @@
 ---
-title: P K WELDING FABRICATORS
+title: P K Welding Fabricators
 author: ''
 date: '2022-08-30'
 slug: p_k_welding_fabricators
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
-  in 2021-2022 on contracts with P K WELDING FABRICATORS. The average
+  in 2021-2022 on contracts with P K Welding Fabricators. The average
   contract duration was 2.35 years, and the average contract value
   (not including contracts under $10k) was $4.9M. The longest
   contract was 2.6 years. The largest contract by value (including
   amendments) was $8.8M.
+lookup_name: 'P K WELDING FABRICATORS'
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

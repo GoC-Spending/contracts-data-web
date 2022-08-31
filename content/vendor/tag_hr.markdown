@@ -1,5 +1,5 @@
 ---
-title: TAG HR
+title: Tag HR
 author: ''
 date: '2022-08-30'
 slug: tag_hr
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with TAG HR. The average
+  in 2021-2022 on contracts with Tag HR. The average
   contract duration was 0.89 years, and the average contract value
   (not including contracts under $10k) was $116.3K. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'TAG HR'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '113'

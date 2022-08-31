@@ -1,5 +1,5 @@
 ---
-title: DEVLIN CONSTRUCTION
+title: Devlin Construction
 author: ''
 date: '2022-08-30'
 slug: devlin_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2018-2019 on contracts with DEVLIN CONSTRUCTION. The average
+  in 2018-2019 on contracts with Devlin Construction. The average
   contract duration was 1.5 years, and the average contract value
   (not including contracts under $10k) was $5.3M. The longest
   contract was 1.5 years. The largest contract by value (including
   amendments) was $5.3M.
+lookup_name: 'DEVLIN CONSTRUCTION'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '1'

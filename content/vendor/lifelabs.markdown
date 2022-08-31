@@ -1,5 +1,5 @@
 ---
-title: LIFELABS
+title: LifeLabs
 author: ''
 date: '2022-08-30'
 slug: lifelabs
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $167.0M
-  in 2021-2022 on contracts with LIFELABS. The average
+  in 2021-2022 on contracts with LifeLabs. The average
   contract duration was 0.98 years, and the average contract value
   (not including contracts under $10k) was $23.7M. The longest
   contract was 1.88 years. The largest contract by value (including
   amendments) was $102.6M.
+lookup_name: 'LIFELABS'
 most_recent_fiscal_year_total: '167.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '9'

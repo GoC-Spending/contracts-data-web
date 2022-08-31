@@ -1,5 +1,5 @@
 ---
-title: WAINWRIGHT MARINE SERVICES
+title: Wainwright Marine Services
 author: ''
 date: '2022-08-30'
 slug: wainwright_marine_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.1M
-  in 2021-2022 on contracts with WAINWRIGHT MARINE SERVICES. The average
+  in 2021-2022 on contracts with Wainwright Marine Services. The average
   contract duration was 0.35 years, and the average contract value
   (not including contracts under $10k) was $400.3K. The longest
   contract was 1.07 years. The largest contract by value (including
   amendments) was $3.7M.
+lookup_name: 'WAINWRIGHT MARINE SERVICES'
 most_recent_fiscal_year_total: '5.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'

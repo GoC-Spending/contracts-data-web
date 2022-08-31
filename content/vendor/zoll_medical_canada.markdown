@@ -1,5 +1,5 @@
 ---
-title: ZOLL MEDICAL CANADA
+title: ZOLL Medical Canada
 author: ''
 date: '2022-08-30'
 slug: zoll_medical_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with ZOLL MEDICAL CANADA. The average
+  in 2021-2022 on contracts with ZOLL Medical Canada. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $263.7K. The longest
   contract was 4.08 years. The largest contract by value (including
   amendments) was $2.2M.
+lookup_name: 'ZOLL MEDICAL CANADA'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '24'

@@ -1,5 +1,5 @@
 ---
-title: 11983890 CANADA CENTRE
+title: 11983890 Canada Centre
 author: ''
 date: '2022-08-30'
 slug: 11983890_canada_centre
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with 11983890 CANADA CENTRE. The average
+  in 2021-2022 on contracts with 11983890 Canada Centre. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $67.1M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $67.1M.
+lookup_name: '11983890 CANADA CENTRE'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

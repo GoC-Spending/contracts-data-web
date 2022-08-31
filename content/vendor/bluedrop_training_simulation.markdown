@@ -1,5 +1,5 @@
 ---
-title: BLUEDROP TRAINING SIMULATION
+title: Bluedrop Training Simulation
 author: ''
 date: '2022-08-30'
 slug: bluedrop_training_simulation
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $866.3K
-  in 2021-2022 on contracts with BLUEDROP TRAINING SIMULATION. The average
+  in 2021-2022 on contracts with Bluedrop Training Simulation. The average
   contract duration was 2.84 years, and the average contract value
   (not including contracts under $10k) was $2.4M. The longest
   contract was 6.13 years. The largest contract by value (including
   amendments) was $6.7M.
+lookup_name: 'BLUEDROP TRAINING SIMULATION'
 most_recent_fiscal_year_total: '866.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

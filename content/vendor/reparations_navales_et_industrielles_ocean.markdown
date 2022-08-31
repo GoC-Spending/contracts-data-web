@@ -1,5 +1,5 @@
 ---
-title: REPARATIONS NAVALES ET INDUSTRIELLES OCEAN
+title: Reparations Navales et Industrielles Ocean
 author: ''
 date: '2022-08-30'
 slug: reparations_navales_et_industrielles_ocean
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.3M
-  in 2021-2022 on contracts with REPARATIONS NAVALES ET INDUSTRIELLES OCEAN. The average
+  in 2021-2022 on contracts with Reparations Navales et Industrielles Ocean. The average
   contract duration was 0.35 years, and the average contract value
   (not including contracts under $10k) was $185.0K. The longest
   contract was 2.12 years. The largest contract by value (including
   amendments) was $4.0M.
+lookup_name: 'REPARATIONS NAVALES ET INDUSTRIELLES OCEAN'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '144'

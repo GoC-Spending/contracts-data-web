@@ -1,5 +1,5 @@
 ---
-title: THALES
+title: Thales
 author: ''
 date: '2022-08-30'
 slug: thales
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $153.3M
-  in 2021-2022 on contracts with THALES. The average
+  in 2021-2022 on contracts with Thales. The average
   contract duration was 1.15 years, and the average contract value
   (not including contracts under $10k) was $10.1M. The longest
   contract was 8.34 years. The largest contract by value (including
   amendments) was $920.0M.
+lookup_name: 'THALES'
 most_recent_fiscal_year_total: '153.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '131'

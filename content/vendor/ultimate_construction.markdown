@@ -1,5 +1,5 @@
 ---
-title: ULTIMATE CONSTRUCTION
+title: Ultimate Construction
 author: ''
 date: '2022-08-30'
 slug: ultimate_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $55.2K
-  in 2021-2022 on contracts with ULTIMATE CONSTRUCTION. The average
+  in 2021-2022 on contracts with Ultimate Construction. The average
   contract duration was 0.83 years, and the average contract value
   (not including contracts under $10k) was $616.6K. The longest
   contract was 1.79 years. The largest contract by value (including
   amendments) was $2.5M.
+lookup_name: 'ULTIMATE CONSTRUCTION'
 most_recent_fiscal_year_total: '55.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

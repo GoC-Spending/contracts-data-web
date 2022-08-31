@@ -1,5 +1,5 @@
 ---
-title: SHELTER NOVA SCOTIA
+title: Shelter Nova Scotia
 author: ''
 date: '2022-08-30'
 slug: shelter_nova_scotia
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
-  in 2021-2022 on contracts with SHELTER NOVA SCOTIA. The average
+  in 2021-2022 on contracts with Shelter Nova Scotia. The average
   contract duration was 4.67 years, and the average contract value
   (not including contracts under $10k) was $3.5M. The longest
   contract was 7 years. The largest contract by value (including
   amendments) was $4.5M.
+lookup_name: 'SHELTER NOVA SCOTIA'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

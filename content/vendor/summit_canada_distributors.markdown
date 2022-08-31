@@ -1,5 +1,5 @@
 ---
-title: SUMMIT CANADA DISTRIBUTORS
+title: Summit Canada Distributors
 author: ''
 date: '2022-08-30'
 slug: summit_canada_distributors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $101.4K
-  in 2020-2021 on contracts with SUMMIT CANADA DISTRIBUTORS. The average
+  in 2020-2021 on contracts with Summit Canada Distributors. The average
   contract duration was 0.41 years, and the average contract value
   (not including contracts under $10k) was $66.2K. The longest
   contract was 3.01 years. The largest contract by value (including
   amendments) was $865.2K.
+lookup_name: 'SUMMIT CANADA DISTRIBUTORS'
 most_recent_fiscal_year_total: '101.4K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '107'

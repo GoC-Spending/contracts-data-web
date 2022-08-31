@@ -1,5 +1,5 @@
 ---
-title: 4PLAN CONSULTING
+title: 4Plan Consulting
 author: ''
 date: '2022-08-30'
 slug: 4plan_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $308.5K
-  in 2021-2022 on contracts with 4PLAN CONSULTING. The average
+  in 2021-2022 on contracts with 4Plan Consulting. The average
   contract duration was 1.06 years, and the average contract value
   (not including contracts under $10k) was $157.0K. The longest
   contract was 4.89 years. The largest contract by value (including
   amendments) was $836.4K.
+lookup_name: '4PLAN CONSULTING'
 most_recent_fiscal_year_total: '308.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '48'

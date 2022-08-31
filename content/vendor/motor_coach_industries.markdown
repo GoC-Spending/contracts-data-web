@@ -1,5 +1,5 @@
 ---
-title: MOTOR COACH INDUSTRIES
+title: Motor Coach Industries
 author: ''
 date: '2022-08-30'
 slug: motor_coach_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.5M
-  in 2021-2022 on contracts with MOTOR COACH INDUSTRIES. The average
+  in 2021-2022 on contracts with Motor Coach Industries. The average
   contract duration was 1.07 years, and the average contract value
   (not including contracts under $10k) was $3.3M. The longest
   contract was 1.99 years. The largest contract by value (including
   amendments) was $9.8M.
+lookup_name: 'MOTOR COACH INDUSTRIES'
 most_recent_fiscal_year_total: '4.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

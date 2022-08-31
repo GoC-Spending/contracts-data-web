@@ -1,5 +1,5 @@
 ---
-title: TECHNOREM
+title: TechnoRem
 author: ''
 date: '2022-08-30'
 slug: technorem
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.5M
-  in 2021-2022 on contracts with TECHNOREM. The average
+  in 2021-2022 on contracts with TechnoRem. The average
   contract duration was 1.5 years, and the average contract value
   (not including contracts under $10k) was $344.0K. The longest
   contract was 9.44 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'TECHNOREM'
 most_recent_fiscal_year_total: '2.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '30'

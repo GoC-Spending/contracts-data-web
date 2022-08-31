@@ -1,5 +1,5 @@
 ---
-title: MCCOLMAN SONS DEMOLITION
+title: McColman Sons Demolition
 author: ''
 date: '2022-08-30'
 slug: mccolman_sons_demolition
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $452.5K
-  in 2021-2022 on contracts with MCCOLMAN SONS DEMOLITION. The average
+  in 2021-2022 on contracts with McColman Sons Demolition. The average
   contract duration was 0.86 years, and the average contract value
   (not including contracts under $10k) was $748.2K. The longest
   contract was 2.31 years. The largest contract by value (including
   amendments) was $2.4M.
+lookup_name: 'MCCOLMAN SONS DEMOLITION'
 most_recent_fiscal_year_total: '452.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

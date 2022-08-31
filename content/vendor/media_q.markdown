@@ -1,5 +1,5 @@
 ---
-title: MEDIA Q
+title: Media Q
 author: ''
 date: '2022-08-30'
 slug: media_q
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with MEDIA Q. The average
+  in 2021-2022 on contracts with Media Q. The average
   contract duration was 1.14 years, and the average contract value
   (not including contracts under $10k) was $59.1K. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $466.6K.
+lookup_name: 'MEDIA Q'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '113'

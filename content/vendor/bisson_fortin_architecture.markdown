@@ -1,5 +1,5 @@
 ---
-title: BISSON FORTIN ARCHITECTURE
+title: Bisson Fortin Architecture
 author: ''
 date: '2022-08-30'
 slug: bisson_fortin_architecture
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $987.5K
-  in 2021-2022 on contracts with BISSON FORTIN ARCHITECTURE. The average
+  in 2021-2022 on contracts with Bisson Fortin Architecture. The average
   contract duration was 2.05 years, and the average contract value
   (not including contracts under $10k) was $376.5K. The longest
   contract was 3.62 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'BISSON FORTIN ARCHITECTURE'
 most_recent_fiscal_year_total: '987.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '18'

@@ -1,5 +1,5 @@
 ---
-title: UNITED STATES DEPARTMENT OF THE NAVY
+title: United States Department of the Navy
 author: ''
 date: '2022-08-30'
 slug: united_states_department_of_the_navy
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $57.2M
-  in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF THE NAVY. The average
+  in 2021-2022 on contracts with United States Department of the Navy. The average
   contract duration was 6.97 years, and the average contract value
   (not including contracts under $10k) was $7.7M. The longest
   contract was 17.66 years. The largest contract by value (including
   amendments) was $70.4M.
+lookup_name: 'UNITED STATES DEPARTMENT OF THE NAVY'
 most_recent_fiscal_year_total: '57.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '57'

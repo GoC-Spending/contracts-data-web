@@ -1,5 +1,5 @@
 ---
-title: BIRON GROUPE SANTE
+title: Biron Groupe Sante
 author: ''
 date: '2022-08-30'
 slug: biron_groupe_sante
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $53.5M
-  in 2021-2022 on contracts with BIRON GROUPE SANTE. The average
+  in 2021-2022 on contracts with Biron Groupe Sante. The average
   contract duration was 0.38 years, and the average contract value
   (not including contracts under $10k) was $68.3M. The longest
   contract was 0.38 years. The largest contract by value (including
   amendments) was $68.3M.
+lookup_name: 'BIRON GROUPE SANTE'
 most_recent_fiscal_year_total: '53.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

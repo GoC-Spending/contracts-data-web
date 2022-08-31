@@ -1,5 +1,5 @@
 ---
-title: ACADIAN DREDGING
+title: Acadian Dredging
 author: ''
 date: '2022-08-30'
 slug: acadian_dredging
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with ACADIAN DREDGING. The average
+  in 2021-2022 on contracts with Acadian Dredging. The average
   contract duration was 0.42 years, and the average contract value
   (not including contracts under $10k) was $111.2K. The longest
   contract was 1.42 years. The largest contract by value (including
   amendments) was $721.6K.
+lookup_name: 'ACADIAN DREDGING'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '71'

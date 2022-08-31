@@ -1,5 +1,5 @@
 ---
-title: MICHEL BASTARACHE SOCIETE PROFESSIONNELLE
+title: Michel Bastarache Societe Professionnelle
 author: ''
 date: '2022-08-30'
 slug: michel_bastarache_societe_professionnelle
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2019-2020 on contracts with MICHEL BASTARACHE SOCIETE PROFESSIONNELLE. The average
+  in 2019-2020 on contracts with Michel Bastarache Societe Professionnelle. The average
   contract duration was 1.55 years, and the average contract value
   (not including contracts under $10k) was $2.3M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $6.9M.
+lookup_name: 'MICHEL BASTARACHE SOCIETE PROFESSIONNELLE'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '3'

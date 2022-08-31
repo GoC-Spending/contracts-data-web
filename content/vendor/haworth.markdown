@@ -1,5 +1,5 @@
 ---
-title: HAWORTH
+title: Haworth
 author: ''
 date: '2022-08-30'
 slug: haworth
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $491.7K
-  in 2021-2022 on contracts with HAWORTH. The average
+  in 2021-2022 on contracts with Haworth. The average
   contract duration was 0.34 years, and the average contract value
   (not including contracts under $10k) was $57.1K. The longest
   contract was 1.6 years. The largest contract by value (including
   amendments) was $1.2M.
+lookup_name: 'HAWORTH'
 most_recent_fiscal_year_total: '491.7K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '213'

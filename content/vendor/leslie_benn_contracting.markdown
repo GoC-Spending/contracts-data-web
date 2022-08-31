@@ -1,5 +1,5 @@
 ---
-title: LESLIE BENN CONTRACTING
+title: Leslie Benn Contracting
 author: ''
 date: '2022-08-30'
 slug: leslie_benn_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with LESLIE BENN CONTRACTING. The average
+  in 2021-2022 on contracts with Leslie Benn Contracting. The average
   contract duration was 1.25 years, and the average contract value
   (not including contracts under $10k) was $2.5M. The longest
   contract was 2.72 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'LESLIE BENN CONTRACTING'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

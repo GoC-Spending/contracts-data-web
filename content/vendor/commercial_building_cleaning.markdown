@@ -1,5 +1,5 @@
 ---
-title: COMMERCIAL BUILDING CLEANING
+title: Commercial Building Cleaning
 author: ''
 date: '2022-08-30'
 slug: commercial_building_cleaning
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
-  in 2021-2022 on contracts with COMMERCIAL BUILDING CLEANING. The average
+  in 2021-2022 on contracts with Commercial Building Cleaning. The average
   contract duration was 3 years, and the average contract value
   (not including contracts under $10k) was $3.3M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'COMMERCIAL BUILDING CLEANING'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

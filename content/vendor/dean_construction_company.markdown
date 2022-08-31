@@ -1,5 +1,5 @@
 ---
-title: DEAN CONSTRUCTION COMPANY
+title: Dean Construction Company
 author: ''
 date: '2022-08-30'
 slug: dean_construction_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
-  in 2021-2022 on contracts with DEAN CONSTRUCTION COMPANY. The average
+  in 2021-2022 on contracts with Dean Construction Company. The average
   contract duration was 0.99 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 1.68 years. The largest contract by value (including
   amendments) was $3.1M.
+lookup_name: 'DEAN CONSTRUCTION COMPANY'
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

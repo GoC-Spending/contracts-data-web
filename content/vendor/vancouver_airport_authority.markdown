@@ -1,5 +1,5 @@
 ---
-title: VANCOUVER AIRPORT AUTHORITY
+title: Vancouver Airport Authority
 author: ''
 date: '2022-08-30'
 slug: vancouver_airport_authority
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.8M
-  in 2021-2022 on contracts with VANCOUVER AIRPORT AUTHORITY. The average
+  in 2021-2022 on contracts with Vancouver Airport Authority. The average
   contract duration was 0.92 years, and the average contract value
   (not including contracts under $10k) was $16.2M. The longest
   contract was 0.92 years. The largest contract by value (including
   amendments) was $16.2M.
+lookup_name: 'VANCOUVER AIRPORT AUTHORITY'
 most_recent_fiscal_year_total: '11.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

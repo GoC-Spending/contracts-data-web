@@ -1,5 +1,5 @@
 ---
-title: BOYD MOVING STORAGE
+title: Boyd Moving Storage
 author: ''
 date: '2022-08-30'
 slug: boyd_moving_storage
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with BOYD MOVING STORAGE. The average
+  in 2021-2022 on contracts with Boyd Moving Storage. The average
   contract duration was 0.2 years, and the average contract value
   (not including contracts under $10k) was $107.2K. The longest
   contract was 3.58 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'BOYD MOVING STORAGE'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '93'

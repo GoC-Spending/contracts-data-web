@@ -1,5 +1,5 @@
 ---
-title: YAMNUSKA
+title: Yamnuska
 author: ''
 date: '2022-08-30'
 slug: yamnuska
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $131.2K
-  in 2021-2022 on contracts with YAMNUSKA. The average
+  in 2021-2022 on contracts with Yamnuska. The average
   contract duration was 0.6 years, and the average contract value
   (not including contracts under $10k) was $564.2K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'YAMNUSKA'
 most_recent_fiscal_year_total: '131.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '12'

@@ -1,5 +1,5 @@
 ---
-title: COWATERSOGEMA
+title: CowaterSogema
 author: ''
 date: '2022-08-30'
 slug: cowatersogema
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $19.9M
-  in 2021-2022 on contracts with COWATERSOGEMA. The average
+  in 2021-2022 on contracts with CowaterSogema. The average
   contract duration was 6.17 years, and the average contract value
   (not including contracts under $10k) was $11.3M. The longest
   contract was 10.7 years. The largest contract by value (including
   amendments) was $21.0M.
+lookup_name: 'COWATERSOGEMA'
 most_recent_fiscal_year_total: '19.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '13'

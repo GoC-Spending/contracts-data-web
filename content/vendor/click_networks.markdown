@@ -1,5 +1,5 @@
 ---
-title: CLICK NETWORKS
+title: Click Networks
 author: ''
 date: '2022-08-30'
 slug: click_networks
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $37.3M
-  in 2021-2022 on contracts with CLICK NETWORKS. The average
+  in 2021-2022 on contracts with Click Networks. The average
   contract duration was 1.43 years, and the average contract value
   (not including contracts under $10k) was $636.1K. The longest
   contract was 5.11 years. The largest contract by value (including
   amendments) was $9.6M.
+lookup_name: 'CLICK NETWORKS'
 most_recent_fiscal_year_total: '37.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '227'

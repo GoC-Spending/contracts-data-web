@@ -1,5 +1,5 @@
 ---
-title: WEBSTER ELECTRIC
+title: Webster Electric
 author: ''
 date: '2022-08-30'
 slug: webster_electric
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with WEBSTER ELECTRIC. The average
+  in 2021-2022 on contracts with Webster Electric. The average
   contract duration was 0.39 years, and the average contract value
   (not including contracts under $10k) was $70.4K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $487.0K.
+lookup_name: 'WEBSTER ELECTRIC'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '91'

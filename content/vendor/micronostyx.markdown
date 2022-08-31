@@ -1,5 +1,5 @@
 ---
-title: MICRONOSTYX
+title: Micronostyx
 author: ''
 date: '2022-08-30'
 slug: micronostyx
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.7M
-  in 2021-2022 on contracts with MICRONOSTYX. The average
+  in 2021-2022 on contracts with Micronostyx. The average
   contract duration was 1.01 years, and the average contract value
   (not including contracts under $10k) was $3.0M. The longest
   contract was 3.84 years. The largest contract by value (including
   amendments) was $16.4M.
+lookup_name: 'MICRONOSTYX'
 most_recent_fiscal_year_total: '10.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

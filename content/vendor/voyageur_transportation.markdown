@@ -1,5 +1,5 @@
 ---
-title: VOYAGEUR TRANSPORTATION
+title: Voyageur Transportation
 author: ''
 date: '2022-08-30'
 slug: voyageur_transportation
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.8M
-  in 2021-2022 on contracts with VOYAGEUR TRANSPORTATION. The average
+  in 2021-2022 on contracts with Voyageur Transportation. The average
   contract duration was 1.06 years, and the average contract value
   (not including contracts under $10k) was $4.9M. The longest
   contract was 2.01 years. The largest contract by value (including
   amendments) was $9.6M.
+lookup_name: 'VOYAGEUR TRANSPORTATION'
 most_recent_fiscal_year_total: '4.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

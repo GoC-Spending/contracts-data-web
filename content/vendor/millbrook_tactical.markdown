@@ -1,5 +1,5 @@
 ---
-title: MILLBROOK TACTICAL
+title: Millbrook Tactical
 author: ''
 date: '2022-08-30'
 slug: millbrook_tactical
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with MILLBROOK TACTICAL. The average
+  in 2021-2022 on contracts with Millbrook Tactical. The average
   contract duration was 0.29 years, and the average contract value
   (not including contracts under $10k) was $78.0K. The longest
   contract was 4.25 years. The largest contract by value (including
   amendments) was $2.2M.
+lookup_name: 'MILLBROOK TACTICAL'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '113'

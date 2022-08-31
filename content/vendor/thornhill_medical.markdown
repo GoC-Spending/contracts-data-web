@@ -1,5 +1,5 @@
 ---
-title: THORNHILL MEDICAL
+title: Thornhill Medical
 author: ''
 date: '2022-08-30'
 slug: thornhill_medical
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $255.8K
-  in 2021-2022 on contracts with THORNHILL MEDICAL. The average
+  in 2021-2022 on contracts with Thornhill Medical. The average
   contract duration was 2.02 years, and the average contract value
   (not including contracts under $10k) was $100.6M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $200.5M.
+lookup_name: 'THORNHILL MEDICAL'
 most_recent_fiscal_year_total: '255.8K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

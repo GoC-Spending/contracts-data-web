@@ -1,5 +1,5 @@
 ---
-title: CLERMARK
+title: Clermark
 author: ''
 date: '2022-08-30'
 slug: clermark
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with CLERMARK. The average
+  in 2021-2022 on contracts with Clermark. The average
   contract duration was 0.88 years, and the average contract value
   (not including contracts under $10k) was $528.1K. The longest
   contract was 4.5 years. The largest contract by value (including
   amendments) was $5.4M.
+lookup_name: 'CLERMARK'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '18'

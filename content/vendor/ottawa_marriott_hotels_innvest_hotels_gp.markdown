@@ -1,5 +1,5 @@
 ---
-title: OTTAWA MARRIOTT HOTELS INNVEST HOTELS GP
+title: Ottawa Marriott Hotels Innvest Hotels Gp
 author: ''
 date: '2022-08-30'
 slug: ottawa_marriott_hotels_innvest_hotels_gp
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $36.3K
-  in 2020-2021 on contracts with OTTAWA MARRIOTT HOTELS INNVEST HOTELS GP. The average
+  in 2020-2021 on contracts with Ottawa Marriott Hotels Innvest Hotels Gp. The average
   contract duration was 0.04 years, and the average contract value
   (not including contracts under $10k) was $52.7K. The longest
   contract was 1.42 years. The largest contract by value (including
   amendments) was $567.1K.
+lookup_name: 'OTTAWA MARRIOTT HOTELS INNVEST HOTELS GP'
 most_recent_fiscal_year_total: '36.3K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '130'

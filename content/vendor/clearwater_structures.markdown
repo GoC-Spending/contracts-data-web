@@ -1,5 +1,5 @@
 ---
-title: CLEARWATER STRUCTURES
+title: Clearwater Structures
 author: ''
 date: '2022-08-30'
 slug: clearwater_structures
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.2M
-  in 2021-2022 on contracts with CLEARWATER STRUCTURES. The average
+  in 2021-2022 on contracts with Clearwater Structures. The average
   contract duration was 1.78 years, and the average contract value
   (not including contracts under $10k) was $4.9M. The longest
   contract was 2.35 years. The largest contract by value (including
   amendments) was $7.4M.
+lookup_name: 'CLEARWATER STRUCTURES'
 most_recent_fiscal_year_total: '3.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

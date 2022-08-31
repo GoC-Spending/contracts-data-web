@@ -1,5 +1,5 @@
 ---
-title: CELEB CONSTRUCTION
+title: Celeb Construction
 author: ''
 date: '2022-08-30'
 slug: celeb_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with CELEB CONSTRUCTION. The average
+  in 2021-2022 on contracts with Celeb Construction. The average
   contract duration was 3.29 years, and the average contract value
   (not including contracts under $10k) was $4.3M. The longest
   contract was 7.69 years. The largest contract by value (including
   amendments) was $15.8M.
+lookup_name: 'CELEB CONSTRUCTION'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

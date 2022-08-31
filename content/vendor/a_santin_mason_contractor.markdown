@@ -1,5 +1,5 @@
 ---
-title: A SANTIN MASON CONTRACTOR
+title: A Santin Mason Contractor
 author: ''
 date: '2022-08-30'
 slug: a_santin_mason_contractor
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
-  in 2020-2021 on contracts with A SANTIN MASON CONTRACTOR. The average
+  in 2020-2021 on contracts with A Santin Mason Contractor. The average
   contract duration was 2.15 years, and the average contract value
   (not including contracts under $10k) was $2.2M. The longest
   contract was 4.83 years. The largest contract by value (including
   amendments) was $4.5M.
+lookup_name: 'A SANTIN MASON CONTRACTOR'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '5'

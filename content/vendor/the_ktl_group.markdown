@@ -1,5 +1,5 @@
 ---
-title: THE KTL GROUP
+title: The KTL Group
 author: ''
 date: '2022-08-30'
 slug: the_ktl_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $277.1K
-  in 2021-2022 on contracts with THE KTL GROUP. The average
+  in 2021-2022 on contracts with The KTL Group. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $210.4K. The longest
   contract was 3.36 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'THE KTL GROUP'
 most_recent_fiscal_year_total: '277.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '35'

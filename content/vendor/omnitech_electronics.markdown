@@ -1,5 +1,5 @@
 ---
-title: OMNITECH ELECTRONICS
+title: Omnitech Electronics
 author: ''
 date: '2022-08-30'
 slug: omnitech_electronics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $191.3K
-  in 2021-2022 on contracts with OMNITECH ELECTRONICS. The average
+  in 2021-2022 on contracts with Omnitech Electronics. The average
   contract duration was 0.96 years, and the average contract value
   (not including contracts under $10k) was $363.2K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $1.7M.
+lookup_name: 'OMNITECH ELECTRONICS'
 most_recent_fiscal_year_total: '191.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '18'

@@ -1,5 +1,5 @@
 ---
-title: UNISOFT INTERNATIONAL
+title: Unisoft International
 author: ''
 date: '2022-08-30'
 slug: unisoft_international
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
-  in 2021-2022 on contracts with UNISOFT INTERNATIONAL. The average
+  in 2021-2022 on contracts with Unisoft International. The average
   contract duration was 4 years, and the average contract value
   (not including contracts under $10k) was $8.4M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $13.0M.
+lookup_name: 'UNISOFT INTERNATIONAL'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

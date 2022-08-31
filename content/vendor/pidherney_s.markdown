@@ -1,5 +1,5 @@
 ---
-title: PIDHERNEY S
+title: Pidherney’s
 author: ''
 date: '2022-08-30'
 slug: pidherney_s
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
-  in 2021-2022 on contracts with PIDHERNEY S. The average
+  in 2021-2022 on contracts with Pidherney’s. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 1.55 years. The largest contract by value (including
   amendments) was $4.0M.
+lookup_name: 'PIDHERNEY S'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

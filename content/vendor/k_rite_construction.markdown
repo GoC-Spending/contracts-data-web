@@ -1,5 +1,5 @@
 ---
-title: K RITE CONSTRUCTION
+title: K Rite Construction
 author: ''
 date: '2022-08-30'
 slug: k_rite_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $318.2K
-  in 2021-2022 on contracts with K RITE CONSTRUCTION. The average
+  in 2021-2022 on contracts with K Rite Construction. The average
   contract duration was 1.35 years, and the average contract value
   (not including contracts under $10k) was $1.5M. The longest
   contract was 3.97 years. The largest contract by value (including
   amendments) was $6.5M.
+lookup_name: 'K RITE CONSTRUCTION'
 most_recent_fiscal_year_total: '318.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

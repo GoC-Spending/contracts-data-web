@@ -1,5 +1,5 @@
 ---
-title: HEWLETT PACKARD
+title: Hewlett Packard
 author: ''
 date: '2022-08-30'
 slug: hewlett_packard
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $19.5M
-  in 2021-2022 on contracts with HEWLETT PACKARD. The average
+  in 2021-2022 on contracts with Hewlett Packard. The average
   contract duration was 1.63 years, and the average contract value
   (not including contracts under $10k) was $7.0M. The longest
   contract was 14.42 years. The largest contract by value (including
   amendments) was $390.1M.
+lookup_name: 'HEWLETT PACKARD'
 most_recent_fiscal_year_total: '19.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '116'

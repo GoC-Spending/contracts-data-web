@@ -15,6 +15,7 @@ description: 'Federal Economic Development Agency for Northern Ontario spent an 
   contracts under $10k) was $24.3K. The longest contract was
   2 years. The largest contract by value (including amendments)
   was $39.7K.'
+lookup_name: 'fednor'
 most_recent_fiscal_year_total: '8.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

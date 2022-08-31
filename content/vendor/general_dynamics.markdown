@@ -1,5 +1,5 @@
 ---
-title: GENERAL DYNAMICS
+title: General Dynamics
 author: ''
 date: '2022-08-30'
 slug: general_dynamics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $739.7M
-  in 2021-2022 on contracts with GENERAL DYNAMICS. The average
+  in 2021-2022 on contracts with General Dynamics. The average
   contract duration was 1.33 years, and the average contract value
   (not including contracts under $10k) was $18.9M. The longest
   contract was 12.21 years. The largest contract by value (including
   amendments) was $2.0B.
+lookup_name: 'GENERAL DYNAMICS'
 most_recent_fiscal_year_total: '739.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '390'

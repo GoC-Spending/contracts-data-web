@@ -1,5 +1,5 @@
 ---
-title: GENOME QUEBEC
+title: Genome Quebec
 author: ''
 date: '2022-08-30'
 slug: genome_quebec
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with GENOME QUEBEC. The average
+  in 2021-2022 on contracts with Genome Quebec. The average
   contract duration was 0.31 years, and the average contract value
   (not including contracts under $10k) was $28.0K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $319.9K.
+lookup_name: 'GENOME QUEBEC'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '266'

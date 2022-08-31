@@ -1,5 +1,5 @@
 ---
-title: BELL AND HOWELL CANADA
+title: Bell and Howell Canada
 author: ''
 date: '2022-08-30'
 slug: bell_and_howell_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with BELL AND HOWELL CANADA. The average
+  in 2021-2022 on contracts with Bell and Howell Canada. The average
   contract duration was 2.51 years, and the average contract value
   (not including contracts under $10k) was $2.1M. The longest
   contract was 4.28 years. The largest contract by value (including
   amendments) was $4.8M.
+lookup_name: 'BELL AND HOWELL CANADA'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

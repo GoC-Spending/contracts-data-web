@@ -1,5 +1,5 @@
 ---
-title: CONSTRUCTION COUTURE TANGUAY
+title: Construction Couture Tanguay
 author: ''
 date: '2022-08-30'
 slug: construction_couture_tanguay
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $595.3K
-  in 2021-2022 on contracts with CONSTRUCTION COUTURE TANGUAY. The average
+  in 2021-2022 on contracts with Construction Couture Tanguay. The average
   contract duration was 0.76 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 1.47 years. The largest contract by value (including
   amendments) was $2.8M.
+lookup_name: 'CONSTRUCTION COUTURE TANGUAY'
 most_recent_fiscal_year_total: '595.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

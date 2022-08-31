@@ -1,5 +1,5 @@
 ---
-title: WEIR CANADA
+title: Weir Canada
 author: ''
 date: '2022-08-30'
 slug: weir_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $41.7M
-  in 2021-2022 on contracts with WEIR CANADA. The average
+  in 2021-2022 on contracts with Weir Canada. The average
   contract duration was 2.2 years, and the average contract value
   (not including contracts under $10k) was $66.3M. The longest
   contract was 12.76 years. The largest contract by value (including
   amendments) was $530.5M.
+lookup_name: 'WEIR CANADA'
 most_recent_fiscal_year_total: '41.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

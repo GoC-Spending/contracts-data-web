@@ -1,5 +1,5 @@
 ---
-title: STANTEC
+title: Stantec
 author: ''
 date: '2022-08-30'
 slug: stantec
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $41.4M
-  in 2021-2022 on contracts with STANTEC. The average
+  in 2021-2022 on contracts with Stantec. The average
   contract duration was 0.96 years, and the average contract value
   (not including contracts under $10k) was $147.5K. The longest
   contract was 8.72 years. The largest contract by value (including
   amendments) was $32.3M.
+lookup_name: 'STANTEC'
 most_recent_fiscal_year_total: '41.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,823'

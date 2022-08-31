@@ -1,5 +1,5 @@
 ---
-title: THRIVE HEALTH
+title: Thrive Health
 author: ''
 date: '2022-08-30'
 slug: thrive_health
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.8M
-  in 2021-2022 on contracts with THRIVE HEALTH. The average
+  in 2021-2022 on contracts with Thrive Health. The average
   contract duration was 1.63 years, and the average contract value
   (not including contracts under $10k) was $5.1M. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $9.4M.
+lookup_name: 'THRIVE HEALTH'
 most_recent_fiscal_year_total: '4.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

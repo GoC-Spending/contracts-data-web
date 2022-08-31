@@ -1,5 +1,5 @@
 ---
-title: MEEWASINOTA CRF
+title: Meewasinota CRF
 author: ''
 date: '2022-08-30'
 slug: meewasinota_crf
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with MEEWASINOTA CRF. The average
+  in 2021-2022 on contracts with Meewasinota CRF. The average
   contract duration was 2.33 years, and the average contract value
   (not including contracts under $10k) was $4.3M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $5.2M.
+lookup_name: 'MEEWASINOTA CRF'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

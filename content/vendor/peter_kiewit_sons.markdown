@@ -1,5 +1,5 @@
 ---
-title: PETER KIEWIT SONS
+title: Peter Kiewit Sons
 author: ''
 date: '2022-08-30'
 slug: peter_kiewit_sons
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $90.3M
-  in 2021-2022 on contracts with PETER KIEWIT SONS. The average
+  in 2021-2022 on contracts with Peter Kiewit Sons. The average
   contract duration was 1.18 years, and the average contract value
   (not including contracts under $10k) was $83.3M. The longest
   contract was 1.96 years. The largest contract by value (including
   amendments) was $176.3M.
+lookup_name: 'PETER KIEWIT SONS'
 most_recent_fiscal_year_total: '90.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

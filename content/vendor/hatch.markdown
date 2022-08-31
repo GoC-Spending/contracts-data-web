@@ -1,5 +1,5 @@
 ---
-title: HATCH
+title: Hatch
 author: ''
 date: '2022-08-30'
 slug: hatch
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with HATCH. The average
+  in 2021-2022 on contracts with Hatch. The average
   contract duration was 1.77 years, and the average contract value
   (not including contracts under $10k) was $423.1K. The longest
   contract was 14.05 years. The largest contract by value (including
   amendments) was $6.7M.
+lookup_name: 'HATCH'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '23'

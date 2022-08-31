@@ -1,5 +1,5 @@
 ---
-title: FOURNIER CONSTRUCTION INDUSTRIELLE
+title: Fournier Construction Industrielle
 author: ''
 date: '2022-08-30'
 slug: fournier_construction_industrielle
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.1K
-  in 2021-2022 on contracts with FOURNIER CONSTRUCTION INDUSTRIELLE. The average
+  in 2021-2022 on contracts with Fournier Construction Industrielle. The average
   contract duration was 1.32 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 1.57 years. The largest contract by value (including
   amendments) was $5.2M.
+lookup_name: 'FOURNIER CONSTRUCTION INDUSTRIELLE'
 most_recent_fiscal_year_total: '9.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

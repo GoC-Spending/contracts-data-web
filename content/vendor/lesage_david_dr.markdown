@@ -1,5 +1,5 @@
 ---
-title: LESAGE DAVID DR
+title: Lesage David Dr
 author: ''
 date: '2022-08-30'
 slug: lesage_david_dr
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $817.5K
-  in 2021-2022 on contracts with LESAGE DAVID DR. The average
+  in 2021-2022 on contracts with Lesage David Dr. The average
   contract duration was 2.89 years, and the average contract value
   (not including contracts under $10k) was $1.0M. The longest
   contract was 4.25 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'LESAGE DAVID DR'
 most_recent_fiscal_year_total: '817.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

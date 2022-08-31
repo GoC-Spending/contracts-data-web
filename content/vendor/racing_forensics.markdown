@@ -1,5 +1,5 @@
 ---
-title: RACING FORENSICS
+title: Racing Forensics
 author: ''
 date: '2022-08-30'
 slug: racing_forensics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with RACING FORENSICS. The average
+  in 2021-2022 on contracts with Racing Forensics. The average
   contract duration was 3.83 years, and the average contract value
   (not including contracts under $10k) was $6.1M. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $7.8M.
+lookup_name: 'RACING FORENSICS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

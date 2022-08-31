@@ -1,5 +1,5 @@
 ---
-title: NORTH COUNTRY MAINTENANCE
+title: North Country Maintenance
 author: ''
 date: '2022-08-30'
 slug: north_country_maintenance
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $771.7K
-  in 2019-2020 on contracts with NORTH COUNTRY MAINTENANCE. The average
+  in 2019-2020 on contracts with North Country Maintenance. The average
   contract duration was 2.68 years, and the average contract value
   (not including contracts under $10k) was $19.9M. The longest
   contract was 5.13 years. The largest contract by value (including
   amendments) was $39.0M.
+lookup_name: 'NORTH COUNTRY MAINTENANCE'
 most_recent_fiscal_year_total: '771.7K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

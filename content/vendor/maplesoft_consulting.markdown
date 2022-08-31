@@ -1,5 +1,5 @@
 ---
-title: MAPLESOFT CONSULTING
+title: Maplesoft Consulting
 author: ''
 date: '2022-08-30'
 slug: maplesoft_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $39.4M
-  in 2021-2022 on contracts with MAPLESOFT CONSULTING. The average
+  in 2021-2022 on contracts with Maplesoft Consulting. The average
   contract duration was 1.49 years, and the average contract value
   (not including contracts under $10k) was $759.6K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $30.0M.
+lookup_name: 'MAPLESOFT CONSULTING'
 most_recent_fiscal_year_total: '39.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '379'

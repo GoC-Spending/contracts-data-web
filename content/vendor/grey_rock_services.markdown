@@ -1,5 +1,5 @@
 ---
-title: GREY ROCK SERVICES
+title: Grey Rock Services
 author: ''
 date: '2022-08-30'
 slug: grey_rock_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $14.1K
-  in 2021-2022 on contracts with GREY ROCK SERVICES. The average
+  in 2021-2022 on contracts with Grey Rock Services. The average
   contract duration was 1.53 years, and the average contract value
   (not including contracts under $10k) was $7.2M. The longest
   contract was 3.79 years. The largest contract by value (including
   amendments) was $19.5M.
+lookup_name: 'GREY ROCK SERVICES'
 most_recent_fiscal_year_total: '14.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

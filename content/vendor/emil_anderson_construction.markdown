@@ -1,5 +1,5 @@
 ---
-title: EMIL ANDERSON CONSTRUCTION
+title: Emil Anderson Construction
 author: ''
 date: '2022-08-30'
 slug: emil_anderson_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.5M
-  in 2019-2020 on contracts with EMIL ANDERSON CONSTRUCTION. The average
+  in 2019-2020 on contracts with Emil Anderson Construction. The average
   contract duration was 1.65 years, and the average contract value
   (not including contracts under $10k) was $5.5M. The longest
   contract was 2.14 years. The largest contract by value (including
   amendments) was $10.0M.
+lookup_name: 'EMIL ANDERSON CONSTRUCTION'
 most_recent_fiscal_year_total: '4.5M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '5'

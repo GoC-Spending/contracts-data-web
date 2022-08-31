@@ -1,5 +1,5 @@
 ---
-title: INSTRUX MEDIA
+title: Instrux Media
 author: ''
 date: '2022-08-30'
 slug: instrux_media
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with INSTRUX MEDIA. The average
+  in 2021-2022 on contracts with Instrux Media. The average
   contract duration was 0.49 years, and the average contract value
   (not including contracts under $10k) was $127.5K. The longest
   contract was 5.27 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'INSTRUX MEDIA'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '66'

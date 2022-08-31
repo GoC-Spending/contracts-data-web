@@ -1,5 +1,5 @@
 ---
-title: NORDMEC CONSTRUCTION
+title: NORDMEC Construction
 author: ''
 date: '2022-08-30'
 slug: nordmec_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with NORDMEC CONSTRUCTION. The average
+  in 2021-2022 on contracts with NORDMEC Construction. The average
   contract duration was 3.93 years, and the average contract value
   (not including contracts under $10k) was $7.9M. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $14.5M.
+lookup_name: 'NORDMEC CONSTRUCTION'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

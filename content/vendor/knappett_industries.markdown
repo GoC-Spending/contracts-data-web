@@ -1,5 +1,5 @@
 ---
-title: KNAPPETT INDUSTRIES
+title: Knappett Industries
 author: ''
 date: '2022-08-30'
 slug: knappett_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $14.4M
-  in 2021-2022 on contracts with KNAPPETT INDUSTRIES. The average
+  in 2021-2022 on contracts with Knappett Industries. The average
   contract duration was 2.78 years, and the average contract value
   (not including contracts under $10k) was $4.5M. The longest
   contract was 3.52 years. The largest contract by value (including
   amendments) was $44.2M.
+lookup_name: 'KNAPPETT INDUSTRIES'
 most_recent_fiscal_year_total: '14.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '11'

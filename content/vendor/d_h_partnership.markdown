@@ -1,5 +1,5 @@
 ---
-title: D H PARTNERSHIP
+title: D H Partnership
 author: ''
 date: '2022-08-30'
 slug: d_h_partnership
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $34.1M
-  in 2021-2022 on contracts with D H PARTNERSHIP. The average
+  in 2021-2022 on contracts with D H Partnership. The average
   contract duration was 6.15 years, and the average contract value
   (not including contracts under $10k) was $619.1M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $897.0M.
+lookup_name: 'D H PARTNERSHIP'
 most_recent_fiscal_year_total: '34.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

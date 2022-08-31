@@ -1,5 +1,5 @@
 ---
-title: MONERIS
+title: Moneris
 author: ''
 date: '2022-08-30'
 slug: moneris
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $28.8M
-  in 2021-2022 on contracts with MONERIS. The average
+  in 2021-2022 on contracts with Moneris. The average
   contract duration was 7.51 years, and the average contract value
   (not including contracts under $10k) was $312.1M. The longest
   contract was 8.01 years. The largest contract by value (including
   amendments) was $393.8M.
+lookup_name: 'MONERIS'
 most_recent_fiscal_year_total: '28.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

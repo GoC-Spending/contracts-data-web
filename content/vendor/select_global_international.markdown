@@ -1,5 +1,5 @@
 ---
-title: SELECT GLOBAL INTERNATIONAL
+title: Select Global International
 author: ''
 date: '2022-08-30'
 slug: select_global_international
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $32.5K
-  in 2021-2022 on contracts with SELECT GLOBAL INTERNATIONAL. The average
+  in 2021-2022 on contracts with Select Global International. The average
   contract duration was 1.03 years, and the average contract value
   (not including contracts under $10k) was $5.7M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $28.5M.
+lookup_name: 'SELECT GLOBAL INTERNATIONAL'
 most_recent_fiscal_year_total: '32.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

@@ -1,5 +1,5 @@
 ---
-title: COUGAR ENGINEERING CONSTRUCTION
+title: Cougar Engineering Construction
 author: ''
 date: '2022-08-30'
 slug: cougar_engineering_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.4M
-  in 2021-2022 on contracts with COUGAR ENGINEERING CONSTRUCTION. The average
+  in 2021-2022 on contracts with Cougar Engineering Construction. The average
   contract duration was 1.1 years, and the average contract value
   (not including contracts under $10k) was $4.0M. The longest
   contract was 1.52 years. The largest contract by value (including
   amendments) was $5.7M.
+lookup_name: 'COUGAR ENGINEERING CONSTRUCTION'
 most_recent_fiscal_year_total: '7.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

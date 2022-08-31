@@ -1,5 +1,5 @@
 ---
-title: DAIMLER
+title: Daimler
 author: ''
 date: '2022-08-30'
 slug: daimler
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $128.4K
-  in 2019-2020 on contracts with DAIMLER. The average
+  in 2019-2020 on contracts with Daimler. The average
   contract duration was 0.66 years, and the average contract value
   (not including contracts under $10k) was $161.4K. The longest
   contract was 1.13 years. The largest contract by value (including
   amendments) was $600.7K.
+lookup_name: 'DAIMLER'
 most_recent_fiscal_year_total: '128.4K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '70'

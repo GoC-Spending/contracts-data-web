@@ -1,5 +1,5 @@
 ---
-title: TYCO INTEGRATED FIRE SECURITY
+title: Tyco Integrated Fire Security
 author: ''
 date: '2022-08-30'
 slug: tyco_integrated_fire_security
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
-  in 2021-2022 on contracts with TYCO INTEGRATED FIRE SECURITY. The average
+  in 2021-2022 on contracts with Tyco Integrated Fire Security. The average
   contract duration was 1.32 years, and the average contract value
   (not including contracts under $10k) was $141.2K. The longest
   contract was 6.25 years. The largest contract by value (including
   amendments) was $3.1M.
+lookup_name: 'TYCO INTEGRATED FIRE SECURITY'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '182'

@@ -1,5 +1,5 @@
 ---
-title: ONLINE CONSTRUCTORS
+title: Online Constructors
 author: ''
 date: '2022-08-30'
 slug: online_constructors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with ONLINE CONSTRUCTORS. The average
+  in 2021-2022 on contracts with Online Constructors. The average
   contract duration was 0.46 years, and the average contract value
   (not including contracts under $10k) was $373.7K. The longest
   contract was 1.61 years. The largest contract by value (including
   amendments) was $1.3M.
+lookup_name: 'ONLINE CONSTRUCTORS'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '30'

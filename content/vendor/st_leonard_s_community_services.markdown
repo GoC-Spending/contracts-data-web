@@ -1,5 +1,5 @@
 ---
-title: ST LEONARD S COMMUNITY SERVICES
+title: St Leonard’s Community Services
 author: ''
 date: '2022-08-30'
 slug: st_leonard_s_community_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
-  in 2021-2022 on contracts with ST LEONARD S COMMUNITY SERVICES. The average
+  in 2021-2022 on contracts with St Leonard’s Community Services. The average
   contract duration was 4.67 years, and the average contract value
   (not including contracts under $10k) was $3.3M. The longest
   contract was 7 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'ST LEONARD S COMMUNITY SERVICES'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

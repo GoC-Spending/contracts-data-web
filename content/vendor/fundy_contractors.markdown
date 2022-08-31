@@ -1,5 +1,5 @@
 ---
-title: FUNDY CONTRACTORS
+title: Fundy Contractors
 author: ''
 date: '2022-08-30'
 slug: fundy_contractors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $95.9K
-  in 2021-2022 on contracts with FUNDY CONTRACTORS. The average
+  in 2021-2022 on contracts with Fundy Contractors. The average
   contract duration was 0.56 years, and the average contract value
   (not including contracts under $10k) was $631.4K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $5.7M.
+lookup_name: 'FUNDY CONTRACTORS'
 most_recent_fiscal_year_total: '95.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '30'

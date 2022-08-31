@@ -1,5 +1,5 @@
 ---
-title: HITACHI DATA SYSTEMS
+title: Hitachi Data Systems
 author: ''
 date: '2022-08-30'
 slug: hitachi_data_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.9M
-  in 2021-2022 on contracts with HITACHI DATA SYSTEMS. The average
+  in 2021-2022 on contracts with Hitachi Data Systems. The average
   contract duration was 0.91 years, and the average contract value
   (not including contracts under $10k) was $629.2K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $16.3M.
+lookup_name: 'HITACHI DATA SYSTEMS'
 most_recent_fiscal_year_total: '6.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '99'

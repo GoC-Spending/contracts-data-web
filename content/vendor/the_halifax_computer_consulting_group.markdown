@@ -1,5 +1,5 @@
 ---
-title: THE HALIFAX COMPUTER CONSULTING GROUP
+title: The Halifax Computer Consulting Group
 author: ''
 date: '2022-08-30'
 slug: the_halifax_computer_consulting_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.0M
-  in 2021-2022 on contracts with THE HALIFAX COMPUTER CONSULTING GROUP. The average
+  in 2021-2022 on contracts with The Halifax Computer Consulting Group. The average
   contract duration was 1.72 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 5.5 years. The largest contract by value (including
   amendments) was $14.8M.
+lookup_name: 'THE HALIFAX COMPUTER CONSULTING GROUP'
 most_recent_fiscal_year_total: '6.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '18'

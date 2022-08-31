@@ -1,5 +1,5 @@
 ---
-title: CHARRON HUMAN RESOURCES
+title: Charron Human Resources
 author: ''
 date: '2022-08-30'
 slug: charron_human_resources
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $444.4K
-  in 2021-2022 on contracts with CHARRON HUMAN RESOURCES. The average
+  in 2021-2022 on contracts with Charron Human Resources. The average
   contract duration was 0.48 years, and the average contract value
   (not including contracts under $10k) was $49.3K. The longest
   contract was 1.64 years. The largest contract by value (including
   amendments) was $2.6M.
+lookup_name: 'CHARRON HUMAN RESOURCES'
 most_recent_fiscal_year_total: '444.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '113'

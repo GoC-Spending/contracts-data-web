@@ -1,5 +1,5 @@
 ---
-title: SECUREKEY TECHNOLOGIES
+title: SecureKey Technologies
 author: ''
 date: '2022-08-30'
 slug: securekey_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
-  in 2021-2022 on contracts with SECUREKEY TECHNOLOGIES. The average
+  in 2021-2022 on contracts with SecureKey Technologies. The average
   contract duration was 2.08 years, and the average contract value
   (not including contracts under $10k) was $6.3M. The longest
   contract was 9.65 years. The largest contract by value (including
   amendments) was $42.5M.
+lookup_name: 'SECUREKEY TECHNOLOGIES'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

@@ -1,5 +1,5 @@
 ---
-title: ROUDEL MEDICAL AND SURGICAL
+title: Roudel Medical and Surgical
 author: ''
 date: '2022-08-30'
 slug: roudel_medical_and_surgical
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.7M
-  in 2021-2022 on contracts with ROUDEL MEDICAL AND SURGICAL. The average
+  in 2021-2022 on contracts with Roudel Medical and Surgical. The average
   contract duration was 1.24 years, and the average contract value
   (not including contracts under $10k) was $31.1M. The longest
   contract was 1.48 years. The largest contract by value (including
   amendments) was $52.1M.
+lookup_name: 'ROUDEL MEDICAL AND SURGICAL'
 most_recent_fiscal_year_total: '13.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

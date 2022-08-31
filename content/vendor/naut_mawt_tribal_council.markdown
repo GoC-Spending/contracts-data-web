@@ -1,5 +1,5 @@
 ---
-title: NAUT MAWT TRIBAL COUNCIL
+title: Naut’sa mawt Tribal Council
 author: ''
 date: '2022-08-30'
 slug: naut_mawt_tribal_council
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $200.0K
-  in 2021-2022 on contracts with NAUT MAWT TRIBAL COUNCIL. The average
+  in 2021-2022 on contracts with Naut’sa mawt Tribal Council. The average
   contract duration was 0.39 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 0.98 years. The largest contract by value (including
   amendments) was $7.9M.
+lookup_name: 'NAUT MAWT TRIBAL COUNCIL'
 most_recent_fiscal_year_total: '200.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '9'

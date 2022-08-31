@@ -1,5 +1,5 @@
 ---
-title: DALHOUSIE UNIVERSITY
+title: Dalhousie University
 author: ''
 date: '2022-08-30'
 slug: dalhousie_university
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.0M
-  in 2021-2022 on contracts with DALHOUSIE UNIVERSITY. The average
+  in 2021-2022 on contracts with Dalhousie University. The average
   contract duration was 0.7 years, and the average contract value
   (not including contracts under $10k) was $172.6K. The longest
   contract was 4.81 years. The largest contract by value (including
   amendments) was $5.6M.
+lookup_name: 'DALHOUSIE UNIVERSITY'
 most_recent_fiscal_year_total: '5.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '105'

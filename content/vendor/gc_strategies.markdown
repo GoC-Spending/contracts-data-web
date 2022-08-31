@@ -1,5 +1,5 @@
 ---
-title: GC STRATEGIES
+title: GC Strategies
 author: ''
 date: '2022-08-30'
 slug: gc_strategies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $31.0M
-  in 2021-2022 on contracts with GC STRATEGIES. The average
+  in 2021-2022 on contracts with GC Strategies. The average
   contract duration was 1.07 years, and the average contract value
   (not including contracts under $10k) was $688.3K. The longest
   contract was 5.87 years. The largest contract by value (including
   amendments) was $9.2M.
+lookup_name: 'GC STRATEGIES'
 most_recent_fiscal_year_total: '31.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '110'

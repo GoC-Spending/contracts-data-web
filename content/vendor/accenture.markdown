@@ -1,5 +1,5 @@
 ---
-title: ACCENTURE
+title: Accenture
 author: ''
 date: '2022-08-30'
 slug: accenture
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $95.8M
-  in 2021-2022 on contracts with ACCENTURE. The average
+  in 2021-2022 on contracts with Accenture. The average
   contract duration was 0.63 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 6 years. The largest contract by value (including
   amendments) was $130.3M.
+lookup_name: 'ACCENTURE'
 most_recent_fiscal_year_total: '95.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '117'

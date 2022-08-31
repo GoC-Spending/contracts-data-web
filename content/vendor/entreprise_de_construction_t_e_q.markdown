@@ -1,5 +1,5 @@
 ---
-title: ENTREPRISE DE CONSTRUCTION T E Q
+title: Entreprise de Construction T E Q
 author: ''
 date: '2022-08-30'
 slug: entreprise_de_construction_t_e_q
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.3M
-  in 2021-2022 on contracts with ENTREPRISE DE CONSTRUCTION T E Q. The average
+  in 2021-2022 on contracts with Entreprise de Construction T E Q. The average
   contract duration was 4.06 years, and the average contract value
   (not including contracts under $10k) was $23.4M. The longest
   contract was 6.12 years. The largest contract by value (including
   amendments) was $26.3M.
+lookup_name: 'ENTREPRISE DE CONSTRUCTION T E Q'
 most_recent_fiscal_year_total: '4.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

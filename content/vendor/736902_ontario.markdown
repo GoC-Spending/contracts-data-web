@@ -1,5 +1,5 @@
 ---
-title: 736902 ONTARIO
+title: 736902 Ontario
 author: ''
 date: '2022-08-30'
 slug: 736902_ontario
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with 736902 ONTARIO. The average
+  in 2021-2022 on contracts with 736902 Ontario. The average
   contract duration was 1.3 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 2.36 years. The largest contract by value (including
   amendments) was $4.8M.
+lookup_name: '736902 ONTARIO'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

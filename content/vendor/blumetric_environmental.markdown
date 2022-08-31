@@ -1,5 +1,5 @@
 ---
-title: BLUMETRIC ENVIRONMENTAL
+title: Blumetric Environmental
 author: ''
 date: '2022-08-30'
 slug: blumetric_environmental
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.3M
-  in 2021-2022 on contracts with BLUMETRIC ENVIRONMENTAL. The average
+  in 2021-2022 on contracts with Blumetric Environmental. The average
   contract duration was 0.65 years, and the average contract value
   (not including contracts under $10k) was $269.9K. The longest
   contract was 5.03 years. The largest contract by value (including
   amendments) was $27.7M.
+lookup_name: 'BLUMETRIC ENVIRONMENTAL'
 most_recent_fiscal_year_total: '10.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '167'

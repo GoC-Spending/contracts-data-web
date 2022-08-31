@@ -1,5 +1,5 @@
 ---
-title: METRO PAVING AND ROAD BUILDING
+title: Metro Paving and Road Building
 author: ''
 date: '2022-08-30'
 slug: metro_paving_and_road_building
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $747.4K
-  in 2021-2022 on contracts with METRO PAVING AND ROAD BUILDING. The average
+  in 2021-2022 on contracts with Metro Paving and Road Building. The average
   contract duration was 0.92 years, and the average contract value
   (not including contracts under $10k) was $3.3M. The longest
   contract was 2.65 years. The largest contract by value (including
   amendments) was $8.8M.
+lookup_name: 'METRO PAVING AND ROAD BUILDING'
 most_recent_fiscal_year_total: '747.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '12'

@@ -1,5 +1,5 @@
 ---
-title: MEGGITT
+title: Meggitt
 author: ''
 date: '2022-08-30'
 slug: meggitt
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $485.0K
-  in 2021-2022 on contracts with MEGGITT. The average
+  in 2021-2022 on contracts with Meggitt. The average
   contract duration was 2.23 years, and the average contract value
   (not including contracts under $10k) was $3.0M. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $14.9M.
+lookup_name: 'MEGGITT'
 most_recent_fiscal_year_total: '485.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

@@ -1,5 +1,5 @@
 ---
-title: MUSTANG SURVIVAL
+title: Mustang Survival
 author: ''
 date: '2022-08-30'
 slug: mustang_survival
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $12.1M
-  in 2021-2022 on contracts with MUSTANG SURVIVAL. The average
+  in 2021-2022 on contracts with Mustang Survival. The average
   contract duration was 0.52 years, and the average contract value
   (not including contracts under $10k) was $315.2K. The longest
   contract was 4.01 years. The largest contract by value (including
   amendments) was $23.7M.
+lookup_name: 'MUSTANG SURVIVAL'
 most_recent_fiscal_year_total: '12.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '101'

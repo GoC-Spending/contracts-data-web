@@ -1,5 +1,5 @@
 ---
-title: GRAHAM CONSTRUCTION
+title: Graham Construction
 author: ''
 date: '2022-08-30'
 slug: graham_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.5M
-  in 2021-2022 on contracts with GRAHAM CONSTRUCTION. The average
+  in 2021-2022 on contracts with Graham Construction. The average
   contract duration was 1.52 years, and the average contract value
   (not including contracts under $10k) was $5.8M. The longest
   contract was 5.94 years. The largest contract by value (including
   amendments) was $21.2M.
+lookup_name: 'GRAHAM CONSTRUCTION'
 most_recent_fiscal_year_total: '8.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '11'

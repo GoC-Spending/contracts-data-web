@@ -1,5 +1,5 @@
 ---
-title: CANADIAN CORPS OF COMMISSIONAIRES
+title: Canadian Corps of Commissionaires
 author: ''
 date: '2022-08-30'
 slug: canadian_corps_of_commissionaires
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $320.1M
-  in 2021-2022 on contracts with CANADIAN CORPS OF COMMISSIONAIRES. The average
+  in 2021-2022 on contracts with Canadian Corps of Commissionaires. The average
   contract duration was 0.82 years, and the average contract value
   (not including contracts under $10k) was $290.3K. The longest
   contract was 8.01 years. The largest contract by value (including
   amendments) was $13.5M.
+lookup_name: 'CANADIAN CORPS OF COMMISSIONAIRES'
 most_recent_fiscal_year_total: '320.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5,439'

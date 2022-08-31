@@ -1,5 +1,5 @@
 ---
-title: CARLETON LIFE SUPPORT SYSTEMS
+title: Carleton Life Support Systems
 author: ''
 date: '2022-08-30'
 slug: carleton_life_support_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $879.1K
-  in 2020-2021 on contracts with CARLETON LIFE SUPPORT SYSTEMS. The average
+  in 2020-2021 on contracts with Carleton Life Support Systems. The average
   contract duration was 0.85 years, and the average contract value
   (not including contracts under $10k) was $750.9K. The longest
   contract was 2.79 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'CARLETON LIFE SUPPORT SYSTEMS'
 most_recent_fiscal_year_total: '879.1K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '10'

@@ -1,5 +1,5 @@
 ---
-title: APPLIED SYSTEMS ENGINEERING
+title: Applied Systems Engineering
 author: ''
 date: '2022-08-30'
 slug: applied_systems_engineering
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.0M
-  in 2019-2020 on contracts with APPLIED SYSTEMS ENGINEERING. The average
+  in 2019-2020 on contracts with Applied Systems Engineering. The average
   contract duration was 0.01 years, and the average contract value
   (not including contracts under $10k) was $6.0M. The longest
   contract was 0.01 years. The largest contract by value (including
   amendments) was $6.0M.
+lookup_name: 'APPLIED SYSTEMS ENGINEERING'
 most_recent_fiscal_year_total: '6.0M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

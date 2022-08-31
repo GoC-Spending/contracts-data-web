@@ -1,5 +1,5 @@
 ---
-title: BANFIELD SEGUIN
+title: Banfield Seguin
 author: ''
 date: '2022-08-30'
 slug: banfield_seguin
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
-  in 2021-2022 on contracts with BANFIELD SEGUIN. The average
+  in 2021-2022 on contracts with Banfield Seguin. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $408.0K. The longest
   contract was 4.65 years. The largest contract by value (including
   amendments) was $4.4M.
+lookup_name: 'BANFIELD SEGUIN'
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '36'

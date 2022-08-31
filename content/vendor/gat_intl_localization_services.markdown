@@ -1,5 +1,5 @@
 ---
-title: GAT INTL LOCALIZATION SERVICES
+title: GAT International Localization Services
 author: ''
 date: '2022-08-30'
 slug: gat_intl_localization_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $147.6K
-  in 2021-2022 on contracts with GAT INTL LOCALIZATION SERVICES. The average
+  in 2021-2022 on contracts with GAT International Localization Services. The average
   contract duration was 1.11 years, and the average contract value
   (not including contracts under $10k) was $302.8K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $805.9K.
+lookup_name: 'GAT INTL LOCALIZATION SERVICES'
 most_recent_fiscal_year_total: '147.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

@@ -1,5 +1,5 @@
 ---
-title: VVI CONSTRUCTION
+title: VVI Construction
 author: ''
 date: '2022-08-30'
 slug: vvi_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
-  in 2021-2022 on contracts with VVI CONSTRUCTION. The average
+  in 2021-2022 on contracts with VVI Construction. The average
   contract duration was 1.54 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $5.5M.
+lookup_name: 'VVI CONSTRUCTION'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

@@ -1,5 +1,5 @@
 ---
-title: ZERNAM ENTERPRISE
+title: Zernam Enterprise
 author: ''
 date: '2022-08-30'
 slug: zernam_enterprise
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with ZERNAM ENTERPRISE. The average
+  in 2021-2022 on contracts with Zernam Enterprise. The average
   contract duration was 1.14 years, and the average contract value
   (not including contracts under $10k) was $202.8K. The longest
   contract was 3.99 years. The largest contract by value (including
   amendments) was $787.8K.
+lookup_name: 'ZERNAM ENTERPRISE'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '52'

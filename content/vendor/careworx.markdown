@@ -1,5 +1,5 @@
 ---
-title: CAREWORX
+title: CareWorx
 author: ''
 date: '2022-08-30'
 slug: careworx
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $122.6K
-  in 2021-2022 on contracts with CAREWORX. The average
+  in 2021-2022 on contracts with CareWorx. The average
   contract duration was 0.65 years, and the average contract value
   (not including contracts under $10k) was $178.0K. The longest
   contract was 4.11 years. The largest contract by value (including
   amendments) was $681.0K.
+lookup_name: 'CAREWORX'
 most_recent_fiscal_year_total: '122.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '27'

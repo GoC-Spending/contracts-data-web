@@ -1,5 +1,5 @@
 ---
-title: INVENTA SALES AND PROMOTIONS
+title: Inventa Sales and Promotions
 author: ''
 date: '2022-08-30'
 slug: inventa_sales_and_promotions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2019-2020 on contracts with INVENTA SALES AND PROMOTIONS. The average
+  in 2019-2020 on contracts with Inventa Sales and Promotions. The average
   contract duration was 0.98 years, and the average contract value
   (not including contracts under $10k) was $3.2M. The longest
   contract was 1.79 years. The largest contract by value (including
   amendments) was $6.2M.
+lookup_name: 'INVENTA SALES AND PROMOTIONS'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

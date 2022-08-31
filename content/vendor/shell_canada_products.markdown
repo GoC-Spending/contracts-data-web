@@ -1,5 +1,5 @@
 ---
-title: SHELL CANADA PRODUCTS
+title: Shell Canada Products
 author: ''
 date: '2022-08-30'
 slug: shell_canada_products
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.6M
-  in 2021-2022 on contracts with SHELL CANADA PRODUCTS. The average
+  in 2021-2022 on contracts with Shell Canada Products. The average
   contract duration was 0.03 years, and the average contract value
   (not including contracts under $10k) was $68.4K. The longest
   contract was 11.01 years. The largest contract by value (including
   amendments) was $5.9M.
+lookup_name: 'SHELL CANADA PRODUCTS'
 most_recent_fiscal_year_total: '9.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,822'

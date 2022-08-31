@@ -1,5 +1,5 @@
 ---
-title: P B ENTREPRISES
+title: P B Entreprises
 author: ''
 date: '2022-08-30'
 slug: p_b_entreprises
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $46.3K
-  in 2021-2022 on contracts with P B ENTREPRISES. The average
+  in 2021-2022 on contracts with P B Entreprises. The average
   contract duration was 0.49 years, and the average contract value
   (not including contracts under $10k) was $988.6K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $6.7M.
+lookup_name: 'P B ENTREPRISES'
 most_recent_fiscal_year_total: '46.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

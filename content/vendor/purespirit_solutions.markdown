@@ -1,5 +1,5 @@
 ---
-title: PURESPIRIT SOLUTIONS
+title: PureSpirIT Solutions
 author: ''
 date: '2022-08-30'
 slug: purespirit_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $27.0M
-  in 2021-2022 on contracts with PURESPIRIT SOLUTIONS. The average
+  in 2021-2022 on contracts with PureSpirIT Solutions. The average
   contract duration was 0.49 years, and the average contract value
   (not including contracts under $10k) was $210.6K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $12.2M.
+lookup_name: 'PURESPIRIT SOLUTIONS'
 most_recent_fiscal_year_total: '27.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '375'

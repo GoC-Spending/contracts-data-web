@@ -1,5 +1,5 @@
 ---
-title: EASTWAY CONTRACTING
+title: Eastway Contracting
 author: ''
 date: '2022-08-30'
 slug: eastway_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $340.6K
-  in 2021-2022 on contracts with EASTWAY CONTRACTING. The average
+  in 2021-2022 on contracts with Eastway Contracting. The average
   contract duration was 0.37 years, and the average contract value
   (not including contracts under $10k) was $313.7K. The longest
   contract was 3.13 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'EASTWAY CONTRACTING'
 most_recent_fiscal_year_total: '340.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '32'

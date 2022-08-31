@@ -1,5 +1,5 @@
 ---
-title: CHUBB EDWARDS
+title: Chubb Edwards
 author: ''
 date: '2022-08-30'
 slug: chubb_edwards
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with CHUBB EDWARDS. The average
+  in 2021-2022 on contracts with Chubb Edwards. The average
   contract duration was 1.73 years, and the average contract value
   (not including contracts under $10k) was $129.1K. The longest
   contract was 6.3 years. The largest contract by value (including
   amendments) was $1.2M.
+lookup_name: 'CHUBB EDWARDS'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '135'

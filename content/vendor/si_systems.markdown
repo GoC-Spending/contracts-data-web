@@ -1,5 +1,5 @@
 ---
-title: SI SYSTEMS
+title: SI Systems
 author: ''
 date: '2022-08-30'
 slug: si_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $98.1M
-  in 2021-2022 on contracts with SI SYSTEMS. The average
+  in 2021-2022 on contracts with SI Systems. The average
   contract duration was 1.47 years, and the average contract value
   (not including contracts under $10k) was $566.6K. The longest
   contract was 6.86 years. The largest contract by value (including
   amendments) was $23.6M.
+lookup_name: 'SI SYSTEMS'
 most_recent_fiscal_year_total: '98.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,091'

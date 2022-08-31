@@ -1,5 +1,5 @@
 ---
-title: SEAWAVES DEVELOPMENT SERVICES
+title: Seawaves Development Services
 author: ''
 date: '2022-08-30'
 slug: seawaves_development_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.3M
-  in 2019-2020 on contracts with SEAWAVES DEVELOPMENT SERVICES. The average
+  in 2019-2020 on contracts with Seawaves Development Services. The average
   contract duration was 0.79 years, and the average contract value
   (not including contracts under $10k) was $3.4M. The longest
   contract was 1.18 years. The largest contract by value (including
   amendments) was $4.0M.
+lookup_name: 'SEAWAVES DEVELOPMENT SERVICES'
 most_recent_fiscal_year_total: '6.3M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

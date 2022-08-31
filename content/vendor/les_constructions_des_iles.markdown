@@ -1,5 +1,5 @@
 ---
-title: LES CONSTRUCTIONS DES ILES
+title: Les Constructions Des Iles
 author: ''
 date: '2022-08-30'
 slug: les_constructions_des_iles
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with LES CONSTRUCTIONS DES ILES. The average
+  in 2021-2022 on contracts with Les Constructions Des Iles. The average
   contract duration was 1.12 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 5.65 years. The largest contract by value (including
   amendments) was $5.8M.
+lookup_name: 'LES CONSTRUCTIONS DES ILES'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

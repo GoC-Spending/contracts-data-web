@@ -1,5 +1,5 @@
 ---
-title: BMT FLEET TECHNOLOGY
+title: BMT Fleet Technology
 author: ''
 date: '2022-08-30'
 slug: bmt_fleet_technology
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.7M
-  in 2021-2022 on contracts with BMT FLEET TECHNOLOGY. The average
+  in 2021-2022 on contracts with BMT Fleet Technology. The average
   contract duration was 0.93 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 7.11 years. The largest contract by value (including
   amendments) was $77.9M.
+lookup_name: 'BMT FLEET TECHNOLOGY'
 most_recent_fiscal_year_total: '15.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '35'

@@ -1,5 +1,5 @@
 ---
-title: SCHOELER HEATON ARCHITECTS
+title: Schoeler Heaton Architects
 author: ''
 date: '2022-08-30'
 slug: schoeler_heaton_architects
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with SCHOELER HEATON ARCHITECTS. The average
+  in 2021-2022 on contracts with Schoeler Heaton Architects. The average
   contract duration was 1.9 years, and the average contract value
   (not including contracts under $10k) was $337.2K. The longest
   contract was 7.17 years. The largest contract by value (including
   amendments) was $1.9M.
+lookup_name: 'SCHOELER HEATON ARCHITECTS'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '30'

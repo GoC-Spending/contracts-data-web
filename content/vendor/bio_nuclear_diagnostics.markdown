@@ -1,5 +1,5 @@
 ---
-title: BIO NUCLEAR DIAGNOSTICS
+title: Bio Nuclear Diagnostics
 author: ''
 date: '2022-08-30'
 slug: bio_nuclear_diagnostics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $16.5M
-  in 2021-2022 on contracts with BIO NUCLEAR DIAGNOSTICS. The average
+  in 2021-2022 on contracts with Bio Nuclear Diagnostics. The average
   contract duration was 0.99 years, and the average contract value
   (not including contracts under $10k) was $3.8M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $26.7M.
+lookup_name: 'BIO NUCLEAR DIAGNOSTICS'
 most_recent_fiscal_year_total: '16.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

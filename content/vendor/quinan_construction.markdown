@@ -1,5 +1,5 @@
 ---
-title: QUINAN CONSTRUCTION
+title: Quinan Construction
 author: ''
 date: '2022-08-30'
 slug: quinan_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.8M
-  in 2021-2022 on contracts with QUINAN CONSTRUCTION. The average
+  in 2021-2022 on contracts with Quinan Construction. The average
   contract duration was 1.45 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $9.7M.
+lookup_name: 'QUINAN CONSTRUCTION'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'

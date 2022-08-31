@@ -1,5 +1,5 @@
 ---
-title: GINO PELLETIER FOREX MALI DIELY MOUSSA KOUYATE GID
+title: Gino Pelletier Forex Mali Diely Moussa Kouyate Gid
 author: ''
 date: '2022-08-30'
 slug: gino_pelletier_forex_mali_diely_moussa_kouyate_gid
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $340.6K
-  in 2021-2022 on contracts with GINO PELLETIER FOREX MALI DIELY MOUSSA KOUYATE GID. The average
+  in 2021-2022 on contracts with Gino Pelletier Forex Mali Diely Moussa Kouyate Gid. The average
   contract duration was 5.01 years, and the average contract value
   (not including contracts under $10k) was $7.4M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $7.4M.
+lookup_name: 'GINO PELLETIER FOREX MALI DIELY MOUSSA KOUYATE GID'
 most_recent_fiscal_year_total: '340.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

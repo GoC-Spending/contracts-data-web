@@ -1,5 +1,5 @@
 ---
-title: GABRIELA OLIVEIRA
+title: Gabriela Oliveira
 author: ''
 date: '2022-08-30'
 slug: gabriela_oliveira
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $51.8M
-  in 2021-2022 on contracts with GABRIELA OLIVEIRA. The average
+  in 2021-2022 on contracts with Gabriela Oliveira. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $56.3M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $56.3M.
+lookup_name: 'GABRIELA OLIVEIRA'
 most_recent_fiscal_year_total: '51.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

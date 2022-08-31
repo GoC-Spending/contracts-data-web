@@ -1,5 +1,5 @@
 ---
-title: OGILVY MONTREAL
+title: Ogilvy Montreal
 author: ''
 date: '2022-08-30'
 slug: ogilvy_montreal
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $480.9K
-  in 2021-2022 on contracts with OGILVY MONTREAL. The average
+  in 2021-2022 on contracts with Ogilvy Montreal. The average
   contract duration was 1.12 years, and the average contract value
   (not including contracts under $10k) was $565.4K. The longest
   contract was 3.04 years. The largest contract by value (including
   amendments) was $2.4M.
+lookup_name: 'OGILVY MONTREAL'
 most_recent_fiscal_year_total: '480.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

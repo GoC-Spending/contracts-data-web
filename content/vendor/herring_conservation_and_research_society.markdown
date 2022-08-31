@@ -1,5 +1,5 @@
 ---
-title: HERRING CONSERVATION AND RESEARCH SOCIETY
+title: Herring Conservation and Research Society
 author: ''
 date: '2022-08-30'
 slug: herring_conservation_and_research_society
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $360.6K
-  in 2021-2022 on contracts with HERRING CONSERVATION AND RESEARCH SOCIETY. The average
+  in 2021-2022 on contracts with Herring Conservation and Research Society. The average
   contract duration was 0.84 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $2.9M.
+lookup_name: 'HERRING CONSERVATION AND RESEARCH SOCIETY'
 most_recent_fiscal_year_total: '360.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

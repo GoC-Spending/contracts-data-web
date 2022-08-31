@@ -1,5 +1,5 @@
 ---
-title: MOSS DEVELOPMENT
+title: Moss Development
 author: ''
 date: '2022-08-30'
 slug: moss_development
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with MOSS DEVELOPMENT. The average
+  in 2021-2022 on contracts with Moss Development. The average
   contract duration was 1.51 years, and the average contract value
   (not including contracts under $10k) was $2.1M. The longest
   contract was 2.27 years. The largest contract by value (including
   amendments) was $4.8M.
+lookup_name: 'MOSS DEVELOPMENT'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

@@ -1,5 +1,5 @@
 ---
-title: SNC LAVALIN
+title: SNC Lavalin
 author: ''
 date: '2022-08-30'
 slug: snc_lavalin
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $85.0M
-  in 2021-2022 on contracts with SNC LAVALIN. The average
+  in 2021-2022 on contracts with SNC Lavalin. The average
   contract duration was 1.24 years, and the average contract value
   (not including contracts under $10k) was $2.3M. The longest
   contract was 11.98 years. The largest contract by value (including
   amendments) was $760.8M.
+lookup_name: 'SNC LAVALIN'
 most_recent_fiscal_year_total: '85.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '598'

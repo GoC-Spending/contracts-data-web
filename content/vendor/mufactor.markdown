@@ -1,5 +1,5 @@
 ---
-title: MUFACTOR
+title: Mufactor
 author: ''
 date: '2022-08-30'
 slug: mufactor
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $256.2M
-  in 2020-2021 on contracts with MUFACTOR. The average
+  in 2020-2021 on contracts with Mufactor. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $256.2M. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $256.2M.
+lookup_name: 'MUFACTOR'
 most_recent_fiscal_year_total: '256.2M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

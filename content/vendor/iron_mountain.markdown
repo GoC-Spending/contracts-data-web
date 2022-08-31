@@ -1,5 +1,5 @@
 ---
-title: IRON MOUNTAIN
+title: Iron Mountain
 author: ''
 date: '2022-08-30'
 slug: iron_mountain
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $20.6M
-  in 2021-2022 on contracts with IRON MOUNTAIN. The average
+  in 2021-2022 on contracts with Iron Mountain. The average
   contract duration was 1.13 years, and the average contract value
   (not including contracts under $10k) was $204.5K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $8.5M.
+lookup_name: 'IRON MOUNTAIN'
 most_recent_fiscal_year_total: '20.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '575'

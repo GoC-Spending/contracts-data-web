@@ -1,5 +1,5 @@
 ---
-title: CARAHSOFT TECHNOLOGY
+title: Carahsoft Technology
 author: ''
 date: '2022-08-30'
 slug: carahsoft_technology
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.9M
-  in 2021-2022 on contracts with CARAHSOFT TECHNOLOGY. The average
+  in 2021-2022 on contracts with Carahsoft Technology. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $212.8K. The longest
   contract was 5.04 years. The largest contract by value (including
   amendments) was $10.5M.
+lookup_name: 'CARAHSOFT TECHNOLOGY'
 most_recent_fiscal_year_total: '8.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '279'

@@ -1,5 +1,5 @@
 ---
-title: STEPPED CARE SOLUTIONS
+title: Stepped Care Solutions
 author: ''
 date: '2022-08-30'
 slug: stepped_care_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $65.9M
-  in 2021-2022 on contracts with STEPPED CARE SOLUTIONS. The average
+  in 2021-2022 on contracts with Stepped Care Solutions. The average
   contract duration was 2.33 years, and the average contract value
   (not including contracts under $10k) was $153.7M. The longest
   contract was 2.33 years. The largest contract by value (including
   amendments) was $153.7M.
+lookup_name: 'STEPPED CARE SOLUTIONS'
 most_recent_fiscal_year_total: '65.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

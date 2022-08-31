@@ -1,5 +1,5 @@
 ---
-title: OKANAGAN HALFWAY HOUSE SOCIETY CRF
+title: Okanagan Halfway House Society CRF
 author: ''
 date: '2022-08-30'
 slug: okanagan_halfway_house_society_crf
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with OKANAGAN HALFWAY HOUSE SOCIETY CRF. The average
+  in 2021-2022 on contracts with Okanagan Halfway House Society CRF. The average
   contract duration was 2.63 years, and the average contract value
   (not including contracts under $10k) was $2.4M. The longest
   contract was 3.42 years. The largest contract by value (including
   amendments) was $5.1M.
+lookup_name: 'OKANAGAN HALFWAY HOUSE SOCIETY CRF'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

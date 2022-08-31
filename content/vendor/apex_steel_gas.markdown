@@ -1,5 +1,5 @@
 ---
-title: APEX STEEL GAS
+title: Apex Steel Gas
 author: ''
 date: '2022-08-30'
 slug: apex_steel_gas
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $713.6K
-  in 2021-2022 on contracts with APEX STEEL GAS. The average
+  in 2021-2022 on contracts with Apex Steel Gas. The average
   contract duration was 0.6 years, and the average contract value
   (not including contracts under $10k) was $80.1K. The longest
   contract was 3.1 years. The largest contract by value (including
   amendments) was $1.4M.
+lookup_name: 'APEX STEEL GAS'
 most_recent_fiscal_year_total: '713.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '82'

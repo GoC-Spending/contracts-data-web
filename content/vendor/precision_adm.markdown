@@ -1,5 +1,5 @@
 ---
-title: PRECISION ADM
+title: Precision ADM
 author: ''
 date: '2022-08-30'
 slug: precision_adm
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.8M
-  in 2021-2022 on contracts with PRECISION ADM. The average
+  in 2021-2022 on contracts with Precision ADM. The average
   contract duration was 1.05 years, and the average contract value
   (not including contracts under $10k) was $18.3M. The longest
   contract was 1.05 years. The largest contract by value (including
   amendments) was $18.3M.
+lookup_name: 'PRECISION ADM'
 most_recent_fiscal_year_total: '5.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

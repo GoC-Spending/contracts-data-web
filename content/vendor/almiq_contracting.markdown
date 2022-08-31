@@ -1,5 +1,5 @@
 ---
-title: ALMIQ CONTRACTING
+title: Almiq Contracting
 author: ''
 date: '2022-08-30'
 slug: almiq_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.6M
-  in 2018-2019 on contracts with ALMIQ CONTRACTING. The average
+  in 2018-2019 on contracts with Almiq Contracting. The average
   contract duration was 4.27 years, and the average contract value
   (not including contracts under $10k) was $55.9M. The longest
   contract was 4.27 years. The largest contract by value (including
   amendments) was $55.9M.
+lookup_name: 'ALMIQ CONTRACTING'
 most_recent_fiscal_year_total: '6.6M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '1'

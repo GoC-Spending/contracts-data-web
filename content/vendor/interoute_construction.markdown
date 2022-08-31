@@ -1,5 +1,5 @@
 ---
-title: INTEROUTE CONSTRUCTION
+title: Interoute Construction
 author: ''
 date: '2022-08-30'
 slug: interoute_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $279.3K
-  in 2020-2021 on contracts with INTEROUTE CONSTRUCTION. The average
+  in 2020-2021 on contracts with Interoute Construction. The average
   contract duration was 1.21 years, and the average contract value
   (not including contracts under $10k) was $4.4M. The longest
   contract was 2.44 years. The largest contract by value (including
   amendments) was $11.8M.
+lookup_name: 'INTEROUTE CONSTRUCTION'
 most_recent_fiscal_year_total: '279.3K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '5'

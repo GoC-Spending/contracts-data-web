@@ -1,5 +1,5 @@
 ---
-title: SEYEM
+title: Seyem
 author: ''
 date: '2022-08-30'
 slug: seyem
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.3M
-  in 2018-2019 on contracts with SEYEM. The average
+  in 2018-2019 on contracts with Seyem. The average
   contract duration was 1.22 years, and the average contract value
   (not including contracts under $10k) was $8.9M. The longest
   contract was 1.22 years. The largest contract by value (including
   amendments) was $8.9M.
+lookup_name: 'SEYEM'
 most_recent_fiscal_year_total: '7.3M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '1'

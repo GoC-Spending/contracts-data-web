@@ -1,5 +1,5 @@
 ---
-title: AFW CONSTRUCTION
+title: AFW Construction
 author: ''
 date: '2022-08-30'
 slug: afw_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $143.4K
-  in 2021-2022 on contracts with AFW CONSTRUCTION. The average
+  in 2021-2022 on contracts with AFW Construction. The average
   contract duration was 0.44 years, and the average contract value
   (not including contracts under $10k) was $110.1K. The longest
   contract was 0.94 years. The largest contract by value (including
   amendments) was $1.3M.
+lookup_name: 'AFW CONSTRUCTION'
 most_recent_fiscal_year_total: '143.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '49'

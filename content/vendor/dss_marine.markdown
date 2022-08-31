@@ -1,5 +1,5 @@
 ---
-title: DSS MARINE
+title: DSS Marine
 author: ''
 date: '2022-08-30'
 slug: dss_marine
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with DSS MARINE. The average
+  in 2021-2022 on contracts with DSS Marine. The average
   contract duration was 0.62 years, and the average contract value
   (not including contracts under $10k) was $529.5K. The longest
   contract was 2.72 years. The largest contract by value (including
   amendments) was $8.9M.
+lookup_name: 'DSS MARINE'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '30'

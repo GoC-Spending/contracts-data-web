@@ -1,5 +1,5 @@
 ---
-title: ADGA GROUP
+title: ADGA Group
 author: ''
 date: '2022-08-30'
 slug: adga_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $50.1M
-  in 2021-2022 on contracts with ADGA GROUP. The average
+  in 2021-2022 on contracts with ADGA Group. The average
   contract duration was 1.9 years, and the average contract value
   (not including contracts under $10k) was $3.5M. The longest
   contract was 8.16 years. The largest contract by value (including
   amendments) was $245.5M.
+lookup_name: 'ADGA GROUP'
 most_recent_fiscal_year_total: '50.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '183'

@@ -1,5 +1,5 @@
 ---
-title: CARSWELL
+title: Carswell
 author: ''
 date: '2022-08-30'
 slug: carswell
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $27.1K
-  in 2020-2021 on contracts with CARSWELL. The average
+  in 2020-2021 on contracts with Carswell. The average
   contract duration was 0.96 years, and the average contract value
   (not including contracts under $10k) was $710.4K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $9.4M.
+lookup_name: 'CARSWELL'
 most_recent_fiscal_year_total: '27.1K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '26'

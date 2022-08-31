@@ -1,5 +1,5 @@
 ---
-title: MIKE KELLY SONS
+title: Mike Kelly Sons
 author: ''
 date: '2022-08-30'
 slug: mike_kelly_sons
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.5M
-  in 2019-2020 on contracts with MIKE KELLY SONS. The average
+  in 2019-2020 on contracts with Mike Kelly Sons. The average
   contract duration was 1.35 years, and the average contract value
   (not including contracts under $10k) was $5.4M. The longest
   contract was 1.63 years. The largest contract by value (including
   amendments) was $5.4M.
+lookup_name: 'MIKE KELLY SONS'
 most_recent_fiscal_year_total: '4.5M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

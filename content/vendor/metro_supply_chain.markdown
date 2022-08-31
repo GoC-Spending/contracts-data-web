@@ -1,5 +1,5 @@
 ---
-title: METRO SUPPLY CHAIN
+title: Metro Supply Chain
 author: ''
 date: '2022-08-30'
 slug: metro_supply_chain
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.1M
-  in 2021-2022 on contracts with METRO SUPPLY CHAIN. The average
+  in 2021-2022 on contracts with Metro Supply Chain. The average
   contract duration was 2.12 years, and the average contract value
   (not including contracts under $10k) was $20.0M. The longest
   contract was 2.12 years. The largest contract by value (including
   amendments) was $20.0M.
+lookup_name: 'METRO SUPPLY CHAIN'
 most_recent_fiscal_year_total: '5.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

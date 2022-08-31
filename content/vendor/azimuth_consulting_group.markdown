@@ -1,5 +1,5 @@
 ---
-title: AZIMUTH CONSULTING GROUP
+title: Azimuth Consulting Group
 author: ''
 date: '2022-08-30'
 slug: azimuth_consulting_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with AZIMUTH CONSULTING GROUP. The average
+  in 2021-2022 on contracts with Azimuth Consulting Group. The average
   contract duration was 1.08 years, and the average contract value
   (not including contracts under $10k) was $868.4K. The longest
   contract was 3.07 years. The largest contract by value (including
   amendments) was $3.8M.
+lookup_name: 'AZIMUTH CONSULTING GROUP'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '9'

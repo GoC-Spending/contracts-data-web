@@ -1,5 +1,5 @@
 ---
-title: NUA OFFICE
+title: NUA Office
 author: ''
 date: '2022-08-30'
 slug: nua_office
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with NUA OFFICE. The average
+  in 2021-2022 on contracts with NUA Office. The average
   contract duration was 0.46 years, and the average contract value
   (not including contracts under $10k) was $55.0K. The longest
   contract was 1.38 years. The largest contract by value (including
   amendments) was $349.6K.
+lookup_name: 'NUA OFFICE'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '112'

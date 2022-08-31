@@ -1,5 +1,5 @@
 ---
-title: NEWFOUND RECRUITING
+title: Newfound Recruiting
 author: ''
 date: '2022-08-30'
 slug: newfound_recruiting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.3M
-  in 2021-2022 on contracts with NEWFOUND RECRUITING. The average
+  in 2021-2022 on contracts with Newfound Recruiting. The average
   contract duration was 1.3 years, and the average contract value
   (not including contracts under $10k) was $302.4K. The longest
   contract was 5.08 years. The largest contract by value (including
   amendments) was $2.6M.
+lookup_name: 'NEWFOUND RECRUITING'
 most_recent_fiscal_year_total: '4.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '97'

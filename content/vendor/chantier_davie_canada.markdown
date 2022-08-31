@@ -1,5 +1,5 @@
 ---
-title: CHANTIER DAVIE CANADA
+title: Chantier Davie Canada
 author: ''
 date: '2022-08-30'
 slug: chantier_davie_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $137.4M
-  in 2021-2022 on contracts with CHANTIER DAVIE CANADA. The average
+  in 2021-2022 on contracts with Chantier Davie Canada. The average
   contract duration was 1.82 years, and the average contract value
   (not including contracts under $10k) was $184.0M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $782.7M.
+lookup_name: 'CHANTIER DAVIE CANADA'
 most_recent_fiscal_year_total: '137.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

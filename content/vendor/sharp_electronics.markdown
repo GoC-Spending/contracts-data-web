@@ -1,5 +1,5 @@
 ---
-title: SHARP ELECTRONICS
+title: Sharp Electronics
 author: ''
 date: '2022-08-30'
 slug: sharp_electronics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with SHARP ELECTRONICS. The average
+  in 2021-2022 on contracts with Sharp Electronics. The average
   contract duration was 3.9 years, and the average contract value
   (not including contracts under $10k) was $34.7K. The longest
   contract was 12.01 years. The largest contract by value (including
   amendments) was $924.1K.
+lookup_name: 'SHARP ELECTRONICS'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '497'

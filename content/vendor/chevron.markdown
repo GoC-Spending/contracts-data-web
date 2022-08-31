@@ -1,5 +1,5 @@
 ---
-title: CHEVRON
+title: Chevron
 author: ''
 date: '2022-08-30'
 slug: chevron
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $27.3K
-  in 2019-2020 on contracts with CHEVRON. The average
+  in 2019-2020 on contracts with Chevron. The average
   contract duration was 0.19 years, and the average contract value
   (not including contracts under $10k) was $108.0K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $1.3M.
+lookup_name: 'CHEVRON'
 most_recent_fiscal_year_total: '27.3K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '59'

@@ -1,5 +1,5 @@
 ---
-title: MANITOBA HYDRO
+title: Manitoba Hydro
 author: ''
 date: '2022-08-30'
 slug: manitoba_hydro
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with MANITOBA HYDRO. The average
+  in 2021-2022 on contracts with Manitoba Hydro. The average
   contract duration was 0.34 years, and the average contract value
   (not including contracts under $10k) was $115.0K. The longest
   contract was 7.78 years. The largest contract by value (including
   amendments) was $1.0M.
+lookup_name: 'MANITOBA HYDRO'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '50'

@@ -1,5 +1,5 @@
 ---
-title: TERAMACH TECHNOLOGIES
+title: Teramach Technologies
 author: ''
 date: '2022-08-30'
 slug: teramach_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $68.7M
-  in 2021-2022 on contracts with TERAMACH TECHNOLOGIES. The average
+  in 2021-2022 on contracts with Teramach Technologies. The average
   contract duration was 2.95 years, and the average contract value
   (not including contracts under $10k) was $527.9K. The longest
   contract was 10.12 years. The largest contract by value (including
   amendments) was $16.6M.
+lookup_name: 'TERAMACH TECHNOLOGIES'
 most_recent_fiscal_year_total: '68.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '817'

@@ -1,5 +1,5 @@
 ---
-title: FRASER RIVER PILE DREDGE
+title: Fraser River Pile Dredge
 author: ''
 date: '2022-08-30'
 slug: fraser_river_pile_dredge
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $26.6M
-  in 2019-2020 on contracts with FRASER RIVER PILE DREDGE. The average
+  in 2019-2020 on contracts with Fraser River Pile Dredge. The average
   contract duration was 1.45 years, and the average contract value
   (not including contracts under $10k) was $11.4M. The longest
   contract was 3.47 years. The largest contract by value (including
   amendments) was $53.0M.
+lookup_name: 'FRASER RIVER PILE DREDGE'
 most_recent_fiscal_year_total: '26.6M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '5'

@@ -1,5 +1,5 @@
 ---
-title: LES CONSTRUCTIONS BINET
+title: Les Constructions Binet
 author: ''
 date: '2022-08-30'
 slug: les_constructions_binet
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2019-2020 on contracts with LES CONSTRUCTIONS BINET. The average
+  in 2019-2020 on contracts with Les Constructions Binet. The average
   contract duration was 1.72 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 2.91 years. The largest contract by value (including
   amendments) was $7.1M.
+lookup_name: 'LES CONSTRUCTIONS BINET'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '5'

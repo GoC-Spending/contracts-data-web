@@ -15,6 +15,7 @@ description: 'Office of the Taxpayers Ombudsperson spent an estimated $22.1K
   contracts under $10k) was $44.2K. The longest contract was
   1 years. The largest contract by value (including amendments)
   was $44.2K.'
+lookup_name: 'oto-boc'
 most_recent_fiscal_year_total: '22.1K'
 most_recent_fiscal_year_year: '2017-2018'
 s431_number_of_contracts: '1'
@@ -56,7 +57,7 @@ s422_max_contract_value: '44.2K'
 ## Vendors
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/excel_human_resources/\">EXCEL HUMAN RESOURCES<\/a>"],[22107.6]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2017-2018<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/vendors/excel_human_resources/\">Excel Human Resources<\/a>"],[22107.6]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Vendor<\/th>\n      <th>2017-2018<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[1,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1]},{"className":"dt-right","targets":1}],"orderClasses":false}},"evals":["options.columnDefs.0.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/oto-boc/summary_by_fiscal_year_by_vendor.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

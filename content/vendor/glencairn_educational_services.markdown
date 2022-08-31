@@ -1,5 +1,5 @@
 ---
-title: GLENCAIRN EDUCATIONAL SERVICES
+title: Glencairn Educational Services
 author: ''
 date: '2022-08-30'
 slug: glencairn_educational_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with GLENCAIRN EDUCATIONAL SERVICES. The average
+  in 2021-2022 on contracts with Glencairn Educational Services. The average
   contract duration was 2.5 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 5.5 years. The largest contract by value (including
   amendments) was $4.6M.
+lookup_name: 'GLENCAIRN EDUCATIONAL SERVICES'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

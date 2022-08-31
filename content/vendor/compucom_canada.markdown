@@ -1,5 +1,5 @@
 ---
-title: COMPUCOM CANADA
+title: Compucom Canada
 author: ''
 date: '2022-08-30'
 slug: compucom_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $35.4M
-  in 2021-2022 on contracts with COMPUCOM CANADA. The average
+  in 2021-2022 on contracts with Compucom Canada. The average
   contract duration was 2.19 years, and the average contract value
   (not including contracts under $10k) was $746.0K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $17.0M.
+lookup_name: 'COMPUCOM CANADA'
 most_recent_fiscal_year_total: '35.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '275'

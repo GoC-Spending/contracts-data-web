@@ -1,5 +1,5 @@
 ---
-title: ARI FINANCIAL SERVICES
+title: ARI Financial Services
 author: ''
 date: '2022-08-30'
 slug: ari_financial_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.8M
-  in 2021-2022 on contracts with ARI FINANCIAL SERVICES. The average
+  in 2021-2022 on contracts with ARI Financial Services. The average
   contract duration was 0.86 years, and the average contract value
   (not including contracts under $10k) was $31.6K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $395.2K.
+lookup_name: 'ARI FINANCIAL SERVICES'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '574'

@@ -1,5 +1,5 @@
 ---
-title: CONNEX TELECOMMUNICATIONS
+title: Connex Telecommunications
 author: ''
 date: '2022-08-30'
 slug: connex_telecommunications
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
-  in 2021-2022 on contracts with CONNEX TELECOMMUNICATIONS. The average
+  in 2021-2022 on contracts with Connex Telecommunications. The average
   contract duration was 1.16 years, and the average contract value
   (not including contracts under $10k) was $241.5K. The longest
   contract was 3.24 years. The largest contract by value (including
   amendments) was $2.5M.
+lookup_name: 'CONNEX TELECOMMUNICATIONS'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '25'

@@ -1,5 +1,5 @@
 ---
-title: PETERS CONSTRUCTION
+title: Peters Construction
 author: ''
 date: '2022-08-30'
 slug: peters_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $55.2M
-  in 2021-2022 on contracts with PETERS CONSTRUCTION. The average
+  in 2021-2022 on contracts with Peters Construction. The average
   contract duration was 0.43 years, and the average contract value
   (not including contracts under $10k) was $6.2M. The longest
   contract was 2.37 years. The largest contract by value (including
   amendments) was $42.9M.
+lookup_name: 'PETERS CONSTRUCTION'
 most_recent_fiscal_year_total: '55.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

@@ -1,5 +1,5 @@
 ---
-title: CANTEX OKANAGAN CONSTRUCTION
+title: Cantex Okanagan Construction
 author: ''
 date: '2022-08-30'
 slug: cantex_okanagan_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $748.6K
-  in 2020-2021 on contracts with CANTEX OKANAGAN CONSTRUCTION. The average
+  in 2020-2021 on contracts with Cantex Okanagan Construction. The average
   contract duration was 1.11 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 1.64 years. The largest contract by value (including
   amendments) was $6.9M.
+lookup_name: 'CANTEX OKANAGAN CONSTRUCTION'
 most_recent_fiscal_year_total: '748.6K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '3'

@@ -1,5 +1,5 @@
 ---
-title: COLT CANADA
+title: Colt Canada
 author: ''
 date: '2022-08-30'
 slug: colt_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $34.9M
-  in 2021-2022 on contracts with COLT CANADA. The average
+  in 2021-2022 on contracts with Colt Canada. The average
   contract duration was 0.63 years, and the average contract value
   (not including contracts under $10k) was $1.1M. The longest
   contract was 9.93 years. The largest contract by value (including
   amendments) was $97.0M.
+lookup_name: 'COLT CANADA'
 most_recent_fiscal_year_total: '34.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '202'

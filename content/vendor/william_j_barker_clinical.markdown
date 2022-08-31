@@ -1,5 +1,5 @@
 ---
-title: WILLIAM J BARKER CLINICAL
+title: William J Barker Clinical
 author: ''
 date: '2022-08-30'
 slug: william_j_barker_clinical
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2020-2021 on contracts with WILLIAM J BARKER CLINICAL. The average
+  in 2020-2021 on contracts with William J Barker Clinical. The average
   contract duration was 1.57 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 3.67 years. The largest contract by value (including
   amendments) was $5.1M.
+lookup_name: 'WILLIAM J BARKER CLINICAL'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '4'

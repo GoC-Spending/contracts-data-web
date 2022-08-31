@@ -1,5 +1,5 @@
 ---
-title: MORNEAU SHEPELL
+title: Morneau Shepell
 author: ''
 date: '2022-08-30'
 slug: morneau_shepell
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.8M
-  in 2021-2022 on contracts with MORNEAU SHEPELL. The average
+  in 2021-2022 on contracts with Morneau Shepell. The average
   contract duration was 2.57 years, and the average contract value
   (not including contracts under $10k) was $772.6K. The longest
   contract was 10.86 years. The largest contract by value (including
   amendments) was $12.5M.
+lookup_name: 'MORNEAU SHEPELL'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '36'

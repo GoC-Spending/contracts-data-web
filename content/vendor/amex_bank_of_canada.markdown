@@ -1,5 +1,5 @@
 ---
-title: AMEX BANK OF CANADA
+title: Amex Bank of Canada
 author: ''
 date: '2022-08-30'
 slug: amex_bank_of_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
-  in 2021-2022 on contracts with AMEX BANK OF CANADA. The average
+  in 2021-2022 on contracts with Amex Bank of Canada. The average
   contract duration was 3.31 years, and the average contract value
   (not including contracts under $10k) was $9.5M. The longest
   contract was 6.96 years. The largest contract by value (including
   amendments) was $25.6M.
+lookup_name: 'AMEX BANK OF CANADA'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

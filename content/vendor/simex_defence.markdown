@@ -1,5 +1,5 @@
 ---
-title: SIMEX DEFENCE
+title: Simex Defence
 author: ''
 date: '2022-08-30'
 slug: simex_defence
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.8M
-  in 2021-2022 on contracts with SIMEX DEFENCE. The average
+  in 2021-2022 on contracts with Simex Defence. The average
   contract duration was 0.6 years, and the average contract value
   (not including contracts under $10k) was $111.5K. The longest
   contract was 5.37 years. The largest contract by value (including
   amendments) was $6.2M.
+lookup_name: 'SIMEX DEFENCE'
 most_recent_fiscal_year_total: '13.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '962'

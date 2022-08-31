@@ -1,5 +1,5 @@
 ---
-title: NEUROSCOPE
+title: Neuroscope
 author: ''
 date: '2022-08-30'
 slug: neuroscope
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $328.0K
-  in 2021-2022 on contracts with NEUROSCOPE. The average
+  in 2021-2022 on contracts with Neuroscope. The average
   contract duration was 2.41 years, and the average contract value
   (not including contracts under $10k) was $2.3M. The longest
   contract was 5.25 years. The largest contract by value (including
   amendments) was $4.8M.
+lookup_name: 'NEUROSCOPE'
 most_recent_fiscal_year_total: '328.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

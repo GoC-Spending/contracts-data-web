@@ -1,5 +1,5 @@
 ---
-title: TOFCON CONSTRUCTION
+title: TOFCON Construction
 author: ''
 date: '2022-08-30'
 slug: tofcon_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.3M
-  in 2021-2022 on contracts with TOFCON CONSTRUCTION. The average
+  in 2021-2022 on contracts with TOFCON Construction. The average
   contract duration was 1.49 years, and the average contract value
   (not including contracts under $10k) was $20.3M. The longest
   contract was 1.75 years. The largest contract by value (including
   amendments) was $38.1M.
+lookup_name: 'TOFCON CONSTRUCTION'
 most_recent_fiscal_year_total: '7.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

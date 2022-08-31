@@ -1,5 +1,5 @@
 ---
-title: REFORMAR
+title: Reformar
 author: ''
 date: '2022-08-30'
 slug: reformar
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $989.9K
-  in 2021-2022 on contracts with REFORMAR. The average
+  in 2021-2022 on contracts with Reformar. The average
   contract duration was 0.74 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 2.67 years. The largest contract by value (including
   amendments) was $2.6M.
+lookup_name: 'REFORMAR'
 most_recent_fiscal_year_total: '989.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

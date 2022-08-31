@@ -1,5 +1,5 @@
 ---
-title: TORONTO INDUSTRIES
+title: Toronto Industries
 author: ''
 date: '2022-08-30'
 slug: toronto_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.5M
-  in 2020-2021 on contracts with TORONTO INDUSTRIES. The average
+  in 2020-2021 on contracts with Toronto Industries. The average
   contract duration was 3.01 years, and the average contract value
   (not including contracts under $10k) was $11.4M. The longest
   contract was 3.01 years. The largest contract by value (including
   amendments) was $11.4M.
+lookup_name: 'TORONTO INDUSTRIES'
 most_recent_fiscal_year_total: '3.5M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

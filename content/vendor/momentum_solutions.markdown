@@ -1,5 +1,5 @@
 ---
-title: MOMENTUM SOLUTIONS
+title: Momentum Solutions
 author: ''
 date: '2022-08-30'
 slug: momentum_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with MOMENTUM SOLUTIONS. The average
+  in 2021-2022 on contracts with Momentum Solutions. The average
   contract duration was 0.14 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 1.04 years. The largest contract by value (including
   amendments) was $8.4M.
+lookup_name: 'MOMENTUM SOLUTIONS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '43'

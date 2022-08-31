@@ -1,5 +1,5 @@
 ---
-title: PACIFIC SAFETY PRODUCTS
+title: Pacific Safety Products
 author: ''
 date: '2022-08-30'
 slug: pacific_safety_products
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.4M
-  in 2021-2022 on contracts with PACIFIC SAFETY PRODUCTS. The average
+  in 2021-2022 on contracts with Pacific Safety Products. The average
   contract duration was 0.63 years, and the average contract value
   (not including contracts under $10k) was $400.3K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $12.5M.
+lookup_name: 'PACIFIC SAFETY PRODUCTS'
 most_recent_fiscal_year_total: '4.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '101'

@@ -1,5 +1,5 @@
 ---
-title: TOP ACES
+title: Top Aces
 author: ''
 date: '2022-08-30'
 slug: top_aces
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $55.5M
-  in 2021-2022 on contracts with TOP ACES. The average
+  in 2021-2022 on contracts with Top Aces. The average
   contract duration was 0.04 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 8.5 years. The largest contract by value (including
   amendments) was $472.0M.
+lookup_name: 'TOP ACES'
 most_recent_fiscal_year_total: '55.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '366'

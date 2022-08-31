@@ -1,5 +1,5 @@
 ---
-title: AMDOCS
+title: Amdocs
 author: ''
 date: '2022-08-30'
 slug: amdocs
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with AMDOCS. The average
+  in 2021-2022 on contracts with Amdocs. The average
   contract duration was 1.92 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $3.0M.
+lookup_name: 'AMDOCS'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

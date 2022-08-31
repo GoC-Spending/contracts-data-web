@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $10.3M
   (not including contracts under $10k) was $1.2M. The longest
   contract was 5.21 years. The largest contract by value (including
   amendments) was $29.4M.
+lookup_name: 'ABB'
 most_recent_fiscal_year_total: '10.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '86'

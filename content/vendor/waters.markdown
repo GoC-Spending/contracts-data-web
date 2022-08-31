@@ -1,5 +1,5 @@
 ---
-title: WATERS
+title: Waters
 author: ''
 date: '2022-08-30'
 slug: waters
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.5M
-  in 2021-2022 on contracts with WATERS. The average
+  in 2021-2022 on contracts with Waters. The average
   contract duration was 0.78 years, and the average contract value
   (not including contracts under $10k) was $109.6K. The longest
   contract was 5.13 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'WATERS'
 most_recent_fiscal_year_total: '7.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '334'

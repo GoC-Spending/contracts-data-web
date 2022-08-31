@@ -1,5 +1,5 @@
 ---
-title: GOSS GILROY
+title: Goss Gilroy
 author: ''
 date: '2022-08-30'
 slug: goss_gilroy
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.0M
-  in 2021-2022 on contracts with GOSS GILROY. The average
+  in 2021-2022 on contracts with Goss Gilroy. The average
   contract duration was 0.75 years, and the average contract value
   (not including contracts under $10k) was $108.6K. The longest
   contract was 5.41 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'GOSS GILROY'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '148'

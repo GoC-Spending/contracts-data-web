@@ -1,5 +1,5 @@
 ---
-title: PAL AEROSPACE
+title: PAL Aerospace
 author: ''
 date: '2022-08-30'
 slug: pal_aerospace
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with PAL AEROSPACE. The average
+  in 2021-2022 on contracts with PAL Aerospace. The average
   contract duration was 0.37 years, and the average contract value
   (not including contracts under $10k) was $2.1M. The longest
   contract was 10.92 years. The largest contract by value (including
   amendments) was $153.3M.
+lookup_name: 'PAL AEROSPACE'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '84'

@@ -1,5 +1,5 @@
 ---
-title: CRC CURE LABELLE
+title: CRC Cure Labelle
 author: ''
 date: '2022-08-30'
 slug: crc_cure_labelle
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with CRC CURE LABELLE. The average
+  in 2021-2022 on contracts with CRC Cure Labelle. The average
   contract duration was 3.5 years, and the average contract value
   (not including contracts under $10k) was $3.7M. The longest
   contract was 5.25 years. The largest contract by value (including
   amendments) was $5.4M.
+lookup_name: 'CRC CURE LABELLE'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

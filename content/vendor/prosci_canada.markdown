@@ -1,5 +1,5 @@
 ---
-title: PROSCI CANADA
+title: Prosci Canada
 author: ''
 date: '2022-08-30'
 slug: prosci_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.1M
-  in 2021-2022 on contracts with PROSCI CANADA. The average
+  in 2021-2022 on contracts with Prosci Canada. The average
   contract duration was 0.3 years, and the average contract value
   (not including contracts under $10k) was $55.4K. The longest
   contract was 4.01 years. The largest contract by value (including
   amendments) was $933.8K.
+lookup_name: 'PROSCI CANADA'
 most_recent_fiscal_year_total: '4.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '287'

@@ -1,5 +1,5 @@
 ---
-title: THE BOEING COMPANY
+title: The Boeing Company
 author: ''
 date: '2022-08-30'
 slug: the_boeing_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $892.8K
-  in 2019-2020 on contracts with THE BOEING COMPANY. The average
+  in 2019-2020 on contracts with The Boeing Company. The average
   contract duration was 4.9 years, and the average contract value
   (not including contracts under $10k) was $139.8M. The longest
   contract was 9.01 years. The largest contract by value (including
   amendments) was $416.9M.
+lookup_name: 'THE BOEING COMPANY'
 most_recent_fiscal_year_total: '892.8K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '3'

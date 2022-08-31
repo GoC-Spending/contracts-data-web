@@ -1,5 +1,5 @@
 ---
-title: DISMAS SOCIETY
+title: Dismas Society
 author: ''
 date: '2022-08-30'
 slug: dismas_society
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with DISMAS SOCIETY. The average
+  in 2021-2022 on contracts with Dismas Society. The average
   contract duration was 3.5 years, and the average contract value
   (not including contracts under $10k) was $3.7M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $4.9M.
+lookup_name: 'DISMAS SOCIETY'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

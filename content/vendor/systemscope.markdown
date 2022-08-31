@@ -1,5 +1,5 @@
 ---
-title: SYSTEMSCOPE
+title: Systemscope
 author: ''
 date: '2022-08-30'
 slug: systemscope
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.3M
-  in 2021-2022 on contracts with SYSTEMSCOPE. The average
+  in 2021-2022 on contracts with Systemscope. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $264.4K. The longest
   contract was 5.55 years. The largest contract by value (including
   amendments) was $3.7M.
+lookup_name: 'SYSTEMSCOPE'
 most_recent_fiscal_year_total: '7.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '153'

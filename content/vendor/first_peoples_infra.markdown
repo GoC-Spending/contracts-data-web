@@ -1,5 +1,5 @@
 ---
-title: FIRST PEOPLES INFRA
+title: First Peoples Infra
 author: ''
 date: '2022-08-30'
 slug: first_peoples_infra
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2020-2021 on contracts with FIRST PEOPLES INFRA. The average
+  in 2020-2021 on contracts with First Peoples Infra. The average
   contract duration was 1.6 years, and the average contract value
   (not including contracts under $10k) was $7.7M. The longest
   contract was 2.27 years. The largest contract by value (including
   amendments) was $7.8M.
+lookup_name: 'FIRST PEOPLES INFRA'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '2'

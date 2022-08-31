@@ -1,5 +1,5 @@
 ---
-title: R LAMBA FORENSIC PSYCH SERVICE
+title: R Lamba Forensic Psych Service
 author: ''
 date: '2022-08-30'
 slug: r_lamba_forensic_psych_service
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $501.8K
-  in 2021-2022 on contracts with R LAMBA FORENSIC PSYCH SERVICE. The average
+  in 2021-2022 on contracts with R Lamba Forensic Psych Service. The average
   contract duration was 3 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $4.0M.
+lookup_name: 'R LAMBA FORENSIC PSYCH SERVICE'
 most_recent_fiscal_year_total: '501.8K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

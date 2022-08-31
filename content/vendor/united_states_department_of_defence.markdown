@@ -1,5 +1,5 @@
 ---
-title: UNITED STATES DEPARTMENT OF DEFENCE
+title: United States Department of Defence
 author: ''
 date: '2022-08-30'
 slug: united_states_department_of_defence
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.2M
-  in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF DEFENCE. The average
+  in 2021-2022 on contracts with United States Department of Defence. The average
   contract duration was 4.01 years, and the average contract value
   (not including contracts under $10k) was $24.9M. The longest
   contract was 4.01 years. The largest contract by value (including
   amendments) was $24.9M.
+lookup_name: 'UNITED STATES DEPARTMENT OF DEFENCE'
 most_recent_fiscal_year_total: '6.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

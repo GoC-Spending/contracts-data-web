@@ -1,5 +1,5 @@
 ---
-title: CONSTRUCTION SIMDEV
+title: Construction Simdev
 author: ''
 date: '2022-08-30'
 slug: construction_simdev
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $223.4K
-  in 2021-2022 on contracts with CONSTRUCTION SIMDEV. The average
+  in 2021-2022 on contracts with Construction Simdev. The average
   contract duration was 1.89 years, and the average contract value
   (not including contracts under $10k) was $4.4M. The longest
   contract was 2.82 years. The largest contract by value (including
   amendments) was $7.7M.
+lookup_name: 'CONSTRUCTION SIMDEV'
 most_recent_fiscal_year_total: '223.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

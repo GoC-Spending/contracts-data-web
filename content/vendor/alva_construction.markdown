@@ -1,5 +1,5 @@
 ---
-title: ALVA CONSTRUCTION
+title: Alva Construction
 author: ''
 date: '2022-08-30'
 slug: alva_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
-  in 2021-2022 on contracts with ALVA CONSTRUCTION. The average
+  in 2021-2022 on contracts with Alva Construction. The average
   contract duration was 1.3 years, and the average contract value
   (not including contracts under $10k) was $2.5M. The longest
   contract was 3.28 years. The largest contract by value (including
   amendments) was $5.1M.
+lookup_name: 'ALVA CONSTRUCTION'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

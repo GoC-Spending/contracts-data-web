@@ -1,5 +1,5 @@
 ---
-title: IIC TECHNOLOGIES
+title: IIC Technologies
 author: ''
 date: '2022-08-30'
 slug: iic_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.5M
-  in 2021-2022 on contracts with IIC TECHNOLOGIES. The average
+  in 2021-2022 on contracts with IIC Technologies. The average
   contract duration was 0.84 years, and the average contract value
   (not including contracts under $10k) was $301.5K. The longest
   contract was 19.29 years. The largest contract by value (including
   amendments) was $2.5M.
+lookup_name: 'IIC TECHNOLOGIES'
 most_recent_fiscal_year_total: '4.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '74'

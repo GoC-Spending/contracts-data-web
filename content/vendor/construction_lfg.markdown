@@ -1,5 +1,5 @@
 ---
-title: CONSTRUCTION LFG
+title: Construction LFG
 author: ''
 date: '2022-08-30'
 slug: construction_lfg
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with CONSTRUCTION LFG. The average
+  in 2021-2022 on contracts with Construction LFG. The average
   contract duration was 1.06 years, and the average contract value
   (not including contracts under $10k) was $4.1M. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $11.0M.
+lookup_name: 'CONSTRUCTION LFG'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'

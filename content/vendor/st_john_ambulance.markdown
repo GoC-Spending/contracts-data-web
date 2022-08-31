@@ -1,5 +1,5 @@
 ---
-title: ST JOHN AMBULANCE
+title: St John Ambulance
 author: ''
 date: '2022-08-30'
 slug: st_john_ambulance
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.6M
-  in 2021-2022 on contracts with ST JOHN AMBULANCE. The average
+  in 2021-2022 on contracts with St John Ambulance. The average
   contract duration was 1.55 years, and the average contract value
   (not including contracts under $10k) was $791.1K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $9.8M.
+lookup_name: 'ST JOHN AMBULANCE'
 most_recent_fiscal_year_total: '4.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

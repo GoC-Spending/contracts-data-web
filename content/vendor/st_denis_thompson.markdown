@@ -1,5 +1,5 @@
 ---
-title: ST DENIS THOMPSON
+title: St Denis Thompson
 author: ''
 date: '2022-08-30'
 slug: st_denis_thompson
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.8M
-  in 2021-2022 on contracts with ST DENIS THOMPSON. The average
+  in 2021-2022 on contracts with St Denis Thompson. The average
   contract duration was 1.52 years, and the average contract value
   (not including contracts under $10k) was $5.1M. The longest
   contract was 3.75 years. The largest contract by value (including
   amendments) was $29.1M.
+lookup_name: 'ST DENIS THOMPSON'
 most_recent_fiscal_year_total: '7.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

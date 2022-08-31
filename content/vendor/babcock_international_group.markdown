@@ -1,5 +1,5 @@
 ---
-title: BABCOCK INTERNATIONAL GROUP
+title: Babcock International Group
 author: ''
 date: '2022-08-30'
 slug: babcock_international_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $229.9K
-  in 2021-2022 on contracts with BABCOCK INTERNATIONAL GROUP. The average
+  in 2021-2022 on contracts with Babcock International Group. The average
   contract duration was 1.08 years, and the average contract value
   (not including contracts under $10k) was $21.6M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $531.0M.
+lookup_name: 'BABCOCK INTERNATIONAL GROUP'
 most_recent_fiscal_year_total: '229.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '25'

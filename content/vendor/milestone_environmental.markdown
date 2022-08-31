@@ -1,5 +1,5 @@
 ---
-title: MILESTONE ENVIRONMENTAL
+title: Milestone Environmental
 author: ''
 date: '2022-08-30'
 slug: milestone_environmental
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.4M
-  in 2021-2022 on contracts with MILESTONE ENVIRONMENTAL. The average
+  in 2021-2022 on contracts with Milestone Environmental. The average
   contract duration was 0.83 years, and the average contract value
   (not including contracts under $10k) was $5.2M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $42.8M.
+lookup_name: 'MILESTONE ENVIRONMENTAL'
 most_recent_fiscal_year_total: '9.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

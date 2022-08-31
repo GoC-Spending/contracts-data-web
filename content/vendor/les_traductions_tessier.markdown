@@ -1,5 +1,5 @@
 ---
-title: LES TRADUCTIONS TESSIER
+title: Les Traductions Tessier
 author: ''
 date: '2022-08-30'
 slug: les_traductions_tessier
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $488.0K
-  in 2020-2021 on contracts with LES TRADUCTIONS TESSIER. The average
+  in 2020-2021 on contracts with Les Traductions Tessier. The average
   contract duration was 0.99 years, and the average contract value
   (not including contracts under $10k) was $141.4K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'LES TRADUCTIONS TESSIER'
 most_recent_fiscal_year_total: '488.0K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '105'

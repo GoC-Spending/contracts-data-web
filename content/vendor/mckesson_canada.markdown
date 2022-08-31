@@ -1,5 +1,5 @@
 ---
-title: MCKESSON CANADA
+title: McKesson Canada
 author: ''
 date: '2022-08-30'
 slug: mckesson_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $30.4M
-  in 2021-2022 on contracts with MCKESSON CANADA. The average
+  in 2021-2022 on contracts with McKesson Canada. The average
   contract duration was 0.05 years, and the average contract value
   (not including contracts under $10k) was $58.3K. The longest
   contract was 0.98 years. The largest contract by value (including
   amendments) was $439.6K.
+lookup_name: 'MCKESSON CANADA'
 most_recent_fiscal_year_total: '30.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3,516'

@@ -1,5 +1,5 @@
 ---
-title: FONDATION CARREFOUR NOUVEAU MONDE
+title: Fondation Carrefour Nouveau Monde
 author: ''
 date: '2022-08-30'
 slug: fondation_carrefour_nouveau_monde
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2019-2020 on contracts with FONDATION CARREFOUR NOUVEAU MONDE. The average
+  in 2019-2020 on contracts with Fondation Carrefour Nouveau Monde. The average
   contract duration was 2 years, and the average contract value
   (not including contracts under $10k) was $3.4M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $5.1M.
+lookup_name: 'FONDATION CARREFOUR NOUVEAU MONDE'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

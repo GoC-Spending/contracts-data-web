@@ -1,5 +1,5 @@
 ---
-title: BELL CANADA
+title: Bell Canada
 author: ''
 date: '2022-08-30'
 slug: bell_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $305.3M
-  in 2021-2022 on contracts with BELL CANADA. The average
+  in 2021-2022 on contracts with Bell Canada. The average
   contract duration was 2.18 years, and the average contract value
   (not including contracts under $10k) was $3.2M. The longest
   contract was 17.96 years. The largest contract by value (including
   amendments) was $624.0M.
+lookup_name: 'BELL CANADA'
 most_recent_fiscal_year_total: '305.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,064'

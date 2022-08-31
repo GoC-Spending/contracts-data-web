@@ -1,5 +1,5 @@
 ---
-title: SCALAR DECISIONS
+title: Scalar Decisions
 author: ''
 date: '2022-08-30'
 slug: scalar_decisions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $97.0K
-  in 2021-2022 on contracts with SCALAR DECISIONS. The average
+  in 2021-2022 on contracts with Scalar Decisions. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $143.3K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $1.7M.
+lookup_name: 'SCALAR DECISIONS'
 most_recent_fiscal_year_total: '97.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '44'

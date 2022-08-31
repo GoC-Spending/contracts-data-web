@@ -1,5 +1,5 @@
 ---
-title: NORTH BAY HYDRO
+title: North Bay Hydro
 author: ''
 date: '2022-08-30'
 slug: north_bay_hydro
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with NORTH BAY HYDRO. The average
+  in 2021-2022 on contracts with North Bay Hydro. The average
   contract duration was 0.08 years, and the average contract value
   (not including contracts under $10k) was $239.8K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $2.9M.
+lookup_name: 'NORTH BAY HYDRO'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '31'

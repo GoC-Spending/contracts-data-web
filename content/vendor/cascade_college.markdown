@@ -1,5 +1,5 @@
 ---
-title: CASCADE COLLEGE
+title: Cascade College
 author: ''
 date: '2022-08-30'
 slug: cascade_college
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.9M
-  in 2017-2018 on contracts with CASCADE COLLEGE. The average
+  in 2017-2018 on contracts with Cascade College. The average
   contract duration was 0 years, and the average contract value
   (not including contracts under $10k) was $3.0M. The longest
   contract was 0 years. The largest contract by value (including
   amendments) was $3.0M.
+lookup_name: 'CASCADE COLLEGE'
 most_recent_fiscal_year_total: '5.9M'
 most_recent_fiscal_year_year: '2017-2018'
 s431_number_of_contracts: '1'

@@ -1,5 +1,5 @@
 ---
-title: NOVA NETWORKS
+title: Nova Networks
 author: ''
 date: '2022-08-30'
 slug: nova_networks
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $985.6K
-  in 2021-2022 on contracts with NOVA NETWORKS. The average
+  in 2021-2022 on contracts with Nova Networks. The average
   contract duration was 0.24 years, and the average contract value
   (not including contracts under $10k) was $30.1K. The longest
   contract was 1.27 years. The largest contract by value (including
   amendments) was $214.1K.
+lookup_name: 'NOVA NETWORKS'
 most_recent_fiscal_year_total: '985.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '208'

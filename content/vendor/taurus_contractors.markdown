@@ -1,5 +1,5 @@
 ---
-title: TAURUS CONTRACTORS
+title: Taurus Contractors
 author: ''
 date: '2022-08-30'
 slug: taurus_contractors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2019-2020 on contracts with TAURUS CONTRACTORS. The average
+  in 2019-2020 on contracts with Taurus Contractors. The average
   contract duration was 0.59 years, and the average contract value
   (not including contracts under $10k) was $270.1K. The longest
   contract was 1.68 years. The largest contract by value (including
   amendments) was $1.1M.
+lookup_name: 'TAURUS CONTRACTORS'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '27'

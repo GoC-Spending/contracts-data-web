@@ -1,5 +1,5 @@
 ---
-title: ST JOSEPH PRINT GROUP
+title: St Joseph Print Group
 author: ''
 date: '2022-08-30'
 slug: st_joseph_print_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with ST JOSEPH PRINT GROUP. The average
+  in 2021-2022 on contracts with St Joseph Print Group. The average
   contract duration was 0.64 years, and the average contract value
   (not including contracts under $10k) was $98.8K. The longest
   contract was 9.1 years. The largest contract by value (including
   amendments) was $5.7M.
+lookup_name: 'ST JOSEPH PRINT GROUP'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '146'

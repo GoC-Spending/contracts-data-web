@@ -1,5 +1,5 @@
 ---
-title: MACONNERIE RAINVILLE ET FRERES
+title: Maconnerie Rainville et Freres
 author: ''
 date: '2022-08-30'
 slug: maconnerie_rainville_et_freres
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.0M
-  in 2021-2022 on contracts with MACONNERIE RAINVILLE ET FRERES. The average
+  in 2021-2022 on contracts with Maconnerie Rainville et Freres. The average
   contract duration was 1.57 years, and the average contract value
   (not including contracts under $10k) was $2.1M. The longest
   contract was 3.5 years. The largest contract by value (including
   amendments) was $4.9M.
+lookup_name: 'MACONNERIE RAINVILLE ET FRERES'
 most_recent_fiscal_year_total: '5.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

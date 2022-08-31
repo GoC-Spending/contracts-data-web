@@ -1,5 +1,5 @@
 ---
-title: SAMSON ASSOCIES
+title: Samson Associes
 author: ''
 date: '2022-08-30'
 slug: samson_associes
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.6M
-  in 2021-2022 on contracts with SAMSON ASSOCIES. The average
+  in 2021-2022 on contracts with Samson Associes. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $92.6K. The longest
   contract was 10.1 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'SAMSON ASSOCIES'
 most_recent_fiscal_year_total: '9.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '480'

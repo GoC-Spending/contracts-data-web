@@ -1,5 +1,5 @@
 ---
-title: SOCIETE EMMANUEL GREGOIRE
+title: Societe Emmanuel Gregoire
 author: ''
 date: '2022-08-30'
 slug: societe_emmanuel_gregoire
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
-  in 2021-2022 on contracts with SOCIETE EMMANUEL GREGOIRE. The average
+  in 2021-2022 on contracts with Societe Emmanuel Gregoire. The average
   contract duration was 2.78 years, and the average contract value
   (not including contracts under $10k) was $2.4M. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $3.9M.
+lookup_name: 'SOCIETE EMMANUEL GREGOIRE'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

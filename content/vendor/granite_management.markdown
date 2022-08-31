@@ -1,5 +1,5 @@
 ---
-title: GRANITE MANAGEMENT
+title: Granite Management
 author: ''
 date: '2022-08-30'
 slug: granite_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $916.6K
-  in 2021-2022 on contracts with GRANITE MANAGEMENT. The average
+  in 2021-2022 on contracts with Granite Management. The average
   contract duration was 0.34 years, and the average contract value
   (not including contracts under $10k) was $723.1K. The longest
   contract was 1.35 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'GRANITE MANAGEMENT'
 most_recent_fiscal_year_total: '916.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '13'

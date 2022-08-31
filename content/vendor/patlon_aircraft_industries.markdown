@@ -1,5 +1,5 @@
 ---
-title: PATLON AIRCRAFT INDUSTRIES
+title: Patlon Aircraft Industries
 author: ''
 date: '2022-08-30'
 slug: patlon_aircraft_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.3M
-  in 2021-2022 on contracts with PATLON AIRCRAFT INDUSTRIES. The average
+  in 2021-2022 on contracts with Patlon Aircraft Industries. The average
   contract duration was 1.37 years, and the average contract value
   (not including contracts under $10k) was $371.3K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $7.7M.
+lookup_name: 'PATLON AIRCRAFT INDUSTRIES'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '87'

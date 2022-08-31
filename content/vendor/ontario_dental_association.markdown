@@ -1,5 +1,5 @@
 ---
-title: ONTARIO DENTAL ASSOCIATION
+title: Ontario Dental Association
 author: ''
 date: '2022-08-30'
 slug: ontario_dental_association
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
-  in 2021-2022 on contracts with ONTARIO DENTAL ASSOCIATION. The average
+  in 2021-2022 on contracts with Ontario Dental Association. The average
   contract duration was 0.2 years, and the average contract value
   (not including contracts under $10k) was $33.8K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $1.8M.
+lookup_name: 'ONTARIO DENTAL ASSOCIATION'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '228'

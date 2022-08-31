@@ -1,5 +1,5 @@
 ---
-title: COSSETTE COMMUNICATIONS
+title: Cossette Communications
 author: ''
 date: '2022-08-30'
 slug: cossette_communications
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $157.7M
-  in 2021-2022 on contracts with COSSETTE COMMUNICATIONS. The average
+  in 2021-2022 on contracts with Cossette Communications. The average
   contract duration was 0.46 years, and the average contract value
   (not including contracts under $10k) was $854.5K. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $37.8M.
+lookup_name: 'COSSETTE COMMUNICATIONS'
 most_recent_fiscal_year_total: '157.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '572'

@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $23.5M
   (not including contracts under $10k) was $195.9K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $23.1M.
+lookup_name: 'ITEX'
 most_recent_fiscal_year_total: '23.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '902'

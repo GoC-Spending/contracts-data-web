@@ -1,5 +1,5 @@
 ---
-title: ADAPT PHARMA CANADA
+title: Adapt Pharma Canada
 author: ''
 date: '2022-08-30'
 slug: adapt_pharma_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $186.4K
-  in 2021-2022 on contracts with ADAPT PHARMA CANADA. The average
+  in 2021-2022 on contracts with Adapt Pharma Canada. The average
   contract duration was 0.09 years, and the average contract value
   (not including contracts under $10k) was $63.4K. The longest
   contract was 0.92 years. The largest contract by value (including
   amendments) was $741.0K.
+lookup_name: 'ADAPT PHARMA CANADA'
 most_recent_fiscal_year_total: '186.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '87'

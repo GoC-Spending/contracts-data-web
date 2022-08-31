@@ -1,5 +1,5 @@
 ---
-title: OEI KRUEGER
+title: OEI Krueger
 author: ''
 date: '2022-08-30'
 slug: oei_krueger
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
-  in 2021-2022 on contracts with OEI KRUEGER. The average
+  in 2021-2022 on contracts with OEI Krueger. The average
   contract duration was 0.35 years, and the average contract value
   (not including contracts under $10k) was $37.0K. The longest
   contract was 1.03 years. The largest contract by value (including
   amendments) was $560.3K.
+lookup_name: 'OEI KRUEGER'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '476'

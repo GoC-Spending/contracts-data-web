@@ -1,5 +1,5 @@
 ---
-title: MCKNIGHT ENTERPRISES
+title: Mcknight Enterprises
 author: ''
 date: '2022-08-30'
 slug: mcknight_enterprises
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $39.8K
-  in 2021-2022 on contracts with MCKNIGHT ENTERPRISES. The average
+  in 2021-2022 on contracts with Mcknight Enterprises. The average
   contract duration was 0.72 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 2.36 years. The largest contract by value (including
   amendments) was $5.2M.
+lookup_name: 'MCKNIGHT ENTERPRISES'
 most_recent_fiscal_year_total: '39.8K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

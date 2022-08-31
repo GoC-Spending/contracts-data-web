@@ -1,5 +1,5 @@
 ---
-title: RACEROCKS 3D
+title: RaceRocks 3D
 author: ''
 date: '2022-08-30'
 slug: racerocks_3d
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
-  in 2019-2020 on contracts with RACEROCKS 3D. The average
+  in 2019-2020 on contracts with RaceRocks 3D. The average
   contract duration was 0.65 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 1.44 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'RACEROCKS 3D'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '4'

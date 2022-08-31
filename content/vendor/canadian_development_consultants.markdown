@@ -1,5 +1,5 @@
 ---
-title: CANADIAN DEVELOPMENT CONSULTANTS
+title: Canadian Development Consultants
 author: ''
 date: '2022-08-30'
 slug: canadian_development_consultants
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $385.2K
-  in 2021-2022 on contracts with CANADIAN DEVELOPMENT CONSULTANTS. The average
+  in 2021-2022 on contracts with Canadian Development Consultants. The average
   contract duration was 0.87 years, and the average contract value
   (not including contracts under $10k) was $224.7K. The longest
   contract was 4.28 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'CANADIAN DEVELOPMENT CONSULTANTS'
 most_recent_fiscal_year_total: '385.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '44'

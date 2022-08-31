@@ -1,5 +1,5 @@
 ---
-title: ARCHITECTURE EVOQ
+title: Architecture EVOQ
 author: ''
 date: '2022-08-30'
 slug: architecture_evoq
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.2M
-  in 2021-2022 on contracts with ARCHITECTURE EVOQ. The average
+  in 2021-2022 on contracts with Architecture EVOQ. The average
   contract duration was 3.31 years, and the average contract value
   (not including contracts under $10k) was $4.2M. The longest
   contract was 18.02 years. The largest contract by value (including
   amendments) was $90.0M.
+lookup_name: 'ARCHITECTURE EVOQ'
 most_recent_fiscal_year_total: '6.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '31'

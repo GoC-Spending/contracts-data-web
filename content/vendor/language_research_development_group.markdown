@@ -1,5 +1,5 @@
 ---
-title: LANGUAGE RESEARCH DEVELOPMENT GROUP
+title: Language Research Development Group
 author: ''
 date: '2022-08-30'
 slug: language_research_development_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.8M
-  in 2021-2022 on contracts with LANGUAGE RESEARCH DEVELOPMENT GROUP. The average
+  in 2021-2022 on contracts with Language Research Development Group. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $208.7K. The longest
   contract was 5.22 years. The largest contract by value (including
   amendments) was $9.2M.
+lookup_name: 'LANGUAGE RESEARCH DEVELOPMENT GROUP'
 most_recent_fiscal_year_total: '7.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '219'

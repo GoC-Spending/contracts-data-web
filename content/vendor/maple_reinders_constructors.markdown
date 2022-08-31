@@ -1,5 +1,5 @@
 ---
-title: MAPLE REINDERS CONSTRUCTORS
+title: Maple Reinders Constructors
 author: ''
 date: '2022-08-30'
 slug: maple_reinders_constructors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $75.5M
-  in 2021-2022 on contracts with MAPLE REINDERS CONSTRUCTORS. The average
+  in 2021-2022 on contracts with Maple Reinders Constructors. The average
   contract duration was 6.44 years, and the average contract value
   (not including contracts under $10k) was $89.0M. The longest
   contract was 9.42 years. The largest contract by value (including
   amendments) was $237.6M.
+lookup_name: 'MAPLE REINDERS CONSTRUCTORS'
 most_recent_fiscal_year_total: '75.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

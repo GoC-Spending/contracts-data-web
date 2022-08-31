@@ -1,5 +1,5 @@
 ---
-title: ONIX NETWORKING CANADA
+title: Onix Networking Canada
 author: ''
 date: '2022-08-30'
 slug: onix_networking_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $461.7K
-  in 2021-2022 on contracts with ONIX NETWORKING CANADA. The average
+  in 2021-2022 on contracts with Onix Networking Canada. The average
   contract duration was 3.82 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $4.5M.
+lookup_name: 'ONIX NETWORKING CANADA'
 most_recent_fiscal_year_total: '461.7K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

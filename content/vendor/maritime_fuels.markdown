@@ -1,5 +1,5 @@
 ---
-title: MARITIME FUELS
+title: Maritime Fuels
 author: ''
 date: '2022-08-30'
 slug: maritime_fuels
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.0M
-  in 2021-2022 on contracts with MARITIME FUELS. The average
+  in 2021-2022 on contracts with Maritime Fuels. The average
   contract duration was 0.17 years, and the average contract value
   (not including contracts under $10k) was $37.0K. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $1.0M.
+lookup_name: 'MARITIME FUELS'
 most_recent_fiscal_year_total: '6.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '325'

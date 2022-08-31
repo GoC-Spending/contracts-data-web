@@ -1,5 +1,5 @@
 ---
-title: CAMPBELL DRUG STORES
+title: Campbell Drug Stores
 author: ''
 date: '2022-08-30'
 slug: campbell_drug_stores
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $163.4M
-  in 2020-2021 on contracts with CAMPBELL DRUG STORES. The average
+  in 2020-2021 on contracts with Campbell Drug Stores. The average
   contract duration was 1.01 years, and the average contract value
   (not including contracts under $10k) was $165.2M. The longest
   contract was 1.01 years. The largest contract by value (including
   amendments) was $165.2M.
+lookup_name: 'CAMPBELL DRUG STORES'
 most_recent_fiscal_year_total: '163.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

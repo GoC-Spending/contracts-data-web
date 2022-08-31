@@ -1,5 +1,5 @@
 ---
-title: AIRBUS
+title: Airbus
 author: ''
 date: '2022-08-30'
 slug: airbus
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $249.3M
-  in 2021-2022 on contracts with AIRBUS. The average
+  in 2021-2022 on contracts with Airbus. The average
   contract duration was 0.44 years, and the average contract value
   (not including contracts under $10k) was $19.7M. The longest
   contract was 12.01 years. The largest contract by value (including
   amendments) was $2.9B.
+lookup_name: 'AIRBUS'
 most_recent_fiscal_year_total: '249.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '150'

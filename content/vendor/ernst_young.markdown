@@ -1,5 +1,5 @@
 ---
-title: ERNST YOUNG
+title: Ernst Young
 author: ''
 date: '2022-08-30'
 slug: ernst_young
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $29.9M
-  in 2021-2022 on contracts with ERNST YOUNG. The average
+  in 2021-2022 on contracts with Ernst Young. The average
   contract duration was 1.15 years, and the average contract value
   (not including contracts under $10k) was $384.6K. The longest
   contract was 6.27 years. The largest contract by value (including
   amendments) was $8.2M.
+lookup_name: 'ERNST YOUNG'
 most_recent_fiscal_year_total: '29.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '320'

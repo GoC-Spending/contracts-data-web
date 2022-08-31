@@ -1,5 +1,5 @@
 ---
-title: PEPCO
+title: Pepco
 author: ''
 date: '2022-08-30'
 slug: pepco
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $22.3K
-  in 2021-2022 on contracts with PEPCO. The average
+  in 2021-2022 on contracts with Pepco. The average
   contract duration was 0.15 years, and the average contract value
   (not including contracts under $10k) was $37.1K. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $517.5K.
+lookup_name: 'PEPCO'
 most_recent_fiscal_year_total: '22.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '222'

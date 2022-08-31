@@ -1,5 +1,5 @@
 ---
-title: XTECH EXPLOSIVE DECONTAMINATION
+title: Xtech Explosive Decontamination
 author: ''
 date: '2022-08-30'
 slug: xtech_explosive_decontamination
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with XTECH EXPLOSIVE DECONTAMINATION. The average
+  in 2021-2022 on contracts with Xtech Explosive Decontamination. The average
   contract duration was 1.74 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 4.01 years. The largest contract by value (including
   amendments) was $6.2M.
+lookup_name: 'XTECH EXPLOSIVE DECONTAMINATION'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

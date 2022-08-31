@@ -1,5 +1,5 @@
 ---
-title: WESTJET
+title: Westjet
 author: ''
 date: '2022-08-30'
 slug: westjet
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $292.7K
-  in 2021-2022 on contracts with WESTJET. The average
+  in 2021-2022 on contracts with Westjet. The average
   contract duration was 0.32 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 0.53 years. The largest contract by value (including
   amendments) was $8.0M.
+lookup_name: 'WESTJET'
 most_recent_fiscal_year_total: '292.7K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

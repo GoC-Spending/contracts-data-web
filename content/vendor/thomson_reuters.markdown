@@ -1,5 +1,5 @@
 ---
-title: THOMSON REUTERS
+title: Thomson Reuters
 author: ''
 date: '2022-08-30'
 slug: thomson_reuters
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.7M
-  in 2021-2022 on contracts with THOMSON REUTERS. The average
+  in 2021-2022 on contracts with Thomson Reuters. The average
   contract duration was 0.94 years, and the average contract value
   (not including contracts under $10k) was $156.2K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $6.9M.
+lookup_name: 'THOMSON REUTERS'
 most_recent_fiscal_year_total: '5.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '163'

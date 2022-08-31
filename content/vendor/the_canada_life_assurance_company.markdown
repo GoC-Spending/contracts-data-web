@@ -1,5 +1,5 @@
 ---
-title: THE CANADA LIFE ASSURANCE COMPANY
+title: The Canada Life Assurance Company
 author: ''
 date: '2022-08-30'
 slug: the_canada_life_assurance_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $17.9M
-  in 2021-2022 on contracts with THE CANADA LIFE ASSURANCE COMPANY. The average
+  in 2021-2022 on contracts with The Canada Life Assurance Company. The average
   contract duration was 1.85 years, and the average contract value
   (not including contracts under $10k) was $64.3M. The longest
   contract was 9.59 years. The largest contract by value (including
   amendments) was $514.5M.
+lookup_name: 'THE CANADA LIFE ASSURANCE COMPANY'
 most_recent_fiscal_year_total: '17.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

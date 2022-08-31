@@ -1,5 +1,5 @@
 ---
-title: AIRBOSS DEFENSE
+title: AirBoss Defense
 author: ''
 date: '2022-08-30'
 slug: airboss_defense
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $406.8K
-  in 2021-2022 on contracts with AIRBOSS DEFENSE. The average
+  in 2021-2022 on contracts with AirBoss Defense. The average
   contract duration was 1.11 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $6.0M.
+lookup_name: 'AIRBOSS DEFENSE'
 most_recent_fiscal_year_total: '406.8K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

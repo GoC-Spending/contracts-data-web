@@ -1,5 +1,5 @@
 ---
-title: CONSTRUCTION CYBCO
+title: Construction Cybco
 author: ''
 date: '2022-08-30'
 slug: construction_cybco
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.3M
-  in 2021-2022 on contracts with CONSTRUCTION CYBCO. The average
+  in 2021-2022 on contracts with Construction Cybco. The average
   contract duration was 3.52 years, and the average contract value
   (not including contracts under $10k) was $12.0M. The longest
   contract was 7.12 years. The largest contract by value (including
   amendments) was $21.5M.
+lookup_name: 'CONSTRUCTION CYBCO'
 most_recent_fiscal_year_total: '6.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

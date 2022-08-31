@@ -1,5 +1,5 @@
 ---
-title: LUMINULTRA TECHNOLOGIES
+title: LuminUltra Technologies
 author: ''
 date: '2022-08-30'
 slug: luminultra_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $135.5K
-  in 2021-2022 on contracts with LUMINULTRA TECHNOLOGIES. The average
+  in 2021-2022 on contracts with LuminUltra Technologies. The average
   contract duration was 0.99 years, and the average contract value
   (not including contracts under $10k) was $34.4M. The longest
   contract was 1.19 years. The largest contract by value (including
   amendments) was $102.7M.
+lookup_name: 'LUMINULTRA TECHNOLOGIES'
 most_recent_fiscal_year_total: '135.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

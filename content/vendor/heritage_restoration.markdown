@@ -1,5 +1,5 @@
 ---
-title: HERITAGE RESTORATION
+title: Heritage Restoration
 author: ''
 date: '2022-08-30'
 slug: heritage_restoration
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $547.0K
-  in 2020-2021 on contracts with HERITAGE RESTORATION. The average
+  in 2020-2021 on contracts with Heritage Restoration. The average
   contract duration was 1.23 years, and the average contract value
   (not including contracts under $10k) was $1.1M. The longest
   contract was 3.57 years. The largest contract by value (including
   amendments) was $2.5M.
+lookup_name: 'HERITAGE RESTORATION'
 most_recent_fiscal_year_total: '547.0K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '6'

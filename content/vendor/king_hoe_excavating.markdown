@@ -1,5 +1,5 @@
 ---
-title: KING HOE EXCAVATING
+title: King Hoe Excavating
 author: ''
 date: '2022-08-30'
 slug: king_hoe_excavating
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.6M
-  in 2021-2022 on contracts with KING HOE EXCAVATING. The average
+  in 2021-2022 on contracts with King Hoe Excavating. The average
   contract duration was 0.24 years, and the average contract value
   (not including contracts under $10k) was $9.3M. The longest
   contract was 0.57 years. The largest contract by value (including
   amendments) was $14.9M.
+lookup_name: 'KING HOE EXCAVATING'
 most_recent_fiscal_year_total: '11.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

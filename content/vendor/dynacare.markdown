@@ -1,5 +1,5 @@
 ---
-title: DYNACARE
+title: Dynacare
 author: ''
 date: '2022-08-30'
 slug: dynacare
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $135.9M
-  in 2021-2022 on contracts with DYNACARE. The average
+  in 2021-2022 on contracts with Dynacare. The average
   contract duration was 1.06 years, and the average contract value
   (not including contracts under $10k) was $1.5M. The longest
   contract was 5.5 years. The largest contract by value (including
   amendments) was $120.0M.
+lookup_name: 'DYNACARE'
 most_recent_fiscal_year_total: '135.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '143'

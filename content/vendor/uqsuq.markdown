@@ -1,5 +1,5 @@
 ---
-title: UQSUQ
+title: Uqsuq
 author: ''
 date: '2022-08-30'
 slug: uqsuq
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with UQSUQ. The average
+  in 2021-2022 on contracts with Uqsuq. The average
   contract duration was 0.03 years, and the average contract value
   (not including contracts under $10k) was $24.2K. The longest
   contract was 5.04 years. The largest contract by value (including
   amendments) was $937.9K.
+lookup_name: 'UQSUQ'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '268'

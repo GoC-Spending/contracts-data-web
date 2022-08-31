@@ -1,5 +1,5 @@
 ---
-title: AVONDALE CONSTRUCTION
+title: Avondale Construction
 author: ''
 date: '2022-08-30'
 slug: avondale_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.1M
-  in 2021-2022 on contracts with AVONDALE CONSTRUCTION. The average
+  in 2021-2022 on contracts with Avondale Construction. The average
   contract duration was 0.77 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 2.29 years. The largest contract by value (including
   amendments) was $18.0M.
+lookup_name: 'AVONDALE CONSTRUCTION'
 most_recent_fiscal_year_total: '6.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '32'

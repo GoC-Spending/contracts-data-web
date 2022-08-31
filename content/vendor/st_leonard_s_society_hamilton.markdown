@@ -1,5 +1,5 @@
 ---
-title: ST LEONARD S SOCIETY HAMILTON
+title: St Leonard’s Society Hamilton
 author: ''
 date: '2022-08-30'
 slug: st_leonard_s_society_hamilton
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.0M
-  in 2021-2022 on contracts with ST LEONARD S SOCIETY HAMILTON. The average
+  in 2021-2022 on contracts with St Leonard’s Society Hamilton. The average
   contract duration was 2.47 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $5.3M.
+lookup_name: 'ST LEONARD S SOCIETY HAMILTON'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

@@ -1,5 +1,5 @@
 ---
-title: SITE ENERGY SERVICES
+title: Site Energy Services
 author: ''
 date: '2022-08-30'
 slug: site_energy_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.3M
-  in 2019-2020 on contracts with SITE ENERGY SERVICES. The average
+  in 2019-2020 on contracts with Site Energy Services. The average
   contract duration was 3.3 years, and the average contract value
   (not including contracts under $10k) was $32.3M. The longest
   contract was 3.3 years. The largest contract by value (including
   amendments) was $32.3M.
+lookup_name: 'SITE ENERGY SERVICES'
 most_recent_fiscal_year_total: '4.3M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

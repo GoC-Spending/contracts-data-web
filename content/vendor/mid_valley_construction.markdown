@@ -1,5 +1,5 @@
 ---
-title: MID VALLEY CONSTRUCTION
+title: Mid Valley Construction
 author: ''
 date: '2022-08-30'
 slug: mid_valley_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
-  in 2021-2022 on contracts with MID VALLEY CONSTRUCTION. The average
+  in 2021-2022 on contracts with Mid Valley Construction. The average
   contract duration was 0.42 years, and the average contract value
   (not including contracts under $10k) was $502.5K. The longest
   contract was 0.85 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'MID VALLEY CONSTRUCTION'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '41'

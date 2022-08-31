@@ -1,5 +1,5 @@
 ---
-title: PENN CONSTRUCTION CANADA
+title: Penn Construction Canada
 author: ''
 date: '2022-08-30'
 slug: penn_construction_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $17.6M
-  in 2021-2022 on contracts with PENN CONSTRUCTION CANADA. The average
+  in 2021-2022 on contracts with Penn Construction Canada. The average
   contract duration was 2.37 years, and the average contract value
   (not including contracts under $10k) was $19.1M. The longest
   contract was 2.98 years. The largest contract by value (including
   amendments) was $46.1M.
+lookup_name: 'PENN CONSTRUCTION CANADA'
 most_recent_fiscal_year_total: '17.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

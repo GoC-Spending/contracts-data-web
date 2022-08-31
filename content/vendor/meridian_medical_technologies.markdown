@@ -1,5 +1,5 @@
 ---
-title: MERIDIAN MEDICAL TECHNOLOGIES
+title: Meridian Medical Technologies
 author: ''
 date: '2022-08-30'
 slug: meridian_medical_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $12.4M
-  in 2021-2022 on contracts with MERIDIAN MEDICAL TECHNOLOGIES. The average
+  in 2021-2022 on contracts with Meridian Medical Technologies. The average
   contract duration was 1.73 years, and the average contract value
   (not including contracts under $10k) was $3.5M. The longest
   contract was 5.3 years. The largest contract by value (including
   amendments) was $22.2M.
+lookup_name: 'MERIDIAN MEDICAL TECHNOLOGIES'
 most_recent_fiscal_year_total: '12.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '9'

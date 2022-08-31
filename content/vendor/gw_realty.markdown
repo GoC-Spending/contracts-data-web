@@ -1,5 +1,5 @@
 ---
-title: GW REALTY
+title: GW Realty
 author: ''
 date: '2022-08-30'
 slug: gw_realty
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $559.5K
-  in 2021-2022 on contracts with GW REALTY. The average
+  in 2021-2022 on contracts with GW Realty. The average
   contract duration was 1.32 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 2.73 years. The largest contract by value (including
   amendments) was $2.6M.
+lookup_name: 'GW REALTY'
 most_recent_fiscal_year_total: '559.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

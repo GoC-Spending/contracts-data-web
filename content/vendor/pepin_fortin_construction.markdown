@@ -1,5 +1,5 @@
 ---
-title: PEPIN FORTIN CONSTRUCTION
+title: Pepin Fortin Construction
 author: ''
 date: '2022-08-30'
 slug: pepin_fortin_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.3M
-  in 2017-2018 on contracts with PEPIN FORTIN CONSTRUCTION. The average
+  in 2017-2018 on contracts with Pepin Fortin Construction. The average
   contract duration was 0.72 years, and the average contract value
   (not including contracts under $10k) was $6.3M. The longest
   contract was 0.72 years. The largest contract by value (including
   amendments) was $6.3M.
+lookup_name: 'PEPIN FORTIN CONSTRUCTION'
 most_recent_fiscal_year_total: '6.3M'
 most_recent_fiscal_year_year: '2017-2018'
 s431_number_of_contracts: '1'

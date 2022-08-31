@@ -1,5 +1,5 @@
 ---
-title: L3HARRIS
+title: L3Harris
 author: ''
 date: '2022-08-30'
 slug: l3harris
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $101.3M
-  in 2021-2022 on contracts with L3HARRIS. The average
+  in 2021-2022 on contracts with L3Harris. The average
   contract duration was 1.15 years, and the average contract value
   (not including contracts under $10k) was $5.7M. The longest
   contract was 14.83 years. The largest contract by value (including
   amendments) was $515.8M.
+lookup_name: 'L3HARRIS'
 most_recent_fiscal_year_total: '101.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '267'

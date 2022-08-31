@@ -1,5 +1,5 @@
 ---
-title: WEATHERHAVEN CANADA
+title: Weatherhaven Canada
 author: ''
 date: '2022-08-30'
 slug: weatherhaven_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $27.6M
-  in 2021-2022 on contracts with WEATHERHAVEN CANADA. The average
+  in 2021-2022 on contracts with Weatherhaven Canada. The average
   contract duration was 0.83 years, and the average contract value
   (not including contracts under $10k) was $4.8M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $153.8M.
+lookup_name: 'WEATHERHAVEN CANADA'
 most_recent_fiscal_year_total: '27.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '38'

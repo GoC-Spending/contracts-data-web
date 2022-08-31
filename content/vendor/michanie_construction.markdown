@@ -1,5 +1,5 @@
 ---
-title: MICHANIE CONSTRUCTION
+title: Michanie Construction
 author: ''
 date: '2022-08-30'
 slug: michanie_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $54.1K
-  in 2021-2022 on contracts with MICHANIE CONSTRUCTION. The average
+  in 2021-2022 on contracts with Michanie Construction. The average
   contract duration was 0.61 years, and the average contract value
   (not including contracts under $10k) was $353.9K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $8.7M.
+lookup_name: 'MICHANIE CONSTRUCTION'
 most_recent_fiscal_year_total: '54.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '34'

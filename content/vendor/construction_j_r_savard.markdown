@@ -1,5 +1,5 @@
 ---
-title: CONSTRUCTION J R SAVARD
+title: Construction J R Savard
 author: ''
 date: '2022-08-30'
 slug: construction_j_r_savard
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.3M
-  in 2020-2021 on contracts with CONSTRUCTION J R SAVARD. The average
+  in 2020-2021 on contracts with Construction J R Savard. The average
   contract duration was 1.77 years, and the average contract value
   (not including contracts under $10k) was $6.2M. The longest
   contract was 2.86 years. The largest contract by value (including
   amendments) was $12.3M.
+lookup_name: 'CONSTRUCTION J R SAVARD'
 most_recent_fiscal_year_total: '4.3M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '2'

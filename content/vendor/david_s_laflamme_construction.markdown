@@ -1,5 +1,5 @@
 ---
-title: DAVID S LAFLAMME CONSTRUCTION
+title: David S Laflamme Construction
 author: ''
 date: '2022-08-30'
 slug: david_s_laflamme_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.0M
-  in 2021-2022 on contracts with DAVID S LAFLAMME CONSTRUCTION. The average
+  in 2021-2022 on contracts with David S Laflamme Construction. The average
   contract duration was 1.9 years, and the average contract value
   (not including contracts under $10k) was $4.7M. The longest
   contract was 2.82 years. The largest contract by value (including
   amendments) was $10.0M.
+lookup_name: 'DAVID S LAFLAMME CONSTRUCTION'
 most_recent_fiscal_year_total: '5.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

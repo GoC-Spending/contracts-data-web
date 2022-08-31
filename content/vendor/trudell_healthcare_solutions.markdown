@@ -1,5 +1,5 @@
 ---
-title: TRUDELL HEALTHCARE SOLUTIONS
+title: Trudell Healthcare Solutions
 author: ''
 date: '2022-08-30'
 slug: trudell_healthcare_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.2M
-  in 2021-2022 on contracts with TRUDELL HEALTHCARE SOLUTIONS. The average
+  in 2021-2022 on contracts with Trudell Healthcare Solutions. The average
   contract duration was 1.81 years, and the average contract value
   (not including contracts under $10k) was $18.4M. The longest
   contract was 1.81 years. The largest contract by value (including
   amendments) was $18.4M.
+lookup_name: 'TRUDELL HEALTHCARE SOLUTIONS'
 most_recent_fiscal_year_total: '10.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

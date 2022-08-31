@@ -1,5 +1,5 @@
 ---
-title: WESTOWER COMMUNICATIONS
+title: WesTower Communications
 author: ''
 date: '2022-08-30'
 slug: westower_communications
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $461.2K
-  in 2021-2022 on contracts with WESTOWER COMMUNICATIONS. The average
+  in 2021-2022 on contracts with WesTower Communications. The average
   contract duration was 0.51 years, and the average contract value
   (not including contracts under $10k) was $82.6K. The longest
   contract was 3.09 years. The largest contract by value (including
   amendments) was $1.4M.
+lookup_name: 'WESTOWER COMMUNICATIONS'
 most_recent_fiscal_year_total: '461.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '104'

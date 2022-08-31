@@ -1,5 +1,5 @@
 ---
-title: FLIGHTSAFETY CANADA
+title: FlightSafety Canada
 author: ''
 date: '2022-08-30'
 slug: flightsafety_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $821.0K
-  in 2021-2022 on contracts with FLIGHTSAFETY CANADA. The average
+  in 2021-2022 on contracts with FlightSafety Canada. The average
   contract duration was 1.92 years, and the average contract value
   (not including contracts under $10k) was $1.1M. The longest
   contract was 5.3 years. The largest contract by value (including
   amendments) was $3.5M.
+lookup_name: 'FLIGHTSAFETY CANADA'
 most_recent_fiscal_year_total: '821.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

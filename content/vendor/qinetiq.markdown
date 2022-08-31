@@ -1,5 +1,5 @@
 ---
-title: QINETIQ
+title: QinetiQ
 author: ''
 date: '2022-08-30'
 slug: qinetiq
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.1M
-  in 2021-2022 on contracts with QINETIQ. The average
+  in 2021-2022 on contracts with QinetiQ. The average
   contract duration was 1.02 years, and the average contract value
   (not including contracts under $10k) was $2.7M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $50.8M.
+lookup_name: 'QINETIQ'
 most_recent_fiscal_year_total: '15.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '30'

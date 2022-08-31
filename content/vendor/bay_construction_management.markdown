@@ -1,5 +1,5 @@
 ---
-title: BAY CONSTRUCTION MANAGEMENT
+title: Bay Construction Management
 author: ''
 date: '2022-08-30'
 slug: bay_construction_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $719.3K
-  in 2021-2022 on contracts with BAY CONSTRUCTION MANAGEMENT. The average
+  in 2021-2022 on contracts with Bay Construction Management. The average
   contract duration was 1.35 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 1.83 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'BAY CONSTRUCTION MANAGEMENT'
 most_recent_fiscal_year_total: '719.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

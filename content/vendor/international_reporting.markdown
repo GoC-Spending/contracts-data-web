@@ -1,5 +1,5 @@
 ---
-title: INTERNATIONAL REPORTING
+title: International Reporting
 author: ''
 date: '2022-08-30'
 slug: international_reporting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with INTERNATIONAL REPORTING. The average
+  in 2021-2022 on contracts with International Reporting. The average
   contract duration was 0.8 years, and the average contract value
   (not including contracts under $10k) was $130.3K. The longest
   contract was 4.08 years. The largest contract by value (including
   amendments) was $1.5M.
+lookup_name: 'INTERNATIONAL REPORTING'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '63'

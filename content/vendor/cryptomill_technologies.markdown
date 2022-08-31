@@ -1,5 +1,5 @@
 ---
-title: CRYPTOMILL TECHNOLOGIES
+title: CryptoMill Technologies
 author: ''
 date: '2022-08-30'
 slug: cryptomill_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
-  in 2021-2022 on contracts with CRYPTOMILL TECHNOLOGIES. The average
+  in 2021-2022 on contracts with CryptoMill Technologies. The average
   contract duration was 0.53 years, and the average contract value
   (not including contracts under $10k) was $2.8M. The longest
   contract was 0.7 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'CRYPTOMILL TECHNOLOGIES'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

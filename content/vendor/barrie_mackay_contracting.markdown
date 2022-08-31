@@ -1,5 +1,5 @@
 ---
-title: BARRIE MACKAY CONTRACTING
+title: Barrie MacKay Contracting
 author: ''
 date: '2022-08-30'
 slug: barrie_mackay_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.3M
-  in 2020-2021 on contracts with BARRIE MACKAY CONTRACTING. The average
+  in 2020-2021 on contracts with Barrie MacKay Contracting. The average
   contract duration was 3.44 years, and the average contract value
   (not including contracts under $10k) was $10.2M. The longest
   contract was 4.15 years. The largest contract by value (including
   amendments) was $11.1M.
+lookup_name: 'BARRIE MACKAY CONTRACTING'
 most_recent_fiscal_year_total: '5.3M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '2'

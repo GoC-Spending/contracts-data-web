@@ -1,5 +1,5 @@
 ---
-title: QUORUM
+title: Quorum
 author: ''
 date: '2022-08-30'
 slug: quorum
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with QUORUM. The average
+  in 2021-2022 on contracts with Quorum. The average
   contract duration was 4.78 years, and the average contract value
   (not including contracts under $10k) was $5.7M. The longest
   contract was 5.08 years. The largest contract by value (including
   amendments) was $6.7M.
+lookup_name: 'QUORUM'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

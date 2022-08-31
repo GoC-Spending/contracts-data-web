@@ -1,5 +1,5 @@
 ---
-title: NOTRA
+title: Notra
 author: ''
 date: '2022-08-30'
 slug: notra
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.8M
-  in 2021-2022 on contracts with NOTRA. The average
+  in 2021-2022 on contracts with Notra. The average
   contract duration was 0.73 years, and the average contract value
   (not including contracts under $10k) was $2.1M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $17.3M.
+lookup_name: 'NOTRA'
 most_recent_fiscal_year_total: '7.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '26'

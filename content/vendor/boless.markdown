@@ -1,5 +1,5 @@
 ---
-title: BOLESS
+title: Boless
 author: ''
 date: '2022-08-30'
 slug: boless
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $18.0M
-  in 2021-2022 on contracts with BOLESS. The average
+  in 2021-2022 on contracts with Boless. The average
   contract duration was 1.57 years, and the average contract value
   (not including contracts under $10k) was $12.6M. The longest
   contract was 3.93 years. The largest contract by value (including
   amendments) was $65.7M.
+lookup_name: 'BOLESS'
 most_recent_fiscal_year_total: '18.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

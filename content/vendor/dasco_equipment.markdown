@@ -1,5 +1,5 @@
 ---
-title: DASCO EQUIPMENT
+title: DASCO Equipment
 author: ''
 date: '2022-08-30'
 slug: dasco_equipment
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
-  in 2021-2022 on contracts with DASCO EQUIPMENT. The average
+  in 2021-2022 on contracts with DASCO Equipment. The average
   contract duration was 0.24 years, and the average contract value
   (not including contracts under $10k) was $57.2K. The longest
   contract was 4.04 years. The largest contract by value (including
   amendments) was $751.5K.
+lookup_name: 'DASCO EQUIPMENT'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '222'

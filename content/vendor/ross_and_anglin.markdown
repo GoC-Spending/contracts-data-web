@@ -1,5 +1,5 @@
 ---
-title: ROSS AND ANGLIN
+title: Ross and Anglin
 author: ''
 date: '2022-08-30'
 slug: ross_and_anglin
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
-  in 2021-2022 on contracts with ROSS AND ANGLIN. The average
+  in 2021-2022 on contracts with Ross and Anglin. The average
   contract duration was 1.48 years, and the average contract value
   (not including contracts under $10k) was $3.9M. The longest
   contract was 2.18 years. The largest contract by value (including
   amendments) was $9.1M.
+lookup_name: 'ROSS AND ANGLIN'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

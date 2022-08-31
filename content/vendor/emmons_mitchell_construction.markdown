@@ -1,5 +1,5 @@
 ---
-title: EMMONS MITCHELL CONSTRUCTION
+title: Emmons Mitchell Construction
 author: ''
 date: '2022-08-30'
 slug: emmons_mitchell_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.5M
-  in 2021-2022 on contracts with EMMONS MITCHELL CONSTRUCTION. The average
+  in 2021-2022 on contracts with Emmons Mitchell Construction. The average
   contract duration was 1.19 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 2.43 years. The largest contract by value (including
   amendments) was $13.2M.
+lookup_name: 'EMMONS MITCHELL CONSTRUCTION'
 most_recent_fiscal_year_total: '13.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '15'

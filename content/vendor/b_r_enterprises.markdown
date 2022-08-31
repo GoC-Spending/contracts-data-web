@@ -1,5 +1,5 @@
 ---
-title: B R ENTERPRISES
+title: B R Enterprises
 author: ''
 date: '2022-08-30'
 slug: b_r_enterprises
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with B R ENTERPRISES. The average
+  in 2021-2022 on contracts with B R Enterprises. The average
   contract duration was 0.55 years, and the average contract value
   (not including contracts under $10k) was $1.3M. The longest
   contract was 1.41 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'B R ENTERPRISES'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '15'

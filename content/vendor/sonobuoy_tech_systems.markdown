@@ -1,5 +1,5 @@
 ---
-title: SONOBUOY TECH SYSTEMS
+title: Sonobuoy Tech Systems
 author: ''
 date: '2022-08-30'
 slug: sonobuoy_tech_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $626.9K
-  in 2019-2020 on contracts with SONOBUOY TECH SYSTEMS. The average
+  in 2019-2020 on contracts with Sonobuoy Tech Systems. The average
   contract duration was 3.11 years, and the average contract value
   (not including contracts under $10k) was $8.0M. The longest
   contract was 3.11 years. The largest contract by value (including
   amendments) was $8.0M.
+lookup_name: 'SONOBUOY TECH SYSTEMS'
 most_recent_fiscal_year_total: '626.9K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

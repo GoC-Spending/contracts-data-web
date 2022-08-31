@@ -1,5 +1,5 @@
 ---
-title: K C E CONSTRUCTION
+title: K C E Construction
 author: ''
 date: '2022-08-30'
 slug: k_c_e_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $74.3K
-  in 2021-2022 on contracts with K C E CONSTRUCTION. The average
+  in 2021-2022 on contracts with K C E Construction. The average
   contract duration was 0.58 years, and the average contract value
   (not including contracts under $10k) was $2.4M. The longest
   contract was 2.13 years. The largest contract by value (including
   amendments) was $12.0M.
+lookup_name: 'K C E CONSTRUCTION'
 most_recent_fiscal_year_total: '74.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

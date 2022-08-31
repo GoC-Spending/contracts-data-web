@@ -1,5 +1,5 @@
 ---
-title: ALPINE AEROTECH
+title: Alpine Aerotech
 author: ''
 date: '2022-08-30'
 slug: alpine_aerotech
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with ALPINE AEROTECH. The average
+  in 2021-2022 on contracts with Alpine Aerotech. The average
   contract duration was 0.05 years, and the average contract value
   (not including contracts under $10k) was $40.0K. The longest
   contract was 0.18 years. The largest contract by value (including
   amendments) was $532.3K.
+lookup_name: 'ALPINE AEROTECH'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '138'

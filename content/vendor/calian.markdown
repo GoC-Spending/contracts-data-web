@@ -1,5 +1,5 @@
 ---
-title: CALIAN
+title: Calian
 author: ''
 date: '2022-08-30'
 slug: calian
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $307.6M
-  in 2021-2022 on contracts with CALIAN. The average
+  in 2021-2022 on contracts with Calian. The average
   contract duration was 1.18 years, and the average contract value
   (not including contracts under $10k) was $1.5M. The longest
   contract was 13.01 years. The largest contract by value (including
   amendments) was $995.6M.
+lookup_name: 'CALIAN'
 most_recent_fiscal_year_total: '307.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '988'

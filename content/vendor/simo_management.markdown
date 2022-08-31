@@ -1,5 +1,5 @@
 ---
-title: SIMO MANAGEMENT
+title: SIMO Management
 author: ''
 date: '2022-08-30'
 slug: simo_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with SIMO MANAGEMENT. The average
+  in 2021-2022 on contracts with SIMO Management. The average
   contract duration was 0.26 years, and the average contract value
   (not including contracts under $10k) was $280.1K. The longest
   contract was 3.27 years. The largest contract by value (including
   amendments) was $5.3M.
+lookup_name: 'SIMO MANAGEMENT'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '42'

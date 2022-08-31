@@ -1,5 +1,5 @@
 ---
-title: NATCO PHARMA CANADA
+title: Natco Pharma Canada
 author: ''
 date: '2022-08-30'
 slug: natco_pharma_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $539.3K
-  in 2021-2022 on contracts with NATCO PHARMA CANADA. The average
+  in 2021-2022 on contracts with Natco Pharma Canada. The average
   contract duration was 0.72 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 1.12 years. The largest contract by value (including
   amendments) was $6.8M.
+lookup_name: 'NATCO PHARMA CANADA'
 most_recent_fiscal_year_total: '539.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

@@ -1,5 +1,5 @@
 ---
-title: ATLANTIC ROAD CONSTRUCTION AND PAVING
+title: Atlantic Road Construction and Paving
 author: ''
 date: '2022-08-30'
 slug: atlantic_road_construction_and_paving
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $52.9K
-  in 2021-2022 on contracts with ATLANTIC ROAD CONSTRUCTION AND PAVING. The average
+  in 2021-2022 on contracts with Atlantic Road Construction and Paving. The average
   contract duration was 0.77 years, and the average contract value
   (not including contracts under $10k) was $1.7M. The longest
   contract was 1.42 years. The largest contract by value (including
   amendments) was $7.1M.
+lookup_name: 'ATLANTIC ROAD CONSTRUCTION AND PAVING'
 most_recent_fiscal_year_total: '52.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

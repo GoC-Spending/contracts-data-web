@@ -1,5 +1,5 @@
 ---
-title: APS AVIATION
+title: APS Aviation
 author: ''
 date: '2022-08-30'
 slug: aps_aviation
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.4M
-  in 2021-2022 on contracts with APS AVIATION. The average
+  in 2021-2022 on contracts with APS Aviation. The average
   contract duration was 1.31 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 3.89 years. The largest contract by value (including
   amendments) was $5.8M.
+lookup_name: 'APS AVIATION'
 most_recent_fiscal_year_total: '4.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

@@ -1,5 +1,5 @@
 ---
-title: MTM 2 CONTRACTING
+title: Mtm 2 Contracting
 author: ''
 date: '2022-08-30'
 slug: mtm_2_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2019-2020 on contracts with MTM 2 CONTRACTING. The average
+  in 2019-2020 on contracts with Mtm 2 Contracting. The average
   contract duration was 1.15 years, and the average contract value
   (not including contracts under $10k) was $926.7K. The longest
   contract was 3.52 years. The largest contract by value (including
   amendments) was $1.8M.
+lookup_name: 'MTM 2 CONTRACTING'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '6'

@@ -1,5 +1,5 @@
 ---
-title: D DOYLE INSTALLATIONS
+title: D Doyle Installations
 author: ''
 date: '2022-08-30'
 slug: d_doyle_installations
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $969.6K
-  in 2021-2022 on contracts with D DOYLE INSTALLATIONS. The average
+  in 2021-2022 on contracts with D Doyle Installations. The average
   contract duration was 0.54 years, and the average contract value
   (not including contracts under $10k) was $39.8K. The longest
   contract was 2.97 years. The largest contract by value (including
   amendments) was $509.5K.
+lookup_name: 'D DOYLE INSTALLATIONS'
 most_recent_fiscal_year_total: '969.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '171'

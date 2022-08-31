@@ -1,5 +1,5 @@
 ---
-title: UNISYS CANADA
+title: Unisys Canada
 author: ''
 date: '2022-08-30'
 slug: unisys_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.0M
-  in 2021-2022 on contracts with UNISYS CANADA. The average
+  in 2021-2022 on contracts with Unisys Canada. The average
   contract duration was 3.45 years, and the average contract value
   (not including contracts under $10k) was $26.0M. The longest
   contract was 7.8 years. The largest contract by value (including
   amendments) was $101.7M.
+lookup_name: 'UNISYS CANADA'
 most_recent_fiscal_year_total: '13.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

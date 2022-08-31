@@ -1,5 +1,5 @@
 ---
-title: NORTHFIELD METAL PRODUCTS
+title: Northfield Metal Products
 author: ''
 date: '2022-08-30'
 slug: northfield_metal_products
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with NORTHFIELD METAL PRODUCTS. The average
+  in 2021-2022 on contracts with Northfield Metal Products. The average
   contract duration was 0.36 years, and the average contract value
   (not including contracts under $10k) was $99.4K. The longest
   contract was 0.99 years. The largest contract by value (including
   amendments) was $879.7K.
+lookup_name: 'NORTHFIELD METAL PRODUCTS'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '112'

@@ -1,5 +1,5 @@
 ---
-title: BRITTON ELECTRIQUE
+title: Britton Electrique
 author: ''
 date: '2022-08-30'
 slug: britton_electrique
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2020-2021 on contracts with BRITTON ELECTRIQUE. The average
+  in 2020-2021 on contracts with Britton Electrique. The average
   contract duration was 2.45 years, and the average contract value
   (not including contracts under $10k) was $3.2M. The longest
   contract was 3.13 years. The largest contract by value (including
   amendments) was $6.3M.
+lookup_name: 'BRITTON ELECTRIQUE'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '2'

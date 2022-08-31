@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $11.8M
   (not including contracts under $10k) was $309.5K. The longest
   contract was 0.23 years. The largest contract by value (including
   amendments) was $1.6M.
+lookup_name: 'TACS'
 most_recent_fiscal_year_total: '11.8M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '32'

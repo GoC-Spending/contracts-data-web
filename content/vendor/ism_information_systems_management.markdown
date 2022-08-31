@@ -1,5 +1,5 @@
 ---
-title: ISM INFORMATION SYSTEMS MANAGEMENT
+title: ISM Information Systems Management
 author: ''
 date: '2022-08-30'
 slug: ism_information_systems_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.5M
-  in 2021-2022 on contracts with ISM INFORMATION SYSTEMS MANAGEMENT. The average
+  in 2021-2022 on contracts with ISM Information Systems Management. The average
   contract duration was 3 years, and the average contract value
   (not including contracts under $10k) was $46.5M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $46.5M.
+lookup_name: 'ISM INFORMATION SYSTEMS MANAGEMENT'
 most_recent_fiscal_year_total: '15.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

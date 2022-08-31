@@ -1,5 +1,5 @@
 ---
-title: SHAW CABLE
+title: Shaw Cable
 author: ''
 date: '2022-08-30'
 slug: shaw_cable
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with SHAW CABLE. The average
+  in 2021-2022 on contracts with Shaw Cable. The average
   contract duration was 5.03 years, and the average contract value
   (not including contracts under $10k) was $1.6M. The longest
   contract was 9.82 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'SHAW CABLE'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

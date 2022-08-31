@@ -1,5 +1,5 @@
 ---
-title: J M J HOLDINGS
+title: J M J Holdings
 author: ''
 date: '2022-08-30'
 slug: j_m_j_holdings
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
-  in 2021-2022 on contracts with J M J HOLDINGS. The average
+  in 2021-2022 on contracts with J M J Holdings. The average
   contract duration was 1.17 years, and the average contract value
   (not including contracts under $10k) was $6.1M. The longest
   contract was 2.33 years. The largest contract by value (including
   amendments) was $27.2M.
+lookup_name: 'J M J HOLDINGS'
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

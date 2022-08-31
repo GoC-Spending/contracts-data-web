@@ -1,5 +1,5 @@
 ---
-title: NUNA EAST
+title: Nuna East
 author: ''
 date: '2022-08-30'
 slug: nuna_east
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.4M
-  in 2021-2022 on contracts with NUNA EAST. The average
+  in 2021-2022 on contracts with Nuna East. The average
   contract duration was 5.79 years, and the average contract value
   (not including contracts under $10k) was $29.8M. The longest
   contract was 8.99 years. The largest contract by value (including
   amendments) was $62.8M.
+lookup_name: 'NUNA EAST'
 most_recent_fiscal_year_total: '11.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

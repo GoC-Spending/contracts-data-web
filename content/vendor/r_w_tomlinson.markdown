@@ -1,5 +1,5 @@
 ---
-title: R W TOMLINSON
+title: R W Tomlinson
 author: ''
 date: '2022-08-30'
 slug: r_w_tomlinson
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with R W TOMLINSON. The average
+  in 2021-2022 on contracts with R W Tomlinson. The average
   contract duration was 0.71 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 2.34 years. The largest contract by value (including
   amendments) was $7.4M.
+lookup_name: 'R W TOMLINSON'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

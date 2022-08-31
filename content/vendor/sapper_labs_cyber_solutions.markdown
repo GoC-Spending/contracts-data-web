@@ -1,5 +1,5 @@
 ---
-title: SAPPER LABS CYBER SOLUTIONS
+title: Sapper Labs Cyber Solutions
 author: ''
 date: '2022-08-30'
 slug: sapper_labs_cyber_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.0M
-  in 2021-2022 on contracts with SAPPER LABS CYBER SOLUTIONS. The average
+  in 2021-2022 on contracts with Sapper Labs Cyber Solutions. The average
   contract duration was 2.02 years, and the average contract value
   (not including contracts under $10k) was $8.0M. The longest
   contract was 2.02 years. The largest contract by value (including
   amendments) was $8.0M.
+lookup_name: 'SAPPER LABS CYBER SOLUTIONS'
 most_recent_fiscal_year_total: '4.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

@@ -1,5 +1,5 @@
 ---
-title: 1X1 ARCHITECTURE
+title: 1X1 Architecture
 author: ''
 date: '2022-08-30'
 slug: 1x1_architecture
@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $1.4M
   (not including contracts under $10k) was $131.9K. The longest
   contract was 4.07 years. The largest contract by value (including
   amendments) was $509.2K.
+lookup_name: '1X1 ARCHITECTURE'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '52'

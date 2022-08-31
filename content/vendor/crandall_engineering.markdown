@@ -1,5 +1,5 @@
 ---
-title: CRANDALL ENGINEERING
+title: Crandall Engineering
 author: ''
 date: '2022-08-30'
 slug: crandall_engineering
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
-  in 2021-2022 on contracts with CRANDALL ENGINEERING. The average
+  in 2021-2022 on contracts with Crandall Engineering. The average
   contract duration was 1.83 years, and the average contract value
   (not including contracts under $10k) was $599.5K. The longest
   contract was 4.52 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'CRANDALL ENGINEERING'
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '32'

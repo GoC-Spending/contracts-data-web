@@ -1,5 +1,5 @@
 ---
-title: CAN AM PLATFORMS CONSTRUCTION
+title: CAN AM Platforms Construction
 author: ''
 date: '2022-08-30'
 slug: can_am_platforms_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.0M
-  in 2021-2022 on contracts with CAN AM PLATFORMS CONSTRUCTION. The average
+  in 2021-2022 on contracts with CAN AM Platforms Construction. The average
   contract duration was 1.74 years, and the average contract value
   (not including contracts under $10k) was $3.4M. The longest
   contract was 3.73 years. The largest contract by value (including
   amendments) was $10.3M.
+lookup_name: 'CAN AM PLATFORMS CONSTRUCTION'
 most_recent_fiscal_year_total: '8.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

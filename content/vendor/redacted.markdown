@@ -1,5 +1,5 @@
 ---
-title: REDACTED
+title: Redacted
 author: ''
 date: '2022-08-30'
 slug: redacted
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $62.7M
-  in 2020-2021 on contracts with REDACTED. The average
+  in 2020-2021 on contracts with Redacted. The average
   contract duration was 0.57 years, and the average contract value
   (not including contracts under $10k) was $10.5M. The longest
   contract was 1.04 years. The largest contract by value (including
   amendments) was $28.0M.
+lookup_name: 'REDACTED'
 most_recent_fiscal_year_total: '62.7M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '7'

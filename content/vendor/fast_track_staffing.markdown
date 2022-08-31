@@ -1,5 +1,5 @@
 ---
-title: FAST TRACK STAFFING
+title: Fast Track Staffing
 author: ''
 date: '2022-08-30'
 slug: fast_track_staffing
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
-  in 2021-2022 on contracts with FAST TRACK STAFFING. The average
+  in 2021-2022 on contracts with Fast Track Staffing. The average
   contract duration was 0.55 years, and the average contract value
   (not including contracts under $10k) was $32.1K. The longest
   contract was 2.8 years. The largest contract by value (including
   amendments) was $111.9K.
+lookup_name: 'FAST TRACK STAFFING'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '195'

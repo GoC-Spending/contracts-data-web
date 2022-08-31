@@ -1,5 +1,5 @@
 ---
-title: CEPHEID
+title: Cepheid
 author: ''
 date: '2022-08-30'
 slug: cepheid
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $40.5M
-  in 2021-2022 on contracts with CEPHEID. The average
+  in 2021-2022 on contracts with Cepheid. The average
   contract duration was 1.97 years, and the average contract value
   (not including contracts under $10k) was $66.9M. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $133.8M.
+lookup_name: 'CEPHEID'
 most_recent_fiscal_year_total: '40.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

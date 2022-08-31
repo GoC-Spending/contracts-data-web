@@ -1,5 +1,5 @@
 ---
-title: HEDDLE MARINE SERVICES
+title: Heddle Marine Services
 author: ''
 date: '2022-08-30'
 slug: heddle_marine_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.8M
-  in 2021-2022 on contracts with HEDDLE MARINE SERVICES. The average
+  in 2021-2022 on contracts with Heddle Marine Services. The average
   contract duration was 0.43 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 2.99 years. The largest contract by value (including
   amendments) was $11.6M.
+lookup_name: 'HEDDLE MARINE SERVICES'
 most_recent_fiscal_year_total: '15.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '56'

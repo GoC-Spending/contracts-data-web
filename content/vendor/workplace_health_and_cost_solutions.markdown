@@ -1,5 +1,5 @@
 ---
-title: WORKPLACE HEALTH AND COST SOLUTIONS
+title: Workplace Health and Cost Solutions
 author: ''
 date: '2022-08-30'
 slug: workplace_health_and_cost_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with WORKPLACE HEALTH AND COST SOLUTIONS. The average
+  in 2021-2022 on contracts with Workplace Health and Cost Solutions. The average
   contract duration was 2.56 years, and the average contract value
   (not including contracts under $10k) was $970.7K. The longest
   contract was 5.07 years. The largest contract by value (including
   amendments) was $3.8M.
+lookup_name: 'WORKPLACE HEALTH AND COST SOLUTIONS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

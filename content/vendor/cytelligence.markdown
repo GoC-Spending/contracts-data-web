@@ -1,5 +1,5 @@
 ---
-title: CYTELLIGENCE
+title: Cytelligence
 author: ''
 date: '2022-08-30'
 slug: cytelligence
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.7M
-  in 2019-2020 on contracts with CYTELLIGENCE. The average
+  in 2019-2020 on contracts with Cytelligence. The average
   contract duration was 2 years, and the average contract value
   (not including contracts under $10k) was $11.3M. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $11.3M.
+lookup_name: 'CYTELLIGENCE'
 most_recent_fiscal_year_total: '2.7M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

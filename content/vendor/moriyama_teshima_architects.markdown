@@ -1,5 +1,5 @@
 ---
-title: MORIYAMA TESHIMA ARCHITECTS
+title: Moriyama Teshima Architects
 author: ''
 date: '2022-08-30'
 slug: moriyama_teshima_architects
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.8M
-  in 2021-2022 on contracts with MORIYAMA TESHIMA ARCHITECTS. The average
+  in 2021-2022 on contracts with Moriyama Teshima Architects. The average
   contract duration was 4.01 years, and the average contract value
   (not including contracts under $10k) was $10.2M. The longest
   contract was 6.52 years. The largest contract by value (including
   amendments) was $28.3M.
+lookup_name: 'MORIYAMA TESHIMA ARCHITECTS'
 most_recent_fiscal_year_total: '4.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

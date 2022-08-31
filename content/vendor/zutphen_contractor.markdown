@@ -1,5 +1,5 @@
 ---
-title: ZUTPHEN CONTRACTOR
+title: Zutphen Contractor
 author: ''
 date: '2022-08-30'
 slug: zutphen_contractor
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.6M
-  in 2021-2022 on contracts with ZUTPHEN CONTRACTOR. The average
+  in 2021-2022 on contracts with Zutphen Contractor. The average
   contract duration was 0.79 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 1.74 years. The largest contract by value (including
   amendments) was $8.9M.
+lookup_name: 'ZUTPHEN CONTRACTOR'
 most_recent_fiscal_year_total: '6.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '23'

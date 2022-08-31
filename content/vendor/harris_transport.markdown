@@ -1,5 +1,5 @@
 ---
-title: HARRIS TRANSPORT
+title: Harris Transport
 author: ''
 date: '2022-08-30'
 slug: harris_transport
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with HARRIS TRANSPORT. The average
+  in 2021-2022 on contracts with Harris Transport. The average
   contract duration was 0.04 years, and the average contract value
   (not including contracts under $10k) was $158.3K. The longest
   contract was 0.54 years. The largest contract by value (including
   amendments) was $5.5M.
+lookup_name: 'HARRIS TRANSPORT'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '133'

@@ -1,5 +1,5 @@
 ---
-title: DE ANGELIS CONSTRUCTION
+title: De Angelis Construction
 author: ''
 date: '2022-08-30'
 slug: de_angelis_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.7M
-  in 2019-2020 on contracts with DE ANGELIS CONSTRUCTION. The average
+  in 2019-2020 on contracts with De Angelis Construction. The average
   contract duration was 3 years, and the average contract value
   (not including contracts under $10k) was $17.1M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $17.1M.
+lookup_name: 'DE ANGELIS CONSTRUCTION'
 most_recent_fiscal_year_total: '5.7M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

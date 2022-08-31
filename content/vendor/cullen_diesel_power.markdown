@@ -1,5 +1,5 @@
 ---
-title: CULLEN DIESEL POWER
+title: Cullen Diesel Power
 author: ''
 date: '2022-08-30'
 slug: cullen_diesel_power
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.5M
-  in 2021-2022 on contracts with CULLEN DIESEL POWER. The average
+  in 2021-2022 on contracts with Cullen Diesel Power. The average
   contract duration was 0.38 years, and the average contract value
   (not including contracts under $10k) was $297.2K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $3.3M.
+lookup_name: 'CULLEN DIESEL POWER'
 most_recent_fiscal_year_total: '5.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '46'

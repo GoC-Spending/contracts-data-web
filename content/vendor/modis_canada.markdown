@@ -1,5 +1,5 @@
 ---
-title: MODIS CANADA
+title: Modis Canada
 author: ''
 date: '2022-08-30'
 slug: modis_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $75.7M
-  in 2021-2022 on contracts with MODIS CANADA. The average
+  in 2021-2022 on contracts with Modis Canada. The average
   contract duration was 1.5 years, and the average contract value
   (not including contracts under $10k) was $654.5K. The longest
   contract was 7.55 years. The largest contract by value (including
   amendments) was $19.4M.
+lookup_name: 'MODIS CANADA'
 most_recent_fiscal_year_total: '75.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '583'

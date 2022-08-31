@@ -1,5 +1,5 @@
 ---
-title: DRAGAGE OCEAN DSM
+title: Dragage Ocean DSM
 author: ''
 date: '2022-08-30'
 slug: dragage_ocean_dsm
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.0M
-  in 2021-2022 on contracts with DRAGAGE OCEAN DSM. The average
+  in 2021-2022 on contracts with Dragage Ocean DSM. The average
   contract duration was 2.12 years, and the average contract value
   (not including contracts under $10k) was $5.7M. The longest
   contract was 8.76 years. The largest contract by value (including
   amendments) was $36.8M.
+lookup_name: 'DRAGAGE OCEAN DSM'
 most_recent_fiscal_year_total: '8.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'

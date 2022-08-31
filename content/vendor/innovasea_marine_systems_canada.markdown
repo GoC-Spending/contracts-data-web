@@ -1,5 +1,5 @@
 ---
-title: INNOVASEA MARINE SYSTEMS CANADA
+title: Innovasea Marine Systems Canada
 author: ''
 date: '2022-08-30'
 slug: innovasea_marine_systems_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.1M
-  in 2021-2022 on contracts with INNOVASEA MARINE SYSTEMS CANADA. The average
+  in 2021-2022 on contracts with Innovasea Marine Systems Canada. The average
   contract duration was 0.23 years, and the average contract value
   (not including contracts under $10k) was $59.2K. The longest
   contract was 11.08 years. The largest contract by value (including
   amendments) was $976.4K.
+lookup_name: 'INNOVASEA MARINE SYSTEMS CANADA'
 most_recent_fiscal_year_total: '5.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '258'

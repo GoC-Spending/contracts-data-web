@@ -1,5 +1,5 @@
 ---
-title: DELL COMPUTER
+title: Dell Computer
 author: ''
 date: '2022-08-30'
 slug: dell_computer
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $19.4M
-  in 2021-2022 on contracts with DELL COMPUTER. The average
+  in 2021-2022 on contracts with Dell Computer. The average
   contract duration was 1.1 years, and the average contract value
   (not including contracts under $10k) was $181.9K. The longest
   contract was 13.09 years. The largest contract by value (including
   amendments) was $13.5M.
+lookup_name: 'DELL COMPUTER'
 most_recent_fiscal_year_total: '19.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '626'

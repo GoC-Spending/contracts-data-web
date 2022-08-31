@@ -1,5 +1,5 @@
 ---
-title: VANRX PHARMASYSTEMS
+title: Vanrx Pharmasystems
 author: ''
 date: '2022-08-30'
 slug: vanrx_pharmasystems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.7M
-  in 2021-2022 on contracts with VANRX PHARMASYSTEMS. The average
+  in 2021-2022 on contracts with Vanrx Pharmasystems. The average
   contract duration was 0.91 years, and the average contract value
   (not including contracts under $10k) was $3.5M. The longest
   contract was 3.31 years. The largest contract by value (including
   amendments) was $11.1M.
+lookup_name: 'VANRX PHARMASYSTEMS'
 most_recent_fiscal_year_total: '5.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

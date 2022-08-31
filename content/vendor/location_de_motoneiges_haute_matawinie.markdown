@@ -1,5 +1,5 @@
 ---
-title: LOCATION DE MOTONEIGES HAUTE MATAWINIE
+title: Location De Motoneiges Haute Matawinie
 author: ''
 date: '2022-08-30'
 slug: location_de_motoneiges_haute_matawinie
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
-  in 2021-2022 on contracts with LOCATION DE MOTONEIGES HAUTE MATAWINIE. The average
+  in 2021-2022 on contracts with Location De Motoneiges Haute Matawinie. The average
   contract duration was 0.33 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 0.93 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'LOCATION DE MOTONEIGES HAUTE MATAWINIE'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

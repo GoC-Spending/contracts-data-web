@@ -1,5 +1,5 @@
 ---
-title: VERITAAQ TECHNOLOGY HOUSE
+title: Veritaaq Technology House
 author: ''
 date: '2022-08-30'
 slug: veritaaq_technology_house
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $102.1M
-  in 2021-2022 on contracts with VERITAAQ TECHNOLOGY HOUSE. The average
+  in 2021-2022 on contracts with Veritaaq Technology House. The average
   contract duration was 1.51 years, and the average contract value
   (not including contracts under $10k) was $490.7K. The longest
   contract was 7.61 years. The largest contract by value (including
   amendments) was $24.0M.
+lookup_name: 'VERITAAQ TECHNOLOGY HOUSE'
 most_recent_fiscal_year_total: '102.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,197'

@@ -1,5 +1,5 @@
 ---
-title: NUCTECH COMPANY
+title: NUCTECH Company
 author: ''
 date: '2022-08-30'
 slug: nuctech_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $615.6K
-  in 2021-2022 on contracts with NUCTECH COMPANY. The average
+  in 2021-2022 on contracts with NUCTECH Company. The average
   contract duration was 6.62 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 10.41 years. The largest contract by value (including
   amendments) was $4.0M.
+lookup_name: 'NUCTECH COMPANY'
 most_recent_fiscal_year_total: '615.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

@@ -1,5 +1,5 @@
 ---
-title: B T L CONSTRUCTION
+title: B T L Construction
 author: ''
 date: '2022-08-30'
 slug: b_t_l_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $12.7M
-  in 2021-2022 on contracts with B T L CONSTRUCTION. The average
+  in 2021-2022 on contracts with B T L Construction. The average
   contract duration was 1.39 years, and the average contract value
   (not including contracts under $10k) was $45.0M. The longest
   contract was 1.39 years. The largest contract by value (including
   amendments) was $45.0M.
+lookup_name: 'B T L CONSTRUCTION'
 most_recent_fiscal_year_total: '12.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

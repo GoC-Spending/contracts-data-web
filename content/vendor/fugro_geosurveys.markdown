@@ -1,5 +1,5 @@
 ---
-title: FUGRO GEOSURVEYS
+title: Fugro GeoSurveys
 author: ''
 date: '2022-08-30'
 slug: fugro_geosurveys
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with FUGRO GEOSURVEYS. The average
+  in 2021-2022 on contracts with Fugro GeoSurveys. The average
   contract duration was 0.54 years, and the average contract value
   (not including contracts under $10k) was $808.1K. The longest
   contract was 0.86 years. The largest contract by value (including
   amendments) was $1.6M.
+lookup_name: 'FUGRO GEOSURVEYS'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '12'

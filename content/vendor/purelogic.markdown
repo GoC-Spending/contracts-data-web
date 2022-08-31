@@ -1,5 +1,5 @@
 ---
-title: PURELOGIC
+title: PureLogic
 author: ''
 date: '2022-08-30'
 slug: purelogic
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $47.4M
-  in 2021-2022 on contracts with PURELOGIC. The average
+  in 2021-2022 on contracts with PureLogic. The average
   contract duration was 0.86 years, and the average contract value
   (not including contracts under $10k) was $395.3K. The longest
   contract was 5.28 years. The largest contract by value (including
   amendments) was $10.9M.
+lookup_name: 'PURELOGIC'
 most_recent_fiscal_year_total: '47.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '363'

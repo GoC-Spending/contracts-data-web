@@ -1,5 +1,5 @@
 ---
-title: TURNER TOWNSEND
+title: Turner Townsend
 author: ''
 date: '2022-08-30'
 slug: turner_townsend
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.0M
-  in 2021-2022 on contracts with TURNER TOWNSEND. The average
+  in 2021-2022 on contracts with Turner Townsend. The average
   contract duration was 2.18 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 5.08 years. The largest contract by value (including
   amendments) was $12.4M.
+lookup_name: 'TURNER TOWNSEND'
 most_recent_fiscal_year_total: '6.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

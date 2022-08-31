@@ -1,5 +1,5 @@
 ---
-title: AFC INDUSTRIES
+title: AFC Industries
 author: ''
 date: '2022-08-30'
 slug: afc_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $321.0K
-  in 2020-2021 on contracts with AFC INDUSTRIES. The average
+  in 2020-2021 on contracts with AFC Industries. The average
   contract duration was 0.99 years, and the average contract value
   (not including contracts under $10k) was $2.4M. The longest
   contract was 2.76 years. The largest contract by value (including
   amendments) was $7.0M.
+lookup_name: 'AFC INDUSTRIES'
 most_recent_fiscal_year_total: '321.0K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '3'

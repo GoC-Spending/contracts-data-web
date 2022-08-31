@@ -1,5 +1,5 @@
 ---
-title: UNITED STATES DEPARTMENT OF THE ARMY
+title: United States Department of the Army
 author: ''
 date: '2022-08-30'
 slug: united_states_department_of_the_army
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $12.0M
-  in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF THE ARMY. The average
+  in 2021-2022 on contracts with United States Department of the Army. The average
   contract duration was 6.89 years, and the average contract value
   (not including contracts under $10k) was $4.1M. The longest
   contract was 10.68 years. The largest contract by value (including
   amendments) was $13.7M.
+lookup_name: 'UNITED STATES DEPARTMENT OF THE ARMY'
 most_recent_fiscal_year_total: '12.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '24'

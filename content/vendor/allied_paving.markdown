@@ -1,5 +1,5 @@
 ---
-title: ALLIED PAVING
+title: Allied Paving
 author: ''
 date: '2022-08-30'
 slug: allied_paving
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.5M
-  in 2019-2020 on contracts with ALLIED PAVING. The average
+  in 2019-2020 on contracts with Allied Paving. The average
   contract duration was 1.9 years, and the average contract value
   (not including contracts under $10k) was $14.1M. The longest
   contract was 1.9 years. The largest contract by value (including
   amendments) was $14.1M.
+lookup_name: 'ALLIED PAVING'
 most_recent_fiscal_year_total: '7.5M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

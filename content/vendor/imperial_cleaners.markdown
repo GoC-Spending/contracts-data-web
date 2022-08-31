@@ -1,5 +1,5 @@
 ---
-title: IMPERIAL CLEANERS
+title: Imperial Cleaners
 author: ''
 date: '2022-08-30'
 slug: imperial_cleaners
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.2M
-  in 2021-2022 on contracts with IMPERIAL CLEANERS. The average
+  in 2021-2022 on contracts with Imperial Cleaners. The average
   contract duration was 1.05 years, and the average contract value
   (not including contracts under $10k) was $686.7K. The longest
   contract was 7.05 years. The largest contract by value (including
   amendments) was $26.8M.
+lookup_name: 'IMPERIAL CLEANERS'
 most_recent_fiscal_year_total: '7.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '77'

@@ -1,5 +1,5 @@
 ---
-title: AGILEC
+title: Agilec
 author: ''
 date: '2022-08-30'
 slug: agilec
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $799.0K
-  in 2021-2022 on contracts with AGILEC. The average
+  in 2021-2022 on contracts with Agilec. The average
   contract duration was 1.7 years, and the average contract value
   (not including contracts under $10k) was $803.1K. The longest
   contract was 3.58 years. The largest contract by value (including
   amendments) was $10.3M.
+lookup_name: 'AGILEC'
 most_recent_fiscal_year_total: '799.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '13'

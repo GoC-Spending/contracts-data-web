@@ -1,5 +1,5 @@
 ---
-title: SEPW ARCHITECTURE
+title: SEPW Architecture
 author: ''
 date: '2022-08-30'
 slug: sepw_architecture
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $943.0K
-  in 2021-2022 on contracts with SEPW ARCHITECTURE. The average
+  in 2021-2022 on contracts with SEPW Architecture. The average
   contract duration was 2.04 years, and the average contract value
   (not including contracts under $10k) was $273.3K. The longest
   contract was 10.52 years. The largest contract by value (including
   amendments) was $1.2M.
+lookup_name: 'SEPW ARCHITECTURE'
 most_recent_fiscal_year_total: '943.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '30'

@@ -1,5 +1,5 @@
 ---
-title: STRYKER CANADA
+title: Stryker Canada
 author: ''
 date: '2022-08-30'
 slug: stryker_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $96.4K
-  in 2021-2022 on contracts with STRYKER CANADA. The average
+  in 2021-2022 on contracts with Stryker Canada. The average
   contract duration was 0.72 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 5.28 years. The largest contract by value (including
   amendments) was $42.5M.
+lookup_name: 'STRYKER CANADA'
 most_recent_fiscal_year_total: '96.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '24'

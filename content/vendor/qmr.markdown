@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $13.9M
   (not including contracts under $10k) was $76.5K. The longest
   contract was 7.61 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'QMR'
 most_recent_fiscal_year_total: '13.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '875'

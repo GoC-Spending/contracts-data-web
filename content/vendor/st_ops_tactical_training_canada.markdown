@@ -1,5 +1,5 @@
 ---
-title: ST OPS TACTICAL TRAINING CANADA
+title: St Ops Tactical Training Canada
 author: ''
 date: '2022-08-30'
 slug: st_ops_tactical_training_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $359.4K
-  in 2021-2022 on contracts with ST OPS TACTICAL TRAINING CANADA. The average
+  in 2021-2022 on contracts with St Ops Tactical Training Canada. The average
   contract duration was 0.31 years, and the average contract value
   (not including contracts under $10k) was $296.6K. The longest
   contract was 3.02 years. The largest contract by value (including
   amendments) was $8.0M.
+lookup_name: 'ST OPS TACTICAL TRAINING CANADA'
 most_recent_fiscal_year_total: '359.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '41'

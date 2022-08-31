@@ -1,5 +1,5 @@
 ---
-title: EBSCO CANADA
+title: EBSCO Canada
 author: ''
 date: '2022-08-30'
 slug: ebsco_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.6M
-  in 2021-2022 on contracts with EBSCO CANADA. The average
+  in 2021-2022 on contracts with EBSCO Canada. The average
   contract duration was 1.12 years, and the average contract value
   (not including contracts under $10k) was $223.3K. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $28.6M.
+lookup_name: 'EBSCO CANADA'
 most_recent_fiscal_year_total: '5.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '282'

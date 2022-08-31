@@ -1,5 +1,5 @@
 ---
-title: CYMI CANADA
+title: CYMI Canada
 author: ''
 date: '2022-08-30'
 slug: cymi_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.0M
-  in 2020-2021 on contracts with CYMI CANADA. The average
+  in 2020-2021 on contracts with CYMI Canada. The average
   contract duration was 2.09 years, and the average contract value
   (not including contracts under $10k) was $23.0M. The longest
   contract was 2.09 years. The largest contract by value (including
   amendments) was $23.0M.
+lookup_name: 'CYMI CANADA'
 most_recent_fiscal_year_total: '11.0M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

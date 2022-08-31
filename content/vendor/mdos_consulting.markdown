@@ -1,5 +1,5 @@
 ---
-title: MDOS CONSULTING
+title: MDOS Consulting
 author: ''
 date: '2022-08-30'
 slug: mdos_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.2M
-  in 2021-2022 on contracts with MDOS CONSULTING. The average
+  in 2021-2022 on contracts with MDOS Consulting. The average
   contract duration was 1.54 years, and the average contract value
   (not including contracts under $10k) was $516.4K. The longest
   contract was 5.04 years. The largest contract by value (including
   amendments) was $3.5M.
+lookup_name: 'MDOS CONSULTING'
 most_recent_fiscal_year_total: '7.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '62'

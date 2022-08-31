@@ -1,5 +1,5 @@
 ---
-title: AEG FUELS
+title: AEG Fuels
 author: ''
 date: '2022-08-30'
 slug: aeg_fuels
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $44.4M
-  in 2021-2022 on contracts with AEG FUELS. The average
+  in 2021-2022 on contracts with AEG Fuels. The average
   contract duration was 0 years, and the average contract value
   (not including contracts under $10k) was $40.0K. The longest
   contract was 1.9 years. The largest contract by value (including
   amendments) was $248.6K.
+lookup_name: 'AEG FUELS'
 most_recent_fiscal_year_total: '44.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,294'

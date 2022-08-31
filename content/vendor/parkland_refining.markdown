@@ -1,5 +1,5 @@
 ---
-title: PARKLAND REFINING
+title: Parkland Refining
 author: ''
 date: '2022-08-30'
 slug: parkland_refining
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.1M
-  in 2021-2022 on contracts with PARKLAND REFINING. The average
+  in 2021-2022 on contracts with Parkland Refining. The average
   contract duration was 0.04 years, and the average contract value
   (not including contracts under $10k) was $195.3K. The longest
   contract was 0.96 years. The largest contract by value (including
   amendments) was $6.1M.
+lookup_name: 'PARKLAND REFINING'
 most_recent_fiscal_year_total: '5.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '359'

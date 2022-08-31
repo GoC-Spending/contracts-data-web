@@ -1,5 +1,5 @@
 ---
-title: DECAREL
+title: Decarel
 author: ''
 date: '2022-08-30'
 slug: decarel
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.2M
-  in 2019-2020 on contracts with DECAREL. The average
+  in 2019-2020 on contracts with Decarel. The average
   contract duration was 2.35 years, and the average contract value
   (not including contracts under $10k) was $41.1M. The longest
   contract was 2.35 years. The largest contract by value (including
   amendments) was $41.1M.
+lookup_name: 'DECAREL'
 most_recent_fiscal_year_total: '8.2M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

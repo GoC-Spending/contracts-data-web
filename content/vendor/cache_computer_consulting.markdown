@@ -1,5 +1,5 @@
 ---
-title: CACHE COMPUTER CONSULTING
+title: Cache Computer Consulting
 author: ''
 date: '2022-08-30'
 slug: cache_computer_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $29.6M
-  in 2021-2022 on contracts with CACHE COMPUTER CONSULTING. The average
+  in 2021-2022 on contracts with Cache Computer Consulting. The average
   contract duration was 1.87 years, and the average contract value
   (not including contracts under $10k) was $691.4K. The longest
   contract was 7.54 years. The largest contract by value (including
   amendments) was $9.4M.
+lookup_name: 'CACHE COMPUTER CONSULTING'
 most_recent_fiscal_year_total: '29.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '227'

@@ -1,5 +1,5 @@
 ---
-title: RISK SCIENCES INTERNATIONAL
+title: Risk Sciences International
 author: ''
 date: '2022-08-30'
 slug: risk_sciences_international
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
-  in 2021-2022 on contracts with RISK SCIENCES INTERNATIONAL. The average
+  in 2021-2022 on contracts with Risk Sciences International. The average
   contract duration was 0.79 years, and the average contract value
   (not including contracts under $10k) was $100.0K. The longest
   contract was 5.59 years. The largest contract by value (including
   amendments) was $1.3M.
+lookup_name: 'RISK SCIENCES INTERNATIONAL'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '107'

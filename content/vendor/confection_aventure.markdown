@@ -1,5 +1,5 @@
 ---
-title: CONFECTION AVENTURE
+title: Confection Aventure
 author: ''
 date: '2022-08-30'
 slug: confection_aventure
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.0M
-  in 2021-2022 on contracts with CONFECTION AVENTURE. The average
+  in 2021-2022 on contracts with Confection Aventure. The average
   contract duration was 1.73 years, and the average contract value
   (not including contracts under $10k) was $15.1M. The longest
   contract was 1.73 years. The largest contract by value (including
   amendments) was $15.1M.
+lookup_name: 'CONFECTION AVENTURE'
 most_recent_fiscal_year_total: '7.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

@@ -1,5 +1,5 @@
 ---
-title: COMPUTERSHARE INVESTOR SERVICES
+title: Computershare Investor Services
 author: ''
 date: '2022-08-30'
 slug: computershare_investor_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $20.9M
-  in 2021-2022 on contracts with COMPUTERSHARE INVESTOR SERVICES. The average
+  in 2021-2022 on contracts with Computershare Investor Services. The average
   contract duration was 5.99 years, and the average contract value
   (not including contracts under $10k) was $65.4M. The longest
   contract was 25.03 years. The largest contract by value (including
   amendments) was $522.8M.
+lookup_name: 'COMPUTERSHARE INVESTOR SERVICES'
 most_recent_fiscal_year_total: '20.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

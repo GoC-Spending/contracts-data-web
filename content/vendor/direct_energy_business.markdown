@@ -1,5 +1,5 @@
 ---
-title: DIRECT ENERGY BUSINESS
+title: Direct Energy Business
 author: ''
 date: '2022-08-30'
 slug: direct_energy_business
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.0M
-  in 2021-2022 on contracts with DIRECT ENERGY BUSINESS. The average
+  in 2021-2022 on contracts with Direct Energy Business. The average
   contract duration was 0.56 years, and the average contract value
   (not including contracts under $10k) was $747.4K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $4.5M.
+lookup_name: 'DIRECT ENERGY BUSINESS'
 most_recent_fiscal_year_total: '7.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '40'

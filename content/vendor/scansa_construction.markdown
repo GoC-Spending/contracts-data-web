@@ -1,5 +1,5 @@
 ---
-title: SCANSA CONSTRUCTION
+title: Scansa Construction
 author: ''
 date: '2022-08-30'
 slug: scansa_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $288.0K
-  in 2021-2022 on contracts with SCANSA CONSTRUCTION. The average
+  in 2021-2022 on contracts with Scansa Construction. The average
   contract duration was 1.4 years, and the average contract value
   (not including contracts under $10k) was $9.9M. The longest
   contract was 2.52 years. The largest contract by value (including
   amendments) was $23.1M.
+lookup_name: 'SCANSA CONSTRUCTION'
 most_recent_fiscal_year_total: '288.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

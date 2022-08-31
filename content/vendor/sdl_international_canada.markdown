@@ -1,5 +1,5 @@
 ---
-title: SDL INTERNATIONAL CANADA
+title: SDL International Canada
 author: ''
 date: '2022-08-30'
 slug: sdl_international_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.9M
-  in 2021-2022 on contracts with SDL INTERNATIONAL CANADA. The average
+  in 2021-2022 on contracts with SDL International Canada. The average
   contract duration was 1 years, and the average contract value
   (not including contracts under $10k) was $359.0K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $13.5M.
+lookup_name: 'SDL INTERNATIONAL CANADA'
 most_recent_fiscal_year_total: '4.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '41'

@@ -1,5 +1,5 @@
 ---
-title: VERITAS TECHNOLOGIES
+title: Veritas Technologies
 author: ''
 date: '2022-08-30'
 slug: veritas_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.0M
-  in 2021-2022 on contracts with VERITAS TECHNOLOGIES. The average
+  in 2021-2022 on contracts with Veritas Technologies. The average
   contract duration was 1.4 years, and the average contract value
   (not including contracts under $10k) was $3.0M. The longest
   contract was 3.39 years. The largest contract by value (including
   amendments) was $10.4M.
+lookup_name: 'VERITAS TECHNOLOGIES'
 most_recent_fiscal_year_total: '6.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '9'

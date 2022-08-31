@@ -1,5 +1,5 @@
 ---
-title: CDW CANADA
+title: CDW Canada
 author: ''
 date: '2022-08-30'
 slug: cdw_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $37.4M
-  in 2021-2022 on contracts with CDW CANADA. The average
+  in 2021-2022 on contracts with CDW Canada. The average
   contract duration was 0.65 years, and the average contract value
   (not including contracts under $10k) was $199.0K. The longest
   contract was 7.82 years. The largest contract by value (including
   amendments) was $16.9M.
+lookup_name: 'CDW CANADA'
 most_recent_fiscal_year_total: '37.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,031'

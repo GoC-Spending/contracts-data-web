@@ -1,5 +1,5 @@
 ---
-title: CALTRIO COMPANY
+title: Caltrio Company
 author: ''
 date: '2022-08-30'
 slug: caltrio_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with CALTRIO COMPANY. The average
+  in 2021-2022 on contracts with Caltrio Company. The average
   contract duration was 2.59 years, and the average contract value
   (not including contracts under $10k) was $544.5K. The longest
   contract was 5.92 years. The largest contract by value (including
   amendments) was $2.2M.
+lookup_name: 'CALTRIO COMPANY'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

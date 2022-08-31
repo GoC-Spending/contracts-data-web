@@ -1,5 +1,5 @@
 ---
-title: GREATER TORONTO AIRPORT AUTHORITY
+title: Greater Toronto Airport Authority
 author: ''
 date: '2022-08-30'
 slug: greater_toronto_airport_authority
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $39.6M
-  in 2021-2022 on contracts with GREATER TORONTO AIRPORT AUTHORITY. The average
+  in 2021-2022 on contracts with Greater Toronto Airport Authority. The average
   contract duration was 0.87 years, and the average contract value
   (not including contracts under $10k) was $6.3M. The longest
   contract was 2.64 years. The largest contract by value (including
   amendments) was $42.4M.
+lookup_name: 'GREATER TORONTO AIRPORT AUTHORITY'
 most_recent_fiscal_year_total: '39.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '9'

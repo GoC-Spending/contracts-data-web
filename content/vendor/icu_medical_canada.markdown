@@ -1,5 +1,5 @@
 ---
-title: ICU MEDICAL CANADA
+title: ICU Medical Canada
 author: ''
 date: '2022-08-30'
 slug: icu_medical_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.4M
-  in 2020-2021 on contracts with ICU MEDICAL CANADA. The average
+  in 2020-2021 on contracts with ICU Medical Canada. The average
   contract duration was 0.88 years, and the average contract value
   (not including contracts under $10k) was $6.4M. The longest
   contract was 0.88 years. The largest contract by value (including
   amendments) was $6.4M.
+lookup_name: 'ICU MEDICAL CANADA'
 most_recent_fiscal_year_total: '6.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

@@ -1,5 +1,5 @@
 ---
-title: TELESAT
+title: Telesat
 author: ''
 date: '2022-08-30'
 slug: telesat
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $23.5M
-  in 2021-2022 on contracts with TELESAT. The average
+  in 2021-2022 on contracts with Telesat. The average
   contract duration was 2.78 years, and the average contract value
   (not including contracts under $10k) was $4.7M. The longest
   contract was 11.22 years. The largest contract by value (including
   amendments) was $40.7M.
+lookup_name: 'TELESAT'
 most_recent_fiscal_year_total: '23.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '55'

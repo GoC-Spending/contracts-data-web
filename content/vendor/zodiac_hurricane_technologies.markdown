@@ -1,5 +1,5 @@
 ---
-title: ZODIAC HURRICANE TECHNOLOGIES
+title: Zodiac Hurricane Technologies
 author: ''
 date: '2022-08-30'
 slug: zodiac_hurricane_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $17.2M
-  in 2021-2022 on contracts with ZODIAC HURRICANE TECHNOLOGIES. The average
+  in 2021-2022 on contracts with Zodiac Hurricane Technologies. The average
   contract duration was 1.35 years, and the average contract value
   (not including contracts under $10k) was $3.1M. The longest
   contract was 5.03 years. The largest contract by value (including
   amendments) was $37.2M.
+lookup_name: 'ZODIAC HURRICANE TECHNOLOGIES'
 most_recent_fiscal_year_total: '17.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '26'

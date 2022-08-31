@@ -1,5 +1,5 @@
 ---
-title: BIGHORN CONSTRUCTION
+title: Bighorn Construction
 author: ''
 date: '2022-08-30'
 slug: bighorn_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2019-2020 on contracts with BIGHORN CONSTRUCTION. The average
+  in 2019-2020 on contracts with Bighorn Construction. The average
   contract duration was 0.63 years, and the average contract value
   (not including contracts under $10k) was $792.5K. The longest
   contract was 1.61 years. The largest contract by value (including
   amendments) was $3.7M.
+lookup_name: 'BIGHORN CONSTRUCTION'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '13'

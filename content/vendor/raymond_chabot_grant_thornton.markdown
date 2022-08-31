@@ -1,5 +1,5 @@
 ---
-title: RAYMOND CHABOT GRANT THORNTON
+title: Raymond Chabot Grant Thornton
 author: ''
 date: '2022-08-30'
 slug: raymond_chabot_grant_thornton
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.8M
-  in 2021-2022 on contracts with RAYMOND CHABOT GRANT THORNTON. The average
+  in 2021-2022 on contracts with Raymond Chabot Grant Thornton. The average
   contract duration was 1.08 years, and the average contract value
   (not including contracts under $10k) was $182.9K. The longest
   contract was 8.21 years. The largest contract by value (including
   amendments) was $7.1M.
+lookup_name: 'RAYMOND CHABOT GRANT THORNTON'
 most_recent_fiscal_year_total: '13.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '400'

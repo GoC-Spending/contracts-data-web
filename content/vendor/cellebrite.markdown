@@ -1,5 +1,5 @@
 ---
-title: CELLEBRITE
+title: Cellebrite
 author: ''
 date: '2022-08-30'
 slug: cellebrite
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.7K
-  in 2021-2022 on contracts with CELLEBRITE. The average
+  in 2021-2022 on contracts with Cellebrite. The average
   contract duration was 1.13 years, and the average contract value
   (not including contracts under $10k) was $997.9K. The longest
   contract was 2.76 years. The largest contract by value (including
   amendments) was $2.6M.
+lookup_name: 'CELLEBRITE'
 most_recent_fiscal_year_total: '4.7K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

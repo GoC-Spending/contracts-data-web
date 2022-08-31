@@ -1,5 +1,5 @@
 ---
-title: M SULLIVAN SON
+title: M Sullivan Son
 author: ''
 date: '2022-08-30'
 slug: m_sullivan_son
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.2M
-  in 2021-2022 on contracts with M SULLIVAN SON. The average
+  in 2021-2022 on contracts with M Sullivan Son. The average
   contract duration was 2.88 years, and the average contract value
   (not including contracts under $10k) was $5.6M. The longest
   contract was 7.15 years. The largest contract by value (including
   amendments) was $14.7M.
+lookup_name: 'M SULLIVAN SON'
 most_recent_fiscal_year_total: '10.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

@@ -1,5 +1,5 @@
 ---
-title: AERO FEU
+title: Aero Feu
 author: ''
 date: '2022-08-30'
 slug: aero_feu
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $75.5K
-  in 2021-2022 on contracts with AERO FEU. The average
+  in 2021-2022 on contracts with Aero Feu. The average
   contract duration was 0.31 years, and the average contract value
   (not including contracts under $10k) was $1.1M. The longest
   contract was 3.76 years. The largest contract by value (including
   amendments) was $23.1M.
+lookup_name: 'AERO FEU'
 most_recent_fiscal_year_total: '75.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '22'

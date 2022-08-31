@@ -1,5 +1,5 @@
 ---
-title: CANADIAN MARITIME ENGINEERING
+title: Canadian Maritime Engineering
 author: ''
 date: '2022-08-30'
 slug: canadian_maritime_engineering
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.5M
-  in 2021-2022 on contracts with CANADIAN MARITIME ENGINEERING. The average
+  in 2021-2022 on contracts with Canadian Maritime Engineering. The average
   contract duration was 0.44 years, and the average contract value
   (not including contracts under $10k) was $357.1K. The longest
   contract was 5.06 years. The largest contract by value (including
   amendments) was $4.2M.
+lookup_name: 'CANADIAN MARITIME ENGINEERING'
 most_recent_fiscal_year_total: '10.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '145'

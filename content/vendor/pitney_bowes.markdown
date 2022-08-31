@@ -1,5 +1,5 @@
 ---
-title: PITNEY BOWES
+title: Pitney Bowes
 author: ''
 date: '2022-08-30'
 slug: pitney_bowes
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with PITNEY BOWES. The average
+  in 2021-2022 on contracts with Pitney Bowes. The average
   contract duration was 2.76 years, and the average contract value
   (not including contracts under $10k) was $54.1K. The longest
   contract was 9.92 years. The largest contract by value (including
   amendments) was $1.5M.
+lookup_name: 'PITNEY BOWES'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '212'

@@ -1,5 +1,5 @@
 ---
-title: UNITED STATES DEPARTMENT OF THE AIR FORCE
+title: United States Department of the Air Force
 author: ''
 date: '2022-08-30'
 slug: united_states_department_of_the_air_force
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $30.1M
-  in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF THE AIR FORCE. The average
+  in 2021-2022 on contracts with United States Department of the Air Force. The average
   contract duration was 6.53 years, and the average contract value
   (not including contracts under $10k) was $5.1M. The longest
   contract was 16.41 years. The largest contract by value (including
   amendments) was $68.2M.
+lookup_name: 'UNITED STATES DEPARTMENT OF THE AIR FORCE'
 most_recent_fiscal_year_total: '30.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '41'

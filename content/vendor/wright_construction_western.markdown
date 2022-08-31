@@ -1,5 +1,5 @@
 ---
-title: WRIGHT CONSTRUCTION WESTERN
+title: Wright Construction Western
 author: ''
 date: '2022-08-30'
 slug: wright_construction_western
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.1K
-  in 2021-2022 on contracts with WRIGHT CONSTRUCTION WESTERN. The average
+  in 2021-2022 on contracts with Wright Construction Western. The average
   contract duration was 5.89 years, and the average contract value
   (not including contracts under $10k) was $32.4M. The longest
   contract was 5.89 years. The largest contract by value (including
   amendments) was $32.4M.
+lookup_name: 'WRIGHT CONSTRUCTION WESTERN'
 most_recent_fiscal_year_total: '15.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

@@ -1,5 +1,5 @@
 ---
-title: AMERICAN BUREAU OF SHIPPING
+title: American Bureau of Shipping
 author: ''
 date: '2022-08-30'
 slug: american_bureau_of_shipping
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with AMERICAN BUREAU OF SHIPPING. The average
+  in 2021-2022 on contracts with American Bureau of Shipping. The average
   contract duration was 0.61 years, and the average contract value
   (not including contracts under $10k) was $108.8K. The longest
   contract was 4.64 years. The largest contract by value (including
   amendments) was $3.6M.
+lookup_name: 'AMERICAN BUREAU OF SHIPPING'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '76'

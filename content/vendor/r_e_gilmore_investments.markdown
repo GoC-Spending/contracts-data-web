@@ -1,5 +1,5 @@
 ---
-title: R E GILMORE INVESTMENTS
+title: R E Gilmore Investments
 author: ''
 date: '2022-08-30'
 slug: r_e_gilmore_investments
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.8M
-  in 2021-2022 on contracts with R E GILMORE INVESTMENTS. The average
+  in 2021-2022 on contracts with R E Gilmore Investments. The average
   contract duration was 1.14 years, and the average contract value
   (not including contracts under $10k) was $566.1K. The longest
   contract was 5.65 years. The largest contract by value (including
   amendments) was $8.2M.
+lookup_name: 'R E GILMORE INVESTMENTS'
 most_recent_fiscal_year_total: '3.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '61'

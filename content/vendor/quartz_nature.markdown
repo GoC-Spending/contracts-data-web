@@ -1,5 +1,5 @@
 ---
-title: QUARTZ NATURE
+title: Quartz Nature
 author: ''
 date: '2022-08-30'
 slug: quartz_nature
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.2M
-  in 2021-2022 on contracts with QUARTZ NATURE. The average
+  in 2021-2022 on contracts with Quartz Nature. The average
   contract duration was 1.54 years, and the average contract value
   (not including contracts under $10k) was $7.9M. The longest
   contract was 1.54 years. The largest contract by value (including
   amendments) was $7.9M.
+lookup_name: 'QUARTZ NATURE'
 most_recent_fiscal_year_total: '3.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

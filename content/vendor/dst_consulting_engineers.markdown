@@ -1,5 +1,5 @@
 ---
-title: DST CONSULTING ENGINEERS
+title: DST Consulting Engineers
 author: ''
 date: '2022-08-30'
 slug: dst_consulting_engineers
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with DST CONSULTING ENGINEERS. The average
+  in 2021-2022 on contracts with DST Consulting Engineers. The average
   contract duration was 0.67 years, and the average contract value
   (not including contracts under $10k) was $69.6K. The longest
   contract was 5.3 years. The largest contract by value (including
   amendments) was $1.5M.
+lookup_name: 'DST CONSULTING ENGINEERS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '226'

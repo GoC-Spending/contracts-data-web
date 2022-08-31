@@ -1,5 +1,5 @@
 ---
-title: NOVA SCOTIA POWER
+title: Nova Scotia Power
 author: ''
 date: '2022-08-30'
 slug: nova_scotia_power
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
-  in 2021-2022 on contracts with NOVA SCOTIA POWER. The average
+  in 2021-2022 on contracts with Nova Scotia Power. The average
   contract duration was 1.03 years, and the average contract value
   (not including contracts under $10k) was $405.1K. The longest
   contract was 9.75 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'NOVA SCOTIA POWER'
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '52'

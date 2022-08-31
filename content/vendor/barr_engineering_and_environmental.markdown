@@ -1,5 +1,5 @@
 ---
-title: BARR ENGINEERING AND ENVIRONMENTAL
+title: Barr Engineering and Environmental
 author: ''
 date: '2022-08-30'
 slug: barr_engineering_and_environmental
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $68.3K
-  in 2020-2021 on contracts with BARR ENGINEERING AND ENVIRONMENTAL. The average
+  in 2020-2021 on contracts with Barr Engineering and Environmental. The average
   contract duration was 0.87 years, and the average contract value
   (not including contracts under $10k) was $413.9K. The longest
   contract was 0.96 years. The largest contract by value (including
   amendments) was $1.5M.
+lookup_name: 'BARR ENGINEERING AND ENVIRONMENTAL'
 most_recent_fiscal_year_total: '68.3K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '13'

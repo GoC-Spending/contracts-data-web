@@ -1,5 +1,5 @@
 ---
-title: CONNECTIVE SUPPORT SOCIETY
+title: Connective Support Society
 author: ''
 date: '2022-08-30'
 slug: connective_support_society
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.8M
-  in 2021-2022 on contracts with CONNECTIVE SUPPORT SOCIETY. The average
+  in 2021-2022 on contracts with Connective Support Society. The average
   contract duration was 1.61 years, and the average contract value
   (not including contracts under $10k) was $1.5M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $4.7M.
+lookup_name: 'CONNECTIVE SUPPORT SOCIETY'
 most_recent_fiscal_year_total: '3.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

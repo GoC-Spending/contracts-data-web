@@ -1,5 +1,5 @@
 ---
-title: UNIVERSITY OF BRITISH COLUMBIA
+title: University of British Columbia
 author: ''
 date: '2022-08-30'
 slug: university_of_british_columbia
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with UNIVERSITY OF BRITISH COLUMBIA. The average
+  in 2021-2022 on contracts with University of British Columbia. The average
   contract duration was 0.7 years, and the average contract value
   (not including contracts under $10k) was $64.2K. The longest
   contract was 5.6 years. The largest contract by value (including
   amendments) was $977.5K.
+lookup_name: 'UNIVERSITY OF BRITISH COLUMBIA'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '121'

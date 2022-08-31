@@ -1,5 +1,5 @@
 ---
-title: DXB PROJECT MANAGEMENT
+title: DXB Project Management
 author: ''
 date: '2022-08-30'
 slug: dxb_project_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with DXB PROJECT MANAGEMENT. The average
+  in 2021-2022 on contracts with DXB Project Management. The average
   contract duration was 8.53 years, and the average contract value
   (not including contracts under $10k) was $9.3M. The longest
   contract was 8.53 years. The largest contract by value (including
   amendments) was $9.3M.
+lookup_name: 'DXB PROJECT MANAGEMENT'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

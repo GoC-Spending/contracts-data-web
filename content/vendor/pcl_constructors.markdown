@@ -1,5 +1,5 @@
 ---
-title: PCL CONSTRUCTORS
+title: PCL Constructors
 author: ''
 date: '2022-08-30'
 slug: pcl_constructors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $411.5M
-  in 2021-2022 on contracts with PCL CONSTRUCTORS. The average
+  in 2021-2022 on contracts with PCL Constructors. The average
   contract duration was 1.89 years, and the average contract value
   (not including contracts under $10k) was $65.9M. The longest
   contract was 11.96 years. The largest contract by value (including
   amendments) was $2.9B.
+lookup_name: 'PCL CONSTRUCTORS'
 most_recent_fiscal_year_total: '411.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '81'

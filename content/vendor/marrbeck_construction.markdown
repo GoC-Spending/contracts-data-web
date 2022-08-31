@@ -1,5 +1,5 @@
 ---
-title: MARRBECK CONSTRUCTION
+title: Marrbeck Construction
 author: ''
 date: '2022-08-30'
 slug: marrbeck_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
-  in 2018-2019 on contracts with MARRBECK CONSTRUCTION. The average
+  in 2018-2019 on contracts with Marrbeck Construction. The average
   contract duration was 2.53 years, and the average contract value
   (not including contracts under $10k) was $8.6M. The longest
   contract was 2.53 years. The largest contract by value (including
   amendments) was $8.6M.
+lookup_name: 'MARRBECK CONSTRUCTION'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '1'

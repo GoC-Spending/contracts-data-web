@@ -1,5 +1,5 @@
 ---
-title: ADRM TECHNOLOGY CONSULTING
+title: ADRM Technology Consulting
 author: ''
 date: '2022-08-30'
 slug: adrm_technology_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $17.5M
-  in 2021-2022 on contracts with ADRM TECHNOLOGY CONSULTING. The average
+  in 2021-2022 on contracts with ADRM Technology Consulting. The average
   contract duration was 1.28 years, and the average contract value
   (not including contracts under $10k) was $566.0K. The longest
   contract was 5.49 years. The largest contract by value (including
   amendments) was $17.4M.
+lookup_name: 'ADRM TECHNOLOGY CONSULTING'
 most_recent_fiscal_year_total: '17.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '231'

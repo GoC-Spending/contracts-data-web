@@ -1,5 +1,5 @@
 ---
-title: DECISIVE GROUP
+title: Decisive Group
 author: ''
 date: '2022-08-30'
 slug: decisive_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $39.0M
-  in 2021-2022 on contracts with DECISIVE GROUP. The average
+  in 2021-2022 on contracts with Decisive Group. The average
   contract duration was 1.47 years, and the average contract value
   (not including contracts under $10k) was $546.2K. The longest
   contract was 5.44 years. The largest contract by value (including
   amendments) was $15.7M.
+lookup_name: 'DECISIVE GROUP'
 most_recent_fiscal_year_total: '39.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '453'

@@ -1,5 +1,5 @@
 ---
-title: NORTHERN MICRO
+title: Northern Micro
 author: ''
 date: '2022-08-30'
 slug: northern_micro
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $220.5M
-  in 2021-2022 on contracts with NORTHERN MICRO. The average
+  in 2021-2022 on contracts with Northern Micro. The average
   contract duration was 0.7 years, and the average contract value
   (not including contracts under $10k) was $258.8K. The longest
   contract was 6.06 years. The largest contract by value (including
   amendments) was $38.6M.
+lookup_name: 'NORTHERN MICRO'
 most_recent_fiscal_year_total: '220.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2,768'

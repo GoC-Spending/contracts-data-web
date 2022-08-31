@@ -1,5 +1,5 @@
 ---
-title: NDL CONSTRUCTION
+title: NDL Construction
 author: ''
 date: '2022-08-30'
 slug: ndl_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.0M
-  in 2021-2022 on contracts with NDL CONSTRUCTION. The average
+  in 2021-2022 on contracts with NDL Construction. The average
   contract duration was 2.23 years, and the average contract value
   (not including contracts under $10k) was $7.7M. The longest
   contract was 3.66 years. The largest contract by value (including
   amendments) was $14.5M.
+lookup_name: 'NDL CONSTRUCTION'
 most_recent_fiscal_year_total: '4.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

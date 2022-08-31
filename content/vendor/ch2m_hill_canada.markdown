@@ -1,5 +1,5 @@
 ---
-title: CH2M HILL CANADA
+title: CH2M Hill Canada
 author: ''
 date: '2022-08-30'
 slug: ch2m_hill_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.2M
-  in 2021-2022 on contracts with CH2M HILL CANADA. The average
+  in 2021-2022 on contracts with CH2M Hill Canada. The average
   contract duration was 1.28 years, and the average contract value
   (not including contracts under $10k) was $1.7M. The longest
   contract was 3.84 years. The largest contract by value (including
   amendments) was $6.6M.
+lookup_name: 'CH2M HILL CANADA'
 most_recent_fiscal_year_total: '3.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

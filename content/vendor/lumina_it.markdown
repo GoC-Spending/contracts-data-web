@@ -1,5 +1,5 @@
 ---
-title: LUMINA IT
+title: Lumina IT
 author: ''
 date: '2022-08-30'
 slug: lumina_it
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $22.3M
-  in 2021-2022 on contracts with LUMINA IT. The average
+  in 2021-2022 on contracts with Lumina IT. The average
   contract duration was 1.13 years, and the average contract value
   (not including contracts under $10k) was $272.6K. The longest
   contract was 5.76 years. The largest contract by value (including
   amendments) was $3.7M.
+lookup_name: 'LUMINA IT'
 most_recent_fiscal_year_total: '22.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '348'

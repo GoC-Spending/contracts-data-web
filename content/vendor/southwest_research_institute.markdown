@@ -1,5 +1,5 @@
 ---
-title: SOUTHWEST RESEARCH INSTITUTE
+title: Southwest Research Institute
 author: ''
 date: '2022-08-30'
 slug: southwest_research_institute
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.4M
-  in 2021-2022 on contracts with SOUTHWEST RESEARCH INSTITUTE. The average
+  in 2021-2022 on contracts with Southwest Research Institute. The average
   contract duration was 1.19 years, and the average contract value
   (not including contracts under $10k) was $6.1M. The longest
   contract was 7.93 years. The largest contract by value (including
   amendments) was $57.5M.
+lookup_name: 'SOUTHWEST RESEARCH INSTITUTE'
 most_recent_fiscal_year_total: '13.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '15'

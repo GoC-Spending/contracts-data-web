@@ -1,5 +1,5 @@
 ---
-title: ACME FUTURE SECURITY CONTROLS
+title: Acme Future Security Controls
 author: ''
 date: '2022-08-30'
 slug: acme_future_security_controls
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $949.2K
-  in 2021-2022 on contracts with ACME FUTURE SECURITY CONTROLS. The average
+  in 2021-2022 on contracts with Acme Future Security Controls. The average
   contract duration was 0.83 years, and the average contract value
   (not including contracts under $10k) was $182.0K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'ACME FUTURE SECURITY CONTROLS'
 most_recent_fiscal_year_total: '949.2K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '66'

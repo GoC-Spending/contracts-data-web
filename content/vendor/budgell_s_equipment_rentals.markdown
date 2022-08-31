@@ -1,5 +1,5 @@
 ---
-title: BUDGELL S EQUIPMENT RENTALS
+title: Budgell’s Equipment Rentals
 author: ''
 date: '2022-08-30'
 slug: budgell_s_equipment_rentals
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $880.7K
-  in 2019-2020 on contracts with BUDGELL S EQUIPMENT RENTALS. The average
+  in 2019-2020 on contracts with Budgell’s Equipment Rentals. The average
   contract duration was 2.02 years, and the average contract value
   (not including contracts under $10k) was $3.8M. The longest
   contract was 2.07 years. The largest contract by value (including
   amendments) was $4.9M.
+lookup_name: 'BUDGELL S EQUIPMENT RENTALS'
 most_recent_fiscal_year_total: '880.7K'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

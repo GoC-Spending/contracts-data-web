@@ -1,5 +1,5 @@
 ---
-title: LEC ENGINEERING CONTRACTING
+title: LEC Engineering Contracting
 author: ''
 date: '2022-08-30'
 slug: lec_engineering_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.6M
-  in 2020-2021 on contracts with LEC ENGINEERING CONTRACTING. The average
+  in 2020-2021 on contracts with LEC Engineering Contracting. The average
   contract duration was 3.51 years, and the average contract value
   (not including contracts under $10k) was $26.7M. The longest
   contract was 3.51 years. The largest contract by value (including
   amendments) was $26.7M.
+lookup_name: 'LEC ENGINEERING CONTRACTING'
 most_recent_fiscal_year_total: '7.6M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

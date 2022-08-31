@@ -1,5 +1,5 @@
 ---
-title: POMERLEAU
+title: Pomerleau
 author: ''
 date: '2022-08-30'
 slug: pomerleau
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $189.0M
-  in 2021-2022 on contracts with POMERLEAU. The average
+  in 2021-2022 on contracts with Pomerleau. The average
   contract duration was 3.11 years, and the average contract value
   (not including contracts under $10k) was $38.4M. The longest
   contract was 5.78 years. The largest contract by value (including
   amendments) was $238.2M.
+lookup_name: 'POMERLEAU'
 most_recent_fiscal_year_total: '189.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '32'

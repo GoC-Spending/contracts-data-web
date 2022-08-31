@@ -1,5 +1,5 @@
 ---
-title: TRANSWEST AIR
+title: Transwest Air
 author: ''
 date: '2022-08-30'
 slug: transwest_air
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.1M
-  in 2021-2022 on contracts with TRANSWEST AIR. The average
+  in 2021-2022 on contracts with Transwest Air. The average
   contract duration was 0.54 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $18.1M.
+lookup_name: 'TRANSWEST AIR'
 most_recent_fiscal_year_total: '7.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '33'

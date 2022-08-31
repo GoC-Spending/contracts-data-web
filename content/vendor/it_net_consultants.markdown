@@ -1,5 +1,5 @@
 ---
-title: IT NET CONSULTANTS
+title: IT NET Consultants
 author: ''
 date: '2022-08-30'
 slug: it_net_consultants
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.5M
-  in 2021-2022 on contracts with IT NET CONSULTANTS. The average
+  in 2021-2022 on contracts with IT NET Consultants. The average
   contract duration was 1.56 years, and the average contract value
   (not including contracts under $10k) was $746.9K. The longest
   contract was 7.55 years. The largest contract by value (including
   amendments) was $11.2M.
+lookup_name: 'IT NET CONSULTANTS'
 most_recent_fiscal_year_total: '6.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '96'

@@ -1,5 +1,5 @@
 ---
-title: ELSEVIER
+title: Elsevier
 author: ''
 date: '2022-08-30'
 slug: elsevier
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.1M
-  in 2021-2022 on contracts with ELSEVIER. The average
+  in 2021-2022 on contracts with Elsevier. The average
   contract duration was 1.13 years, and the average contract value
   (not including contracts under $10k) was $297.0K. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'ELSEVIER'
 most_recent_fiscal_year_total: '6.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '124'

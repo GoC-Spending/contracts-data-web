@@ -1,5 +1,5 @@
 ---
-title: YAMAHA MOTORS CANADA
+title: Yamaha Motors Canada
 author: ''
 date: '2022-08-30'
 slug: yamaha_motors_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with YAMAHA MOTORS CANADA. The average
+  in 2021-2022 on contracts with Yamaha Motors Canada. The average
   contract duration was 0.23 years, and the average contract value
   (not including contracts under $10k) was $38.4K. The longest
   contract was 1.2 years. The largest contract by value (including
   amendments) was $243.0K.
+lookup_name: 'YAMAHA MOTORS CANADA'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '261'

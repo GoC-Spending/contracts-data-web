@@ -1,5 +1,5 @@
 ---
-title: UNIVERSAL WEATHER AND AVIATION
+title: Universal Weather and Aviation
 author: ''
 date: '2022-08-30'
 slug: universal_weather_and_aviation
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.1M
-  in 2018-2019 on contracts with UNIVERSAL WEATHER AND AVIATION. The average
+  in 2018-2019 on contracts with Universal Weather and Aviation. The average
   contract duration was 0 years, and the average contract value
   (not including contracts under $10k) was $105.1K. The longest
   contract was 0 years. The largest contract by value (including
   amendments) was $246.1K.
+lookup_name: 'UNIVERSAL WEATHER AND AVIATION'
 most_recent_fiscal_year_total: '7.1M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '36'

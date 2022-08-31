@@ -1,5 +1,5 @@
 ---
-title: ALTIS HUMAN RESOURCES
+title: Altis Human Resources
 author: ''
 date: '2022-08-30'
 slug: altis_human_resources
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $25.2M
-  in 2021-2022 on contracts with ALTIS HUMAN RESOURCES. The average
+  in 2021-2022 on contracts with Altis Human Resources. The average
   contract duration was 0.92 years, and the average contract value
   (not including contracts under $10k) was $153.1K. The longest
   contract was 20.97 years. The largest contract by value (including
   amendments) was $6.9M.
+lookup_name: 'ALTIS HUMAN RESOURCES'
 most_recent_fiscal_year_total: '25.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,093'

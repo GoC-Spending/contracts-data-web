@@ -1,5 +1,5 @@
 ---
-title: GARTNER
+title: Gartner
 author: ''
 date: '2022-08-30'
 slug: gartner
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $54.9M
-  in 2021-2022 on contracts with GARTNER. The average
+  in 2021-2022 on contracts with Gartner. The average
   contract duration was 0.71 years, and the average contract value
   (not including contracts under $10k) was $224.1K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $4.5M.
+lookup_name: 'GARTNER'
 most_recent_fiscal_year_total: '54.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,192'

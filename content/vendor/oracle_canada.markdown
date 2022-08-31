@@ -1,5 +1,5 @@
 ---
-title: ORACLE CANADA
+title: Oracle Canada
 author: ''
 date: '2022-08-30'
 slug: oracle_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $104.2M
-  in 2021-2022 on contracts with ORACLE CANADA. The average
+  in 2021-2022 on contracts with Oracle Canada. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $1.1M. The longest
   contract was 8.02 years. The largest contract by value (including
   amendments) was $79.8M.
+lookup_name: 'ORACLE CANADA'
 most_recent_fiscal_year_total: '104.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '501'

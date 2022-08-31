@@ -1,5 +1,5 @@
 ---
-title: RAYTHEON
+title: Raytheon
 author: ''
 date: '2022-08-30'
 slug: raytheon
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $43.0M
-  in 2021-2022 on contracts with RAYTHEON. The average
+  in 2021-2022 on contracts with Raytheon. The average
   contract duration was 3.12 years, and the average contract value
   (not including contracts under $10k) was $35.4M. The longest
   contract was 15.96 years. The largest contract by value (including
   amendments) was $346.5M.
+lookup_name: 'RAYTHEON'
 most_recent_fiscal_year_total: '43.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '25'

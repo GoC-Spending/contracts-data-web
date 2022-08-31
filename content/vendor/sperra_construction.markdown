@@ -1,5 +1,5 @@
 ---
-title: SPERRA CONSTRUCTION
+title: Sperra Construction
 author: ''
 date: '2022-08-30'
 slug: sperra_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
-  in 2020-2021 on contracts with SPERRA CONSTRUCTION. The average
+  in 2020-2021 on contracts with Sperra Construction. The average
   contract duration was 0.69 years, and the average contract value
   (not including contracts under $10k) was $808.0K. The longest
   contract was 1.68 years. The largest contract by value (including
   amendments) was $1.7M.
+lookup_name: 'SPERRA CONSTRUCTION'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '8'

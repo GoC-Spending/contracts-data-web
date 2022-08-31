@@ -1,5 +1,5 @@
 ---
-title: DYNAMIC CONSTRUCTION
+title: Dynamic Construction
 author: ''
 date: '2022-08-30'
 slug: dynamic_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $507.0K
-  in 2021-2022 on contracts with DYNAMIC CONSTRUCTION. The average
+  in 2021-2022 on contracts with Dynamic Construction. The average
   contract duration was 0.44 years, and the average contract value
   (not including contracts under $10k) was $704.6K. The longest
   contract was 1.08 years. The largest contract by value (including
   amendments) was $1.7M.
+lookup_name: 'DYNAMIC CONSTRUCTION'
 most_recent_fiscal_year_total: '507.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '9'

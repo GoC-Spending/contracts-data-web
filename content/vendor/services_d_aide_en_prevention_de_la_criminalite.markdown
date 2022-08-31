@@ -1,5 +1,5 @@
 ---
-title: SERVICES D AIDE EN PREVENTION DE LA CRIMINALITE
+title: Services D’Aide En Prevention De La Criminalite
 author: ''
 date: '2022-08-30'
 slug: services_d_aide_en_prevention_de_la_criminalite
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with SERVICES D AIDE EN PREVENTION DE LA CRIMINALITE. The average
+  in 2021-2022 on contracts with Services D’Aide En Prevention De La Criminalite. The average
   contract duration was 3.5 years, and the average contract value
   (not including contracts under $10k) was $2.8M. The longest
   contract was 6 years. The largest contract by value (including
   amendments) was $5.1M.
+lookup_name: 'SERVICES D AIDE EN PREVENTION DE LA CRIMINALITE'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'

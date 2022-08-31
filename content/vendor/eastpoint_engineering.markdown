@@ -1,5 +1,5 @@
 ---
-title: EASTPOINT ENGINEERING
+title: Eastpoint Engineering
 author: ''
 date: '2022-08-30'
 slug: eastpoint_engineering
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.0M
-  in 2021-2022 on contracts with EASTPOINT ENGINEERING. The average
+  in 2021-2022 on contracts with Eastpoint Engineering. The average
   contract duration was 1.05 years, and the average contract value
   (not including contracts under $10k) was $107.7K. The longest
   contract was 4.21 years. The largest contract by value (including
   amendments) was $2.4M.
+lookup_name: 'EASTPOINT ENGINEERING'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '127'

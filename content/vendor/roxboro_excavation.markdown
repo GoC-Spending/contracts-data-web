@@ -1,5 +1,5 @@
 ---
-title: ROXBORO EXCAVATION
+title: Roxboro Excavation
 author: ''
 date: '2022-08-30'
 slug: roxboro_excavation
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $77.6K
-  in 2021-2022 on contracts with ROXBORO EXCAVATION. The average
+  in 2021-2022 on contracts with Roxboro Excavation. The average
   contract duration was 4.11 years, and the average contract value
   (not including contracts under $10k) was $4.0M. The longest
   contract was 4.85 years. The largest contract by value (including
   amendments) was $11.3M.
+lookup_name: 'ROXBORO EXCAVATION'
 most_recent_fiscal_year_total: '77.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

@@ -1,5 +1,5 @@
 ---
-title: RHEINMETALL
+title: Rheinmetall
 author: ''
 date: '2022-08-30'
 slug: rheinmetall
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $45.4M
-  in 2021-2022 on contracts with RHEINMETALL. The average
+  in 2021-2022 on contracts with Rheinmetall. The average
   contract duration was 2.27 years, and the average contract value
   (not including contracts under $10k) was $5.3M. The longest
   contract was 8.05 years. The largest contract by value (including
   amendments) was $70.1M.
+lookup_name: 'RHEINMETALL'
 most_recent_fiscal_year_total: '45.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '83'

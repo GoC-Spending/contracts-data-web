@@ -1,5 +1,5 @@
 ---
-title: NUIX NORTH AMERICA
+title: Nuix North America
 author: ''
 date: '2022-08-30'
 slug: nuix_north_america
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
-  in 2021-2022 on contracts with NUIX NORTH AMERICA. The average
+  in 2021-2022 on contracts with Nuix North America. The average
   contract duration was 1.07 years, and the average contract value
   (not including contracts under $10k) was $292.7K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $3.3M.
+lookup_name: 'NUIX NORTH AMERICA'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '39'

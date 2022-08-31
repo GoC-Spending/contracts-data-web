@@ -1,5 +1,5 @@
 ---
-title: LIKE 10
+title: Like 10
 author: ''
 date: '2022-08-30'
 slug: like_10
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with LIKE 10. The average
+  in 2021-2022 on contracts with Like 10. The average
   contract duration was 1.35 years, and the average contract value
   (not including contracts under $10k) was $437.9K. The longest
   contract was 3.97 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'LIKE 10'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '21'

@@ -1,5 +1,5 @@
 ---
-title: DCL CONSTRUCTION SERVICES
+title: DCL Construction Services
 author: ''
 date: '2022-08-30'
 slug: dcl_construction_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with DCL CONSTRUCTION SERVICES. The average
+  in 2021-2022 on contracts with DCL Construction Services. The average
   contract duration was 0.99 years, and the average contract value
   (not including contracts under $10k) was $1.5M. The longest
   contract was 1.58 years. The largest contract by value (including
   amendments) was $4.3M.
+lookup_name: 'DCL CONSTRUCTION SERVICES'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '11'

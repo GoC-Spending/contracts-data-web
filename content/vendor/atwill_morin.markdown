@@ -1,5 +1,5 @@
 ---
-title: ATWILL MORIN
+title: Atwill Morin
 author: ''
 date: '2022-08-30'
 slug: atwill_morin
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $74.0K
-  in 2021-2022 on contracts with ATWILL MORIN. The average
+  in 2021-2022 on contracts with Atwill Morin. The average
   contract duration was 1.59 years, and the average contract value
   (not including contracts under $10k) was $3.2M. The longest
   contract was 2.92 years. The largest contract by value (including
   amendments) was $13.0M.
+lookup_name: 'ATWILL MORIN'
 most_recent_fiscal_year_total: '74.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '10'

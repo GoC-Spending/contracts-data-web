@@ -1,5 +1,5 @@
 ---
-title: PORT OF SPAIN HOLDINGS
+title: Port of Spain Holdings
 author: ''
 date: '2022-08-30'
 slug: port_of_spain_holdings
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with PORT OF SPAIN HOLDINGS. The average
+  in 2021-2022 on contracts with Port of Spain Holdings. The average
   contract duration was 0.61 years, and the average contract value
   (not including contracts under $10k) was $333.2K. The longest
   contract was 1.5 years. The largest contract by value (including
   amendments) was $1.0M.
+lookup_name: 'PORT OF SPAIN HOLDINGS'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

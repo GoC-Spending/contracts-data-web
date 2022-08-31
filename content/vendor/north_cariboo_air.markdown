@@ -1,5 +1,5 @@
 ---
-title: NORTH CARIBOO AIR
+title: North Cariboo Air
 author: ''
 date: '2022-08-30'
 slug: north_cariboo_air
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with NORTH CARIBOO AIR. The average
+  in 2021-2022 on contracts with North Cariboo Air. The average
   contract duration was 0.22 years, and the average contract value
   (not including contracts under $10k) was $63.3K. The longest
   contract was 1.05 years. The largest contract by value (including
   amendments) was $500.0K.
+lookup_name: 'NORTH CARIBOO AIR'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '87'

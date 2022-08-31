@@ -1,5 +1,5 @@
 ---
-title: PRIMED MEDICAL PRODUCTS
+title: PRIMED Medical Products
 author: ''
 date: '2022-08-30'
 slug: primed_medical_products
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $19.7M
-  in 2021-2022 on contracts with PRIMED MEDICAL PRODUCTS. The average
+  in 2021-2022 on contracts with PRIMED Medical Products. The average
   contract duration was 0.81 years, and the average contract value
   (not including contracts under $10k) was $22.4M. The longest
   contract was 1.24 years. The largest contract by value (including
   amendments) was $54.6M.
+lookup_name: 'PRIMED MEDICAL PRODUCTS'
 most_recent_fiscal_year_total: '19.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

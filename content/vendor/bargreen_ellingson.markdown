@@ -1,5 +1,5 @@
 ---
-title: BARGREEN ELLINGSON
+title: Bargreen Ellingson
 author: ''
 date: '2022-08-30'
 slug: bargreen_ellingson
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $16.8M
-  in 2021-2022 on contracts with BARGREEN ELLINGSON. The average
+  in 2021-2022 on contracts with Bargreen Ellingson. The average
   contract duration was 0.15 years, and the average contract value
   (not including contracts under $10k) was $122.1K. The longest
   contract was 1.16 years. The largest contract by value (including
   amendments) was $7.8M.
+lookup_name: 'BARGREEN ELLINGSON'
 most_recent_fiscal_year_total: '16.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '419'

@@ -1,5 +1,5 @@
 ---
-title: ROCHE DIAGNOSTICS
+title: Roche Diagnostics
 author: ''
 date: '2022-08-30'
 slug: roche_diagnostics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $84.0M
-  in 2021-2022 on contracts with ROCHE DIAGNOSTICS. The average
+  in 2021-2022 on contracts with Roche Diagnostics. The average
   contract duration was 0.7 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 5.04 years. The largest contract by value (including
   amendments) was $66.9M.
+lookup_name: 'ROCHE DIAGNOSTICS'
 most_recent_fiscal_year_total: '84.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '67'

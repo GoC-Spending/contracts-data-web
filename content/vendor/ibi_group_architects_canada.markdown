@@ -1,5 +1,5 @@
 ---
-title: IBI GROUP ARCHITECTS CANADA
+title: IBI Group Architects Canada
 author: ''
 date: '2022-08-30'
 slug: ibi_group_architects_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1K
-  in 2021-2022 on contracts with IBI GROUP ARCHITECTS CANADA. The average
+  in 2021-2022 on contracts with IBI Group Architects Canada. The average
   contract duration was 2.06 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 8.15 years. The largest contract by value (including
   amendments) was $13.5M.
+lookup_name: 'IBI GROUP ARCHITECTS CANADA'
 most_recent_fiscal_year_total: '2.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '12'

@@ -1,5 +1,5 @@
 ---
-title: FN HERSTAL
+title: FN Herstal
 author: ''
 date: '2022-08-30'
 slug: fn_herstal
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.6M
-  in 2020-2021 on contracts with FN HERSTAL. The average
+  in 2020-2021 on contracts with FN Herstal. The average
   contract duration was 0.91 years, and the average contract value
   (not including contracts under $10k) was $724.6K. The longest
   contract was 1.84 years. The largest contract by value (including
   amendments) was $1.8M.
+lookup_name: 'FN HERSTAL'
 most_recent_fiscal_year_total: '3.6M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '17'

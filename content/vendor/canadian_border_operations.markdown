@@ -1,5 +1,5 @@
 ---
-title: CANADIAN BORDER OPERATIONS
+title: Canadian Border Operations
 author: ''
 date: '2022-08-30'
 slug: canadian_border_operations
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $22.6M
-  in 2021-2022 on contracts with CANADIAN BORDER OPERATIONS. The average
+  in 2021-2022 on contracts with Canadian Border Operations. The average
   contract duration was 10.01 years, and the average contract value
   (not including contracts under $10k) was $225.7M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $225.7M.
+lookup_name: 'CANADIAN BORDER OPERATIONS'
 most_recent_fiscal_year_total: '22.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

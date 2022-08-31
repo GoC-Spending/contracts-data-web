@@ -1,5 +1,5 @@
 ---
-title: CANADIAN VETERANS VR SERVICE
+title: Canadian Veterans VR Service
 author: ''
 date: '2022-08-30'
 slug: canadian_veterans_vr_service
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.1M
-  in 2018-2019 on contracts with CANADIAN VETERANS VR SERVICE. The average
+  in 2018-2019 on contracts with Canadian Veterans VR Service. The average
   contract duration was 4.01 years, and the average contract value
   (not including contracts under $10k) was $36.0M. The longest
   contract was 4.01 years. The largest contract by value (including
   amendments) was $36.0M.
+lookup_name: 'CANADIAN VETERANS VR SERVICE'
 most_recent_fiscal_year_total: '6.1M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '1'

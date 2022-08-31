@@ -1,5 +1,5 @@
 ---
-title: ORANGUTECH
+title: Orangutech
 author: ''
 date: '2022-08-30'
 slug: orangutech
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.8M
-  in 2021-2022 on contracts with ORANGUTECH. The average
+  in 2021-2022 on contracts with Orangutech. The average
   contract duration was 1.08 years, and the average contract value
   (not including contracts under $10k) was $251.5K. The longest
   contract was 5.08 years. The largest contract by value (including
   amendments) was $3.8M.
+lookup_name: 'ORANGUTECH'
 most_recent_fiscal_year_total: '11.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '185'

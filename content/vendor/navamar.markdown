@@ -1,5 +1,5 @@
 ---
-title: NAVAMAR
+title: Navamar
 author: ''
 date: '2022-08-30'
 slug: navamar
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.6M
-  in 2021-2022 on contracts with NAVAMAR. The average
+  in 2021-2022 on contracts with Navamar. The average
   contract duration was 0.93 years, and the average contract value
   (not including contracts under $10k) was $1.5M. The longest
   contract was 3.35 years. The largest contract by value (including
   amendments) was $11.8M.
+lookup_name: 'NAVAMAR'
 most_recent_fiscal_year_total: '3.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '13'

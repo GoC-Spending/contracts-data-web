@@ -1,5 +1,5 @@
 ---
-title: 3M CANADA COMPANY
+title: 3M Canada Company
 author: ''
 date: '2022-08-30'
 slug: 3m_canada_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with 3M CANADA COMPANY. The average
+  in 2021-2022 on contracts with 3M Canada Company. The average
   contract duration was 1.32 years, and the average contract value
   (not including contracts under $10k) was $698.5K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $8.8M.
+lookup_name: '3M CANADA COMPANY'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

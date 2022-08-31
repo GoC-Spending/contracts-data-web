@@ -1,5 +1,5 @@
 ---
-title: DEFENSE INFORMATION SYSTEMS AGENCY
+title: Defense Information Systems Agency
 author: ''
 date: '2022-08-30'
 slug: defense_information_systems_agency
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $895.6K
-  in 2021-2022 on contracts with DEFENSE INFORMATION SYSTEMS AGENCY. The average
+  in 2021-2022 on contracts with Defense Information Systems Agency. The average
   contract duration was 6.67 years, and the average contract value
   (not including contracts under $10k) was $3.6M. The longest
   contract was 7.77 years. The largest contract by value (including
   amendments) was $6.6M.
+lookup_name: 'DEFENSE INFORMATION SYSTEMS AGENCY'
 most_recent_fiscal_year_total: '895.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

@@ -1,5 +1,5 @@
 ---
-title: B L ASSOCIATES
+title: B L Associates
 author: ''
 date: '2022-08-30'
 slug: b_l_associates
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.0K
-  in 2021-2022 on contracts with B L ASSOCIATES. The average
+  in 2021-2022 on contracts with B L Associates. The average
   contract duration was 1.76 years, and the average contract value
   (not including contracts under $10k) was $1.8M. The longest
   contract was 3.05 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'B L ASSOCIATES'
 most_recent_fiscal_year_total: '8.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

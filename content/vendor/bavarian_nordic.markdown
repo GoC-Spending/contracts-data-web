@@ -1,5 +1,5 @@
 ---
-title: BAVARIAN NORDIC
+title: Bavarian Nordic
 author: ''
 date: '2022-08-30'
 slug: bavarian_nordic
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.4M
-  in 2018-2019 on contracts with BAVARIAN NORDIC. The average
+  in 2018-2019 on contracts with Bavarian Nordic. The average
   contract duration was 7.31 years, and the average contract value
   (not including contracts under $10k) was $10.2M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $20.3M.
+lookup_name: 'BAVARIAN NORDIC'
 most_recent_fiscal_year_total: '4.4M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '2'

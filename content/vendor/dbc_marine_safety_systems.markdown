@@ -1,5 +1,5 @@
 ---
-title: DBC MARINE SAFETY SYSTEMS
+title: DBC Marine Safety Systems
 author: ''
 date: '2022-08-30'
 slug: dbc_marine_safety_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $106.8K
-  in 2021-2022 on contracts with DBC MARINE SAFETY SYSTEMS. The average
+  in 2021-2022 on contracts with DBC Marine Safety Systems. The average
   contract duration was 0.36 years, and the average contract value
   (not including contracts under $10k) was $245.2K. The longest
   contract was 2.31 years. The largest contract by value (including
   amendments) was $3.2M.
+lookup_name: 'DBC MARINE SAFETY SYSTEMS'
 most_recent_fiscal_year_total: '106.8K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '21'

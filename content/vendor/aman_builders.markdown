@@ -1,5 +1,5 @@
 ---
-title: AMAN BUILDERS
+title: Aman Builders
 author: ''
 date: '2022-08-30'
 slug: aman_builders
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.5M
-  in 2019-2020 on contracts with AMAN BUILDERS. The average
+  in 2019-2020 on contracts with Aman Builders. The average
   contract duration was 2.54 years, and the average contract value
   (not including contracts under $10k) was $29.0M. The longest
   contract was 3.17 years. The largest contract by value (including
   amendments) was $37.0M.
+lookup_name: 'AMAN BUILDERS'
 most_recent_fiscal_year_total: '3.5M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '2'

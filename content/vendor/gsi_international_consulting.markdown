@@ -1,5 +1,5 @@
 ---
-title: GSI INTERNATIONAL CONSULTING
+title: GSI International Consulting
 author: ''
 date: '2022-08-30'
 slug: gsi_international_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.7M
-  in 2021-2022 on contracts with GSI INTERNATIONAL CONSULTING. The average
+  in 2021-2022 on contracts with GSI International Consulting. The average
   contract duration was 1.5 years, and the average contract value
   (not including contracts under $10k) was $7.3M. The longest
   contract was 2.15 years. The largest contract by value (including
   amendments) was $23.6M.
+lookup_name: 'GSI INTERNATIONAL CONSULTING'
 most_recent_fiscal_year_total: '10.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

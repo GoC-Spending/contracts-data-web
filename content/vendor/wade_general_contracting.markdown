@@ -1,5 +1,5 @@
 ---
-title: WADE GENERAL CONTRACTING
+title: Wade General Contracting
 author: ''
 date: '2022-08-30'
 slug: wade_general_contracting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
-  in 2021-2022 on contracts with WADE GENERAL CONTRACTING. The average
+  in 2021-2022 on contracts with Wade General Contracting. The average
   contract duration was 0.56 years, and the average contract value
   (not including contracts under $10k) was $421.1K. The longest
   contract was 1.48 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'WADE GENERAL CONTRACTING'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '20'

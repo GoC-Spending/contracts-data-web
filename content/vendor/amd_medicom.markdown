@@ -1,5 +1,5 @@
 ---
-title: AMD MEDICOM
+title: AMD Medicom
 author: ''
 date: '2022-08-30'
 slug: amd_medicom
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $18.5M
-  in 2021-2022 on contracts with AMD MEDICOM. The average
+  in 2021-2022 on contracts with AMD Medicom. The average
   contract duration was 6.1 years, and the average contract value
   (not including contracts under $10k) was $56.8M. The longest
   contract was 10.27 years. The largest contract by value (including
   amendments) was $93.6M.
+lookup_name: 'AMD MEDICOM'
 most_recent_fiscal_year_total: '18.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

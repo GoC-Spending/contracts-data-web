@@ -1,5 +1,5 @@
 ---
-title: NATIVE CLAN ORGANIZATION
+title: Native Clan Organization
 author: ''
 date: '2022-08-30'
 slug: native_clan_organization
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
-  in 2021-2022 on contracts with NATIVE CLAN ORGANIZATION. The average
+  in 2021-2022 on contracts with Native Clan Organization. The average
   contract duration was 2.33 years, and the average contract value
   (not including contracts under $10k) was $3.8M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $4.9M.
+lookup_name: 'NATIVE CLAN ORGANIZATION'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

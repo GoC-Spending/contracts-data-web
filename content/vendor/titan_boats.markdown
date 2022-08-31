@@ -1,5 +1,5 @@
 ---
-title: TITAN BOATS
+title: Titan Boats
 author: ''
 date: '2022-08-30'
 slug: titan_boats
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.7M
-  in 2021-2022 on contracts with TITAN BOATS. The average
+  in 2021-2022 on contracts with Titan Boats. The average
   contract duration was 0.69 years, and the average contract value
   (not including contracts under $10k) was $368.0K. The longest
   contract was 3.36 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'TITAN BOATS'
 most_recent_fiscal_year_total: '2.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '28'

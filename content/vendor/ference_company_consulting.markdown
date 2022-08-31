@@ -1,5 +1,5 @@
 ---
-title: FERENCE COMPANY CONSULTING
+title: Ference Company Consulting
 author: ''
 date: '2022-08-30'
 slug: ference_company_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2021-2022 on contracts with FERENCE COMPANY CONSULTING. The average
+  in 2021-2022 on contracts with Ference Company Consulting. The average
   contract duration was 0.78 years, and the average contract value
   (not including contracts under $10k) was $125.1K. The longest
   contract was 4.69 years. The largest contract by value (including
   amendments) was $968.9K.
+lookup_name: 'FERENCE COMPANY CONSULTING'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '60'

@@ -1,5 +1,5 @@
 ---
-title: NORTH AMERICA CONSTRUCTION
+title: North America Construction
 author: ''
 date: '2022-08-30'
 slug: north_america_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.6M
-  in 2020-2021 on contracts with NORTH AMERICA CONSTRUCTION. The average
+  in 2020-2021 on contracts with North America Construction. The average
   contract duration was 6.37 years, and the average contract value
   (not including contracts under $10k) was $29.5M. The longest
   contract was 6.37 years. The largest contract by value (including
   amendments) was $29.5M.
+lookup_name: 'NORTH AMERICA CONSTRUCTION'
 most_recent_fiscal_year_total: '4.6M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

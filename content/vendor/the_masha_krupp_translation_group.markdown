@@ -1,5 +1,5 @@
 ---
-title: THE MASHA KRUPP TRANSLATION GROUP
+title: The Masha Krupp Translation Group
 author: ''
 date: '2022-08-30'
 slug: the_masha_krupp_translation_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
-  in 2021-2022 on contracts with THE MASHA KRUPP TRANSLATION GROUP. The average
+  in 2021-2022 on contracts with The Masha Krupp Translation Group. The average
   contract duration was 0.86 years, and the average contract value
   (not including contracts under $10k) was $154.3K. The longest
   contract was 6.14 years. The largest contract by value (including
   amendments) was $8.4M.
+lookup_name: 'THE MASHA KRUPP TRANSLATION GROUP'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '200'

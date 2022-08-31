@@ -1,5 +1,5 @@
 ---
-title: ALLIANT TECHSYSTEMS OPERATIONS
+title: Alliant Techsystems Operations
 author: ''
 date: '2022-08-30'
 slug: alliant_techsystems_operations
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $667.5K
-  in 2021-2022 on contracts with ALLIANT TECHSYSTEMS OPERATIONS. The average
+  in 2021-2022 on contracts with Alliant Techsystems Operations. The average
   contract duration was 3.42 years, and the average contract value
   (not including contracts under $10k) was $5.4M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $21.4M.
+lookup_name: 'ALLIANT TECHSYSTEMS OPERATIONS'
 most_recent_fiscal_year_total: '667.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

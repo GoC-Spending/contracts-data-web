@@ -1,5 +1,5 @@
 ---
-title: GEN MEC ACL
+title: Gen Mec ACL
 author: ''
 date: '2022-08-30'
 slug: gen_mec_acl
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.2M
-  in 2021-2022 on contracts with GEN MEC ACL. The average
+  in 2021-2022 on contracts with Gen Mec ACL. The average
   contract duration was 1.54 years, and the average contract value
   (not including contracts under $10k) was $8.8M. The longest
   contract was 1.54 years. The largest contract by value (including
   amendments) was $8.8M.
+lookup_name: 'GEN MEC ACL'
 most_recent_fiscal_year_total: '5.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

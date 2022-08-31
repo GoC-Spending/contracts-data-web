@@ -1,5 +1,5 @@
 ---
-title: UNITED CHURCH HALFWAY HOMES
+title: United Church Halfway Homes
 author: ''
 date: '2022-08-30'
 slug: united_church_halfway_homes
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with UNITED CHURCH HALFWAY HOMES. The average
+  in 2021-2022 on contracts with United Church Halfway Homes. The average
   contract duration was 2.34 years, and the average contract value
   (not including contracts under $10k) was $3.1M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $5.2M.
+lookup_name: 'UNITED CHURCH HALFWAY HOMES'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

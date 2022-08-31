@@ -1,5 +1,5 @@
 ---
-title: COWI NORTH AMERICA
+title: COWI North America
 author: ''
 date: '2022-08-30'
 slug: cowi_north_america
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.0M
-  in 2021-2022 on contracts with COWI NORTH AMERICA. The average
+  in 2021-2022 on contracts with COWI North America. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $300.7K. The longest
   contract was 2.34 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'COWI NORTH AMERICA'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '82'

@@ -1,5 +1,5 @@
 ---
-title: ACCESS 2 NETWORKS
+title: Access 2 Networks
 author: ''
 date: '2022-08-30'
 slug: access_2_networks
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with ACCESS 2 NETWORKS. The average
+  in 2021-2022 on contracts with Access 2 Networks. The average
   contract duration was 1.01 years, and the average contract value
   (not including contracts under $10k) was $180.7K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $3.9M.
+lookup_name: 'ACCESS 2 NETWORKS'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '101'

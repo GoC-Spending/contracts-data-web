@@ -15,6 +15,7 @@ description: The Government of Canada spent an estimated $39.7M
   (not including contracts under $10k) was $531.3K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $22.4M.
+lookup_name: 'IPSS'
 most_recent_fiscal_year_total: '39.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '298'

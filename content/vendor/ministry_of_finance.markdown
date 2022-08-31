@@ -1,5 +1,5 @@
 ---
-title: MINISTRY OF FINANCE
+title: Ministry of Finance
 author: ''
 date: '2022-08-30'
 slug: ministry_of_finance
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
-  in 2021-2022 on contracts with MINISTRY OF FINANCE. The average
+  in 2021-2022 on contracts with Ministry of Finance. The average
   contract duration was 2.63 years, and the average contract value
   (not including contracts under $10k) was $597.4K. The longest
   contract was 29.02 years. The largest contract by value (including
   amendments) was $4.3M.
+lookup_name: 'MINISTRY OF FINANCE'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '36'

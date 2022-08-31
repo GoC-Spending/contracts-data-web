@@ -1,5 +1,5 @@
 ---
-title: POLARIS INDUSTRIES
+title: Polaris Industries
 author: ''
 date: '2022-08-30'
 slug: polaris_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
-  in 2021-2022 on contracts with POLARIS INDUSTRIES. The average
+  in 2021-2022 on contracts with Polaris Industries. The average
   contract duration was 0.27 years, and the average contract value
   (not including contracts under $10k) was $64.3K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $2.3M.
+lookup_name: 'POLARIS INDUSTRIES'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '253'

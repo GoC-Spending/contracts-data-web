@@ -1,5 +1,5 @@
 ---
-title: WCG INTERNATIONAL CONSULTANTS
+title: WCG International Consultants
 author: ''
 date: '2022-08-30'
 slug: wcg_international_consultants
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $127.4M
-  in 2021-2022 on contracts with WCG INTERNATIONAL CONSULTANTS. The average
+  in 2021-2022 on contracts with WCG International Consultants. The average
   contract duration was 5.79 years, and the average contract value
   (not including contracts under $10k) was $287.6M. The longest
   contract was 8.51 years. The largest contract by value (including
   amendments) was $560.3M.
+lookup_name: 'WCG INTERNATIONAL CONSULTANTS'
 most_recent_fiscal_year_total: '127.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

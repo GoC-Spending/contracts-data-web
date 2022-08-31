@@ -1,5 +1,5 @@
 ---
-title: CHU SAINTE JUSTINE
+title: CHU Sainte Justine
 author: ''
 date: '2022-08-30'
 slug: chu_sainte_justine
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
-  in 2021-2022 on contracts with CHU SAINTE JUSTINE. The average
+  in 2021-2022 on contracts with CHU Sainte Justine. The average
   contract duration was 2.53 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 6.71 years. The largest contract by value (including
   amendments) was $11.9M.
+lookup_name: 'CHU SAINTE JUSTINE'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '11'

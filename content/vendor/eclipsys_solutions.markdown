@@ -1,5 +1,5 @@
 ---
-title: ECLIPSYS SOLUTIONS
+title: Eclipsys Solutions
 author: ''
 date: '2022-08-30'
 slug: eclipsys_solutions
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $15.6M
-  in 2021-2022 on contracts with ECLIPSYS SOLUTIONS. The average
+  in 2021-2022 on contracts with Eclipsys Solutions. The average
   contract duration was 1.23 years, and the average contract value
   (not including contracts under $10k) was $348.7K. The longest
   contract was 6 years. The largest contract by value (including
   amendments) was $15.6M.
+lookup_name: 'ECLIPSYS SOLUTIONS'
 most_recent_fiscal_year_total: '15.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '319'

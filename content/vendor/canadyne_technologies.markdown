@@ -1,5 +1,5 @@
 ---
-title: CANADYNE TECHNOLOGIES
+title: Canadyne Technologies
 author: ''
 date: '2022-08-30'
 slug: canadyne_technologies
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $57.6K
-  in 2021-2022 on contracts with CANADYNE TECHNOLOGIES. The average
+  in 2021-2022 on contracts with Canadyne Technologies. The average
   contract duration was 0.51 years, and the average contract value
   (not including contracts under $10k) was $445.7K. The longest
   contract was 3.02 years. The largest contract by value (including
   amendments) was $4.2M.
+lookup_name: 'CANADYNE TECHNOLOGIES'
 most_recent_fiscal_year_total: '57.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '20'

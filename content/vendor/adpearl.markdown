@@ -1,5 +1,5 @@
 ---
-title: ADPEARL
+title: AdPearl
 author: ''
 date: '2022-08-30'
 slug: adpearl
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.6M
-  in 2021-2022 on contracts with ADPEARL. The average
+  in 2021-2022 on contracts with AdPearl. The average
   contract duration was 1.47 years, and the average contract value
   (not including contracts under $10k) was $6.1M. The longest
   contract was 2.6 years. The largest contract by value (including
   amendments) was $12.0M.
+lookup_name: 'ADPEARL'
 most_recent_fiscal_year_total: '4.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

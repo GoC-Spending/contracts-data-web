@@ -1,5 +1,5 @@
 ---
-title: QATAR AIRWAYS
+title: Qatar Airways
 author: ''
 date: '2022-08-30'
 slug: qatar_airways
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.2M
-  in 2020-2021 on contracts with QATAR AIRWAYS. The average
+  in 2020-2021 on contracts with Qatar Airways. The average
   contract duration was 0.61 years, and the average contract value
   (not including contracts under $10k) was $1.0M. The longest
   contract was 0.91 years. The largest contract by value (including
   amendments) was $1.7M.
+lookup_name: 'QATAR AIRWAYS'
 most_recent_fiscal_year_total: '6.2M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '6'

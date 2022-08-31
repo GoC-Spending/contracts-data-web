@@ -1,5 +1,5 @@
 ---
-title: TES CONTRACT SERVICES
+title: TES Contract Services
 author: ''
 date: '2022-08-30'
 slug: tes_contract_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $26.1M
-  in 2021-2022 on contracts with TES CONTRACT SERVICES. The average
+  in 2021-2022 on contracts with TES Contract Services. The average
   contract duration was 1.49 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 5.23 years. The largest contract by value (including
   amendments) was $26.0M.
+lookup_name: 'TES CONTRACT SERVICES'
 most_recent_fiscal_year_total: '26.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '118'

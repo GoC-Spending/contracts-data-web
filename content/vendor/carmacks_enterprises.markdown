@@ -1,5 +1,5 @@
 ---
-title: CARMACKS ENTERPRISES
+title: Carmacks Enterprises
 author: ''
 date: '2022-08-30'
 slug: carmacks_enterprises
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.2M
-  in 2017-2018 on contracts with CARMACKS ENTERPRISES. The average
+  in 2017-2018 on contracts with Carmacks Enterprises. The average
   contract duration was 0.69 years, and the average contract value
   (not including contracts under $10k) was $9.5M. The longest
   contract was 0.69 years. The largest contract by value (including
   amendments) was $9.5M.
+lookup_name: 'CARMACKS ENTERPRISES'
 most_recent_fiscal_year_total: '9.2M'
 most_recent_fiscal_year_year: '2017-2018'
 s431_number_of_contracts: '1'

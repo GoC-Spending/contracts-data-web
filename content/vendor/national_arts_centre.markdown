@@ -1,5 +1,5 @@
 ---
-title: NATIONAL ARTS CENTRE
+title: National Arts Centre
 author: ''
 date: '2022-08-30'
 slug: national_arts_centre
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with NATIONAL ARTS CENTRE. The average
+  in 2021-2022 on contracts with National Arts Centre. The average
   contract duration was 0.41 years, and the average contract value
   (not including contracts under $10k) was $372.9K. The longest
   contract was 6 years. The largest contract by value (including
   amendments) was $6.6M.
+lookup_name: 'NATIONAL ARTS CENTRE'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

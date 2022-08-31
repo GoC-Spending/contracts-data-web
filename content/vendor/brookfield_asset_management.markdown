@@ -1,5 +1,5 @@
 ---
-title: BROOKFIELD ASSET MANAGEMENT
+title: Brookfield Asset Management
 author: ''
 date: '2022-08-30'
 slug: brookfield_asset_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $16.3M
-  in 2021-2022 on contracts with BROOKFIELD ASSET MANAGEMENT. The average
+  in 2021-2022 on contracts with Brookfield Asset Management. The average
   contract duration was 1.55 years, and the average contract value
   (not including contracts under $10k) was $6.4M. The longest
   contract was 6.27 years. The largest contract by value (including
   amendments) was $100.4M.
+lookup_name: 'BROOKFIELD ASSET MANAGEMENT'
 most_recent_fiscal_year_total: '16.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '16'

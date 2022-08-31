@@ -1,5 +1,5 @@
 ---
-title: INTER OUTAOUAIS
+title: Inter Outaouais
 author: ''
 date: '2022-08-30'
 slug: inter_outaouais
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2021-2022 on contracts with INTER OUTAOUAIS. The average
+  in 2021-2022 on contracts with Inter Outaouais. The average
   contract duration was 0.94 years, and the average contract value
   (not including contracts under $10k) was $1.7M. The longest
   contract was 2.36 years. The largest contract by value (including
   amendments) was $5.5M.
+lookup_name: 'INTER OUTAOUAIS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '17'

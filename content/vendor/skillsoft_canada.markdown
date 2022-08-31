@@ -1,5 +1,5 @@
 ---
-title: SKILLSOFT CANADA
+title: Skillsoft Canada
 author: ''
 date: '2022-08-30'
 slug: skillsoft_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with SKILLSOFT CANADA. The average
+  in 2021-2022 on contracts with Skillsoft Canada. The average
   contract duration was 0.98 years, and the average contract value
   (not including contracts under $10k) was $261.8K. The longest
   contract was 6.99 years. The largest contract by value (including
   amendments) was $6.1M.
+lookup_name: 'SKILLSOFT CANADA'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '27'

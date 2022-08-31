@@ -1,5 +1,5 @@
 ---
-title: COMMVAULT SYSTEMS
+title: Commvault Systems
 author: ''
 date: '2022-08-30'
 slug: commvault_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.2M
-  in 2021-2022 on contracts with COMMVAULT SYSTEMS. The average
+  in 2021-2022 on contracts with Commvault Systems. The average
   contract duration was 1.1 years, and the average contract value
   (not including contracts under $10k) was $2.0M. The longest
   contract was 3.25 years. The largest contract by value (including
   amendments) was $15.0M.
+lookup_name: 'COMMVAULT SYSTEMS'
 most_recent_fiscal_year_total: '4.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '22'

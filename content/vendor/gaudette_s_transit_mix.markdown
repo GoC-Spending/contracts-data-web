@@ -1,5 +1,5 @@
 ---
-title: GAUDETTE S TRANSIT MIX
+title: Gaudette’s Transit Mix
 author: ''
 date: '2022-08-30'
 slug: gaudette_s_transit_mix
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
-  in 2020-2021 on contracts with GAUDETTE S TRANSIT MIX. The average
+  in 2020-2021 on contracts with Gaudette’s Transit Mix. The average
   contract duration was 0.6 years, and the average contract value
   (not including contracts under $10k) was $924.7K. The longest
   contract was 2.2 years. The largest contract by value (including
   amendments) was $1.8M.
+lookup_name: 'GAUDETTE S TRANSIT MIX'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '12'

@@ -1,5 +1,5 @@
 ---
-title: AON REED STENHOUSE
+title: Aon Reed Stenhouse
 author: ''
 date: '2022-08-30'
 slug: aon_reed_stenhouse
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $918.6K
-  in 2021-2022 on contracts with AON REED STENHOUSE. The average
+  in 2021-2022 on contracts with Aon Reed Stenhouse. The average
   contract duration was 1.21 years, and the average contract value
   (not including contracts under $10k) was $154.1K. The longest
   contract was 7.59 years. The largest contract by value (including
   amendments) was $6.6M.
+lookup_name: 'AON REED STENHOUSE'
 most_recent_fiscal_year_total: '918.6K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '126'

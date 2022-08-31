@@ -1,5 +1,5 @@
 ---
-title: CANADIAN RED CROSS
+title: Canadian Red Cross
 author: ''
 date: '2022-08-30'
 slug: canadian_red_cross
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $75.2M
-  in 2021-2022 on contracts with CANADIAN RED CROSS. The average
+  in 2021-2022 on contracts with Canadian Red Cross. The average
   contract duration was 1.64 years, and the average contract value
   (not including contracts under $10k) was $7.9M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $48.3M.
+lookup_name: 'CANADIAN RED CROSS'
 most_recent_fiscal_year_total: '75.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '15'

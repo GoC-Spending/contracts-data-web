@@ -1,5 +1,5 @@
 ---
-title: BROADWATER INDUSTRIES
+title: Broadwater Industries
 author: ''
 date: '2022-08-30'
 slug: broadwater_industries
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
-  in 2021-2022 on contracts with BROADWATER INDUSTRIES. The average
+  in 2021-2022 on contracts with Broadwater Industries. The average
   contract duration was 0.34 years, and the average contract value
   (not including contracts under $10k) was $535.9K. The longest
   contract was 0.96 years. The largest contract by value (including
   amendments) was $3.3M.
+lookup_name: 'BROADWATER INDUSTRIES'
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '22'

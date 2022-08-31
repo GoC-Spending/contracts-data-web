@@ -1,5 +1,5 @@
 ---
-title: MICHAEL WAGER CONSULTING
+title: Michael Wager Consulting
 author: ''
 date: '2022-08-30'
 slug: michael_wager_consulting
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $12.3M
-  in 2021-2022 on contracts with MICHAEL WAGER CONSULTING. The average
+  in 2021-2022 on contracts with Michael Wager Consulting. The average
   contract duration was 1.95 years, and the average contract value
   (not including contracts under $10k) was $1.1M. The longest
   contract was 5.24 years. The largest contract by value (including
   amendments) was $9.4M.
+lookup_name: 'MICHAEL WAGER CONSULTING'
 most_recent_fiscal_year_total: '12.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '71'

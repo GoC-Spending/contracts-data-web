@@ -1,5 +1,5 @@
 ---
-title: BUREAU NATHALIE
+title: Bureau Nathalie
 author: ''
 date: '2022-08-30'
 slug: bureau_nathalie
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $936.4K
-  in 2021-2022 on contracts with BUREAU NATHALIE. The average
+  in 2021-2022 on contracts with Bureau Nathalie. The average
   contract duration was 2.31 years, and the average contract value
   (not including contracts under $10k) was $1.2M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'BUREAU NATHALIE'
 most_recent_fiscal_year_total: '936.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '6'

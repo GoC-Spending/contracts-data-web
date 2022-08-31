@@ -1,5 +1,5 @@
 ---
-title: FLUID ENERGY GROUP
+title: Fluid Energy Group
 author: ''
 date: '2022-08-30'
 slug: fluid_energy_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $32.7M
-  in 2021-2022 on contracts with FLUID ENERGY GROUP. The average
+  in 2021-2022 on contracts with Fluid Energy Group. The average
   contract duration was 0.77 years, and the average contract value
   (not including contracts under $10k) was $38.7M. The longest
   contract was 1.4 years. The largest contract by value (including
   amendments) was $106.2M.
+lookup_name: 'FLUID ENERGY GROUP'
 most_recent_fiscal_year_total: '32.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

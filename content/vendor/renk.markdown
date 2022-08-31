@@ -1,5 +1,5 @@
 ---
-title: RENK
+title: Renk
 author: ''
 date: '2022-08-30'
 slug: renk
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2021-2022 on contracts with RENK. The average
+  in 2021-2022 on contracts with Renk. The average
   contract duration was 3 years, and the average contract value
   (not including contracts under $10k) was $14.2M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $14.2M.
+lookup_name: 'RENK'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

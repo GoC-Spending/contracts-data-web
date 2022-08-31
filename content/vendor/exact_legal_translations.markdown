@@ -1,5 +1,5 @@
 ---
-title: EXACT LEGAL TRANSLATIONS
+title: Exact Legal Translations
 author: ''
 date: '2022-08-30'
 slug: exact_legal_translations
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $458.5K
-  in 2021-2022 on contracts with EXACT LEGAL TRANSLATIONS. The average
+  in 2021-2022 on contracts with Exact Legal Translations. The average
   contract duration was 0.84 years, and the average contract value
   (not including contracts under $10k) was $309.0K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $4.1M.
+lookup_name: 'EXACT LEGAL TRANSLATIONS'
 most_recent_fiscal_year_total: '458.5K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '23'

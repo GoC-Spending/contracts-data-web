@@ -1,5 +1,5 @@
 ---
-title: WESTCOAST GENESIS SOCIETY
+title: Westcoast Genesis Society
 author: ''
 date: '2022-08-30'
 slug: westcoast_genesis_society
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.0M
-  in 2021-2022 on contracts with WESTCOAST GENESIS SOCIETY. The average
+  in 2021-2022 on contracts with Westcoast Genesis Society. The average
   contract duration was 2.74 years, and the average contract value
   (not including contracts under $10k) was $2.6M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $5.1M.
+lookup_name: 'WESTCOAST GENESIS SOCIETY'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

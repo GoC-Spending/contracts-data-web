@@ -1,5 +1,5 @@
 ---
-title: J D G CONSTRUCTION MANAGEMENT
+title: J D G Construction Management
 author: ''
 date: '2022-08-30'
 slug: j_d_g_construction_management
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
-  in 2019-2020 on contracts with J D G CONSTRUCTION MANAGEMENT. The average
+  in 2019-2020 on contracts with J D G Construction Management. The average
   contract duration was 2.3 years, and the average contract value
   (not including contracts under $10k) was $5.5M. The longest
   contract was 2.3 years. The largest contract by value (including
   amendments) was $5.5M.
+lookup_name: 'J D G CONSTRUCTION MANAGEMENT'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

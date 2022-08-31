@@ -1,5 +1,5 @@
 ---
-title: 9006 9311 QUEBEC
+title: 9006 9311 Quebec
 author: ''
 date: '2022-08-30'
 slug: 9006_9311_quebec
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.6M
-  in 2021-2022 on contracts with 9006 9311 QUEBEC. The average
+  in 2021-2022 on contracts with 9006 9311 Quebec. The average
   contract duration was 2.87 years, and the average contract value
   (not including contracts under $10k) was $7.1M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $14.6M.
+lookup_name: '9006 9311 QUEBEC'
 most_recent_fiscal_year_total: '9.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '5'

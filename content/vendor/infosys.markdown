@@ -1,5 +1,5 @@
 ---
-title: INFOSYS
+title: Infosys
 author: ''
 date: '2022-08-30'
 slug: infosys
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $26.6M
-  in 2021-2022 on contracts with INFOSYS. The average
+  in 2021-2022 on contracts with Infosys. The average
   contract duration was 5.01 years, and the average contract value
   (not including contracts under $10k) was $133.4M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $133.4M.
+lookup_name: 'INFOSYS'
 most_recent_fiscal_year_total: '26.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

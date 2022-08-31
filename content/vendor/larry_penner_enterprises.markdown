@@ -1,5 +1,5 @@
 ---
-title: LARRY PENNER ENTERPRISES
+title: Larry Penner Enterprises
 author: ''
 date: '2022-08-30'
 slug: larry_penner_enterprises
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $692.3K
-  in 2021-2022 on contracts with LARRY PENNER ENTERPRISES. The average
+  in 2021-2022 on contracts with Larry Penner Enterprises. The average
   contract duration was 0.12 years, and the average contract value
   (not including contracts under $10k) was $37.5K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $613.0K.
+lookup_name: 'LARRY PENNER ENTERPRISES'
 most_recent_fiscal_year_total: '692.3K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '131'

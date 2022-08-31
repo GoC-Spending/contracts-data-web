@@ -1,5 +1,5 @@
 ---
-title: ATLANTIC BUSINESS INTERIORS
+title: Atlantic Business Interiors
 author: ''
 date: '2022-08-30'
 slug: atlantic_business_interiors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
-  in 2021-2022 on contracts with ATLANTIC BUSINESS INTERIORS. The average
+  in 2021-2022 on contracts with Atlantic Business Interiors. The average
   contract duration was 0.24 years, and the average contract value
   (not including contracts under $10k) was $37.2K. The longest
   contract was 2.11 years. The largest contract by value (including
   amendments) was $1.5M.
+lookup_name: 'ATLANTIC BUSINESS INTERIORS'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '171'

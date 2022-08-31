@@ -1,5 +1,5 @@
 ---
-title: TRAYTOWN BUILDERS
+title: Traytown Builders
 author: ''
 date: '2022-08-30'
 slug: traytown_builders
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $13.7K
-  in 2021-2022 on contracts with TRAYTOWN BUILDERS. The average
+  in 2021-2022 on contracts with Traytown Builders. The average
   contract duration was 1.02 years, and the average contract value
   (not including contracts under $10k) was $654.3K. The longest
   contract was 3.2 years. The largest contract by value (including
   amendments) was $5.0M.
+lookup_name: 'TRAYTOWN BUILDERS'
 most_recent_fiscal_year_total: '13.7K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '12'

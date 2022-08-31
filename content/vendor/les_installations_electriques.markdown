@@ -1,5 +1,5 @@
 ---
-title: LES INSTALLATIONS ELECTRIQUES
+title: Les Installations Electriques
 author: ''
 date: '2022-08-30'
 slug: les_installations_electriques
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $216.4K
-  in 2021-2022 on contracts with LES INSTALLATIONS ELECTRIQUES. The average
+  in 2021-2022 on contracts with Les Installations Electriques. The average
   contract duration was 0.59 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 2.36 years. The largest contract by value (including
   amendments) was $10.6M.
+lookup_name: 'LES INSTALLATIONS ELECTRIQUES'
 most_recent_fiscal_year_total: '216.4K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '8'

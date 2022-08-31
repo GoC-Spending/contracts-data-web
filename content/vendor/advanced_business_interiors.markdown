@@ -1,5 +1,5 @@
 ---
-title: ADVANCED BUSINESS INTERIORS
+title: Advanced Business Interiors
 author: ''
 date: '2022-08-30'
 slug: advanced_business_interiors
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.8M
-  in 2021-2022 on contracts with ADVANCED BUSINESS INTERIORS. The average
+  in 2021-2022 on contracts with Advanced Business Interiors. The average
   contract duration was 0.38 years, and the average contract value
   (not including contracts under $10k) was $63.9K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $3.1M.
+lookup_name: 'ADVANCED BUSINESS INTERIORS'
 most_recent_fiscal_year_total: '9.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '983'

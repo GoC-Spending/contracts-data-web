@@ -1,5 +1,5 @@
 ---
-title: EAST ELGIN CONCRETE FORMING
+title: East Elgin Concrete Forming
 author: ''
 date: '2022-08-30'
 slug: east_elgin_concrete_forming
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $338.0K
-  in 2020-2021 on contracts with EAST ELGIN CONCRETE FORMING. The average
+  in 2020-2021 on contracts with East Elgin Concrete Forming. The average
   contract duration was 0.46 years, and the average contract value
   (not including contracts under $10k) was $870.5K. The longest
   contract was 1.15 years. The largest contract by value (including
   amendments) was $2.0M.
+lookup_name: 'EAST ELGIN CONCRETE FORMING'
 most_recent_fiscal_year_total: '338.0K'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '6'

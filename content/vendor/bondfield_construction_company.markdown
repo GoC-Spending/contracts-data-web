@@ -1,5 +1,5 @@
 ---
-title: BONDFIELD CONSTRUCTION COMPANY
+title: Bondfield Construction Company
 author: ''
 date: '2022-08-30'
 slug: bondfield_construction_company
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
-  in 2019-2020 on contracts with BONDFIELD CONSTRUCTION COMPANY. The average
+  in 2019-2020 on contracts with Bondfield Construction Company. The average
   contract duration was 2.99 years, and the average contract value
   (not including contracts under $10k) was $30.6M. The longest
   contract was 2.99 years. The largest contract by value (including
   amendments) was $30.6M.
+lookup_name: 'BONDFIELD CONSTRUCTION COMPANY'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2019-2020'
 s431_number_of_contracts: '1'

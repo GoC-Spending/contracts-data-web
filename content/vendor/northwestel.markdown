@@ -1,5 +1,5 @@
 ---
-title: NORTHWESTEL
+title: Northwestel
 author: ''
 date: '2022-08-30'
 slug: northwestel
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.9M
-  in 2021-2022 on contracts with NORTHWESTEL. The average
+  in 2021-2022 on contracts with Northwestel. The average
   contract duration was 2.51 years, and the average contract value
   (not including contracts under $10k) was $1.9M. The longest
   contract was 9.01 years. The largest contract by value (including
   amendments) was $21.1M.
+lookup_name: 'NORTHWESTEL'
 most_recent_fiscal_year_total: '6.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '25'

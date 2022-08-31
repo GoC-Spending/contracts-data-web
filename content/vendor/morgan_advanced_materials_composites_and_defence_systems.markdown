@@ -1,5 +1,5 @@
 ---
-title: MORGAN ADVANCED MATERIALS COMPOSITES AND DEFENCE SYSTEMS
+title: Morgan Advanced Materials Composites and Defence Systems
 author: ''
 date: '2022-08-30'
 slug: morgan_advanced_materials_composites_and_defence_systems
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with MORGAN ADVANCED MATERIALS COMPOSITES AND DEFENCE SYSTEMS. The average
+  in 2021-2022 on contracts with Morgan Advanced Materials Composites and Defence Systems. The average
   contract duration was 7.01 years, and the average contract value
   (not including contracts under $10k) was $9.4M. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $9.4M.
+lookup_name: 'MORGAN ADVANCED MATERIALS COMPOSITES AND DEFENCE SYSTEMS'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

@@ -1,5 +1,5 @@
 ---
-title: NORTHROP GRUMMAN
+title: Northrop Grumman
 author: ''
 date: '2022-08-30'
 slug: northrop_grumman
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.6M
-  in 2021-2022 on contracts with NORTHROP GRUMMAN. The average
+  in 2021-2022 on contracts with Northrop Grumman. The average
   contract duration was 2.23 years, and the average contract value
   (not including contracts under $10k) was $7.6M. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $50.2M.
+lookup_name: 'NORTHROP GRUMMAN'
 most_recent_fiscal_year_total: '10.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '12'

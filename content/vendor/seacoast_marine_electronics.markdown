@@ -1,5 +1,5 @@
 ---
-title: SEACOAST MARINE ELECTRONICS
+title: Seacoast Marine Electronics
 author: ''
 date: '2022-08-30'
 slug: seacoast_marine_electronics
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2021-2022 on contracts with SEACOAST MARINE ELECTRONICS. The average
+  in 2021-2022 on contracts with Seacoast Marine Electronics. The average
   contract duration was 0.2 years, and the average contract value
   (not including contracts under $10k) was $167.6K. The longest
   contract was 0.84 years. The largest contract by value (including
   amendments) was $588.2K.
+lookup_name: 'SEACOAST MARINE ELECTRONICS'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '34'

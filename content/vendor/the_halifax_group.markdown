@@ -1,5 +1,5 @@
 ---
-title: THE HALIFAX GROUP
+title: The Halifax Group
 author: ''
 date: '2022-08-30'
 slug: the_halifax_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
-  in 2021-2022 on contracts with THE HALIFAX GROUP. The average
+  in 2021-2022 on contracts with The Halifax Group. The average
   contract duration was 1.68 years, and the average contract value
   (not including contracts under $10k) was $694.2K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $4.0M.
+lookup_name: 'THE HALIFAX GROUP'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '23'

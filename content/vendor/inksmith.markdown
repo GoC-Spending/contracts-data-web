@@ -1,5 +1,5 @@
 ---
-title: INKSMITH
+title: Inksmith
 author: ''
 date: '2022-08-30'
 slug: inksmith
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $56.5M
-  in 2020-2021 on contracts with INKSMITH. The average
+  in 2020-2021 on contracts with Inksmith. The average
   contract duration was 0.23 years, and the average contract value
   (not including contracts under $10k) was $56.5M. The longest
   contract was 0.23 years. The largest contract by value (including
   amendments) was $56.5M.
+lookup_name: 'INKSMITH'
 most_recent_fiscal_year_total: '56.5M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

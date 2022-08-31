@@ -1,5 +1,5 @@
 ---
-title: L BREAU AND SONS
+title: L Breau and Sons
 author: ''
 date: '2022-08-30'
 slug: l_breau_and_sons
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $378.1K
-  in 2021-2022 on contracts with L BREAU AND SONS. The average
+  in 2021-2022 on contracts with L Breau and Sons. The average
   contract duration was 0.45 years, and the average contract value
   (not including contracts under $10k) was $422.4K. The longest
   contract was 1.73 years. The largest contract by value (including
   amendments) was $3.9M.
+lookup_name: 'L BREAU AND SONS'
 most_recent_fiscal_year_total: '378.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '19'

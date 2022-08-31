@@ -1,5 +1,5 @@
 ---
-title: RONDAR
+title: Rondar
 author: ''
 date: '2022-08-30'
 slug: rondar
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
-  in 2021-2022 on contracts with RONDAR. The average
+  in 2021-2022 on contracts with Rondar. The average
   contract duration was 1.03 years, and the average contract value
   (not including contracts under $10k) was $596.4K. The longest
   contract was 5.54 years. The largest contract by value (including
   amendments) was $6.0M.
+lookup_name: 'RONDAR'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '28'

@@ -1,5 +1,5 @@
 ---
-title: UNIVERSITY OF GUELPH
+title: University of Guelph
 author: ''
 date: '2022-08-30'
 slug: university_of_guelph
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.5M
-  in 2021-2022 on contracts with UNIVERSITY OF GUELPH. The average
+  in 2021-2022 on contracts with University of Guelph. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $134.5K. The longest
   contract was 5.52 years. The largest contract by value (including
   amendments) was $2.1M.
+lookup_name: 'UNIVERSITY OF GUELPH'
 most_recent_fiscal_year_total: '2.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '120'

@@ -1,5 +1,5 @@
 ---
-title: FEDERAL FLEET SERVICES
+title: Federal Fleet Services
 author: ''
 date: '2022-08-30'
 slug: federal_fleet_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $132.4M
-  in 2021-2022 on contracts with FEDERAL FLEET SERVICES. The average
+  in 2021-2022 on contracts with Federal Fleet Services. The average
   contract duration was 5.22 years, and the average contract value
   (not including contracts under $10k) was $691.6M. The longest
   contract was 5.22 years. The largest contract by value (including
   amendments) was $691.6M.
+lookup_name: 'FEDERAL FLEET SERVICES'
 most_recent_fiscal_year_total: '132.4M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1'

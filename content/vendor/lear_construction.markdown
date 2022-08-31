@@ -1,5 +1,5 @@
 ---
-title: LEAR CONSTRUCTION
+title: Lear Construction
 author: ''
 date: '2022-08-30'
 slug: lear_construction
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
-  in 2020-2021 on contracts with LEAR CONSTRUCTION. The average
+  in 2020-2021 on contracts with Lear Construction. The average
   contract duration was 3.13 years, and the average contract value
   (not including contracts under $10k) was $9.8M. The longest
   contract was 3.13 years. The largest contract by value (including
   amendments) was $9.8M.
+lookup_name: 'LEAR CONSTRUCTION'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '1'

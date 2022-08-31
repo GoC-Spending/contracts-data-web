@@ -1,5 +1,5 @@
 ---
-title: TOURE CLEANING SERVICES
+title: Toure Cleaning Services
 author: ''
 date: '2022-08-30'
 slug: toure_cleaning_services
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.7M
-  in 2021-2022 on contracts with TOURE CLEANING SERVICES. The average
+  in 2021-2022 on contracts with Toure Cleaning Services. The average
   contract duration was 1.37 years, and the average contract value
   (not including contracts under $10k) was $424.2K. The longest
   contract was 6.09 years. The largest contract by value (including
   amendments) was $8.1M.
+lookup_name: 'TOURE CLEANING SERVICES'
 most_recent_fiscal_year_total: '3.7M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '36'

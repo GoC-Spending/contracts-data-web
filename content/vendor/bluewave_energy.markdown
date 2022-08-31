@@ -1,5 +1,5 @@
 ---
-title: BLUEWAVE ENERGY
+title: Bluewave Energy
 author: ''
 date: '2022-08-30'
 slug: bluewave_energy
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
-  in 2021-2022 on contracts with BLUEWAVE ENERGY. The average
+  in 2021-2022 on contracts with Bluewave Energy. The average
   contract duration was 0.3 years, and the average contract value
   (not including contracts under $10k) was $52.4K. The longest
   contract was 2.05 years. The largest contract by value (including
   amendments) was $996.1K.
+lookup_name: 'BLUEWAVE ENERGY'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '242'

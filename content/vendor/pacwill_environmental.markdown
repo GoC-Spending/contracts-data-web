@@ -1,5 +1,5 @@
 ---
-title: PACWILL ENVIRONMENTAL
+title: Pacwill Environmental
 author: ''
 date: '2022-08-30'
 slug: pacwill_environmental
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $60.1K
-  in 2021-2022 on contracts with PACWILL ENVIRONMENTAL. The average
+  in 2021-2022 on contracts with Pacwill Environmental. The average
   contract duration was 0.88 years, and the average contract value
   (not including contracts under $10k) was $276.9K. The longest
   contract was 3.08 years. The largest contract by value (including
   amendments) was $3.7M.
+lookup_name: 'PACWILL ENVIRONMENTAL'
 most_recent_fiscal_year_total: '60.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '22'

@@ -1,5 +1,5 @@
 ---
-title: SUPREMEX
+title: SupremeX
 author: ''
 date: '2022-08-30'
 slug: supremex
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.6M
-  in 2021-2022 on contracts with SUPREMEX. The average
+  in 2021-2022 on contracts with SupremeX. The average
   contract duration was 0.35 years, and the average contract value
   (not including contracts under $10k) was $152.0K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $4.2M.
+lookup_name: 'SUPREMEX'
 most_recent_fiscal_year_total: '3.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '137'

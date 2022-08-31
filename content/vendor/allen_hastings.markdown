@@ -1,5 +1,5 @@
 ---
-title: ALLEN HASTINGS
+title: Allen Hastings
 author: ''
 date: '2022-08-30'
 slug: allen_hastings
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
-  in 2020-2021 on contracts with ALLEN HASTINGS. The average
+  in 2020-2021 on contracts with Allen Hastings. The average
   contract duration was 1.16 years, and the average contract value
   (not including contracts under $10k) was $2.1M. The longest
   contract was 2.61 years. The largest contract by value (including
   amendments) was $5.3M.
+lookup_name: 'ALLEN HASTINGS'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2020-2021'
 s431_number_of_contracts: '5'

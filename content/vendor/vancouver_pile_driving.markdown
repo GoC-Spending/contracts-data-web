@@ -1,5 +1,5 @@
 ---
-title: VANCOUVER PILE DRIVING
+title: Vancouver Pile Driving
 author: ''
 date: '2022-08-30'
 slug: vancouver_pile_driving
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
-  in 2021-2022 on contracts with VANCOUVER PILE DRIVING. The average
+  in 2021-2022 on contracts with Vancouver Pile Driving. The average
   contract duration was 0.98 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $5.6M.
+lookup_name: 'VANCOUVER PILE DRIVING'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '11'

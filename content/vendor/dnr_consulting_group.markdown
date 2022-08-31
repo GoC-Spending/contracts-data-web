@@ -1,5 +1,5 @@
 ---
-title: DNR CONSULTING GROUP
+title: DNR Consulting Group
 author: ''
 date: '2022-08-30'
 slug: dnr_consulting_group
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $606.8K
-  in 2021-2022 on contracts with DNR CONSULTING GROUP. The average
+  in 2021-2022 on contracts with DNR Consulting Group. The average
   contract duration was 1.94 years, and the average contract value
   (not including contracts under $10k) was $299.8K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $4.7M.
+lookup_name: 'DNR CONSULTING GROUP'
 most_recent_fiscal_year_total: '606.8K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '75'

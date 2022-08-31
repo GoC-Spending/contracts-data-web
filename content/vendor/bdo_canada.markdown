@@ -1,5 +1,5 @@
 ---
-title: BDO CANADA
+title: BDO Canada
 author: ''
 date: '2022-08-30'
 slug: bdo_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $14.3M
-  in 2021-2022 on contracts with BDO CANADA. The average
+  in 2021-2022 on contracts with BDO Canada. The average
   contract duration was 1.03 years, and the average contract value
   (not including contracts under $10k) was $270.0K. The longest
   contract was 7.99 years. The largest contract by value (including
   amendments) was $16.4M.
+lookup_name: 'BDO CANADA'
 most_recent_fiscal_year_total: '14.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '341'

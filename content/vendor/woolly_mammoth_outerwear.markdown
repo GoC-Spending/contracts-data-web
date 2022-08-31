@@ -1,5 +1,5 @@
 ---
-title: WOOLLY MAMMOTH OUTERWEAR
+title: Woolly Mammoth Outerwear
 author: ''
 date: '2022-08-30'
 slug: woolly_mammoth_outerwear
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $36.0M
-  in 2021-2022 on contracts with WOOLLY MAMMOTH OUTERWEAR. The average
+  in 2021-2022 on contracts with Woolly Mammoth Outerwear. The average
   contract duration was 2.15 years, and the average contract value
   (not including contracts under $10k) was $49.6M. The longest
   contract was 2.81 years. The largest contract by value (including
   amendments) was $49.8M.
+lookup_name: 'WOOLLY MAMMOTH OUTERWEAR'
 most_recent_fiscal_year_total: '36.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '2'

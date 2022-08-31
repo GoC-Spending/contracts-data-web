@@ -1,5 +1,5 @@
 ---
-title: THOMAS SCHMIDT
+title: Thomas Schmidt
 author: ''
 date: '2022-08-30'
 slug: thomas_schmidt
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
-  in 2021-2022 on contracts with THOMAS SCHMIDT. The average
+  in 2021-2022 on contracts with Thomas Schmidt. The average
   contract duration was 1.28 years, and the average contract value
   (not including contracts under $10k) was $256.5K. The longest
   contract was 5.42 years. The largest contract by value (including
   amendments) was $1.1M.
+lookup_name: 'THOMAS SCHMIDT'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '42'

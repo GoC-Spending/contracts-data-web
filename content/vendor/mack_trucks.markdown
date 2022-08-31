@@ -1,5 +1,5 @@
 ---
-title: MACK TRUCKS
+title: Mack Trucks
 author: ''
 date: '2022-08-30'
 slug: mack_trucks
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $19.5M
-  in 2021-2022 on contracts with MACK TRUCKS. The average
+  in 2021-2022 on contracts with Mack Trucks. The average
   contract duration was 2.53 years, and the average contract value
   (not including contracts under $10k) was $127.0M. The longest
   contract was 5.95 years. The largest contract by value (including
   amendments) was $830.4M.
+lookup_name: 'MACK TRUCKS'
 most_recent_fiscal_year_total: '19.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'

@@ -1,5 +1,5 @@
 ---
-title: ISLAND WEST COAST DEVELOPMENTS
+title: Island West Coast Developments
 author: ''
 date: '2022-08-30'
 slug: island_west_coast_developments
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.3M
-  in 2018-2019 on contracts with ISLAND WEST COAST DEVELOPMENTS. The average
+  in 2018-2019 on contracts with Island West Coast Developments. The average
   contract duration was 1.65 years, and the average contract value
   (not including contracts under $10k) was $10.4M. The longest
   contract was 1.65 years. The largest contract by value (including
   amendments) was $10.4M.
+lookup_name: 'ISLAND WEST COAST DEVELOPMENTS'
 most_recent_fiscal_year_total: '6.3M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '1'

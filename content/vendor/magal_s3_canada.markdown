@@ -1,5 +1,5 @@
 ---
-title: MAGAL S3 CANADA
+title: Magal S3 Canada
 author: ''
 date: '2022-08-30'
 slug: magal_s3_canada
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.0M
-  in 2018-2019 on contracts with MAGAL S3 CANADA. The average
+  in 2018-2019 on contracts with Magal S3 Canada. The average
   contract duration was 0.95 years, and the average contract value
   (not including contracts under $10k) was $1.7M. The longest
   contract was 1.58 years. The largest contract by value (including
   amendments) was $3.3M.
+lookup_name: 'MAGAL S3 CANADA'
 most_recent_fiscal_year_total: '7.0M'
 most_recent_fiscal_year_year: '2018-2019'
 s431_number_of_contracts: '6'

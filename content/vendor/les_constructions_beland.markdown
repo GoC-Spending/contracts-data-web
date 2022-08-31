@@ -1,5 +1,5 @@
 ---
-title: LES CONSTRUCTIONS BELAND
+title: Les Constructions Beland
 author: ''
 date: '2022-08-30'
 slug: les_constructions_beland
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
-  in 2021-2022 on contracts with LES CONSTRUCTIONS BELAND. The average
+  in 2021-2022 on contracts with Les Constructions Beland. The average
   contract duration was 1.25 years, and the average contract value
   (not including contracts under $10k) was $2.9M. The longest
   contract was 1.79 years. The largest contract by value (including
   amendments) was $4.8M.
+lookup_name: 'LES CONSTRUCTIONS BELAND'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

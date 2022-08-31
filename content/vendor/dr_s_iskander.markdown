@@ -1,5 +1,5 @@
 ---
-title: DR S ISKANDER
+title: Dr S Iskander
 author: ''
 date: '2022-08-30'
 slug: dr_s_iskander
@@ -10,11 +10,12 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $609.1K
-  in 2021-2022 on contracts with DR S ISKANDER. The average
+  in 2021-2022 on contracts with Dr S Iskander. The average
   contract duration was 4.16 years, and the average contract value
   (not including contracts under $10k) was $2.4M. The longest
   contract was 5.74 years. The largest contract by value (including
   amendments) was $4.0M.
+lookup_name: 'DR S ISKANDER'
 most_recent_fiscal_year_total: '609.1K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '3'

@@ -32,6 +32,8 @@ s422_max_contract_value <- fancy_round(get_research_finding("s422_max_contract_v
 
 description: 'The Government of Canada spent an estimated $`r most_recent_fiscal_year_total` in `r most_recent_fiscal_year_year` on contracts with `r current_name`. The average contract duration was `r s424_mean_duration` years, and the average contract value (not including contracts under $10k) was $`r s421_mean_contract_value`. The longest contract was `r s425_max_duration` years. The largest contract by value (including amendments) was $`r s422_max_contract_value`.'
 
+lookup_name: '`r lookup_name`'
+
 most_recent_fiscal_year_total: '`r most_recent_fiscal_year_total`'
 most_recent_fiscal_year_year: '`r most_recent_fiscal_year_year`'
 s431_number_of_contracts: '`r format_entity_count(get_research_finding("s431_number_of_contracts_by_vendor", research_summary_type, "contracts", "d_vendor_name", lookup_name))`'

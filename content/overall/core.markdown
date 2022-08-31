@@ -5,6 +5,29 @@ date: '2022-08-16'
 slug: core
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'The Government of Canada spent an estimated $15.1B
+  in 2021-2022 on contracts across core public service departments and agencies (this excludes the Department of National Defence, commissions, review committees, and Offices of Parliament). The average contract duration
+  was 0.85 years, and the average contract value (not including
+  contracts under $10k) was $423.5K. The longest contract was
+  34.82 years. The largest contract by value (including amendments)
+  was $5.7B.'
+lookup_name: 'core'
+most_recent_fiscal_year_total: '15.1B'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '272,072'
+s431_number_of_contracts_with_amendments: '43,181'
+s431_number_of_contracts_amendments_percentage: '16%'
+s432_mean_amendment_increase_percentage: '168%'
+s434_mean_number_of_amendments: '1.82'
+s433_total_amendment_increase_value: '25.4B'
+s424_mean_duration: '0.85'
+s421_mean_contract_value: '423.5K'
+s425_max_duration: '34.82'
+s422_max_contract_value: '5.7B'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -38,14 +61,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-The Government of Canada spent an estimated **\$15.1B in 2021-2022** on contracts across core public service departments and agencies (this excludes the Department of National Defence, commissions, review committees, and Offices of Parliament).
-
-Across 272,072 contracts active since the start of the 2017-2018 fiscal year, 43,181 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 168% and the average number of amendments was 1.82. Cumulatively these amendments represent an increase of \$25.4B over the original contract values.
-
-The average contract duration was 0.85 years, and the average contract value (not including contracts under \$10k) was \$423.5K. The longest contract was 34.82 years. The largest contract by value (including amendments) was \$5.7B.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

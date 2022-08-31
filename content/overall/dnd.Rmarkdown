@@ -5,25 +5,51 @@ date: '2022-08-16'
 slug: dnd
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  `r source("../../R/init.R")
+  current_filename <- get_current_filename()
+  entity_type <- "overall"
+  research_summary_type <- current_filename
+  lookup_name <- current_filename
+
+  most_recent_fiscal_year_total <- get_most_recent_fiscal_year_total(current_filename, entity_type)
+  most_recent_fiscal_year_year <- get_most_recent_fiscal_year_year(current_filename, entity_type)
+
+  s424_mean_duration <- get_research_finding("s424_mean_duration", research_summary_type, "mean_years")
+  s421_mean_contract_value <- fancy_round(get_research_finding("s421_mean_contract_value", research_summary_type, "mean_overall_value"))
+  s425_max_duration <- get_research_finding("s425_max_duration", research_summary_type, "max_years")
+  s422_max_contract_value <- fancy_round(get_research_finding("s422_max_contract_value", research_summary_type, "max_overall_value"))`
+description: 'The Department of National Defence spent an estimated $`r most_recent_fiscal_year_total`
+  in `r most_recent_fiscal_year_year` on contracts. DND contracts for information technology or transportation and logistics are included in the “Defence” category below. The average contract duration
+  was `r s424_mean_duration` years, and the average contract value (not including
+  contracts under $10k) was $`r s421_mean_contract_value`. The longest contract was
+  `r s425_max_duration` years. The largest contract by value (including amendments)
+  was $`r s422_max_contract_value`.'
+lookup_name: '`r lookup_name`'
+most_recent_fiscal_year_total: '`r most_recent_fiscal_year_total`'
+most_recent_fiscal_year_year: '`r most_recent_fiscal_year_year`'
+s431_number_of_contracts: '`r format_entity_count(get_research_finding("s431_number_of_contracts",
+  research_summary_type, "contracts"))`'
+s431_number_of_contracts_with_amendments: '`r format_entity_count(get_research_finding("s431_number_of_contracts",
+  research_summary_type, "contracts_with_amendments"))`'
+s431_number_of_contracts_amendments_percentage: '`r format_percentage_rounded(get_research_finding("s431_number_of_contracts",
+  research_summary_type, "has_amendments_percentage"))`'
+s432_mean_amendment_increase_percentage: '`r format_percentage_rounded(get_research_finding("s432_mean_amendment_increase_percentage",
+  research_summary_type, "mean_amendment_increase_percentage"))`'
+s434_mean_number_of_amendments: '`r get_research_finding("s434_mean_number_of_amendments",
+  research_summary_type, "mean_number_of_amendments")`'
+s433_total_amendment_increase_value: '`r fancy_round(get_research_finding("s433_total_amendment_increase_value",
+  research_summary_type, "total_amendment_increase_value"))`'
+s424_mean_duration: '`r s424_mean_duration`'
+s421_mean_contract_value: '`r s421_mean_contract_value`'
+s425_max_duration: '`r s425_max_duration`'
+s422_max_contract_value: '`r s422_max_contract_value`'
 ---
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-source("../../R/init.R")
-current_filename <- get_current_filename()
-entity_type <- "overall"
-research_summary_type <- current_filename
-
-```
-
-`r blogdown::shortcode_html("entity_summary")`
-The Department of National Defence spent an estimated **\$`r get_most_recent_fiscal_year_total(current_filename, entity_type)` in `r get_most_recent_fiscal_year_year(current_filename, entity_type)`** on contracts. DND contracts for information technology or transportation and logistics are included in the "Defence" category below.
-
-Across `r format_entity_count(get_research_finding("s431_number_of_contracts", research_summary_type, "contracts"))` contracts active since the start of the 2017-2018 fiscal year, `r format_entity_count(get_research_finding("s431_number_of_contracts", research_summary_type, "contracts_with_amendments"))` have at least one amendment (`r format_percentage_rounded(get_research_finding("s431_number_of_contracts", research_summary_type, "has_amendments_percentage"))`). Of contracts with amendments, the average increase in dollar value was `r format_percentage_rounded(get_research_finding("s432_mean_amendment_increase_percentage", research_summary_type, "mean_amendment_increase_percentage"))` and the average number of amendments was `r get_research_finding("s434_mean_number_of_amendments", research_summary_type, "mean_number_of_amendments")`. Cumulatively these amendments represent an increase of \$`r fancy_round(get_research_finding("s433_total_amendment_increase_value", research_summary_type, "total_amendment_increase_value"))` over the original contract values.
-
-The average contract duration was `r get_research_finding("s424_mean_duration", research_summary_type, "mean_years")` years, and the average contract value (not including contracts under \$10k) was \$`r fancy_round(get_research_finding("s421_mean_contract_value", research_summary_type, "mean_overall_value"))`. The longest contract was `r get_research_finding("s425_max_duration", research_summary_type, "max_years")` years. The largest contract by value (including amendments) was \$`r fancy_round(get_research_finding("s422_max_contract_value", research_summary_type, "max_overall_value"))`.
-
-`r blogdown::shortcode_html("/entity_summary")`
+`r blogdown::shortcode_html("entity_summary_params")`
+`r blogdown::shortcode_html("/entity_summary_params")`
 
 ## Vendors
 

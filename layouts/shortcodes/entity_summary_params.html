@@ -1,6 +1,17 @@
 <div class="entity-summary">
 
 
+    {{ if eq .Page.Type "overall" }}
+        {{ if eq .Page.Params.lookup_name "core" }}
+            <p>The Government of Canada spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on contracts across core public service departments and agencies (this excludes the Department of National Defence, commissions, review committees, and Offices of Parliament).</p>
+        {{ end }}
+        {{ if eq .Page.Params.lookup_name "dnd" }}
+            <p>The Department of National Defence spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on contracts. DND contracts for information technology or transportation and logistics are included in the “Defence” category below.</p>
+        {{ end }}
+        {{ if eq .Page.Params.lookup_name "all" }}
+            <p>The Government of Canada spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on contracts across all public service departments, agencies, and other federal public sector organizations that proactively disclose contract spending.</p>
+        {{ end }}
+    {{ end }}
     {{ if eq .Page.Type "department" }}
     <p>{{ .Page.Params.title }} spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on contracts.</p>
     {{ end }}
@@ -8,7 +19,13 @@
     <p>The Government of Canada spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on contracts with {{ .Page.Params.title }}.</p>
     {{ end }}
     {{ if eq .Page.Type "category" }}
-    <p>The Government of Canada spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on {{ .Page.Params.title | lower }} contracts.</p>
+    <p>The Government of Canada spent an estimated <strong>${{ .Page.Params.most_recent_fiscal_year_total }} in {{ .Page.Params.most_recent_fiscal_year_year }}</strong> on 
+        {{ if eq .Page.Params.lookup_name "0_other" }}
+            other and uncategorized contracts. This includes international development transfers as well as contracts that don’t include distinct description fields.
+        {{ else }}
+            {{ .Page.Params.title | lower }} contracts.
+        {{ end }}
+        </p>
     {{ end }}
 
 

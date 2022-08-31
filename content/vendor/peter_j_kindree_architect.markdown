@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: peter_j_kindree_architect
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
   in 2021-2022 on contracts with PETER J KINDREE ARCHITECT. The average
-  contract duration was 2.13 year, and the average contract
-  value (not including contracts under $10k) was $397.2K.
-  The longest contract was 4.15 year. The largest contract
-  by value (including amendments) was $983.8K.
+  contract duration was 2.13 years, and the average contract value
+  (not including contracts under $10k) was $397.2K. The longest
+  contract was 4.15 years. The largest contract by value (including
+  amendments) was $983.8K.
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '15'
-s431_number_of_contracts_by_vendor_with_amendments: '12'
+s431_number_of_contracts: '15'
+s431_number_of_contracts_with_amendments: '12'
 s431_number_of_contracts_amendments_percentage: '80%'
-s432_mean_amendment_increase_percentage_by_vendor: '50%'
-s434_mean_number_of_amendments_by_vendor: '2.17'
-s433_total_amendment_increase_value_by_vendor: '1.0M'
-s424_mean_duration_by_vendor: '2.13'
-s421_mean_contract_value_by_vendor: '397.2K'
-s425_max_duration_by_vendor: '4.15'
-s422_max_contract_value_by_vendor: '983.8K'
+s432_mean_amendment_increase_percentage: '50%'
+s434_mean_number_of_amendments: '2.17'
+s433_total_amendment_increase_value: '1.0M'
+s424_mean_duration: '2.13'
+s421_mean_contract_value: '397.2K'
+s425_max_duration: '4.15'
+s422_max_contract_value: '983.8K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: stops_tactical_training
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
   in 2020-2021 on contracts with STOPS TACTICAL TRAINING. The average
-  contract duration was 3.02 year, and the average contract
-  value (not including contracts under $10k) was $5.6M.
-  The longest contract was 6.03 year. The largest contract
-  by value (including amendments) was $11.1M.
+  contract duration was 3.02 years, and the average contract value
+  (not including contracts under $10k) was $5.6M. The longest
+  contract was 6.03 years. The largest contract by value (including
+  amendments) was $11.1M.
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts_by_vendor: '2'
-s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts: '2'
+s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage_by_vendor: 'NA'
-s434_mean_number_of_amendments_by_vendor: 'NA'
-s433_total_amendment_increase_value_by_vendor: 'NA'
-s424_mean_duration_by_vendor: '3.02'
-s421_mean_contract_value_by_vendor: '5.6M'
-s425_max_duration_by_vendor: '6.03'
-s422_max_contract_value_by_vendor: '11.1M'
+s432_mean_amendment_increase_percentage: 'NA'
+s434_mean_number_of_amendments: 'NA'
+s433_total_amendment_increase_value: 'NA'
+s424_mean_duration: '3.02'
+s421_mean_contract_value: '5.6M'
+s425_max_duration: '6.03'
+s422_max_contract_value: '11.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

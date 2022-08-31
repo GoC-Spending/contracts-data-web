@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: irb-cisr
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Immigration and Refugee Board of Canada spent an estimated $26.8M
+  in 2021-2022 on contracts. The average contract duration
+  was 1.38 years, and the average contract value (not including
+  contracts under $10k) was $65.9K. The longest contract was
+  7.01 years. The largest contract by value (including amendments)
+  was $3.4M.'
+most_recent_fiscal_year_total: '26.8M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '1,435'
+s431_number_of_contracts_with_amendments: '247'
+s431_number_of_contracts_amendments_percentage: '17%'
+s432_mean_amendment_increase_percentage: '146%'
+s434_mean_number_of_amendments: '1.23'
+s433_total_amendment_increase_value: '18.3M'
+s424_mean_duration: '1.38'
+s421_mean_contract_value: '65.9K'
+s425_max_duration: '7.01'
+s422_max_contract_value: '3.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Immigration and Refugee Board of Canada spent an estimated **\$26.8M in 2021-2022** on contracts.
-
-Across 1,435 contracts active since the start of the 2017-2018 fiscal year, 247 have at least one amendment (17%). Of contracts with amendments, the average increase in dollar value was 146% and the average number of amendments was 1.23. Cumulatively these amendments represent an increase of \$18.3M over the original contract values.
-
-The average contract duration was 1.38 years, and the average contract value (not including contracts under \$10k) was \$65.9K. The longest contract was 7.01 years. The largest contract by value (including amendments) was \$3.4M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

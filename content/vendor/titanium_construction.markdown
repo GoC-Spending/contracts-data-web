@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: titanium_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.9M
   in 2021-2022 on contracts with TITANIUM CONSTRUCTION. The average
-  contract duration was 1.23 year, and the average contract
-  value (not including contracts under $10k) was $4.0M.
-  The longest contract was 3.88 year. The largest contract
-  by value (including amendments) was $15.3M.
+  contract duration was 1.23 years, and the average contract value
+  (not including contracts under $10k) was $4.0M. The longest
+  contract was 3.88 years. The largest contract by value (including
+  amendments) was $15.3M.
 most_recent_fiscal_year_total: '3.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '8'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '8'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '75%'
-s432_mean_amendment_increase_percentage_by_vendor: '6%'
-s434_mean_number_of_amendments_by_vendor: '2.33'
-s433_total_amendment_increase_value_by_vendor: '3.8M'
-s424_mean_duration_by_vendor: '1.23'
-s421_mean_contract_value_by_vendor: '4.0M'
-s425_max_duration_by_vendor: '3.88'
-s422_max_contract_value_by_vendor: '15.3M'
+s432_mean_amendment_increase_percentage: '6%'
+s434_mean_number_of_amendments: '2.33'
+s433_total_amendment_increase_value: '3.8M'
+s424_mean_duration: '1.23'
+s421_mean_contract_value: '4.0M'
+s425_max_duration: '3.88'
+s422_max_contract_value: '15.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

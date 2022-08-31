@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: summit_canada_distributors
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $101.4K
   in 2020-2021 on contracts with SUMMIT CANADA DISTRIBUTORS. The average
-  contract duration was 0.41 year, and the average contract
-  value (not including contracts under $10k) was $66.2K.
-  The longest contract was 3.01 year. The largest contract
-  by value (including amendments) was $865.2K.
+  contract duration was 0.41 years, and the average contract value
+  (not including contracts under $10k) was $66.2K. The longest
+  contract was 3.01 years. The largest contract by value (including
+  amendments) was $865.2K.
 most_recent_fiscal_year_total: '101.4K'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts_by_vendor: '107'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '107'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '7%'
-s432_mean_amendment_increase_percentage_by_vendor: '69%'
-s434_mean_number_of_amendments_by_vendor: '1.29'
-s433_total_amendment_increase_value_by_vendor: '550.6K'
-s424_mean_duration_by_vendor: '0.41'
-s421_mean_contract_value_by_vendor: '66.2K'
-s425_max_duration_by_vendor: '3.01'
-s422_max_contract_value_by_vendor: '865.2K'
+s432_mean_amendment_increase_percentage: '69%'
+s434_mean_number_of_amendments: '1.29'
+s433_total_amendment_increase_value: '550.6K'
+s424_mean_duration: '0.41'
+s421_mean_contract_value: '66.2K'
+s425_max_duration: '3.01'
+s422_max_contract_value: '865.2K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

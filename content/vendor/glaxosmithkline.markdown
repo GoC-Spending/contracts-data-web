@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: glaxosmithkline
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.5M
   in 2021-2022 on contracts with GLAXOSMITHKLINE. The average
-  contract duration was 2.49 year, and the average contract
-  value (not including contracts under $10k) was $6.4M.
-  The longest contract was 11.13 year. The largest contract
-  by value (including amendments) was $104.0M.
+  contract duration was 2.49 years, and the average contract value
+  (not including contracts under $10k) was $6.4M. The longest
+  contract was 11.13 years. The largest contract by value (including
+  amendments) was $104.0M.
 most_recent_fiscal_year_total: '9.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '26'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '26'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '23%'
-s432_mean_amendment_increase_percentage_by_vendor: '192%'
-s434_mean_number_of_amendments_by_vendor: '1.33'
-s433_total_amendment_increase_value_by_vendor: '343.0K'
-s424_mean_duration_by_vendor: '2.49'
-s421_mean_contract_value_by_vendor: '6.4M'
-s425_max_duration_by_vendor: '11.13'
-s422_max_contract_value_by_vendor: '104.0M'
+s432_mean_amendment_increase_percentage: '192%'
+s434_mean_number_of_amendments: '1.33'
+s433_total_amendment_increase_value: '343.0K'
+s424_mean_duration: '2.49'
+s421_mean_contract_value: '6.4M'
+s425_max_duration: '11.13'
+s422_max_contract_value: '104.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

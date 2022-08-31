@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: axys_technologies
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $913.6K
   in 2021-2022 on contracts with AXYS TECHNOLOGIES. The average
-  contract duration was 0.59 year, and the average contract
-  value (not including contracts under $10k) was $101.1K.
-  The longest contract was 10 year. The largest contract
-  by value (including amendments) was $2.0M.
+  contract duration was 0.59 years, and the average contract value
+  (not including contracts under $10k) was $101.1K. The longest
+  contract was 10 years. The largest contract by value (including
+  amendments) was $2.0M.
 most_recent_fiscal_year_total: '913.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '64'
-s431_number_of_contracts_by_vendor_with_amendments: '10'
+s431_number_of_contracts: '64'
+s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '16%'
-s432_mean_amendment_increase_percentage_by_vendor: '238%'
-s434_mean_number_of_amendments_by_vendor: '2'
-s433_total_amendment_increase_value_by_vendor: '2.5M'
-s424_mean_duration_by_vendor: '0.59'
-s421_mean_contract_value_by_vendor: '101.1K'
-s425_max_duration_by_vendor: '10'
-s422_max_contract_value_by_vendor: '2.0M'
+s432_mean_amendment_increase_percentage: '238%'
+s434_mean_number_of_amendments: '2'
+s433_total_amendment_increase_value: '2.5M'
+s424_mean_duration: '0.59'
+s421_mean_contract_value: '101.1K'
+s425_max_duration: '10'
+s422_max_contract_value: '2.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

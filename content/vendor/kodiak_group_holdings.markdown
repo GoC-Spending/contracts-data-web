@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: kodiak_group_holdings
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $16.0K
   in 2019-2020 on contracts with KODIAK GROUP HOLDINGS. The average
-  contract duration was 4.32 year, and the average contract
-  value (not including contracts under $10k) was $6.2M.
-  The longest contract was 6.02 year. The largest contract
-  by value (including amendments) was $9.7M.
+  contract duration was 4.32 years, and the average contract value
+  (not including contracts under $10k) was $6.2M. The longest
+  contract was 6.02 years. The largest contract by value (including
+  amendments) was $9.7M.
 most_recent_fiscal_year_total: '16.0K'
 most_recent_fiscal_year_year: '2019-2020'
-s431_number_of_contracts_by_vendor: '3'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '3'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '-97%'
-s434_mean_number_of_amendments_by_vendor: '3'
-s433_total_amendment_increase_value_by_vendor: '-4.1M'
-s424_mean_duration_by_vendor: '4.32'
-s421_mean_contract_value_by_vendor: '6.2M'
-s425_max_duration_by_vendor: '6.02'
-s422_max_contract_value_by_vendor: '9.7M'
+s432_mean_amendment_increase_percentage: '-97%'
+s434_mean_number_of_amendments: '3'
+s433_total_amendment_increase_value: '-4.1M'
+s424_mean_duration: '4.32'
+s421_mean_contract_value: '6.2M'
+s425_max_duration: '6.02'
+s422_max_contract_value: '9.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

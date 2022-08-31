@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: pricewaterhouse_coopers
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $114.4M
   in 2021-2022 on contracts with PRICEWATERHOUSE COOPERS. The average
-  contract duration was 1.12 year, and the average contract
-  value (not including contracts under $10k) was $707.5K.
-  The longest contract was 10.76 year. The largest contract
-  by value (including amendments) was $26.0M.
+  contract duration was 1.12 years, and the average contract value
+  (not including contracts under $10k) was $707.5K. The longest
+  contract was 10.76 years. The largest contract by value (including
+  amendments) was $26.0M.
 most_recent_fiscal_year_total: '114.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '801'
-s431_number_of_contracts_by_vendor_with_amendments: '381'
+s431_number_of_contracts: '801'
+s431_number_of_contracts_with_amendments: '381'
 s431_number_of_contracts_amendments_percentage: '48%'
-s432_mean_amendment_increase_percentage_by_vendor: '205%'
-s434_mean_number_of_amendments_by_vendor: '2.12'
-s433_total_amendment_increase_value_by_vendor: '237.0M'
-s424_mean_duration_by_vendor: '1.12'
-s421_mean_contract_value_by_vendor: '707.5K'
-s425_max_duration_by_vendor: '10.76'
-s422_max_contract_value_by_vendor: '26.0M'
+s432_mean_amendment_increase_percentage: '205%'
+s434_mean_number_of_amendments: '2.12'
+s433_total_amendment_increase_value: '237.0M'
+s424_mean_duration: '1.12'
+s421_mean_contract_value: '707.5K'
+s425_max_duration: '10.76'
+s422_max_contract_value: '26.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

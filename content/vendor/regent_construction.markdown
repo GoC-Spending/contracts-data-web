@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: regent_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
   in 2021-2022 on contracts with REGENT CONSTRUCTION. The average
-  contract duration was 1.02 year, and the average contract
-  value (not including contracts under $10k) was $1.4M.
-  The longest contract was 4.84 year. The largest contract
-  by value (including amendments) was $10.9M.
+  contract duration was 1.02 years, and the average contract value
+  (not including contracts under $10k) was $1.4M. The longest
+  contract was 4.84 years. The largest contract by value (including
+  amendments) was $10.9M.
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '9'
-s431_number_of_contracts_by_vendor_with_amendments: '3'
+s431_number_of_contracts: '9'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '177%'
-s434_mean_number_of_amendments_by_vendor: '6.67'
-s433_total_amendment_increase_value_by_vendor: '3.3M'
-s424_mean_duration_by_vendor: '1.02'
-s421_mean_contract_value_by_vendor: '1.4M'
-s425_max_duration_by_vendor: '4.84'
-s422_max_contract_value_by_vendor: '10.9M'
+s432_mean_amendment_increase_percentage: '177%'
+s434_mean_number_of_amendments: '6.67'
+s433_total_amendment_increase_value: '3.3M'
+s424_mean_duration: '1.02'
+s421_mean_contract_value: '1.4M'
+s425_max_duration: '4.84'
+s422_max_contract_value: '10.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

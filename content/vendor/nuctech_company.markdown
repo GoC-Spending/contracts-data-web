@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: nuctech_company
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $615.6K
   in 2021-2022 on contracts with NUCTECH COMPANY. The average
-  contract duration was 6.62 year, and the average contract
-  value (not including contracts under $10k) was $2.0M.
-  The longest contract was 10.41 year. The largest contract
-  by value (including amendments) was $4.0M.
+  contract duration was 6.62 years, and the average contract value
+  (not including contracts under $10k) was $2.0M. The longest
+  contract was 10.41 years. The largest contract by value (including
+  amendments) was $4.0M.
 most_recent_fiscal_year_total: '615.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '4'
-s431_number_of_contracts_by_vendor_with_amendments: '2'
+s431_number_of_contracts: '4'
+s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '45%'
-s434_mean_number_of_amendments_by_vendor: '1.5'
-s433_total_amendment_increase_value_by_vendor: '496.2K'
-s424_mean_duration_by_vendor: '6.62'
-s421_mean_contract_value_by_vendor: '2.0M'
-s425_max_duration_by_vendor: '10.41'
-s422_max_contract_value_by_vendor: '4.0M'
+s432_mean_amendment_increase_percentage: '45%'
+s434_mean_number_of_amendments: '1.5'
+s433_total_amendment_increase_value: '496.2K'
+s424_mean_duration: '6.62'
+s421_mean_contract_value: '2.0M'
+s425_max_duration: '10.41'
+s422_max_contract_value: '4.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

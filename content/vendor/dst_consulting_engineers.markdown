@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: dst_consulting_engineers
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with DST CONSULTING ENGINEERS. The average
-  contract duration was 0.67 year, and the average contract
-  value (not including contracts under $10k) was $69.6K.
-  The longest contract was 5.3 year. The largest contract
-  by value (including amendments) was $1.5M.
+  contract duration was 0.67 years, and the average contract value
+  (not including contracts under $10k) was $69.6K. The longest
+  contract was 5.3 years. The largest contract by value (including
+  amendments) was $1.5M.
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '226'
-s431_number_of_contracts_by_vendor_with_amendments: '33'
+s431_number_of_contracts: '226'
+s431_number_of_contracts_with_amendments: '33'
 s431_number_of_contracts_amendments_percentage: '15%'
-s432_mean_amendment_increase_percentage_by_vendor: '103%'
-s434_mean_number_of_amendments_by_vendor: '1.36'
-s433_total_amendment_increase_value_by_vendor: '1.9M'
-s424_mean_duration_by_vendor: '0.67'
-s421_mean_contract_value_by_vendor: '69.6K'
-s425_max_duration_by_vendor: '5.3'
-s422_max_contract_value_by_vendor: '1.5M'
+s432_mean_amendment_increase_percentage: '103%'
+s434_mean_number_of_amendments: '1.36'
+s433_total_amendment_increase_value: '1.9M'
+s424_mean_duration: '0.67'
+s421_mean_contract_value: '69.6K'
+s425_max_duration: '5.3'
+s422_max_contract_value: '1.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

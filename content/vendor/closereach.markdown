@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: closereach
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.0M
   in 2021-2022 on contracts with CLOSEREACH. The average
-  contract duration was 1.3 year, and the average contract
-  value (not including contracts under $10k) was $271.7K.
-  The longest contract was 6.18 year. The largest contract
-  by value (including amendments) was $3.7M.
+  contract duration was 1.3 years, and the average contract value
+  (not including contracts under $10k) was $271.7K. The longest
+  contract was 6.18 years. The largest contract by value (including
+  amendments) was $3.7M.
 most_recent_fiscal_year_total: '8.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '109'
-s431_number_of_contracts_by_vendor_with_amendments: '36'
+s431_number_of_contracts: '109'
+s431_number_of_contracts_with_amendments: '36'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '572%'
-s434_mean_number_of_amendments_by_vendor: '2.31'
-s433_total_amendment_increase_value_by_vendor: '11.6M'
-s424_mean_duration_by_vendor: '1.3'
-s421_mean_contract_value_by_vendor: '271.7K'
-s425_max_duration_by_vendor: '6.18'
-s422_max_contract_value_by_vendor: '3.7M'
+s432_mean_amendment_increase_percentage: '572%'
+s434_mean_number_of_amendments: '2.31'
+s433_total_amendment_increase_value: '11.6M'
+s424_mean_duration: '1.3'
+s421_mean_contract_value: '271.7K'
+s425_max_duration: '6.18'
+s422_max_contract_value: '3.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

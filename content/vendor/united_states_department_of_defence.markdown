@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: united_states_department_of_defence
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.2M
   in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF DEFENCE. The average
-  contract duration was 4.01 year, and the average contract
-  value (not including contracts under $10k) was $24.9M.
-  The longest contract was 4.01 year. The largest contract
-  by value (including amendments) was $24.9M.
+  contract duration was 4.01 years, and the average contract value
+  (not including contracts under $10k) was $24.9M. The longest
+  contract was 4.01 years. The largest contract by value (including
+  amendments) was $24.9M.
 most_recent_fiscal_year_total: '6.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '1'
-s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts: '1'
+s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage_by_vendor: 'NA'
-s434_mean_number_of_amendments_by_vendor: 'NA'
-s433_total_amendment_increase_value_by_vendor: 'NA'
-s424_mean_duration_by_vendor: '4.01'
-s421_mean_contract_value_by_vendor: '24.9M'
-s425_max_duration_by_vendor: '4.01'
-s422_max_contract_value_by_vendor: '24.9M'
+s432_mean_amendment_increase_percentage: 'NA'
+s434_mean_number_of_amendments: 'NA'
+s433_total_amendment_increase_value: 'NA'
+s424_mean_duration: '4.01'
+s421_mean_contract_value: '24.9M'
+s425_max_duration: '4.01'
+s422_max_contract_value: '24.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

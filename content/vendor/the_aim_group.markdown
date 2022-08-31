@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: the_aim_group
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $39.0M
   in 2021-2022 on contracts with THE AIM GROUP. The average
-  contract duration was 1.18 year, and the average contract
-  value (not including contracts under $10k) was $540.1K.
-  The longest contract was 6.47 year. The largest contract
-  by value (including amendments) was $15.0M.
+  contract duration was 1.18 years, and the average contract value
+  (not including contracts under $10k) was $540.1K. The longest
+  contract was 6.47 years. The largest contract by value (including
+  amendments) was $15.0M.
 most_recent_fiscal_year_total: '39.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '522'
-s431_number_of_contracts_by_vendor_with_amendments: '212'
+s431_number_of_contracts: '522'
+s431_number_of_contracts_with_amendments: '212'
 s431_number_of_contracts_amendments_percentage: '41%'
-s432_mean_amendment_increase_percentage_by_vendor: '161%'
-s434_mean_number_of_amendments_by_vendor: '1.95'
-s433_total_amendment_increase_value_by_vendor: '50.6M'
-s424_mean_duration_by_vendor: '1.18'
-s421_mean_contract_value_by_vendor: '540.1K'
-s425_max_duration_by_vendor: '6.47'
-s422_max_contract_value_by_vendor: '15.0M'
+s432_mean_amendment_increase_percentage: '161%'
+s434_mean_number_of_amendments: '1.95'
+s433_total_amendment_increase_value: '50.6M'
+s424_mean_duration: '1.18'
+s421_mean_contract_value: '540.1K'
+s425_max_duration: '6.47'
+s422_max_contract_value: '15.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: scalar_decisions
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $97.0K
   in 2021-2022 on contracts with SCALAR DECISIONS. The average
-  contract duration was 1 year, and the average contract
-  value (not including contracts under $10k) was $143.3K.
-  The longest contract was 5 year. The largest contract
-  by value (including amendments) was $1.7M.
+  contract duration was 1 years, and the average contract value
+  (not including contracts under $10k) was $143.3K. The longest
+  contract was 5 years. The largest contract by value (including
+  amendments) was $1.7M.
 most_recent_fiscal_year_total: '97.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '44'
-s431_number_of_contracts_by_vendor_with_amendments: '3'
+s431_number_of_contracts: '44'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '7%'
-s432_mean_amendment_increase_percentage_by_vendor: '124%'
-s434_mean_number_of_amendments_by_vendor: '1.33'
-s433_total_amendment_increase_value_by_vendor: '199.1K'
-s424_mean_duration_by_vendor: '1'
-s421_mean_contract_value_by_vendor: '143.3K'
-s425_max_duration_by_vendor: '5'
-s422_max_contract_value_by_vendor: '1.7M'
+s432_mean_amendment_increase_percentage: '124%'
+s434_mean_number_of_amendments: '1.33'
+s433_total_amendment_increase_value: '199.1K'
+s424_mean_duration: '1'
+s421_mean_contract_value: '143.3K'
+s425_max_duration: '5'
+s422_max_contract_value: '1.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

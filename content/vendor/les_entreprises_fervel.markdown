@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: les_entreprises_fervel
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $796.3K
   in 2021-2022 on contracts with LES ENTREPRISES FERVEL. The average
-  contract duration was 3.72 year, and the average contract
-  value (not including contracts under $10k) was $1.9M.
-  The longest contract was 5.92 year. The largest contract
-  by value (including amendments) was $8.9M.
+  contract duration was 3.72 years, and the average contract value
+  (not including contracts under $10k) was $1.9M. The longest
+  contract was 5.92 years. The largest contract by value (including
+  amendments) was $8.9M.
 most_recent_fiscal_year_total: '796.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '11'
-s431_number_of_contracts_by_vendor_with_amendments: '9'
+s431_number_of_contracts: '11'
+s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '82%'
-s432_mean_amendment_increase_percentage_by_vendor: '108%'
-s434_mean_number_of_amendments_by_vendor: '2.89'
-s433_total_amendment_increase_value_by_vendor: '9.2M'
-s424_mean_duration_by_vendor: '3.72'
-s421_mean_contract_value_by_vendor: '1.9M'
-s425_max_duration_by_vendor: '5.92'
-s422_max_contract_value_by_vendor: '8.9M'
+s432_mean_amendment_increase_percentage: '108%'
+s434_mean_number_of_amendments: '2.89'
+s433_total_amendment_increase_value: '9.2M'
+s424_mean_duration: '3.72'
+s421_mean_contract_value: '1.9M'
+s425_max_duration: '5.92'
+s422_max_contract_value: '8.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

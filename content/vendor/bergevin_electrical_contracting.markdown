@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: bergevin_electrical_contracting
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.7M
   in 2018-2019 on contracts with BERGEVIN ELECTRICAL CONTRACTING. The average
-  contract duration was 0.65 year, and the average contract
-  value (not including contracts under $10k) was $2.9M.
-  The longest contract was 1.11 year. The largest contract
-  by value (including amendments) was $4.5M.
+  contract duration was 0.65 years, and the average contract value
+  (not including contracts under $10k) was $2.9M. The longest
+  contract was 1.11 years. The largest contract by value (including
+  amendments) was $4.5M.
 most_recent_fiscal_year_total: '2.7M'
 most_recent_fiscal_year_year: '2018-2019'
-s431_number_of_contracts_by_vendor: '2'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '2'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '18%'
-s434_mean_number_of_amendments_by_vendor: '4'
-s433_total_amendment_increase_value_by_vendor: '698.2K'
-s424_mean_duration_by_vendor: '0.65'
-s421_mean_contract_value_by_vendor: '2.9M'
-s425_max_duration_by_vendor: '1.11'
-s422_max_contract_value_by_vendor: '4.5M'
+s432_mean_amendment_increase_percentage: '18%'
+s434_mean_number_of_amendments: '4'
+s433_total_amendment_increase_value: '698.2K'
+s424_mean_duration: '0.65'
+s421_mean_contract_value: '2.9M'
+s425_max_duration: '1.11'
+s422_max_contract_value: '4.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: parkland_refining
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.1M
   in 2021-2022 on contracts with PARKLAND REFINING. The average
-  contract duration was 0.04 year, and the average contract
-  value (not including contracts under $10k) was $195.3K.
-  The longest contract was 0.96 year. The largest contract
-  by value (including amendments) was $6.1M.
+  contract duration was 0.04 years, and the average contract value
+  (not including contracts under $10k) was $195.3K. The longest
+  contract was 0.96 years. The largest contract by value (including
+  amendments) was $6.1M.
 most_recent_fiscal_year_total: '5.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '359'
-s431_number_of_contracts_by_vendor_with_amendments: '10'
+s431_number_of_contracts: '359'
+s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '3%'
-s432_mean_amendment_increase_percentage_by_vendor: '3%'
-s434_mean_number_of_amendments_by_vendor: '1.4'
-s433_total_amendment_increase_value_by_vendor: '-45.9K'
-s424_mean_duration_by_vendor: '0.04'
-s421_mean_contract_value_by_vendor: '195.3K'
-s425_max_duration_by_vendor: '0.96'
-s422_max_contract_value_by_vendor: '6.1M'
+s432_mean_amendment_increase_percentage: '3%'
+s434_mean_number_of_amendments: '1.4'
+s433_total_amendment_increase_value: '-45.9K'
+s424_mean_duration: '0.04'
+s421_mean_contract_value: '195.3K'
+s425_max_duration: '0.96'
+s422_max_contract_value: '6.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

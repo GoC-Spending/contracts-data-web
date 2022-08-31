@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: rush_truck_centres_of_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
   in 2021-2022 on contracts with RUSH TRUCK CENTRES OF CANADA. The average
-  contract duration was 0.72 year, and the average contract
-  value (not including contracts under $10k) was $804.8K.
-  The longest contract was 1.01 year. The largest contract
-  by value (including amendments) was $2.9M.
+  contract duration was 0.72 years, and the average contract value
+  (not including contracts under $10k) was $804.8K. The longest
+  contract was 1.01 years. The largest contract by value (including
+  amendments) was $2.9M.
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '10'
-s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts: '10'
+s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage_by_vendor: 'NA'
-s434_mean_number_of_amendments_by_vendor: 'NA'
-s433_total_amendment_increase_value_by_vendor: 'NA'
-s424_mean_duration_by_vendor: '0.72'
-s421_mean_contract_value_by_vendor: '804.8K'
-s425_max_duration_by_vendor: '1.01'
-s422_max_contract_value_by_vendor: '2.9M'
+s432_mean_amendment_increase_percentage: 'NA'
+s434_mean_number_of_amendments: 'NA'
+s433_total_amendment_increase_value: 'NA'
+s424_mean_duration: '0.72'
+s421_mean_contract_value: '804.8K'
+s425_max_duration: '1.01'
+s422_max_contract_value: '2.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

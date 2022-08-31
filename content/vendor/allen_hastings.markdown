@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: allen_hastings
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2020-2021 on contracts with ALLEN HASTINGS. The average
-  contract duration was 1.16 year, and the average contract
-  value (not including contracts under $10k) was $2.1M.
-  The longest contract was 2.61 year. The largest contract
-  by value (including amendments) was $5.3M.
+  contract duration was 1.16 years, and the average contract value
+  (not including contracts under $10k) was $2.1M. The longest
+  contract was 2.61 years. The largest contract by value (including
+  amendments) was $5.3M.
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts_by_vendor: '5'
-s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts: '5'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '80%'
-s432_mean_amendment_increase_percentage_by_vendor: '2%'
-s434_mean_number_of_amendments_by_vendor: '1.25'
-s433_total_amendment_increase_value_by_vendor: '202.0K'
-s424_mean_duration_by_vendor: '1.16'
-s421_mean_contract_value_by_vendor: '2.1M'
-s425_max_duration_by_vendor: '2.61'
-s422_max_contract_value_by_vendor: '5.3M'
+s432_mean_amendment_increase_percentage: '2%'
+s434_mean_number_of_amendments: '1.25'
+s433_total_amendment_increase_value: '202.0K'
+s424_mean_duration: '1.16'
+s421_mean_contract_value: '2.1M'
+s425_max_duration: '2.61'
+s422_max_contract_value: '5.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

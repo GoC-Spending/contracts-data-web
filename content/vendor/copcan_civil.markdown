@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: copcan_civil
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $416.3K
   in 2021-2022 on contracts with COPCAN CIVIL. The average
-  contract duration was 1.08 year, and the average contract
-  value (not including contracts under $10k) was $732.3K.
-  The longest contract was 2.66 year. The largest contract
-  by value (including amendments) was $3.4M.
+  contract duration was 1.08 years, and the average contract value
+  (not including contracts under $10k) was $732.3K. The longest
+  contract was 2.66 years. The largest contract by value (including
+  amendments) was $3.4M.
 most_recent_fiscal_year_total: '416.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '10'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '10'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '60%'
-s432_mean_amendment_increase_percentage_by_vendor: '48%'
-s434_mean_number_of_amendments_by_vendor: '2.83'
-s433_total_amendment_increase_value_by_vendor: '1.5M'
-s424_mean_duration_by_vendor: '1.08'
-s421_mean_contract_value_by_vendor: '732.3K'
-s425_max_duration_by_vendor: '2.66'
-s422_max_contract_value_by_vendor: '3.4M'
+s432_mean_amendment_increase_percentage: '48%'
+s434_mean_number_of_amendments: '2.83'
+s433_total_amendment_increase_value: '1.5M'
+s424_mean_duration: '1.08'
+s421_mean_contract_value: '732.3K'
+s425_max_duration: '2.66'
+s422_max_contract_value: '3.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

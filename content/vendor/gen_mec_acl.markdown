@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: gen_mec_acl
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.2M
   in 2021-2022 on contracts with GEN MEC ACL. The average
-  contract duration was 1.54 year, and the average contract
-  value (not including contracts under $10k) was $8.8M.
-  The longest contract was 1.54 year. The largest contract
-  by value (including amendments) was $8.8M.
+  contract duration was 1.54 years, and the average contract value
+  (not including contracts under $10k) was $8.8M. The longest
+  contract was 1.54 years. The largest contract by value (including
+  amendments) was $8.8M.
 most_recent_fiscal_year_total: '5.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '1'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '1'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '100%'
-s432_mean_amendment_increase_percentage_by_vendor: '0%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '0.0'
-s424_mean_duration_by_vendor: '1.54'
-s421_mean_contract_value_by_vendor: '8.8M'
-s425_max_duration_by_vendor: '1.54'
-s422_max_contract_value_by_vendor: '8.8M'
+s432_mean_amendment_increase_percentage: '0%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '0.0'
+s424_mean_duration: '1.54'
+s421_mean_contract_value: '8.8M'
+s425_max_duration: '1.54'
+s422_max_contract_value: '8.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

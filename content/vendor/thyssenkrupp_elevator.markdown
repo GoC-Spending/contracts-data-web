@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: thyssenkrupp_elevator
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $800.6K
   in 2021-2022 on contracts with THYSSENKRUPP ELEVATOR. The average
-  contract duration was 1.95 year, and the average contract
-  value (not including contracts under $10k) was $162.8K.
-  The longest contract was 12.99 year. The largest contract
-  by value (including amendments) was $7.7M.
+  contract duration was 1.95 years, and the average contract value
+  (not including contracts under $10k) was $162.8K. The longest
+  contract was 12.99 years. The largest contract by value (including
+  amendments) was $7.7M.
 most_recent_fiscal_year_total: '800.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '118'
-s431_number_of_contracts_by_vendor_with_amendments: '20'
+s431_number_of_contracts: '118'
+s431_number_of_contracts_with_amendments: '20'
 s431_number_of_contracts_amendments_percentage: '17%'
-s432_mean_amendment_increase_percentage_by_vendor: '90%'
-s434_mean_number_of_amendments_by_vendor: '1.65'
-s433_total_amendment_increase_value_by_vendor: '2.4M'
-s424_mean_duration_by_vendor: '1.95'
-s421_mean_contract_value_by_vendor: '162.8K'
-s425_max_duration_by_vendor: '12.99'
-s422_max_contract_value_by_vendor: '7.7M'
+s432_mean_amendment_increase_percentage: '90%'
+s434_mean_number_of_amendments: '1.65'
+s433_total_amendment_increase_value: '2.4M'
+s424_mean_duration: '1.95'
+s421_mean_contract_value: '162.8K'
+s425_max_duration: '12.99'
+s422_max_contract_value: '7.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

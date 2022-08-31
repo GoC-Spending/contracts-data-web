@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: aandc-aadnc
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Crown-Indigenous Relations and Northern Affairs Canada spent an estimated $34.2M
+  in 2021-2022 on contracts. The average contract duration
+  was 1.15 years, and the average contract value (not including
+  contracts under $10k) was $121.8K. The longest contract was
+  15.01 years. The largest contract by value (including amendments)
+  was $20.0M.'
+most_recent_fiscal_year_total: '34.2M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '2,947'
+s431_number_of_contracts_with_amendments: '529'
+s431_number_of_contracts_amendments_percentage: '18%'
+s432_mean_amendment_increase_percentage: '111%'
+s434_mean_number_of_amendments: '1.45'
+s433_total_amendment_increase_value: '40.0M'
+s424_mean_duration: '1.15'
+s421_mean_contract_value: '121.8K'
+s425_max_duration: '15.01'
+s422_max_contract_value: '20.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Crown-Indigenous Relations and Northern Affairs Canada spent an estimated **\$34.2M in 2021-2022** on contracts.
-
-Across 2,947 contracts active since the start of the 2017-2018 fiscal year, 529 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 111% and the average number of amendments was 1.45. Cumulatively these amendments represent an increase of \$40.0M over the original contract values.
-
-The average contract duration was 1.15 years, and the average contract value (not including contracts under \$10k) was \$121.8K. The longest contract was 15.01 years. The largest contract by value (including amendments) was \$20.0M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

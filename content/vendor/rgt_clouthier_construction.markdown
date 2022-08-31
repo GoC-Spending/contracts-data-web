@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: rgt_clouthier_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $315.1K
   in 2021-2022 on contracts with RGT CLOUTHIER CONSTRUCTION. The average
-  contract duration was 0.53 year, and the average contract
-  value (not including contracts under $10k) was $867.3K.
-  The longest contract was 1.32 year. The largest contract
-  by value (including amendments) was $5.2M.
+  contract duration was 0.53 years, and the average contract value
+  (not including contracts under $10k) was $867.3K. The longest
+  contract was 1.32 years. The largest contract by value (including
+  amendments) was $5.2M.
 most_recent_fiscal_year_total: '315.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '20'
-s431_number_of_contracts_by_vendor_with_amendments: '9'
+s431_number_of_contracts: '20'
+s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '45%'
-s432_mean_amendment_increase_percentage_by_vendor: '13%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '594.0K'
-s424_mean_duration_by_vendor: '0.53'
-s421_mean_contract_value_by_vendor: '867.3K'
-s425_max_duration_by_vendor: '1.32'
-s422_max_contract_value_by_vendor: '5.2M'
+s432_mean_amendment_increase_percentage: '13%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '594.0K'
+s424_mean_duration: '0.53'
+s421_mean_contract_value: '867.3K'
+s425_max_duration: '1.32'
+s422_max_contract_value: '5.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

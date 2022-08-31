@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: international_reporting
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
   in 2021-2022 on contracts with INTERNATIONAL REPORTING. The average
-  contract duration was 0.8 year, and the average contract
-  value (not including contracts under $10k) was $130.3K.
-  The longest contract was 4.08 year. The largest contract
-  by value (including amendments) was $1.5M.
+  contract duration was 0.8 years, and the average contract value
+  (not including contracts under $10k) was $130.3K. The longest
+  contract was 4.08 years. The largest contract by value (including
+  amendments) was $1.5M.
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '63'
-s431_number_of_contracts_by_vendor_with_amendments: '13'
+s431_number_of_contracts: '63'
+s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '21%'
-s432_mean_amendment_increase_percentage_by_vendor: '19%'
-s434_mean_number_of_amendments_by_vendor: '1.08'
-s433_total_amendment_increase_value_by_vendor: '583.5K'
-s424_mean_duration_by_vendor: '0.8'
-s421_mean_contract_value_by_vendor: '130.3K'
-s425_max_duration_by_vendor: '4.08'
-s422_max_contract_value_by_vendor: '1.5M'
+s432_mean_amendment_increase_percentage: '19%'
+s434_mean_number_of_amendments: '1.08'
+s433_total_amendment_increase_value: '583.5K'
+s424_mean_duration: '0.8'
+s421_mean_contract_value: '130.3K'
+s425_max_duration: '4.08'
+s422_max_contract_value: '1.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

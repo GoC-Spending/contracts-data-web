@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: bell_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $305.3M
   in 2021-2022 on contracts with BELL CANADA. The average
-  contract duration was 2.18 year, and the average contract
-  value (not including contracts under $10k) was $3.2M.
-  The longest contract was 17.96 year. The largest contract
-  by value (including amendments) was $624.0M.
+  contract duration was 2.18 years, and the average contract value
+  (not including contracts under $10k) was $3.2M. The longest
+  contract was 17.96 years. The largest contract by value (including
+  amendments) was $624.0M.
 most_recent_fiscal_year_total: '305.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '1,064'
-s431_number_of_contracts_by_vendor_with_amendments: '265'
+s431_number_of_contracts: '1,064'
+s431_number_of_contracts_with_amendments: '265'
 s431_number_of_contracts_amendments_percentage: '25%'
-s432_mean_amendment_increase_percentage_by_vendor: '358%'
-s434_mean_number_of_amendments_by_vendor: '2.27'
-s433_total_amendment_increase_value_by_vendor: '2.1B'
-s424_mean_duration_by_vendor: '2.18'
-s421_mean_contract_value_by_vendor: '3.2M'
-s425_max_duration_by_vendor: '17.96'
-s422_max_contract_value_by_vendor: '624.0M'
+s432_mean_amendment_increase_percentage: '358%'
+s434_mean_number_of_amendments: '2.27'
+s433_total_amendment_increase_value: '2.1B'
+s424_mean_duration: '2.18'
+s421_mean_contract_value: '3.2M'
+s425_max_duration: '17.96'
+s422_max_contract_value: '624.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: kenn_borek_air
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.7M
   in 2021-2022 on contracts with KENN BOREK AIR. The average
-  contract duration was 0.34 year, and the average contract
-  value (not including contracts under $10k) was $433.7K.
-  The longest contract was 4 year. The largest contract
-  by value (including amendments) was $11.5M.
+  contract duration was 0.34 years, and the average contract value
+  (not including contracts under $10k) was $433.7K. The longest
+  contract was 4 years. The largest contract by value (including
+  amendments) was $11.5M.
 most_recent_fiscal_year_total: '3.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '75'
-s431_number_of_contracts_by_vendor_with_amendments: '19'
+s431_number_of_contracts: '75'
+s431_number_of_contracts_with_amendments: '19'
 s431_number_of_contracts_amendments_percentage: '25%'
-s432_mean_amendment_increase_percentage_by_vendor: '28%'
-s434_mean_number_of_amendments_by_vendor: '1.63'
-s433_total_amendment_increase_value_by_vendor: '15.6M'
-s424_mean_duration_by_vendor: '0.34'
-s421_mean_contract_value_by_vendor: '433.7K'
-s425_max_duration_by_vendor: '4'
-s422_max_contract_value_by_vendor: '11.5M'
+s432_mean_amendment_increase_percentage: '28%'
+s434_mean_number_of_amendments: '1.63'
+s433_total_amendment_increase_value: '15.6M'
+s424_mean_duration: '0.34'
+s421_mean_contract_value: '433.7K'
+s425_max_duration: '4'
+s422_max_contract_value: '11.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

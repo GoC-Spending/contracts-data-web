@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: crtc
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Canadian Radio-television and Telecommunications Commission spent an estimated $9.1M
+  in 2021-2022 on contracts. The average contract duration
+  was 0.91 years, and the average contract value (not including
+  contracts under $10k) was $119.6K. The longest contract was
+  6.67 years. The largest contract by value (including amendments)
+  was $2.0M.'
+most_recent_fiscal_year_total: '9.1M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '473'
+s431_number_of_contracts_with_amendments: '32'
+s431_number_of_contracts_amendments_percentage: '7%'
+s432_mean_amendment_increase_percentage: '92%'
+s434_mean_number_of_amendments: '1.09'
+s433_total_amendment_increase_value: '5.8M'
+s424_mean_duration: '0.91'
+s421_mean_contract_value: '119.6K'
+s425_max_duration: '6.67'
+s422_max_contract_value: '2.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Canadian Radio-television and Telecommunications Commission spent an estimated **\$9.1M in 2021-2022** on contracts.
-
-Across 473 contracts active since the start of the 2017-2018 fiscal year, 32 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 92% and the average number of amendments was 1.09. Cumulatively these amendments represent an increase of \$5.8M over the original contract values.
-
-The average contract duration was 0.91 years, and the average contract value (not including contracts under \$10k) was \$119.6K. The longest contract was 6.67 years. The largest contract by value (including amendments) was \$2.0M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

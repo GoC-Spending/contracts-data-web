@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: data_communications_management
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.6M
   in 2021-2022 on contracts with DATA COMMUNICATIONS MANAGEMENT. The average
-  contract duration was 0.52 year, and the average contract
-  value (not including contracts under $10k) was $364.7K.
-  The longest contract was 6.06 year. The largest contract
-  by value (including amendments) was $3.6M.
+  contract duration was 0.52 years, and the average contract value
+  (not including contracts under $10k) was $364.7K. The longest
+  contract was 6.06 years. The largest contract by value (including
+  amendments) was $3.6M.
 most_recent_fiscal_year_total: '5.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '110'
-s431_number_of_contracts_by_vendor_with_amendments: '11'
+s431_number_of_contracts: '110'
+s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '10%'
-s432_mean_amendment_increase_percentage_by_vendor: '111%'
-s434_mean_number_of_amendments_by_vendor: '1.55'
-s433_total_amendment_increase_value_by_vendor: '814.0K'
-s424_mean_duration_by_vendor: '0.52'
-s421_mean_contract_value_by_vendor: '364.7K'
-s425_max_duration_by_vendor: '6.06'
-s422_max_contract_value_by_vendor: '3.6M'
+s432_mean_amendment_increase_percentage: '111%'
+s434_mean_number_of_amendments: '1.55'
+s433_total_amendment_increase_value: '814.0K'
+s424_mean_duration: '0.52'
+s421_mean_contract_value: '364.7K'
+s425_max_duration: '6.06'
+s422_max_contract_value: '3.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

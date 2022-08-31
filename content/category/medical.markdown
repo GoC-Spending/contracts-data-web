@@ -5,6 +5,29 @@ date: '2022-08-30'
 slug: medical
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: The Government of Canada spent an estimated $2.2B
+  in 2021-2022 on medical contracts.
+  The average contract duration was 0.86 years, and the average
+  contract value (not including contracts under $10k) was $1.0M.
+  The longest contract was 13.01 years. The largest contract by value
+  (including amendments) was $995.6M.
+lookup_name: '4_medical'
+most_recent_fiscal_year_total: '2.2B'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '9,926'
+s431_number_of_contracts_with_amendments: '1,549'
+s431_number_of_contracts_amendments_percentage: '16%'
+s432_mean_amendment_increase_percentage: '215%'
+s434_mean_number_of_amendments: '2.04'
+s433_total_amendment_increase_value: '2.2B'
+s424_mean_duration: '0.86'
+s421_mean_contract_value: '1.0M'
+s425_max_duration: '13.01'
+s422_max_contract_value: '995.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +51,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-The Government of Canada spent an estimated **\$2.2B in 2021-2022** on medical contracts.
-
-Across 9,926 contracts active since the start of the 2017-2018 fiscal year, 1,549 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 215% and the average number of amendments was 2.04. Cumulatively these amendments represent an increase of \$2.2B over the original contract values.
-
-The average contract duration was 0.86 years, and the average contract value (not including contracts under \$10k) was \$1.0M. The longest contract was 13.01 years. The largest contract by value (including amendments) was \$995.6M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 
@@ -50,5 +67,5 @@ The average contract duration was 0.86 years, and the average contract value (no
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
 <script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/aandc-aadnc/\">Crown-Indigenous Relations and Northern Affairs Canada<\/a>","<a href=\"/departments/cas-satj/\">Courts Administration Service<\/a>","<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/cer-rec/\">Canada Energy Regulator<\/a>","<a href=\"/departments/cfia-acia/\">Canadian Food Inspection Agency<\/a>","<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/cihr-irsc/\">Canadian Institutes of Health Research<\/a>","<a href=\"/departments/cnsc-ccsn/\">Canadian Nuclear Safety Commission<\/a>","<a href=\"/departments/cra-arc/\">Canada Revenue Agency<\/a>","<a href=\"/departments/crtc/\">Canadian Radio-television and Telecommunications Commission<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/elections/\">Elections Canada<\/a>","<a href=\"/departments/esdc-edsc/\">Employment and Social Development Canada<\/a>","<a href=\"/departments/fin/\">Department of Finance Canada<\/a>","<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/ic/\">Innovation, Science and Economic Development Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/jus/\">Department of Justice Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/nserc-crsng/\">Natural Sciences and Engineering Research Council of Canada<\/a>","<a href=\"/departments/nsira-ossnr/\">National Security and Intelligence Review Agency<\/a>","<a href=\"/departments/oag-bvg/\">Office of the Auditor General of Canada<\/a>","<a href=\"/departments/oic-ci/\">Office of the Information Commissioner of Canada<\/a>","<a href=\"/departments/opc-cpvp/\">Office of the Privacy Commissioner of Canada<\/a>","<a href=\"/departments/osfi-bsif/\">Office of the Superintendent of Financial Institutions Canada<\/a>","<a href=\"/departments/osgg-bsgg/\">Office of the Secretary to the Governor General<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/ppsc-sppc/\">Public Prosecution Service of Canada<\/a>","<a href=\"/departments/ps-sp/\">Public Safety Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/ssc-spc/\">Shared Services Canada<\/a>","<a href=\"/departments/statcan/\">Statistics Canada<\/a>","<a href=\"/departments/tbs-sct/\">Treasury Board of Canada Secretariat<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/vac-acc/\">Veterans Affairs Canada<\/a>","<a href=\"/departments/wage/\">Department for Women and Gender Equality<\/a>"],[49432.2,756000.62,103825.49,29349251,7020.21,1208212.18,5449607.46,13541.45,37310.85,922202.58,null,76364.42,239357650.66,100628.76,704789.47,237242563.13,89342.48,null,965896.56,10473.47,28656119.05,5491.44,38247096.38,338172.2,160791.35,19078.64,23429.03,null,null,null,null,null,2178.28,159188.19,12689580.09,null,null,19982.81,4823115.23,49369.04,178482.5,null,637365.27,58695301.03,null],[419790,462649.04,33787,25798737.68,40612.44,1610887.85,5464537.89,13578.55,33820.34,806517.9,null,123588.24,242652853.74,1511388.55,1053014.74,233270123.4,55132.45,null,775851.34,10502.16,18542504.31,6611.4,45592330.84,190440.97,449174.57,52965.12,null,null,null,null,null,null,2184.25,126806.31,34879043.78,205.99,null,12072.38,5251180.72,52436.64,373029,26642.34,615660.07,69543329.99,null],[955871.97,459292.99,14351,26130969.54,89381.18,1927715.3,7067559.96,12486.5,59837.76,762280.57,null,166681.94,239218997.92,418060.53,736450.4,247544667.05,27485.81,56936.65,725806.37,null,7842242.07,6593.34,63535915.71,172820.28,360712.72,42566.18,null,null,16950,7157.66,24860,null,2178.28,141112.08,3464398021.36,29344.01,6009.6,null,6844771.84,8739.44,340737.98,89414.83,991271.3,69360050.98,10922.62],[966375.52,null,null,25853118.46,89819.23,2918676.91,7019815.84,12486.5,40832.94,1614131.32,6871.26,148869.6,232614228.06,452454.43,983009.32,235020095.25,36962.9,3830699.54,969226.94,null,31819145.11,81096.68,54895591.47,111460.8,2359487.55,128240.16,null,1694.89,16950,17791.91,null,465.16,2178.28,227119.18,1484678180.08,83283.99,8501.96,67338.87,5600768.64,10186.54,1548096.9,83796.85,1003050.7,135058720.54,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
-<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/categories/4_medical/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/categories/4_medical/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

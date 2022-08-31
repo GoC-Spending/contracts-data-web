@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: david_s_laflamme_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.0M
   in 2021-2022 on contracts with DAVID S LAFLAMME CONSTRUCTION. The average
-  contract duration was 1.9 year, and the average contract
-  value (not including contracts under $10k) was $4.7M.
-  The longest contract was 2.82 year. The largest contract
-  by value (including amendments) was $10.0M.
+  contract duration was 1.9 years, and the average contract value
+  (not including contracts under $10k) was $4.7M. The longest
+  contract was 2.82 years. The largest contract by value (including
+  amendments) was $10.0M.
 most_recent_fiscal_year_total: '5.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '3'
-s431_number_of_contracts_by_vendor_with_amendments: '2'
+s431_number_of_contracts: '3'
+s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '67%'
-s432_mean_amendment_increase_percentage_by_vendor: '7%'
-s434_mean_number_of_amendments_by_vendor: '3'
-s433_total_amendment_increase_value_by_vendor: '1.1M'
-s424_mean_duration_by_vendor: '1.9'
-s421_mean_contract_value_by_vendor: '4.7M'
-s425_max_duration_by_vendor: '2.82'
-s422_max_contract_value_by_vendor: '10.0M'
+s432_mean_amendment_increase_percentage: '7%'
+s434_mean_number_of_amendments: '3'
+s433_total_amendment_increase_value: '1.1M'
+s424_mean_duration: '1.9'
+s421_mean_contract_value: '4.7M'
+s425_max_duration: '2.82'
+s422_max_contract_value: '10.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

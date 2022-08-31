@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: bridges_of_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $8.2M
   in 2021-2022 on contracts with BRIDGES OF CANADA. The average
-  contract duration was 1.26 year, and the average contract
-  value (not including contracts under $10k) was $3.5M.
-  The longest contract was 7.17 year. The largest contract
-  by value (including amendments) was $8.5M.
+  contract duration was 1.26 years, and the average contract value
+  (not including contracts under $10k) was $3.5M. The longest
+  contract was 7.17 years. The largest contract by value (including
+  amendments) was $8.5M.
 most_recent_fiscal_year_total: '8.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '14'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '14'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '43%'
-s432_mean_amendment_increase_percentage_by_vendor: '175%'
-s434_mean_number_of_amendments_by_vendor: '2.17'
-s433_total_amendment_increase_value_by_vendor: '2.5M'
-s424_mean_duration_by_vendor: '1.26'
-s421_mean_contract_value_by_vendor: '3.5M'
-s425_max_duration_by_vendor: '7.17'
-s422_max_contract_value_by_vendor: '8.5M'
+s432_mean_amendment_increase_percentage: '175%'
+s434_mean_number_of_amendments: '2.17'
+s433_total_amendment_increase_value: '2.5M'
+s424_mean_duration: '1.26'
+s421_mean_contract_value: '3.5M'
+s425_max_duration: '7.17'
+s422_max_contract_value: '8.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

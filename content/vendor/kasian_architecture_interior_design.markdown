@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: kasian_architecture_interior_design
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with KASIAN ARCHITECTURE INTERIOR DESIGN. The average
-  contract duration was 1.98 year, and the average contract
-  value (not including contracts under $10k) was $364.5K.
-  The longest contract was 4.24 year. The largest contract
-  by value (including amendments) was $1.5M.
+  contract duration was 1.98 years, and the average contract value
+  (not including contracts under $10k) was $364.5K. The longest
+  contract was 4.24 years. The largest contract by value (including
+  amendments) was $1.5M.
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '33'
-s431_number_of_contracts_by_vendor_with_amendments: '18'
+s431_number_of_contracts: '33'
+s431_number_of_contracts_with_amendments: '18'
 s431_number_of_contracts_amendments_percentage: '55%'
-s432_mean_amendment_increase_percentage_by_vendor: '124%'
-s434_mean_number_of_amendments_by_vendor: '1.78'
-s433_total_amendment_increase_value_by_vendor: '4.3M'
-s424_mean_duration_by_vendor: '1.98'
-s421_mean_contract_value_by_vendor: '364.5K'
-s425_max_duration_by_vendor: '4.24'
-s422_max_contract_value_by_vendor: '1.5M'
+s432_mean_amendment_increase_percentage: '124%'
+s434_mean_number_of_amendments: '1.78'
+s433_total_amendment_increase_value: '4.3M'
+s424_mean_duration: '1.98'
+s421_mean_contract_value: '364.5K'
+s425_max_duration: '4.24'
+s422_max_contract_value: '1.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

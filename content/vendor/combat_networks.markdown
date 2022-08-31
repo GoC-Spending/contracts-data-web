@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: combat_networks
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.3M
   in 2021-2022 on contracts with COMBAT NETWORKS. The average
-  contract duration was 1.87 year, and the average contract
-  value (not including contracts under $10k) was $245.4K.
-  The longest contract was 7.46 year. The largest contract
-  by value (including amendments) was $29.4M.
+  contract duration was 1.87 years, and the average contract value
+  (not including contracts under $10k) was $245.4K. The longest
+  contract was 7.46 years. The largest contract by value (including
+  amendments) was $29.4M.
 most_recent_fiscal_year_total: '5.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '258'
-s431_number_of_contracts_by_vendor_with_amendments: '67'
+s431_number_of_contracts: '258'
+s431_number_of_contracts_with_amendments: '67'
 s431_number_of_contracts_amendments_percentage: '26%'
-s432_mean_amendment_increase_percentage_by_vendor: '262%'
-s434_mean_number_of_amendments_by_vendor: '1.81'
-s433_total_amendment_increase_value_by_vendor: '35.4M'
-s424_mean_duration_by_vendor: '1.87'
-s421_mean_contract_value_by_vendor: '245.4K'
-s425_max_duration_by_vendor: '7.46'
-s422_max_contract_value_by_vendor: '29.4M'
+s432_mean_amendment_increase_percentage: '262%'
+s434_mean_number_of_amendments: '1.81'
+s433_total_amendment_increase_value: '35.4M'
+s424_mean_duration: '1.87'
+s421_mean_contract_value: '245.4K'
+s425_max_duration: '7.46'
+s422_max_contract_value: '29.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

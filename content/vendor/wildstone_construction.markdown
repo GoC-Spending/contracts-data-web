@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: wildstone_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $9.0M
   in 2021-2022 on contracts with WILDSTONE CONSTRUCTION. The average
-  contract duration was 1.73 year, and the average contract
-  value (not including contracts under $10k) was $5.0M.
-  The longest contract was 4.36 year. The largest contract
-  by value (including amendments) was $15.4M.
+  contract duration was 1.73 years, and the average contract value
+  (not including contracts under $10k) was $5.0M. The longest
+  contract was 4.36 years. The largest contract by value (including
+  amendments) was $15.4M.
 most_recent_fiscal_year_total: '9.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '10'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '10'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '70%'
-s432_mean_amendment_increase_percentage_by_vendor: '14%'
-s434_mean_number_of_amendments_by_vendor: '2.57'
-s433_total_amendment_increase_value_by_vendor: '3.6M'
-s424_mean_duration_by_vendor: '1.73'
-s421_mean_contract_value_by_vendor: '5.0M'
-s425_max_duration_by_vendor: '4.36'
-s422_max_contract_value_by_vendor: '15.4M'
+s432_mean_amendment_increase_percentage: '14%'
+s434_mean_number_of_amendments: '2.57'
+s433_total_amendment_increase_value: '3.6M'
+s424_mean_duration: '1.73'
+s421_mean_contract_value: '5.0M'
+s425_max_duration: '4.36'
+s422_max_contract_value: '15.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

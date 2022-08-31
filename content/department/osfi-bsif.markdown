@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: osfi-bsif
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Office of the Superintendent of Financial Institutions Canada spent an estimated $28.4M
+  in 2021-2022 on contracts. The average contract duration
+  was 1.05 years, and the average contract value (not including
+  contracts under $10k) was $132.6K. The longest contract was
+  10.12 years. The largest contract by value (including amendments)
+  was $12.8M.'
+most_recent_fiscal_year_total: '28.4M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '1,330'
+s431_number_of_contracts_with_amendments: '240'
+s431_number_of_contracts_amendments_percentage: '18%'
+s432_mean_amendment_increase_percentage: '654%'
+s434_mean_number_of_amendments: '2.33'
+s433_total_amendment_increase_value: '83.9M'
+s424_mean_duration: '1.05'
+s421_mean_contract_value: '132.6K'
+s425_max_duration: '10.12'
+s422_max_contract_value: '12.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Office of the Superintendent of Financial Institutions Canada spent an estimated **\$28.4M in 2021-2022** on contracts.
-
-Across 1,330 contracts active since the start of the 2017-2018 fiscal year, 240 have at least one amendment (18%). Of contracts with amendments, the average increase in dollar value was 654% and the average number of amendments was 2.33. Cumulatively these amendments represent an increase of \$83.9M over the original contract values.
-
-The average contract duration was 1.05 years, and the average contract value (not including contracts under \$10k) was \$132.6K. The longest contract was 10.12 years. The largest contract by value (including amendments) was \$12.8M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

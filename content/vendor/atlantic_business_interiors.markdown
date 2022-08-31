@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: atlantic_business_interiors
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with ATLANTIC BUSINESS INTERIORS. The average
-  contract duration was 0.24 year, and the average contract
-  value (not including contracts under $10k) was $37.2K.
-  The longest contract was 2.11 year. The largest contract
-  by value (including amendments) was $1.5M.
+  contract duration was 0.24 years, and the average contract value
+  (not including contracts under $10k) was $37.2K. The longest
+  contract was 2.11 years. The largest contract by value (including
+  amendments) was $1.5M.
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '171'
-s431_number_of_contracts_by_vendor_with_amendments: '8'
+s431_number_of_contracts: '171'
+s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage_by_vendor: '25%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '941.5K'
-s424_mean_duration_by_vendor: '0.24'
-s421_mean_contract_value_by_vendor: '37.2K'
-s425_max_duration_by_vendor: '2.11'
-s422_max_contract_value_by_vendor: '1.5M'
+s432_mean_amendment_increase_percentage: '25%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '941.5K'
+s424_mean_duration: '0.24'
+s421_mean_contract_value: '37.2K'
+s425_max_duration: '2.11'
+s422_max_contract_value: '1.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

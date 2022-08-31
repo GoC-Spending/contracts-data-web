@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: like_10
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
   in 2021-2022 on contracts with LIKE 10. The average
-  contract duration was 1.35 year, and the average contract
-  value (not including contracts under $10k) was $437.9K.
-  The longest contract was 3.97 year. The largest contract
-  by value (including amendments) was $2.0M.
+  contract duration was 1.35 years, and the average contract value
+  (not including contracts under $10k) was $437.9K. The longest
+  contract was 3.97 years. The largest contract by value (including
+  amendments) was $2.0M.
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '21'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '21'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '373%'
-s434_mean_number_of_amendments_by_vendor: '2.71'
-s433_total_amendment_increase_value_by_vendor: '5.5M'
-s424_mean_duration_by_vendor: '1.35'
-s421_mean_contract_value_by_vendor: '437.9K'
-s425_max_duration_by_vendor: '3.97'
-s422_max_contract_value_by_vendor: '2.0M'
+s432_mean_amendment_increase_percentage: '373%'
+s434_mean_number_of_amendments: '2.71'
+s433_total_amendment_increase_value: '5.5M'
+s424_mean_duration: '1.35'
+s421_mean_contract_value: '437.9K'
+s425_max_duration: '3.97'
+s422_max_contract_value: '2.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

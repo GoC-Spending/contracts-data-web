@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: abs_americas
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.5M
   in 2021-2022 on contracts with ABS AMERICAS. The average
-  contract duration was 3.46 year, and the average contract
-  value (not including contracts under $10k) was $4.1M.
-  The longest contract was 5.01 year. The largest contract
-  by value (including amendments) was $12.2M.
+  contract duration was 3.46 years, and the average contract value
+  (not including contracts under $10k) was $4.1M. The longest
+  contract was 5.01 years. The largest contract by value (including
+  amendments) was $12.2M.
 most_recent_fiscal_year_total: '2.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '3'
-s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts: '3'
+s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage_by_vendor: 'NA'
-s434_mean_number_of_amendments_by_vendor: 'NA'
-s433_total_amendment_increase_value_by_vendor: 'NA'
-s424_mean_duration_by_vendor: '3.46'
-s421_mean_contract_value_by_vendor: '4.1M'
-s425_max_duration_by_vendor: '5.01'
-s422_max_contract_value_by_vendor: '12.2M'
+s432_mean_amendment_increase_percentage: 'NA'
+s434_mean_number_of_amendments: 'NA'
+s433_total_amendment_increase_value: 'NA'
+s424_mean_duration: '3.46'
+s421_mean_contract_value: '4.1M'
+s425_max_duration: '5.01'
+s422_max_contract_value: '12.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: john_howard_society
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $29.0M
   in 2021-2022 on contracts with JOHN HOWARD SOCIETY. The average
-  contract duration was 2.45 year, and the average contract
-  value (not including contracts under $10k) was $1.3M.
-  The longest contract was 7 year. The largest contract
-  by value (including amendments) was $6.7M.
+  contract duration was 2.45 years, and the average contract value
+  (not including contracts under $10k) was $1.3M. The longest
+  contract was 7 years. The largest contract by value (including
+  amendments) was $6.7M.
 most_recent_fiscal_year_total: '29.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '136'
-s431_number_of_contracts_by_vendor_with_amendments: '76'
+s431_number_of_contracts: '136'
+s431_number_of_contracts_with_amendments: '76'
 s431_number_of_contracts_amendments_percentage: '56%'
-s432_mean_amendment_increase_percentage_by_vendor: '286%'
-s434_mean_number_of_amendments_by_vendor: '2.95'
-s433_total_amendment_increase_value_by_vendor: '107.7M'
-s424_mean_duration_by_vendor: '2.45'
-s421_mean_contract_value_by_vendor: '1.3M'
-s425_max_duration_by_vendor: '7'
-s422_max_contract_value_by_vendor: '6.7M'
+s432_mean_amendment_increase_percentage: '286%'
+s434_mean_number_of_amendments: '2.95'
+s433_total_amendment_increase_value: '107.7M'
+s424_mean_duration: '2.45'
+s421_mean_contract_value: '1.3M'
+s425_max_duration: '7'
+s422_max_contract_value: '6.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

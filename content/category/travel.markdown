@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: travel
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: The Government of Canada spent an estimated $37.1M
+  in 2021-2022 on travel contracts.
+  The average contract duration was 0.35 years, and the average
+  contract value (not including contracts under $10k) was $128.3K.
+  The longest contract was 12.01 years. The largest contract by value
+  (including amendments) was $18.1M.
+most_recent_fiscal_year_total: '37.1M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '2,160'
+s431_number_of_contracts_with_amendments: '257'
+s431_number_of_contracts_amendments_percentage: '12%'
+s432_mean_amendment_increase_percentage: '52%'
+s434_mean_number_of_amendments: '1.32'
+s433_total_amendment_increase_value: '25.9M'
+s424_mean_duration: '0.35'
+s421_mean_contract_value: '128.3K'
+s425_max_duration: '12.01'
+s422_max_contract_value: '18.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-The Government of Canada spent an estimated **\$37.1M in 2021-2022** on travel contracts.
-
-Across 2,160 contracts active since the start of the 2017-2018 fiscal year, 257 have at least one amendment (12%). Of contracts with amendments, the average increase in dollar value was 52% and the average number of amendments was 1.32. Cumulatively these amendments represent an increase of \$25.9M over the original contract values.
-
-The average contract duration was 0.35 years, and the average contract value (not including contracts under \$10k) was \$128.3K. The longest contract was 12.01 years. The largest contract by value (including amendments) was \$18.1M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 
@@ -50,5 +66,5 @@ The average contract duration was 0.35 years, and the average contract value (no
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
 <script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aandc-aadnc/\">Crown-Indigenous Relations and Northern Affairs Canada<\/a>","<a href=\"/departments/cannor/\">Canadian Northern Economic Development Agency<\/a>","<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/cer-rec/\">Canada Energy Regulator<\/a>","<a href=\"/departments/cfia-acia/\">Canadian Food Inspection Agency<\/a>","<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/cics-scic/\">Canadian Intergovernmental Conference Secretariat<\/a>","<a href=\"/departments/cihr-irsc/\">Canadian Institutes of Health Research<\/a>","<a href=\"/departments/cnsc-ccsn/\">Canadian Nuclear Safety Commission<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/esdc-edsc/\">Employment and Social Development Canada<\/a>","<a href=\"/departments/fcac-acfc/\">Financial Consumer Agency of Canada<\/a>","<a href=\"/departments/fin/\">Department of Finance Canada<\/a>","<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/iaac-aeic/\">Impact Assessment Agency of Canada<\/a>","<a href=\"/departments/ic/\">Innovation, Science and Economic Development Canada<\/a>","<a href=\"/departments/infc/\">Infrastructure Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/jus/\">Department of Justice Canada<\/a>","<a href=\"/departments/lac-bac/\">Library and Archives Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/nserc-crsng/\">Natural Sciences and Engineering Research Council of Canada<\/a>","<a href=\"/departments/osfi-bsif/\">Office of the Superintendent of Financial Institutions Canada<\/a>","<a href=\"/departments/osgg-bsgg/\">Office of the Secretary to the Governor General<\/a>","<a href=\"/departments/pbc-clcc/\">Parole Board of Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/pch/\">Canadian Heritage<\/a>","<a href=\"/departments/pco-bcp/\">Privy Council Office<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/ppsc-sppc/\">Public Prosecution Service of Canada<\/a>","<a href=\"/departments/ps-sp/\">Public Safety Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/sirc-csars/\">Security Intelligence Review Committee<\/a>","<a href=\"/departments/ssc-spc/\">Shared Services Canada<\/a>","<a href=\"/departments/sshrc-crsh/\">Social Sciences and Humanities Research Council of Canada<\/a>","<a href=\"/departments/statcan/\">Statistics Canada<\/a>","<a href=\"/departments/tbs-sct/\">Treasury Board of Canada Secretariat<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/wage/\">Department for Women and Gender Equality<\/a>","<a href=\"/departments/wd-deo/\">Western Economic Diversification Canada<\/a>"],[661187.5,181812.49,22948.64,84245.87,21992.01,3648.48,null,3252745.62,80212.44,6629666.13,25955202.28,7116156.62,328193.12,490639.36,92460.81,null,40476.19,5414637.23,null,400257.93,15886.92,2101381.84,85803.02,583986.13,null,405540.03,415404.19,null,247312.99,1498.28,419291.43,143987.82,16631.68,null,329003.37,null,500987.77,1413969.81,null,324959.34,57356.73,null,21005.76,null,null,0],[704913.42,74687.86,2336742.42,null,null,19932.77,44851.86,4134088.54,138482.55,3928987.01,14775863.28,8399029.16,729.93,237312.06,null,null,77176.4,4648364.77,44749.89,355220.62,19391.3,3307460.03,86038.1,879584.04,33900,13335,236518.98,37375.24,121096.5,80585.17,175339.8,17501.92,33141.43,41937.8,117960.44,17516.67,649948.43,512830.88,23000,null,212403.14,null,10531.65,null,19685.66,null],[493997.82,null,667765.58,null,null,337339.17,null,981243.93,14668.27,4067049.77,32102260.38,5650275.01,null,19882.31,null,5255.89,110277.56,null,null,202481.69,10608.7,14188360.21,12308.24,877180.81,null,null,263858.16,89749.76,30167.14,24958.46,440845.01,336766.89,null,null,null,null,1627525.89,171753.08,null,null,27574.06,null,null,69465.61,3295.71,null],[449038.51,null,1611561.76,null,33205.06,469012.53,null,null,null,1474844.18,5286694.84,7528053.48,null,57096.06,null,6638.06,9759.68,12222.08,null,183490.45,null,13288412.27,22130.58,877180.81,30577.8,108964.06,171236.27,18348.33,5274.18,36832.67,48666.33,102437.66,64043.28,null,null,null,1625662.48,3233959.97,null,94664,9745.35,217987.8,null,null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
-<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/categories/7_travel/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/categories/7_travel/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

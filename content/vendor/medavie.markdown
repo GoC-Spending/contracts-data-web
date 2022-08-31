@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: medavie
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $37.4M
   in 2021-2022 on contracts with MEDAVIE. The average
-  contract duration was 6.46 year, and the average contract
-  value (not including contracts under $10k) was $65.3M.
-  The longest contract was 12.1 year. The largest contract
-  by value (including amendments) was $228.0M.
+  contract duration was 6.46 years, and the average contract value
+  (not including contracts under $10k) was $65.3M. The longest
+  contract was 12.1 years. The largest contract by value (including
+  amendments) was $228.0M.
 most_recent_fiscal_year_total: '37.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '5'
-s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts: '5'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '80%'
-s432_mean_amendment_increase_percentage_by_vendor: '1538%'
-s434_mean_number_of_amendments_by_vendor: '3'
-s433_total_amendment_increase_value_by_vendor: '147.0M'
-s424_mean_duration_by_vendor: '6.46'
-s421_mean_contract_value_by_vendor: '65.3M'
-s425_max_duration_by_vendor: '12.1'
-s422_max_contract_value_by_vendor: '228.0M'
+s432_mean_amendment_increase_percentage: '1538%'
+s434_mean_number_of_amendments: '3'
+s433_total_amendment_increase_value: '147.0M'
+s424_mean_duration: '6.46'
+s421_mean_contract_value: '65.3M'
+s425_max_duration: '12.1'
+s422_max_contract_value: '228.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

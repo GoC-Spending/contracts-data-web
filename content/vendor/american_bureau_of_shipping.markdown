@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: american_bureau_of_shipping
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with AMERICAN BUREAU OF SHIPPING. The average
-  contract duration was 0.61 year, and the average contract
-  value (not including contracts under $10k) was $108.8K.
-  The longest contract was 4.64 year. The largest contract
-  by value (including amendments) was $3.6M.
+  contract duration was 0.61 years, and the average contract value
+  (not including contracts under $10k) was $108.8K. The longest
+  contract was 4.64 years. The largest contract by value (including
+  amendments) was $3.6M.
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '76'
-s431_number_of_contracts_by_vendor_with_amendments: '11'
+s431_number_of_contracts: '76'
+s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '14%'
-s432_mean_amendment_increase_percentage_by_vendor: '-1%'
-s434_mean_number_of_amendments_by_vendor: '1.55'
-s433_total_amendment_increase_value_by_vendor: '-258.6K'
-s424_mean_duration_by_vendor: '0.61'
-s421_mean_contract_value_by_vendor: '108.8K'
-s425_max_duration_by_vendor: '4.64'
-s422_max_contract_value_by_vendor: '3.6M'
+s432_mean_amendment_increase_percentage: '-1%'
+s434_mean_number_of_amendments: '1.55'
+s433_total_amendment_increase_value: '-258.6K'
+s424_mean_duration: '0.61'
+s421_mean_contract_value: '108.8K'
+s425_max_duration: '4.64'
+s422_max_contract_value: '3.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

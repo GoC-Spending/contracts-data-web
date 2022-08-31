@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: ats_services
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with ATS SERVICES. The average
-  contract duration was 2.72 year, and the average contract
-  value (not including contracts under $10k) was $582.0K.
-  The longest contract was 7.09 year. The largest contract
-  by value (including amendments) was $2.4M.
+  contract duration was 2.72 years, and the average contract value
+  (not including contracts under $10k) was $582.0K. The longest
+  contract was 7.09 years. The largest contract by value (including
+  amendments) was $2.4M.
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '22'
-s431_number_of_contracts_by_vendor_with_amendments: '11'
+s431_number_of_contracts: '22'
+s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '46%'
-s434_mean_number_of_amendments_by_vendor: '1.64'
-s433_total_amendment_increase_value_by_vendor: '1.3M'
-s424_mean_duration_by_vendor: '2.72'
-s421_mean_contract_value_by_vendor: '582.0K'
-s425_max_duration_by_vendor: '7.09'
-s422_max_contract_value_by_vendor: '2.4M'
+s432_mean_amendment_increase_percentage: '46%'
+s434_mean_number_of_amendments: '1.64'
+s433_total_amendment_increase_value: '1.3M'
+s424_mean_duration: '2.72'
+s421_mean_contract_value: '582.0K'
+s425_max_duration: '7.09'
+s422_max_contract_value: '2.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

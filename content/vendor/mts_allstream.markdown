@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: mts_allstream
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.6M
   in 2021-2022 on contracts with MTS ALLSTREAM. The average
-  contract duration was 2.11 year, and the average contract
-  value (not including contracts under $10k) was $559.4K.
-  The longest contract was 11.26 year. The largest contract
-  by value (including amendments) was $51.3M.
+  contract duration was 2.11 years, and the average contract value
+  (not including contracts under $10k) was $559.4K. The longest
+  contract was 11.26 years. The largest contract by value (including
+  amendments) was $51.3M.
 most_recent_fiscal_year_total: '6.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '212'
-s431_number_of_contracts_by_vendor_with_amendments: '95'
+s431_number_of_contracts: '212'
+s431_number_of_contracts_with_amendments: '95'
 s431_number_of_contracts_amendments_percentage: '45%'
-s432_mean_amendment_increase_percentage_by_vendor: '309%'
-s434_mean_number_of_amendments_by_vendor: '1.27'
-s433_total_amendment_increase_value_by_vendor: '55.5M'
-s424_mean_duration_by_vendor: '2.11'
-s421_mean_contract_value_by_vendor: '559.4K'
-s425_max_duration_by_vendor: '11.26'
-s422_max_contract_value_by_vendor: '51.3M'
+s432_mean_amendment_increase_percentage: '309%'
+s434_mean_number_of_amendments: '1.27'
+s433_total_amendment_increase_value: '55.5M'
+s424_mean_duration: '2.11'
+s421_mean_contract_value: '559.4K'
+s425_max_duration: '11.26'
+s422_max_contract_value: '51.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

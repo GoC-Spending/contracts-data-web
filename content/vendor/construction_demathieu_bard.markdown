@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: construction_demathieu_bard
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $18.6M
   in 2021-2022 on contracts with CONSTRUCTION DEMATHIEU BARD. The average
-  contract duration was 2.41 year, and the average contract
-  value (not including contracts under $10k) was $16.0M.
-  The longest contract was 3.72 year. The largest contract
-  by value (including amendments) was $31.4M.
+  contract duration was 2.41 years, and the average contract value
+  (not including contracts under $10k) was $16.0M. The longest
+  contract was 3.72 years. The largest contract by value (including
+  amendments) was $31.4M.
 most_recent_fiscal_year_total: '18.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '6'
-s431_number_of_contracts_by_vendor_with_amendments: '5'
+s431_number_of_contracts: '6'
+s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '83%'
-s432_mean_amendment_increase_percentage_by_vendor: '20%'
-s434_mean_number_of_amendments_by_vendor: '4.6'
-s433_total_amendment_increase_value_by_vendor: '10.2M'
-s424_mean_duration_by_vendor: '2.41'
-s421_mean_contract_value_by_vendor: '16.0M'
-s425_max_duration_by_vendor: '3.72'
-s422_max_contract_value_by_vendor: '31.4M'
+s432_mean_amendment_increase_percentage: '20%'
+s434_mean_number_of_amendments: '4.6'
+s433_total_amendment_increase_value: '10.2M'
+s424_mean_duration: '2.41'
+s421_mean_contract_value: '16.0M'
+s425_max_duration: '3.72'
+s422_max_contract_value: '31.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

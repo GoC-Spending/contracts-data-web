@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: bae_systems
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.7M
   in 2021-2022 on contracts with BAE SYSTEMS. The average
-  contract duration was 0.85 year, and the average contract
-  value (not including contracts under $10k) was $290.4K.
-  The longest contract was 9.1 year. The largest contract
-  by value (including amendments) was $5.0M.
+  contract duration was 0.85 years, and the average contract value
+  (not including contracts under $10k) was $290.4K. The longest
+  contract was 9.1 years. The largest contract by value (including
+  amendments) was $5.0M.
 most_recent_fiscal_year_total: '2.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '91'
-s431_number_of_contracts_by_vendor_with_amendments: '3'
+s431_number_of_contracts: '91'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '3%'
-s432_mean_amendment_increase_percentage_by_vendor: '3%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '300.0K'
-s424_mean_duration_by_vendor: '0.85'
-s421_mean_contract_value_by_vendor: '290.4K'
-s425_max_duration_by_vendor: '9.1'
-s422_max_contract_value_by_vendor: '5.0M'
+s432_mean_amendment_increase_percentage: '3%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '300.0K'
+s424_mean_duration: '0.85'
+s421_mean_contract_value: '290.4K'
+s425_max_duration: '9.1'
+s422_max_contract_value: '5.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: bavarian_nordic
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.4M
   in 2018-2019 on contracts with BAVARIAN NORDIC. The average
-  contract duration was 7.31 year, and the average contract
-  value (not including contracts under $10k) was $10.2M.
-  The longest contract was 10.01 year. The largest contract
-  by value (including amendments) was $20.3M.
+  contract duration was 7.31 years, and the average contract value
+  (not including contracts under $10k) was $10.2M. The longest
+  contract was 10.01 years. The largest contract by value (including
+  amendments) was $20.3M.
 most_recent_fiscal_year_total: '4.4M'
 most_recent_fiscal_year_year: '2018-2019'
-s431_number_of_contracts_by_vendor: '2'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '2'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '-99%'
-s434_mean_number_of_amendments_by_vendor: '4'
-s433_total_amendment_increase_value_by_vendor: '-1.8M'
-s424_mean_duration_by_vendor: '7.31'
-s421_mean_contract_value_by_vendor: '10.2M'
-s425_max_duration_by_vendor: '10.01'
-s422_max_contract_value_by_vendor: '20.3M'
+s432_mean_amendment_increase_percentage: '-99%'
+s434_mean_number_of_amendments: '4'
+s433_total_amendment_increase_value: '-1.8M'
+s424_mean_duration: '7.31'
+s421_mean_contract_value: '10.2M'
+s425_max_duration: '10.01'
+s422_max_contract_value: '20.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

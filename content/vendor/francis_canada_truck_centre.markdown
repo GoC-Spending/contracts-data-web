@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: francis_canada_truck_centre
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $103.9K
   in 2021-2022 on contracts with FRANCIS CANADA TRUCK CENTRE. The average
-  contract duration was 0.8 year, and the average contract
-  value (not including contracts under $10k) was $660.0K.
-  The longest contract was 1.27 year. The largest contract
-  by value (including amendments) was $3.3M.
+  contract duration was 0.8 years, and the average contract value
+  (not including contracts under $10k) was $660.0K. The longest
+  contract was 1.27 years. The largest contract by value (including
+  amendments) was $3.3M.
 most_recent_fiscal_year_total: '103.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '15'
-s431_number_of_contracts_by_vendor_with_amendments: '3'
+s431_number_of_contracts: '15'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '20%'
-s432_mean_amendment_increase_percentage_by_vendor: '-4%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '-36.7K'
-s424_mean_duration_by_vendor: '0.8'
-s421_mean_contract_value_by_vendor: '660.0K'
-s425_max_duration_by_vendor: '1.27'
-s422_max_contract_value_by_vendor: '3.3M'
+s432_mean_amendment_increase_percentage: '-4%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '-36.7K'
+s424_mean_duration: '0.8'
+s421_mean_contract_value: '660.0K'
+s425_max_duration: '1.27'
+s422_max_contract_value: '3.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

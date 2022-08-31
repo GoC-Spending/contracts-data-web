@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: excel_human_resources
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $52.5M
   in 2021-2022 on contracts with EXCEL HUMAN RESOURCES. The average
-  contract duration was 0.97 year, and the average contract
-  value (not including contracts under $10k) was $215.6K.
-  The longest contract was 7.36 year. The largest contract
-  by value (including amendments) was $14.1M.
+  contract duration was 0.97 years, and the average contract value
+  (not including contracts under $10k) was $215.6K. The longest
+  contract was 7.36 years. The largest contract by value (including
+  amendments) was $14.1M.
 most_recent_fiscal_year_total: '52.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '1,623'
-s431_number_of_contracts_by_vendor_with_amendments: '674'
+s431_number_of_contracts: '1,623'
+s431_number_of_contracts_with_amendments: '674'
 s431_number_of_contracts_amendments_percentage: '42%'
-s432_mean_amendment_increase_percentage_by_vendor: '174%'
-s434_mean_number_of_amendments_by_vendor: '1.84'
-s433_total_amendment_increase_value_by_vendor: '109.2M'
-s424_mean_duration_by_vendor: '0.97'
-s421_mean_contract_value_by_vendor: '215.6K'
-s425_max_duration_by_vendor: '7.36'
-s422_max_contract_value_by_vendor: '14.1M'
+s432_mean_amendment_increase_percentage: '174%'
+s434_mean_number_of_amendments: '1.84'
+s433_total_amendment_increase_value: '109.2M'
+s424_mean_duration: '0.97'
+s421_mean_contract_value: '215.6K'
+s425_max_duration: '7.36'
+s422_max_contract_value: '14.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

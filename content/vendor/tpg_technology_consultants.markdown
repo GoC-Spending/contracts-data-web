@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: tpg_technology_consultants
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $58.0M
   in 2021-2022 on contracts with TPG TECHNOLOGY CONSULTANTS. The average
-  contract duration was 1.68 year, and the average contract
-  value (not including contracts under $10k) was $1.0M.
-  The longest contract was 7.55 year. The largest contract
-  by value (including amendments) was $41.4M.
+  contract duration was 1.68 years, and the average contract value
+  (not including contracts under $10k) was $1.0M. The longest
+  contract was 7.55 years. The largest contract by value (including
+  amendments) was $41.4M.
 most_recent_fiscal_year_total: '58.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '430'
-s431_number_of_contracts_by_vendor_with_amendments: '312'
+s431_number_of_contracts: '430'
+s431_number_of_contracts_with_amendments: '312'
 s431_number_of_contracts_amendments_percentage: '73%'
-s432_mean_amendment_increase_percentage_by_vendor: '213%'
-s434_mean_number_of_amendments_by_vendor: '3.1'
-s433_total_amendment_increase_value_by_vendor: '128.0M'
-s424_mean_duration_by_vendor: '1.68'
-s421_mean_contract_value_by_vendor: '1.0M'
-s425_max_duration_by_vendor: '7.55'
-s422_max_contract_value_by_vendor: '41.4M'
+s432_mean_amendment_increase_percentage: '213%'
+s434_mean_number_of_amendments: '3.1'
+s433_total_amendment_increase_value: '128.0M'
+s424_mean_duration: '1.68'
+s421_mean_contract_value: '1.0M'
+s425_max_duration: '7.55'
+s422_max_contract_value: '41.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

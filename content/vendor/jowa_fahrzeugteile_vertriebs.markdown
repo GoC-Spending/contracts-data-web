@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: jowa_fahrzeugteile_vertriebs
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with JOWA FAHRZEUGTEILE VERTRIEBS. The average
-  contract duration was 1.29 year, and the average contract
-  value (not including contracts under $10k) was $1.8M.
-  The longest contract was 2.99 year. The largest contract
-  by value (including amendments) was $7.3M.
+  contract duration was 1.29 years, and the average contract value
+  (not including contracts under $10k) was $1.8M. The longest
+  contract was 2.99 years. The largest contract by value (including
+  amendments) was $7.3M.
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '13'
-s431_number_of_contracts_by_vendor_with_amendments: '3'
+s431_number_of_contracts: '13'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '23%'
-s432_mean_amendment_increase_percentage_by_vendor: '1%'
-s434_mean_number_of_amendments_by_vendor: '1.33'
-s433_total_amendment_increase_value_by_vendor: '29.0K'
-s424_mean_duration_by_vendor: '1.29'
-s421_mean_contract_value_by_vendor: '1.8M'
-s425_max_duration_by_vendor: '2.99'
-s422_max_contract_value_by_vendor: '7.3M'
+s432_mean_amendment_increase_percentage: '1%'
+s434_mean_number_of_amendments: '1.33'
+s433_total_amendment_increase_value: '29.0K'
+s424_mean_duration: '1.29'
+s421_mean_contract_value: '1.8M'
+s425_max_duration: '2.99'
+s422_max_contract_value: '7.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

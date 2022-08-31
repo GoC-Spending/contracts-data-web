@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: iron_mountain
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $20.6M
   in 2021-2022 on contracts with IRON MOUNTAIN. The average
-  contract duration was 1.13 year, and the average contract
-  value (not including contracts under $10k) was $204.5K.
-  The longest contract was 7.01 year. The largest contract
-  by value (including amendments) was $8.5M.
+  contract duration was 1.13 years, and the average contract value
+  (not including contracts under $10k) was $204.5K. The longest
+  contract was 7.01 years. The largest contract by value (including
+  amendments) was $8.5M.
 most_recent_fiscal_year_total: '20.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '575'
-s431_number_of_contracts_by_vendor_with_amendments: '137'
+s431_number_of_contracts: '575'
+s431_number_of_contracts_with_amendments: '137'
 s431_number_of_contracts_amendments_percentage: '24%'
-s432_mean_amendment_increase_percentage_by_vendor: '116%'
-s434_mean_number_of_amendments_by_vendor: '1.56'
-s433_total_amendment_increase_value_by_vendor: '6.7M'
-s424_mean_duration_by_vendor: '1.13'
-s421_mean_contract_value_by_vendor: '204.5K'
-s425_max_duration_by_vendor: '7.01'
-s422_max_contract_value_by_vendor: '8.5M'
+s432_mean_amendment_increase_percentage: '116%'
+s434_mean_number_of_amendments: '1.56'
+s433_total_amendment_increase_value: '6.7M'
+s424_mean_duration: '1.13'
+s421_mean_contract_value: '204.5K'
+s425_max_duration: '7.01'
+s422_max_contract_value: '8.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: g4s_security_services
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $21.0M
   in 2021-2022 on contracts with G4S SECURITY SERVICES. The average
-  contract duration was 2.43 year, and the average contract
-  value (not including contracts under $10k) was $2.1M.
-  The longest contract was 6.67 year. The largest contract
-  by value (including amendments) was $25.3M.
+  contract duration was 2.43 years, and the average contract value
+  (not including contracts under $10k) was $2.1M. The longest
+  contract was 6.67 years. The largest contract by value (including
+  amendments) was $25.3M.
 most_recent_fiscal_year_total: '21.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '43'
-s431_number_of_contracts_by_vendor_with_amendments: '19'
+s431_number_of_contracts: '43'
+s431_number_of_contracts_with_amendments: '19'
 s431_number_of_contracts_amendments_percentage: '44%'
-s432_mean_amendment_increase_percentage_by_vendor: '249%'
-s434_mean_number_of_amendments_by_vendor: '3.53'
-s433_total_amendment_increase_value_by_vendor: '28.9M'
-s424_mean_duration_by_vendor: '2.43'
-s421_mean_contract_value_by_vendor: '2.1M'
-s425_max_duration_by_vendor: '6.67'
-s422_max_contract_value_by_vendor: '25.3M'
+s432_mean_amendment_increase_percentage: '249%'
+s434_mean_number_of_amendments: '3.53'
+s433_total_amendment_increase_value: '28.9M'
+s424_mean_duration: '2.43'
+s421_mean_contract_value: '2.1M'
+s425_max_duration: '6.67'
+s422_max_contract_value: '25.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: vancouver_shipyards
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $472.4M
   in 2021-2022 on contracts with VANCOUVER SHIPYARDS. The average
-  contract duration was 2.96 year, and the average contract
-  value (not including contracts under $10k) was $241.7M.
-  The longest contract was 9.01 year. The largest contract
-  by value (including amendments) was $2.4B.
+  contract duration was 2.96 years, and the average contract value
+  (not including contracts under $10k) was $241.7M. The longest
+  contract was 9.01 years. The largest contract by value (including
+  amendments) was $2.4B.
 most_recent_fiscal_year_total: '472.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '23'
-s431_number_of_contracts_by_vendor_with_amendments: '16'
+s431_number_of_contracts: '23'
+s431_number_of_contracts_with_amendments: '16'
 s431_number_of_contracts_amendments_percentage: '70%'
-s432_mean_amendment_increase_percentage_by_vendor: '357%'
-s434_mean_number_of_amendments_by_vendor: '3.88'
-s433_total_amendment_increase_value_by_vendor: '847.0M'
-s424_mean_duration_by_vendor: '2.96'
-s421_mean_contract_value_by_vendor: '241.7M'
-s425_max_duration_by_vendor: '9.01'
-s422_max_contract_value_by_vendor: '2.4B'
+s432_mean_amendment_increase_percentage: '357%'
+s434_mean_number_of_amendments: '3.88'
+s433_total_amendment_increase_value: '847.0M'
+s424_mean_duration: '2.96'
+s421_mean_contract_value: '241.7M'
+s425_max_duration: '9.01'
+s422_max_contract_value: '2.4B'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

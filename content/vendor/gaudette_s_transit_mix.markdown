@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: gaudette_s_transit_mix
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2020-2021 on contracts with GAUDETTE S TRANSIT MIX. The average
-  contract duration was 0.6 year, and the average contract
-  value (not including contracts under $10k) was $924.7K.
-  The longest contract was 2.2 year. The largest contract
-  by value (including amendments) was $1.8M.
+  contract duration was 0.6 years, and the average contract value
+  (not including contracts under $10k) was $924.7K. The longest
+  contract was 2.2 years. The largest contract by value (including
+  amendments) was $1.8M.
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts_by_vendor: '12'
-s431_number_of_contracts_by_vendor_with_amendments: '8'
+s431_number_of_contracts: '12'
+s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '67%'
-s432_mean_amendment_increase_percentage_by_vendor: '11%'
-s434_mean_number_of_amendments_by_vendor: '1.75'
-s433_total_amendment_increase_value_by_vendor: '854.0K'
-s424_mean_duration_by_vendor: '0.6'
-s421_mean_contract_value_by_vendor: '924.7K'
-s425_max_duration_by_vendor: '2.2'
-s422_max_contract_value_by_vendor: '1.8M'
+s432_mean_amendment_increase_percentage: '11%'
+s434_mean_number_of_amendments: '1.75'
+s433_total_amendment_increase_value: '854.0K'
+s424_mean_duration: '0.6'
+s421_mean_contract_value: '924.7K'
+s425_max_duration: '2.2'
+s422_max_contract_value: '1.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: the_vcan_group
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
   in 2021-2022 on contracts with THE VCAN GROUP. The average
-  contract duration was 1.8 year, and the average contract
-  value (not including contracts under $10k) was $400.6K.
-  The longest contract was 7.01 year. The largest contract
-  by value (including amendments) was $5.2M.
+  contract duration was 1.8 years, and the average contract value
+  (not including contracts under $10k) was $400.6K. The longest
+  contract was 7.01 years. The largest contract by value (including
+  amendments) was $5.2M.
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '41'
-s431_number_of_contracts_by_vendor_with_amendments: '18'
+s431_number_of_contracts: '41'
+s431_number_of_contracts_with_amendments: '18'
 s431_number_of_contracts_amendments_percentage: '44%'
-s432_mean_amendment_increase_percentage_by_vendor: '295%'
-s434_mean_number_of_amendments_by_vendor: '2.67'
-s433_total_amendment_increase_value_by_vendor: '9.9M'
-s424_mean_duration_by_vendor: '1.8'
-s421_mean_contract_value_by_vendor: '400.6K'
-s425_max_duration_by_vendor: '7.01'
-s422_max_contract_value_by_vendor: '5.2M'
+s432_mean_amendment_increase_percentage: '295%'
+s434_mean_number_of_amendments: '2.67'
+s433_total_amendment_increase_value: '9.9M'
+s424_mean_duration: '1.8'
+s421_mean_contract_value: '400.6K'
+s425_max_duration: '7.01'
+s422_max_contract_value: '5.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

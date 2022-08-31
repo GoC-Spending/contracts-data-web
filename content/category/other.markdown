@@ -5,6 +5,29 @@ date: '2022-08-30'
 slug: other
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: The Government of Canada spent an estimated $87.9M
+  in 2021-2022 on (other) contracts.
+  The average contract duration was 0.81 years, and the average
+  contract value (not including contracts under $10k) was $409.5K.
+  The longest contract was 31.02 years. The largest contract by value
+  (including amendments) was $54.2M.
+lookup_name: '0_other'
+most_recent_fiscal_year_total: '87.9M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '1,898'
+s431_number_of_contracts_with_amendments: '169'
+s431_number_of_contracts_amendments_percentage: '9%'
+s432_mean_amendment_increase_percentage: '155%'
+s434_mean_number_of_amendments: '1.46'
+s433_total_amendment_increase_value: '64.7M'
+s424_mean_duration: '0.81'
+s421_mean_contract_value: '409.5K'
+s425_max_duration: '31.02'
+s422_max_contract_value: '54.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +51,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-The Government of Canada spent an estimated **\$87.9M in 2021-2022** on (other) contracts.
-
-Across 1,898 contracts active since the start of the 2017-2018 fiscal year, 169 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 155% and the average number of amendments was 1.46. Cumulatively these amendments represent an increase of \$64.7M over the original contract values.
-
-The average contract duration was 0.81 years, and the average contract value (not including contracts under \$10k) was \$409.5K. The longest contract was 31.02 years. The largest contract by value (including amendments) was \$54.2M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 
@@ -50,5 +67,5 @@ The average contract duration was 0.81 years, and the average contract value (no
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
 <script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/aandc-aadnc/\">Crown-Indigenous Relations and Northern Affairs Canada<\/a>","<a href=\"/departments/cannor/\">Canadian Northern Economic Development Agency<\/a>","<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/ced-dec/\">Canada Economic Development for Quebec Regions<\/a>","<a href=\"/departments/cer-rec/\">Canada Energy Regulator<\/a>","<a href=\"/departments/cfia-acia/\">Canadian Food Inspection Agency<\/a>","<a href=\"/departments/cnsc-ccsn/\">Canadian Nuclear Safety Commission<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/esdc-edsc/\">Employment and Social Development Canada<\/a>","<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/ic/\">Innovation, Science and Economic Development Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/jus/\">Department of Justice Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/oag-bvg/\">Office of the Auditor General of Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/pco-bcp/\">Privy Council Office<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/ppsc-sppc/\">Public Prosecution Service of Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/ssc-spc/\">Shared Services Canada<\/a>","<a href=\"/departments/tbs-sct/\">Treasury Board of Canada Secretariat<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[80270.87,0,null,9344848.39,52385.87,694539.87,624897,98760.64,1268234.86,22592908.49,691897.71,4644576.63,13469.57,null,152291.66,null,10163.9,0,6985297.32,null,343099,42345.32,319158.81,null,5874160.53,894704.21,61288435.32,4555.3,null],[207576.27,0,null,9509231.31,null,391148.6,null,168124.12,1264999.97,23014208.1,5998775.49,3261388.86,1014.62,271538.54,132409.57,null,12156.82,34422.38,4918289.34,18645,336483.16,null,262970.36,null,4898453.5,623142.04,41857522.14,null,null],[11399.11,null,null,13952789.79,null,11534.5,10447.5,null,985521.89,28998937.07,4930779.83,1763846.68,null,73180.39,136527.47,588017.28,85226.35,0,4870185.57,null,66067.21,null,128954.81,null,9202424.85,284325.5,20664729.31,null,678773.07],[120921.01,47696.06,39874.88,33110060.59,null,80726.31,null,279255.63,853623.15,28543155.92,231908.42,1720748.42,null,null,353684.07,679197.18,125419.8,0,5199821.77,null,327940.17,null,34030.9,236573.88,10210885.21,64853.38,4611091.04,24998.99,1023323.55]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
-<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/categories/0_other/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/categories/0_other/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

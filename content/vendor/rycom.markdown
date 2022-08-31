@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: rycom
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
   in 2021-2022 on contracts with RYCOM. The average
-  contract duration was 3.67 year, and the average contract
-  value (not including contracts under $10k) was $622.0K.
-  The longest contract was 6.34 year. The largest contract
-  by value (including amendments) was $1.2M.
+  contract duration was 3.67 years, and the average contract value
+  (not including contracts under $10k) was $622.0K. The longest
+  contract was 6.34 years. The largest contract by value (including
+  amendments) was $1.2M.
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '14'
-s431_number_of_contracts_by_vendor_with_amendments: '9'
+s431_number_of_contracts: '14'
+s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '64%'
-s432_mean_amendment_increase_percentage_by_vendor: '184%'
-s434_mean_number_of_amendments_by_vendor: '4.22'
-s433_total_amendment_increase_value_by_vendor: '4.0M'
-s424_mean_duration_by_vendor: '3.67'
-s421_mean_contract_value_by_vendor: '622.0K'
-s425_max_duration_by_vendor: '6.34'
-s422_max_contract_value_by_vendor: '1.2M'
+s432_mean_amendment_increase_percentage: '184%'
+s434_mean_number_of_amendments: '4.22'
+s433_total_amendment_increase_value: '4.0M'
+s424_mean_duration: '3.67'
+s421_mean_contract_value: '622.0K'
+s425_max_duration: '6.34'
+s422_max_contract_value: '1.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

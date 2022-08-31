@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: united_states_department_of_the_air_force
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $30.1M
   in 2021-2022 on contracts with UNITED STATES DEPARTMENT OF THE AIR FORCE. The average
-  contract duration was 6.53 year, and the average contract
-  value (not including contracts under $10k) was $5.1M.
-  The longest contract was 16.41 year. The largest contract
-  by value (including amendments) was $68.2M.
+  contract duration was 6.53 years, and the average contract value
+  (not including contracts under $10k) was $5.1M. The longest
+  contract was 16.41 years. The largest contract by value (including
+  amendments) was $68.2M.
 most_recent_fiscal_year_total: '30.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '41'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '41'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '15%'
-s432_mean_amendment_increase_percentage_by_vendor: '514%'
-s434_mean_number_of_amendments_by_vendor: '1.83'
-s433_total_amendment_increase_value_by_vendor: '-10.9M'
-s424_mean_duration_by_vendor: '6.53'
-s421_mean_contract_value_by_vendor: '5.1M'
-s425_max_duration_by_vendor: '16.41'
-s422_max_contract_value_by_vendor: '68.2M'
+s432_mean_amendment_increase_percentage: '514%'
+s434_mean_number_of_amendments: '1.83'
+s433_total_amendment_increase_value: '-10.9M'
+s424_mean_duration: '6.53'
+s421_mean_contract_value: '5.1M'
+s425_max_duration: '16.41'
+s422_max_contract_value: '68.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

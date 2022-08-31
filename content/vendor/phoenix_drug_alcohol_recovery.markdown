@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: phoenix_drug_alcohol_recovery
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.7M
   in 2021-2022 on contracts with PHOENIX DRUG ALCOHOL RECOVERY. The average
-  contract duration was 1.59 year, and the average contract
-  value (not including contracts under $10k) was $2.8M.
-  The longest contract was 3 year. The largest contract
-  by value (including amendments) was $4.2M.
+  contract duration was 1.59 years, and the average contract value
+  (not including contracts under $10k) was $2.8M. The longest
+  contract was 3 years. The largest contract by value (including
+  amendments) was $4.2M.
 most_recent_fiscal_year_total: '2.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '5'
-s431_number_of_contracts_by_vendor_with_amendments: '3'
+s431_number_of_contracts: '5'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '60%'
-s432_mean_amendment_increase_percentage_by_vendor: '146%'
-s434_mean_number_of_amendments_by_vendor: '2.33'
-s433_total_amendment_increase_value_by_vendor: '5.8M'
-s424_mean_duration_by_vendor: '1.59'
-s421_mean_contract_value_by_vendor: '2.8M'
-s425_max_duration_by_vendor: '3'
-s422_max_contract_value_by_vendor: '4.2M'
+s432_mean_amendment_increase_percentage: '146%'
+s434_mean_number_of_amendments: '2.33'
+s433_total_amendment_increase_value: '5.8M'
+s424_mean_duration: '1.59'
+s421_mean_contract_value: '2.8M'
+s425_max_duration: '3'
+s422_max_contract_value: '4.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

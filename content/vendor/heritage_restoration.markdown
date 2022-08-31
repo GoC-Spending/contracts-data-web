@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: heritage_restoration
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $547.0K
   in 2020-2021 on contracts with HERITAGE RESTORATION. The average
-  contract duration was 1.23 year, and the average contract
-  value (not including contracts under $10k) was $1.1M.
-  The longest contract was 3.57 year. The largest contract
-  by value (including amendments) was $2.5M.
+  contract duration was 1.23 years, and the average contract value
+  (not including contracts under $10k) was $1.1M. The longest
+  contract was 3.57 years. The largest contract by value (including
+  amendments) was $2.5M.
 most_recent_fiscal_year_total: '547.0K'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts_by_vendor: '6'
-s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts: '6'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '67%'
-s432_mean_amendment_increase_percentage_by_vendor: '41%'
-s434_mean_number_of_amendments_by_vendor: '4'
-s433_total_amendment_increase_value_by_vendor: '2.0M'
-s424_mean_duration_by_vendor: '1.23'
-s421_mean_contract_value_by_vendor: '1.1M'
-s425_max_duration_by_vendor: '3.57'
-s422_max_contract_value_by_vendor: '2.5M'
+s432_mean_amendment_increase_percentage: '41%'
+s434_mean_number_of_amendments: '4'
+s433_total_amendment_increase_value: '2.0M'
+s424_mean_duration: '1.23'
+s421_mean_contract_value: '1.1M'
+s425_max_duration: '3.57'
+s422_max_contract_value: '2.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

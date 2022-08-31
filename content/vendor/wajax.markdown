@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: wajax
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
   in 2021-2022 on contracts with WAJAX. The average
-  contract duration was 0.35 year, and the average contract
-  value (not including contracts under $10k) was $103.3K.
-  The longest contract was 5.05 year. The largest contract
-  by value (including amendments) was $19.4M.
+  contract duration was 0.35 years, and the average contract value
+  (not including contracts under $10k) was $103.3K. The longest
+  contract was 5.05 years. The largest contract by value (including
+  amendments) was $19.4M.
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '508'
-s431_number_of_contracts_by_vendor_with_amendments: '61'
+s431_number_of_contracts: '508'
+s431_number_of_contracts_with_amendments: '61'
 s431_number_of_contracts_amendments_percentage: '12%'
-s432_mean_amendment_increase_percentage_by_vendor: '22%'
-s434_mean_number_of_amendments_by_vendor: '1.21'
-s433_total_amendment_increase_value_by_vendor: '978.1K'
-s424_mean_duration_by_vendor: '0.35'
-s421_mean_contract_value_by_vendor: '103.3K'
-s425_max_duration_by_vendor: '5.05'
-s422_max_contract_value_by_vendor: '19.4M'
+s432_mean_amendment_increase_percentage: '22%'
+s434_mean_number_of_amendments: '1.21'
+s433_total_amendment_increase_value: '978.1K'
+s424_mean_duration: '0.35'
+s421_mean_contract_value: '103.3K'
+s425_max_duration: '5.05'
+s422_max_contract_value: '19.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

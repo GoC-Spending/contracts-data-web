@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: ca
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $34.4M
   in 2021-2022 on contracts with CA. The average
-  contract duration was 1.94 year, and the average contract
-  value (not including contracts under $10k) was $5.9M.
-  The longest contract was 3 year. The largest contract
-  by value (including amendments) was $94.0M.
+  contract duration was 1.94 years, and the average contract value
+  (not including contracts under $10k) was $5.9M. The longest
+  contract was 3 years. The largest contract by value (including
+  amendments) was $94.0M.
 most_recent_fiscal_year_total: '34.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '17'
-s431_number_of_contracts_by_vendor_with_amendments: '2'
+s431_number_of_contracts: '17'
+s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '12%'
-s432_mean_amendment_increase_percentage_by_vendor: '36%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '1.6M'
-s424_mean_duration_by_vendor: '1.94'
-s421_mean_contract_value_by_vendor: '5.9M'
-s425_max_duration_by_vendor: '3'
-s422_max_contract_value_by_vendor: '94.0M'
+s432_mean_amendment_increase_percentage: '36%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '1.6M'
+s424_mean_duration: '1.94'
+s421_mean_contract_value: '5.9M'
+s425_max_duration: '3'
+s422_max_contract_value: '94.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: valcom_consulting
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $12.2M
   in 2021-2022 on contracts with VALCOM CONSULTING. The average
-  contract duration was 2.28 year, and the average contract
-  value (not including contracts under $10k) was $485.7K.
-  The longest contract was 11.13 year. The largest contract
-  by value (including amendments) was $4.7M.
+  contract duration was 2.28 years, and the average contract value
+  (not including contracts under $10k) was $485.7K. The longest
+  contract was 11.13 years. The largest contract by value (including
+  amendments) was $4.7M.
 most_recent_fiscal_year_total: '12.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '197'
-s431_number_of_contracts_by_vendor_with_amendments: '99'
+s431_number_of_contracts: '197'
+s431_number_of_contracts_with_amendments: '99'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '125%'
-s434_mean_number_of_amendments_by_vendor: '2.38'
-s433_total_amendment_increase_value_by_vendor: '26.0M'
-s424_mean_duration_by_vendor: '2.28'
-s421_mean_contract_value_by_vendor: '485.7K'
-s425_max_duration_by_vendor: '11.13'
-s422_max_contract_value_by_vendor: '4.7M'
+s432_mean_amendment_increase_percentage: '125%'
+s434_mean_number_of_amendments: '2.38'
+s433_total_amendment_increase_value: '26.0M'
+s424_mean_duration: '2.28'
+s421_mean_contract_value: '485.7K'
+s425_max_duration: '11.13'
+s422_max_contract_value: '4.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: les_traducteurs_reunis
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
   in 2021-2022 on contracts with LES TRADUCTEURS REUNIS. The average
-  contract duration was 0.47 year, and the average contract
-  value (not including contracts under $10k) was $172.5K.
-  The longest contract was 3 year. The largest contract
-  by value (including amendments) was $3.2M.
+  contract duration was 0.47 years, and the average contract value
+  (not including contracts under $10k) was $172.5K. The longest
+  contract was 3 years. The largest contract by value (including
+  amendments) was $3.2M.
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '57'
-s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts: '57'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '7%'
-s432_mean_amendment_increase_percentage_by_vendor: '74%'
-s434_mean_number_of_amendments_by_vendor: '1.5'
-s433_total_amendment_increase_value_by_vendor: '1.3M'
-s424_mean_duration_by_vendor: '0.47'
-s421_mean_contract_value_by_vendor: '172.5K'
-s425_max_duration_by_vendor: '3'
-s422_max_contract_value_by_vendor: '3.2M'
+s432_mean_amendment_increase_percentage: '74%'
+s434_mean_number_of_amendments: '1.5'
+s433_total_amendment_increase_value: '1.3M'
+s424_mean_duration: '0.47'
+s421_mean_contract_value: '172.5K'
+s425_max_duration: '3'
+s422_max_contract_value: '3.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

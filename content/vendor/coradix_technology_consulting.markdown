@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: coradix_technology_consulting
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $37.1M
   in 2021-2022 on contracts with CORADIX TECHNOLOGY CONSULTING. The average
-  contract duration was 1.39 year, and the average contract
-  value (not including contracts under $10k) was $567.8K.
-  The longest contract was 6.38 year. The largest contract
-  by value (including amendments) was $23.1M.
+  contract duration was 1.39 years, and the average contract value
+  (not including contracts under $10k) was $567.8K. The longest
+  contract was 6.38 years. The largest contract by value (including
+  amendments) was $23.1M.
 most_recent_fiscal_year_total: '37.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '440'
-s431_number_of_contracts_by_vendor_with_amendments: '237'
+s431_number_of_contracts: '440'
+s431_number_of_contracts_with_amendments: '237'
 s431_number_of_contracts_amendments_percentage: '54%'
-s432_mean_amendment_increase_percentage_by_vendor: '175%'
-s434_mean_number_of_amendments_by_vendor: '2.66'
-s433_total_amendment_increase_value_by_vendor: '78.8M'
-s424_mean_duration_by_vendor: '1.39'
-s421_mean_contract_value_by_vendor: '567.8K'
-s425_max_duration_by_vendor: '6.38'
-s422_max_contract_value_by_vendor: '23.1M'
+s432_mean_amendment_increase_percentage: '175%'
+s434_mean_number_of_amendments: '2.66'
+s433_total_amendment_increase_value: '78.8M'
+s424_mean_duration: '1.39'
+s421_mean_contract_value: '567.8K'
+s425_max_duration: '6.38'
+s422_max_contract_value: '23.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

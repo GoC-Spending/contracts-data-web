@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: systemscope
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.3M
   in 2021-2022 on contracts with SYSTEMSCOPE. The average
-  contract duration was 0.95 year, and the average contract
-  value (not including contracts under $10k) was $264.4K.
-  The longest contract was 5.55 year. The largest contract
-  by value (including amendments) was $3.7M.
+  contract duration was 0.95 years, and the average contract value
+  (not including contracts under $10k) was $264.4K. The longest
+  contract was 5.55 years. The largest contract by value (including
+  amendments) was $3.7M.
 most_recent_fiscal_year_total: '7.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '153'
-s431_number_of_contracts_by_vendor_with_amendments: '49'
+s431_number_of_contracts: '153'
+s431_number_of_contracts_with_amendments: '49'
 s431_number_of_contracts_amendments_percentage: '32%'
-s432_mean_amendment_increase_percentage_by_vendor: '187%'
-s434_mean_number_of_amendments_by_vendor: '2.14'
-s433_total_amendment_increase_value_by_vendor: '17.5M'
-s424_mean_duration_by_vendor: '0.95'
-s421_mean_contract_value_by_vendor: '264.4K'
-s425_max_duration_by_vendor: '5.55'
-s422_max_contract_value_by_vendor: '3.7M'
+s432_mean_amendment_increase_percentage: '187%'
+s434_mean_number_of_amendments: '2.14'
+s433_total_amendment_increase_value: '17.5M'
+s424_mean_duration: '0.95'
+s421_mean_contract_value: '264.4K'
+s425_max_duration: '5.55'
+s422_max_contract_value: '3.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

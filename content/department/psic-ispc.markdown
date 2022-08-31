@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: psic-ispc
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Office of the Public Sector Integrity Commissioner of Canada spent an estimated $1.4M
+  in 2021-2022 on contracts. The average contract duration
+  was 1.2 years, and the average contract value (not including
+  contracts under $10k) was $91.7K. The longest contract was
+  8.01 years. The largest contract by value (including amendments)
+  was $1.3M.'
+most_recent_fiscal_year_total: '1.4M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '88'
+s431_number_of_contracts_with_amendments: '10'
+s431_number_of_contracts_amendments_percentage: '11%'
+s432_mean_amendment_increase_percentage: '158%'
+s434_mean_number_of_amendments: '1.5'
+s433_total_amendment_increase_value: '2.0M'
+s424_mean_duration: '1.2'
+s421_mean_contract_value: '91.7K'
+s425_max_duration: '8.01'
+s422_max_contract_value: '1.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Office of the Public Sector Integrity Commissioner of Canada spent an estimated **\$1.4M in 2021-2022** on contracts.
-
-Across 88 contracts active since the start of the 2017-2018 fiscal year, 10 have at least one amendment (11%). Of contracts with amendments, the average increase in dollar value was 158% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$2.0M over the original contract values.
-
-The average contract duration was 1.2 years, and the average contract value (not including contracts under \$10k) was \$91.7K. The longest contract was 8.01 years. The largest contract by value (including amendments) was \$1.3M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

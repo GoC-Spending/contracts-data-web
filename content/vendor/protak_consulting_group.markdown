@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: protak_consulting_group
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $16.6M
   in 2021-2022 on contracts with PROTAK CONSULTING GROUP. The average
-  contract duration was 1.06 year, and the average contract
-  value (not including contracts under $10k) was $434.9K.
-  The longest contract was 4.22 year. The largest contract
-  by value (including amendments) was $30.6M.
+  contract duration was 1.06 years, and the average contract value
+  (not including contracts under $10k) was $434.9K. The longest
+  contract was 4.22 years. The largest contract by value (including
+  amendments) was $30.6M.
 most_recent_fiscal_year_total: '16.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '191'
-s431_number_of_contracts_by_vendor_with_amendments: '70'
+s431_number_of_contracts: '191'
+s431_number_of_contracts_with_amendments: '70'
 s431_number_of_contracts_amendments_percentage: '37%'
-s432_mean_amendment_increase_percentage_by_vendor: '101%'
-s434_mean_number_of_amendments_by_vendor: '1.73'
-s433_total_amendment_increase_value_by_vendor: '40.4M'
-s424_mean_duration_by_vendor: '1.06'
-s421_mean_contract_value_by_vendor: '434.9K'
-s425_max_duration_by_vendor: '4.22'
-s422_max_contract_value_by_vendor: '30.6M'
+s432_mean_amendment_increase_percentage: '101%'
+s434_mean_number_of_amendments: '1.73'
+s433_total_amendment_increase_value: '40.4M'
+s424_mean_duration: '1.06'
+s421_mean_contract_value: '434.9K'
+s425_max_duration: '4.22'
+s422_max_contract_value: '30.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: advanced_chippewa_technologies
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $38.9M
   in 2021-2022 on contracts with ADVANCED CHIPPEWA TECHNOLOGIES. The average
-  contract duration was 0.75 year, and the average contract
-  value (not including contracts under $10k) was $247.1K.
-  The longest contract was 5 year. The largest contract
-  by value (including amendments) was $31.9M.
+  contract duration was 0.75 years, and the average contract value
+  (not including contracts under $10k) was $247.1K. The longest
+  contract was 5 years. The largest contract by value (including
+  amendments) was $31.9M.
 most_recent_fiscal_year_total: '38.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '671'
-s431_number_of_contracts_by_vendor_with_amendments: '49'
+s431_number_of_contracts: '671'
+s431_number_of_contracts_with_amendments: '49'
 s431_number_of_contracts_amendments_percentage: '7%'
-s432_mean_amendment_increase_percentage_by_vendor: '95%'
-s434_mean_number_of_amendments_by_vendor: '1.57'
-s433_total_amendment_increase_value_by_vendor: '32.7M'
-s424_mean_duration_by_vendor: '0.75'
-s421_mean_contract_value_by_vendor: '247.1K'
-s425_max_duration_by_vendor: '5'
-s422_max_contract_value_by_vendor: '31.9M'
+s432_mean_amendment_increase_percentage: '95%'
+s434_mean_number_of_amendments: '1.57'
+s433_total_amendment_increase_value: '32.7M'
+s424_mean_duration: '0.75'
+s421_mean_contract_value: '247.1K'
+s425_max_duration: '5'
+s422_max_contract_value: '31.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

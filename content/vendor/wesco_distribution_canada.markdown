@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: wesco_distribution_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $724.9K
   in 2021-2022 on contracts with WESCO DISTRIBUTION CANADA. The average
-  contract duration was 0.31 year, and the average contract
-  value (not including contracts under $10k) was $29.5K.
-  The longest contract was 10.27 year. The largest contract
-  by value (including amendments) was $338.9K.
+  contract duration was 0.31 years, and the average contract value
+  (not including contracts under $10k) was $29.5K. The longest
+  contract was 10.27 years. The largest contract by value (including
+  amendments) was $338.9K.
 most_recent_fiscal_year_total: '724.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '190'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '190'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '4%'
-s432_mean_amendment_increase_percentage_by_vendor: '195%'
-s434_mean_number_of_amendments_by_vendor: '2'
-s433_total_amendment_increase_value_by_vendor: '349.9K'
-s424_mean_duration_by_vendor: '0.31'
-s421_mean_contract_value_by_vendor: '29.5K'
-s425_max_duration_by_vendor: '10.27'
-s422_max_contract_value_by_vendor: '338.9K'
+s432_mean_amendment_increase_percentage: '195%'
+s434_mean_number_of_amendments: '2'
+s433_total_amendment_increase_value: '349.9K'
+s424_mean_duration: '0.31'
+s421_mean_contract_value: '29.5K'
+s425_max_duration: '10.27'
+s422_max_contract_value: '338.9K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

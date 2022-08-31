@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: portage_personnel
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with PORTAGE PERSONNEL. The average
-  contract duration was 1.03 year, and the average contract
-  value (not including contracts under $10k) was $121.0K.
-  The longest contract was 5 year. The largest contract
-  by value (including amendments) was $691.5K.
+  contract duration was 1.03 years, and the average contract value
+  (not including contracts under $10k) was $121.0K. The longest
+  contract was 5 years. The largest contract by value (including
+  amendments) was $691.5K.
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '71'
-s431_number_of_contracts_by_vendor_with_amendments: '39'
+s431_number_of_contracts: '71'
+s431_number_of_contracts_with_amendments: '39'
 s431_number_of_contracts_amendments_percentage: '55%'
-s432_mean_amendment_increase_percentage_by_vendor: '103%'
-s434_mean_number_of_amendments_by_vendor: '1.56'
-s433_total_amendment_increase_value_by_vendor: '2.9M'
-s424_mean_duration_by_vendor: '1.03'
-s421_mean_contract_value_by_vendor: '121.0K'
-s425_max_duration_by_vendor: '5'
-s422_max_contract_value_by_vendor: '691.5K'
+s432_mean_amendment_increase_percentage: '103%'
+s434_mean_number_of_amendments: '1.56'
+s433_total_amendment_increase_value: '2.9M'
+s424_mean_duration: '1.03'
+s421_mean_contract_value: '121.0K'
+s425_max_duration: '5'
+s422_max_contract_value: '691.5K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

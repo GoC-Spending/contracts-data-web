@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: ecole_de_langues_la_cite
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.8M
   in 2021-2022 on contracts with ECOLE DE LANGUES LA CITE. The average
-  contract duration was 0.6 year, and the average contract
-  value (not including contracts under $10k) was $49.5K.
-  The longest contract was 4.91 year. The largest contract
-  by value (including amendments) was $3.1M.
+  contract duration was 0.6 years, and the average contract value
+  (not including contracts under $10k) was $49.5K. The longest
+  contract was 4.91 years. The largest contract by value (including
+  amendments) was $3.1M.
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '323'
-s431_number_of_contracts_by_vendor_with_amendments: '59'
+s431_number_of_contracts: '323'
+s431_number_of_contracts_with_amendments: '59'
 s431_number_of_contracts_amendments_percentage: '18%'
-s432_mean_amendment_increase_percentage_by_vendor: '92%'
-s434_mean_number_of_amendments_by_vendor: '1.34'
-s433_total_amendment_increase_value_by_vendor: '4.0M'
-s424_mean_duration_by_vendor: '0.6'
-s421_mean_contract_value_by_vendor: '49.5K'
-s425_max_duration_by_vendor: '4.91'
-s422_max_contract_value_by_vendor: '3.1M'
+s432_mean_amendment_increase_percentage: '92%'
+s434_mean_number_of_amendments: '1.34'
+s433_total_amendment_increase_value: '4.0M'
+s424_mean_duration: '0.6'
+s421_mean_contract_value: '49.5K'
+s425_max_duration: '4.91'
+s422_max_contract_value: '3.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

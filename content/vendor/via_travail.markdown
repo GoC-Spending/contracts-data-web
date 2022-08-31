@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: via_travail
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
   in 2021-2022 on contracts with VIA TRAVAIL. The average
-  contract duration was 1.07 year, and the average contract
-  value (not including contracts under $10k) was $810.8K.
-  The longest contract was 4 year. The largest contract
-  by value (including amendments) was $5.4M.
+  contract duration was 1.07 years, and the average contract value
+  (not including contracts under $10k) was $810.8K. The longest
+  contract was 4 years. The largest contract by value (including
+  amendments) was $5.4M.
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '15'
-s431_number_of_contracts_by_vendor_with_amendments: '8'
+s431_number_of_contracts: '15'
+s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '53%'
-s432_mean_amendment_increase_percentage_by_vendor: '194%'
-s434_mean_number_of_amendments_by_vendor: '2.12'
-s433_total_amendment_increase_value_by_vendor: '8.0M'
-s424_mean_duration_by_vendor: '1.07'
-s421_mean_contract_value_by_vendor: '810.8K'
-s425_max_duration_by_vendor: '4'
-s422_max_contract_value_by_vendor: '5.4M'
+s432_mean_amendment_increase_percentage: '194%'
+s434_mean_number_of_amendments: '2.12'
+s433_total_amendment_increase_value: '8.0M'
+s424_mean_duration: '1.07'
+s421_mean_contract_value: '810.8K'
+s425_max_duration: '4'
+s422_max_contract_value: '5.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

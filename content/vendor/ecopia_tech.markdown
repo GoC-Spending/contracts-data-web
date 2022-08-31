@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: ecopia_tech
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.8M
   in 2021-2022 on contracts with ECOPIA TECH. The average
-  contract duration was 0.62 year, and the average contract
-  value (not including contracts under $10k) was $975.5K.
-  The longest contract was 1.67 year. The largest contract
-  by value (including amendments) was $3.4M.
+  contract duration was 0.62 years, and the average contract value
+  (not including contracts under $10k) was $975.5K. The longest
+  contract was 1.67 years. The largest contract by value (including
+  amendments) was $3.4M.
 most_recent_fiscal_year_total: '3.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '6'
-s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts: '6'
+s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage_by_vendor: 'NA'
-s434_mean_number_of_amendments_by_vendor: 'NA'
-s433_total_amendment_increase_value_by_vendor: 'NA'
-s424_mean_duration_by_vendor: '0.62'
-s421_mean_contract_value_by_vendor: '975.5K'
-s425_max_duration_by_vendor: '1.67'
-s422_max_contract_value_by_vendor: '3.4M'
+s432_mean_amendment_increase_percentage: 'NA'
+s434_mean_number_of_amendments: 'NA'
+s433_total_amendment_increase_value: 'NA'
+s424_mean_duration: '0.62'
+s421_mean_contract_value: '975.5K'
+s425_max_duration: '1.67'
+s422_max_contract_value: '3.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

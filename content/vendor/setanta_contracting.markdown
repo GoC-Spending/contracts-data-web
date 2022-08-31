@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: setanta_contracting
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
   in 2021-2022 on contracts with SETANTA CONTRACTING. The average
-  contract duration was 0.36 year, and the average contract
-  value (not including contracts under $10k) was $80.2K.
-  The longest contract was 3.59 year. The largest contract
-  by value (including amendments) was $1.8M.
+  contract duration was 0.36 years, and the average contract value
+  (not including contracts under $10k) was $80.2K. The longest
+  contract was 3.59 years. The largest contract by value (including
+  amendments) was $1.8M.
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '138'
-s431_number_of_contracts_by_vendor_with_amendments: '22'
+s431_number_of_contracts: '138'
+s431_number_of_contracts_with_amendments: '22'
 s431_number_of_contracts_amendments_percentage: '16%'
-s432_mean_amendment_increase_percentage_by_vendor: '14%'
-s434_mean_number_of_amendments_by_vendor: '1.18'
-s433_total_amendment_increase_value_by_vendor: '1.4M'
-s424_mean_duration_by_vendor: '0.36'
-s421_mean_contract_value_by_vendor: '80.2K'
-s425_max_duration_by_vendor: '3.59'
-s422_max_contract_value_by_vendor: '1.8M'
+s432_mean_amendment_increase_percentage: '14%'
+s434_mean_number_of_amendments: '1.18'
+s433_total_amendment_increase_value: '1.4M'
+s424_mean_duration: '0.36'
+s421_mean_contract_value: '80.2K'
+s425_max_duration: '3.59'
+s422_max_contract_value: '1.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

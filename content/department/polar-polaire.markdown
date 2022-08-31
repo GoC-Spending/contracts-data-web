@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: polar-polaire
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Polar Knowledge Canada spent an estimated $665.0K
+  in 2021-2022 on contracts. The average contract duration
+  was 0.67 years, and the average contract value (not including
+  contracts under $10k) was $77.5K. The longest contract was
+  4.05 years. The largest contract by value (including amendments)
+  was $750.0K.'
+most_recent_fiscal_year_total: '665.0K'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '50'
+s431_number_of_contracts_with_amendments: '3'
+s431_number_of_contracts_amendments_percentage: '6%'
+s432_mean_amendment_increase_percentage: '62%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '55.4K'
+s424_mean_duration: '0.67'
+s421_mean_contract_value: '77.5K'
+s425_max_duration: '4.05'
+s422_max_contract_value: '750.0K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Polar Knowledge Canada spent an estimated **\$665.0K in 2021-2022** on contracts.
-
-Across 50 contracts active since the start of the 2017-2018 fiscal year, 3 have at least one amendment (6%). Of contracts with amendments, the average increase in dollar value was 62% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$55.4K over the original contract values.
-
-The average contract duration was 0.67 years, and the average contract value (not including contracts under \$10k) was \$77.5K. The longest contract was 4.05 years. The largest contract by value (including amendments) was \$750.0K.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: mobile_valve
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.3M
   in 2021-2022 on contracts with MOBILE VALVE. The average
-  contract duration was 0.72 year, and the average contract
-  value (not including contracts under $10k) was $339.9K.
-  The longest contract was 2.47 year. The largest contract
-  by value (including amendments) was $1.8M.
+  contract duration was 0.72 years, and the average contract value
+  (not including contracts under $10k) was $339.9K. The longest
+  contract was 2.47 years. The largest contract by value (including
+  amendments) was $1.8M.
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '55'
-s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts: '55'
+s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage_by_vendor: 'NA'
-s434_mean_number_of_amendments_by_vendor: 'NA'
-s433_total_amendment_increase_value_by_vendor: 'NA'
-s424_mean_duration_by_vendor: '0.72'
-s421_mean_contract_value_by_vendor: '339.9K'
-s425_max_duration_by_vendor: '2.47'
-s422_max_contract_value_by_vendor: '1.8M'
+s432_mean_amendment_increase_percentage: 'NA'
+s434_mean_number_of_amendments: 'NA'
+s433_total_amendment_increase_value: 'NA'
+s424_mean_duration: '0.72'
+s421_mean_contract_value: '339.9K'
+s425_max_duration: '2.47'
+s422_max_contract_value: '1.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

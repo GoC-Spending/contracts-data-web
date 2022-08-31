@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: world_university_service_of_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.3M
   in 2021-2022 on contracts with WORLD UNIVERSITY SERVICE OF CANADA. The average
-  contract duration was 4.71 year, and the average contract
-  value (not including contracts under $10k) was $5.5M.
-  The longest contract was 8.21 year. The largest contract
-  by value (including amendments) was $10.9M.
+  contract duration was 4.71 years, and the average contract value
+  (not including contracts under $10k) was $5.5M. The longest
+  contract was 8.21 years. The largest contract by value (including
+  amendments) was $10.9M.
 most_recent_fiscal_year_total: '5.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '8'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '8'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '12%'
-s432_mean_amendment_increase_percentage_by_vendor: '8%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '549.1K'
-s424_mean_duration_by_vendor: '4.71'
-s421_mean_contract_value_by_vendor: '5.5M'
-s425_max_duration_by_vendor: '8.21'
-s422_max_contract_value_by_vendor: '10.9M'
+s432_mean_amendment_increase_percentage: '8%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '549.1K'
+s424_mean_duration: '4.71'
+s421_mean_contract_value: '5.5M'
+s425_max_duration: '8.21'
+s422_max_contract_value: '10.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

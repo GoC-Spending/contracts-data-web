@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: cpc-cpp
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Civilian Review and Complaints Commission for the RCMP spent an estimated $688.9K
+  in 2021-2022 on contracts. The average contract duration
+  was 0.66 years, and the average contract value (not including
+  contracts under $10k) was $42.8K. The longest contract was
+  5 years. The largest contract by value (including amendments)
+  was $402.0K.'
+most_recent_fiscal_year_total: '688.9K'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '164'
+s431_number_of_contracts_with_amendments: '12'
+s431_number_of_contracts_amendments_percentage: '7%'
+s432_mean_amendment_increase_percentage: '103%'
+s434_mean_number_of_amendments: '1.5'
+s433_total_amendment_increase_value: '474.2K'
+s424_mean_duration: '0.66'
+s421_mean_contract_value: '42.8K'
+s425_max_duration: '5'
+s422_max_contract_value: '402.0K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Civilian Review and Complaints Commission for the RCMP spent an estimated **\$688.9K in 2021-2022** on contracts.
-
-Across 164 contracts active since the start of the 2017-2018 fiscal year, 12 have at least one amendment (7%). Of contracts with amendments, the average increase in dollar value was 103% and the average number of amendments was 1.5. Cumulatively these amendments represent an increase of \$474.2K over the original contract values.
-
-The average contract duration was 0.66 years, and the average contract value (not including contracts under \$10k) was \$42.8K. The longest contract was 5 years. The largest contract by value (including amendments) was \$402.0K.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

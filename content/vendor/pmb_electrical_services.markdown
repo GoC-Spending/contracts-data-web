@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: pmb_electrical_services
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $823.5K
   in 2021-2022 on contracts with PMB ELECTRICAL SERVICES. The average
-  contract duration was 1.41 year, and the average contract
-  value (not including contracts under $10k) was $356.3K.
-  The longest contract was 3.13 year. The largest contract
-  by value (including amendments) was $2.1M.
+  contract duration was 1.41 years, and the average contract value
+  (not including contracts under $10k) was $356.3K. The longest
+  contract was 3.13 years. The largest contract by value (including
+  amendments) was $2.1M.
 most_recent_fiscal_year_total: '823.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '30'
-s431_number_of_contracts_by_vendor_with_amendments: '24'
+s431_number_of_contracts: '30'
+s431_number_of_contracts_with_amendments: '24'
 s431_number_of_contracts_amendments_percentage: '80%'
-s432_mean_amendment_increase_percentage_by_vendor: '174%'
-s434_mean_number_of_amendments_by_vendor: '2.42'
-s433_total_amendment_increase_value_by_vendor: '2.8M'
-s424_mean_duration_by_vendor: '1.41'
-s421_mean_contract_value_by_vendor: '356.3K'
-s425_max_duration_by_vendor: '3.13'
-s422_max_contract_value_by_vendor: '2.1M'
+s432_mean_amendment_increase_percentage: '174%'
+s434_mean_number_of_amendments: '2.42'
+s433_total_amendment_increase_value: '2.8M'
+s424_mean_duration: '1.41'
+s421_mean_contract_value: '356.3K'
+s425_max_duration: '3.13'
+s422_max_contract_value: '2.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

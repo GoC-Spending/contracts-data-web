@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: aecom
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $23.0M
   in 2021-2022 on contracts with AECOM. The average
-  contract duration was 1.7 year, and the average contract
-  value (not including contracts under $10k) was $569.9K.
-  The longest contract was 19.29 year. The largest contract
-  by value (including amendments) was $30.2M.
+  contract duration was 1.7 years, and the average contract value
+  (not including contracts under $10k) was $569.9K. The longest
+  contract was 19.29 years. The largest contract by value (including
+  amendments) was $30.2M.
 most_recent_fiscal_year_total: '23.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '361'
-s431_number_of_contracts_by_vendor_with_amendments: '142'
+s431_number_of_contracts: '361'
+s431_number_of_contracts_with_amendments: '142'
 s431_number_of_contracts_amendments_percentage: '39%'
-s432_mean_amendment_increase_percentage_by_vendor: '228%'
-s434_mean_number_of_amendments_by_vendor: '2.35'
-s433_total_amendment_increase_value_by_vendor: '76.0M'
-s424_mean_duration_by_vendor: '1.7'
-s421_mean_contract_value_by_vendor: '569.9K'
-s425_max_duration_by_vendor: '19.29'
-s422_max_contract_value_by_vendor: '30.2M'
+s432_mean_amendment_increase_percentage: '228%'
+s434_mean_number_of_amendments: '2.35'
+s433_total_amendment_increase_value: '76.0M'
+s424_mean_duration: '1.7'
+s421_mean_contract_value: '569.9K'
+s425_max_duration: '19.29'
+s422_max_contract_value: '30.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

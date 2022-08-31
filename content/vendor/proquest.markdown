@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: proquest
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.0M
   in 2021-2022 on contracts with PROQUEST. The average
-  contract duration was 0.71 year, and the average contract
-  value (not including contracts under $10k) was $96.1K.
-  The longest contract was 3.96 year. The largest contract
-  by value (including amendments) was $973.4K.
+  contract duration was 0.71 years, and the average contract value
+  (not including contracts under $10k) was $96.1K. The longest
+  contract was 3.96 years. The largest contract by value (including
+  amendments) was $973.4K.
 most_recent_fiscal_year_total: '4.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '143'
-s431_number_of_contracts_by_vendor_with_amendments: '10'
+s431_number_of_contracts: '143'
+s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '7%'
-s432_mean_amendment_increase_percentage_by_vendor: '23%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '489.5K'
-s424_mean_duration_by_vendor: '0.71'
-s421_mean_contract_value_by_vendor: '96.1K'
-s425_max_duration_by_vendor: '3.96'
-s422_max_contract_value_by_vendor: '973.4K'
+s432_mean_amendment_increase_percentage: '23%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '489.5K'
+s424_mean_duration: '0.71'
+s421_mean_contract_value: '96.1K'
+s425_max_duration: '3.96'
+s422_max_contract_value: '973.4K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: click_networks
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $37.3M
   in 2021-2022 on contracts with CLICK NETWORKS. The average
-  contract duration was 1.43 year, and the average contract
-  value (not including contracts under $10k) was $636.1K.
-  The longest contract was 5.11 year. The largest contract
-  by value (including amendments) was $9.6M.
+  contract duration was 1.43 years, and the average contract value
+  (not including contracts under $10k) was $636.1K. The longest
+  contract was 5.11 years. The largest contract by value (including
+  amendments) was $9.6M.
 most_recent_fiscal_year_total: '37.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '227'
-s431_number_of_contracts_by_vendor_with_amendments: '17'
+s431_number_of_contracts: '227'
+s431_number_of_contracts_with_amendments: '17'
 s431_number_of_contracts_amendments_percentage: '7%'
-s432_mean_amendment_increase_percentage_by_vendor: '107%'
-s434_mean_number_of_amendments_by_vendor: '2.24'
-s433_total_amendment_increase_value_by_vendor: '21.9M'
-s424_mean_duration_by_vendor: '1.43'
-s421_mean_contract_value_by_vendor: '636.1K'
-s425_max_duration_by_vendor: '5.11'
-s422_max_contract_value_by_vendor: '9.6M'
+s432_mean_amendment_increase_percentage: '107%'
+s434_mean_number_of_amendments: '2.24'
+s433_total_amendment_increase_value: '21.9M'
+s424_mean_duration: '1.43'
+s421_mean_contract_value: '636.1K'
+s425_max_duration: '5.11'
+s422_max_contract_value: '9.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

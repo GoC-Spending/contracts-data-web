@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: metro_logistics
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $48.9M
   in 2021-2022 on contracts with METRO LOGISTICS. The average
-  contract duration was 2.99 year, and the average contract
-  value (not including contracts under $10k) was $146.1M.
-  The longest contract was 2.99 year. The largest contract
-  by value (including amendments) was $146.1M.
+  contract duration was 2.99 years, and the average contract value
+  (not including contracts under $10k) was $146.1M. The longest
+  contract was 2.99 years. The largest contract by value (including
+  amendments) was $146.1M.
 most_recent_fiscal_year_total: '48.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '1'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '1'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '100%'
-s432_mean_amendment_increase_percentage_by_vendor: '64%'
-s434_mean_number_of_amendments_by_vendor: '4'
-s433_total_amendment_increase_value_by_vendor: '56.7M'
-s424_mean_duration_by_vendor: '2.99'
-s421_mean_contract_value_by_vendor: '146.1M'
-s425_max_duration_by_vendor: '2.99'
-s422_max_contract_value_by_vendor: '146.1M'
+s432_mean_amendment_increase_percentage: '64%'
+s434_mean_number_of_amendments: '4'
+s433_total_amendment_increase_value: '56.7M'
+s424_mean_duration: '2.99'
+s421_mean_contract_value: '146.1M'
+s425_max_duration: '2.99'
+s422_max_contract_value: '146.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

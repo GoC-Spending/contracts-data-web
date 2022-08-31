@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: eurovia_quebec_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $123.9K
   in 2021-2022 on contracts with EUROVIA QUEBEC CONSTRUCTION. The average
-  contract duration was 0.76 year, and the average contract
-  value (not including contracts under $10k) was $2.3M.
-  The longest contract was 1.75 year. The largest contract
-  by value (including amendments) was $9.9M.
+  contract duration was 0.76 years, and the average contract value
+  (not including contracts under $10k) was $2.3M. The longest
+  contract was 1.75 years. The largest contract by value (including
+  amendments) was $9.9M.
 most_recent_fiscal_year_total: '123.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '5'
-s431_number_of_contracts_by_vendor_with_amendments: '2'
+s431_number_of_contracts: '5'
+s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '40%'
-s432_mean_amendment_increase_percentage_by_vendor: '26%'
-s434_mean_number_of_amendments_by_vendor: '4'
-s433_total_amendment_increase_value_by_vendor: '3.2M'
-s424_mean_duration_by_vendor: '0.76'
-s421_mean_contract_value_by_vendor: '2.3M'
-s425_max_duration_by_vendor: '1.75'
-s422_max_contract_value_by_vendor: '9.9M'
+s432_mean_amendment_increase_percentage: '26%'
+s434_mean_number_of_amendments: '4'
+s433_total_amendment_increase_value: '3.2M'
+s424_mean_duration: '0.76'
+s421_mean_contract_value: '2.3M'
+s425_max_duration: '1.75'
+s422_max_contract_value: '9.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: gemma_property_services
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
   in 2021-2022 on contracts with GEMMA PROPERTY SERVICES. The average
-  contract duration was 1.88 year, and the average contract
-  value (not including contracts under $10k) was $620.9K.
-  The longest contract was 6.42 year. The largest contract
-  by value (including amendments) was $4.1M.
+  contract duration was 1.88 years, and the average contract value
+  (not including contracts under $10k) was $620.9K. The longest
+  contract was 6.42 years. The largest contract by value (including
+  amendments) was $4.1M.
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '19'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '19'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '37%'
-s432_mean_amendment_increase_percentage_by_vendor: '306%'
-s434_mean_number_of_amendments_by_vendor: '1.71'
-s433_total_amendment_increase_value_by_vendor: '1.5M'
-s424_mean_duration_by_vendor: '1.88'
-s421_mean_contract_value_by_vendor: '620.9K'
-s425_max_duration_by_vendor: '6.42'
-s422_max_contract_value_by_vendor: '4.1M'
+s432_mean_amendment_increase_percentage: '306%'
+s434_mean_number_of_amendments: '1.71'
+s433_total_amendment_increase_value: '1.5M'
+s424_mean_duration: '1.88'
+s421_mean_contract_value: '620.9K'
+s425_max_duration: '6.42'
+s422_max_contract_value: '4.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

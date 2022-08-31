@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: sshrc-crsh
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Social Sciences and Humanities Research Council of Canada spent an estimated $1.3M
+  in 2021-2022 on contracts. The average contract duration
+  was 1.05 years, and the average contract value (not including
+  contracts under $10k) was $54.1K. The longest contract was
+  8.27 years. The largest contract by value (including amendments)
+  was $484.1K.'
+most_recent_fiscal_year_total: '1.3M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '161'
+s431_number_of_contracts_with_amendments: '32'
+s431_number_of_contracts_amendments_percentage: '20%'
+s432_mean_amendment_increase_percentage: '276%'
+s434_mean_number_of_amendments: '1.44'
+s433_total_amendment_increase_value: '1.6M'
+s424_mean_duration: '1.05'
+s421_mean_contract_value: '54.1K'
+s425_max_duration: '8.27'
+s422_max_contract_value: '484.1K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Social Sciences and Humanities Research Council of Canada spent an estimated **\$1.3M in 2021-2022** on contracts.
-
-Across 161 contracts active since the start of the 2017-2018 fiscal year, 32 have at least one amendment (20%). Of contracts with amendments, the average increase in dollar value was 276% and the average number of amendments was 1.44. Cumulatively these amendments represent an increase of \$1.6M over the original contract values.
-
-The average contract duration was 1.05 years, and the average contract value (not including contracts under \$10k) was \$54.1K. The longest contract was 8.27 years. The largest contract by value (including amendments) was \$484.1K.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

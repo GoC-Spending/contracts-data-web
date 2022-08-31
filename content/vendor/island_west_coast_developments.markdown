@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: island_west_coast_developments
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.3M
   in 2018-2019 on contracts with ISLAND WEST COAST DEVELOPMENTS. The average
-  contract duration was 1.65 year, and the average contract
-  value (not including contracts under $10k) was $10.4M.
-  The longest contract was 1.65 year. The largest contract
-  by value (including amendments) was $10.4M.
+  contract duration was 1.65 years, and the average contract value
+  (not including contracts under $10k) was $10.4M. The longest
+  contract was 1.65 years. The largest contract by value (including
+  amendments) was $10.4M.
 most_recent_fiscal_year_total: '6.3M'
 most_recent_fiscal_year_year: '2018-2019'
-s431_number_of_contracts_by_vendor: '1'
-s431_number_of_contracts_by_vendor_with_amendments: '0'
+s431_number_of_contracts: '1'
+s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage_by_vendor: 'NA'
-s434_mean_number_of_amendments_by_vendor: 'NA'
-s433_total_amendment_increase_value_by_vendor: 'NA'
-s424_mean_duration_by_vendor: '1.65'
-s421_mean_contract_value_by_vendor: '10.4M'
-s425_max_duration_by_vendor: '1.65'
-s422_max_contract_value_by_vendor: '10.4M'
+s432_mean_amendment_increase_percentage: 'NA'
+s434_mean_number_of_amendments: 'NA'
+s433_total_amendment_increase_value: 'NA'
+s424_mean_duration: '1.65'
+s421_mean_contract_value: '10.4M'
+s425_max_duration: '1.65'
+s422_max_contract_value: '10.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

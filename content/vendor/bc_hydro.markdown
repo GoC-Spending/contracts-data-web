@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: bc_hydro
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $29.4K
   in 2021-2022 on contracts with BC HYDRO. The average
-  contract duration was 1.08 year, and the average contract
-  value (not including contracts under $10k) was $173.7K.
-  The longest contract was 7.2 year. The largest contract
-  by value (including amendments) was $594.2K.
+  contract duration was 1.08 years, and the average contract value
+  (not including contracts under $10k) was $173.7K. The longest
+  contract was 7.2 years. The largest contract by value (including
+  amendments) was $594.2K.
 most_recent_fiscal_year_total: '29.4K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '29'
-s431_number_of_contracts_by_vendor_with_amendments: '13'
+s431_number_of_contracts: '29'
+s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '45%'
-s432_mean_amendment_increase_percentage_by_vendor: '-1%'
-s434_mean_number_of_amendments_by_vendor: '1.15'
-s433_total_amendment_increase_value_by_vendor: '25.6K'
-s424_mean_duration_by_vendor: '1.08'
-s421_mean_contract_value_by_vendor: '173.7K'
-s425_max_duration_by_vendor: '7.2'
-s422_max_contract_value_by_vendor: '594.2K'
+s432_mean_amendment_increase_percentage: '-1%'
+s434_mean_number_of_amendments: '1.15'
+s433_total_amendment_increase_value: '25.6K'
+s424_mean_duration: '1.08'
+s421_mean_contract_value: '173.7K'
+s425_max_duration: '7.2'
+s422_max_contract_value: '594.2K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

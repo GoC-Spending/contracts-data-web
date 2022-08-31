@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: trainor_mechanical_contractors
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $599.0K
   in 2021-2022 on contracts with TRAINOR MECHANICAL CONTRACTORS. The average
-  contract duration was 0.7 year, and the average contract
-  value (not including contracts under $10k) was $958.8K.
-  The longest contract was 2.65 year. The largest contract
-  by value (including amendments) was $7.3M.
+  contract duration was 0.7 years, and the average contract value
+  (not including contracts under $10k) was $958.8K. The longest
+  contract was 2.65 years. The largest contract by value (including
+  amendments) was $7.3M.
 most_recent_fiscal_year_total: '599.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '23'
-s431_number_of_contracts_by_vendor_with_amendments: '8'
+s431_number_of_contracts: '23'
+s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '35%'
-s432_mean_amendment_increase_percentage_by_vendor: '16%'
-s434_mean_number_of_amendments_by_vendor: '2.75'
-s433_total_amendment_increase_value_by_vendor: '2.0M'
-s424_mean_duration_by_vendor: '0.7'
-s421_mean_contract_value_by_vendor: '958.8K'
-s425_max_duration_by_vendor: '2.65'
-s422_max_contract_value_by_vendor: '7.3M'
+s432_mean_amendment_increase_percentage: '16%'
+s434_mean_number_of_amendments: '2.75'
+s433_total_amendment_increase_value: '2.0M'
+s424_mean_duration: '0.7'
+s421_mean_contract_value: '958.8K'
+s425_max_duration: '2.65'
+s422_max_contract_value: '7.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

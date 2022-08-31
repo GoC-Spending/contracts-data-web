@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: leonardo
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $24.7M
   in 2021-2022 on contracts with LEONARDO. The average
-  contract duration was 1.84 year, and the average contract
-  value (not including contracts under $10k) was $7.6M.
-  The longest contract was 7.02 year. The largest contract
-  by value (including amendments) was $124.8M.
+  contract duration was 1.84 years, and the average contract value
+  (not including contracts under $10k) was $7.6M. The longest
+  contract was 7.02 years. The largest contract by value (including
+  amendments) was $124.8M.
 most_recent_fiscal_year_total: '24.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '36'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '36'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '17%'
-s432_mean_amendment_increase_percentage_by_vendor: '138%'
-s434_mean_number_of_amendments_by_vendor: '3.67'
-s433_total_amendment_increase_value_by_vendor: '83.7M'
-s424_mean_duration_by_vendor: '1.84'
-s421_mean_contract_value_by_vendor: '7.6M'
-s425_max_duration_by_vendor: '7.02'
-s422_max_contract_value_by_vendor: '124.8M'
+s432_mean_amendment_increase_percentage: '138%'
+s434_mean_number_of_amendments: '3.67'
+s433_total_amendment_increase_value: '83.7M'
+s424_mean_duration: '1.84'
+s421_mean_contract_value: '7.6M'
+s425_max_duration: '7.02'
+s422_max_contract_value: '124.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

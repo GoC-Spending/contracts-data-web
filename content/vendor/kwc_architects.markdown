@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: kwc_architects
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
   in 2021-2022 on contracts with KWC ARCHITECTS. The average
-  contract duration was 1.31 year, and the average contract
-  value (not including contracts under $10k) was $184.0K.
-  The longest contract was 6.43 year. The largest contract
-  by value (including amendments) was $964.7K.
+  contract duration was 1.31 years, and the average contract value
+  (not including contracts under $10k) was $184.0K. The longest
+  contract was 6.43 years. The largest contract by value (including
+  amendments) was $964.7K.
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '40'
-s431_number_of_contracts_by_vendor_with_amendments: '13'
+s431_number_of_contracts: '40'
+s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '32%'
-s432_mean_amendment_increase_percentage_by_vendor: '83%'
-s434_mean_number_of_amendments_by_vendor: '2.08'
-s433_total_amendment_increase_value_by_vendor: '1.8M'
-s424_mean_duration_by_vendor: '1.31'
-s421_mean_contract_value_by_vendor: '184.0K'
-s425_max_duration_by_vendor: '6.43'
-s422_max_contract_value_by_vendor: '964.7K'
+s432_mean_amendment_increase_percentage: '83%'
+s434_mean_number_of_amendments: '2.08'
+s433_total_amendment_increase_value: '1.8M'
+s424_mean_duration: '1.31'
+s421_mean_contract_value: '184.0K'
+s425_max_duration: '6.43'
+s422_max_contract_value: '964.7K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

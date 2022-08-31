@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: compugen
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $34.5M
   in 2021-2022 on contracts with COMPUGEN. The average
-  contract duration was 2.71 year, and the average contract
-  value (not including contracts under $10k) was $421.0K.
-  The longest contract was 10.05 year. The largest contract
-  by value (including amendments) was $78.9M.
+  contract duration was 2.71 years, and the average contract value
+  (not including contracts under $10k) was $421.0K. The longest
+  contract was 10.05 years. The largest contract by value (including
+  amendments) was $78.9M.
 most_recent_fiscal_year_total: '34.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '475'
-s431_number_of_contracts_by_vendor_with_amendments: '41'
+s431_number_of_contracts: '475'
+s431_number_of_contracts_with_amendments: '41'
 s431_number_of_contracts_amendments_percentage: '9%'
-s432_mean_amendment_increase_percentage_by_vendor: '26%'
-s434_mean_number_of_amendments_by_vendor: '1.29'
-s433_total_amendment_increase_value_by_vendor: '5.9M'
-s424_mean_duration_by_vendor: '2.71'
-s421_mean_contract_value_by_vendor: '421.0K'
-s425_max_duration_by_vendor: '10.05'
-s422_max_contract_value_by_vendor: '78.9M'
+s432_mean_amendment_increase_percentage: '26%'
+s434_mean_number_of_amendments: '1.29'
+s433_total_amendment_increase_value: '5.9M'
+s424_mean_duration: '2.71'
+s421_mean_contract_value: '421.0K'
+s425_max_duration: '10.05'
+s422_max_contract_value: '78.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: industries_ocean
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $20.7M
   in 2021-2022 on contracts with INDUSTRIES OCEAN. The average
-  contract duration was 1.38 year, and the average contract
-  value (not including contracts under $10k) was $10.3M.
-  The longest contract was 6.19 year. The largest contract
-  by value (including amendments) was $98.8M.
+  contract duration was 1.38 years, and the average contract value
+  (not including contracts under $10k) was $10.3M. The longest
+  contract was 6.19 years. The largest contract by value (including
+  amendments) was $98.8M.
 most_recent_fiscal_year_total: '20.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '12'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '12'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '58%'
-s432_mean_amendment_increase_percentage_by_vendor: '72%'
-s434_mean_number_of_amendments_by_vendor: '2'
-s433_total_amendment_increase_value_by_vendor: '-1.4M'
-s424_mean_duration_by_vendor: '1.38'
-s421_mean_contract_value_by_vendor: '10.3M'
-s425_max_duration_by_vendor: '6.19'
-s422_max_contract_value_by_vendor: '98.8M'
+s432_mean_amendment_increase_percentage: '72%'
+s434_mean_number_of_amendments: '2'
+s433_total_amendment_increase_value: '-1.4M'
+s424_mean_duration: '1.38'
+s421_mean_contract_value: '10.3M'
+s425_max_duration: '6.19'
+s422_max_contract_value: '98.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

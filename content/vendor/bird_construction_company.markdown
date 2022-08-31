@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: bird_construction_company
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.6M
   in 2021-2022 on contracts with BIRD CONSTRUCTION COMPANY. The average
-  contract duration was 1.73 year, and the average contract
-  value (not including contracts under $10k) was $8.2M.
-  The longest contract was 3.42 year. The largest contract
-  by value (including amendments) was $16.7M.
+  contract duration was 1.73 years, and the average contract value
+  (not including contracts under $10k) was $8.2M. The longest
+  contract was 3.42 years. The largest contract by value (including
+  amendments) was $16.7M.
 most_recent_fiscal_year_total: '3.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '8'
-s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts: '8'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '8%'
-s434_mean_number_of_amendments_by_vendor: '5.5'
-s433_total_amendment_increase_value_by_vendor: '3.1M'
-s424_mean_duration_by_vendor: '1.73'
-s421_mean_contract_value_by_vendor: '8.2M'
-s425_max_duration_by_vendor: '3.42'
-s422_max_contract_value_by_vendor: '16.7M'
+s432_mean_amendment_increase_percentage: '8%'
+s434_mean_number_of_amendments: '5.5'
+s433_total_amendment_increase_value: '3.1M'
+s424_mean_duration: '1.73'
+s421_mean_contract_value: '8.2M'
+s425_max_duration: '3.42'
+s422_max_contract_value: '16.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

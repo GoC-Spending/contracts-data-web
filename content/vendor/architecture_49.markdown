@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: architecture_49
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $11.2M
   in 2021-2022 on contracts with ARCHITECTURE 49. The average
-  contract duration was 1.28 year, and the average contract
-  value (not including contracts under $10k) was $339.6K.
-  The longest contract was 9.53 year. The largest contract
-  by value (including amendments) was $13.2M.
+  contract duration was 1.28 years, and the average contract value
+  (not including contracts under $10k) was $339.6K. The longest
+  contract was 9.53 years. The largest contract by value (including
+  amendments) was $13.2M.
 most_recent_fiscal_year_total: '11.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '237'
-s431_number_of_contracts_by_vendor_with_amendments: '78'
+s431_number_of_contracts: '237'
+s431_number_of_contracts_with_amendments: '78'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '111%'
-s434_mean_number_of_amendments_by_vendor: '2.09'
-s433_total_amendment_increase_value_by_vendor: '22.8M'
-s424_mean_duration_by_vendor: '1.28'
-s421_mean_contract_value_by_vendor: '339.6K'
-s425_max_duration_by_vendor: '9.53'
-s422_max_contract_value_by_vendor: '13.2M'
+s432_mean_amendment_increase_percentage: '111%'
+s434_mean_number_of_amendments: '2.09'
+s433_total_amendment_increase_value: '22.8M'
+s424_mean_duration: '1.28'
+s421_mean_contract_value: '339.6K'
+s425_max_duration: '9.53'
+s422_max_contract_value: '13.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

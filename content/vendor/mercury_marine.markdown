@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: mercury_marine
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $644.5K
   in 2021-2022 on contracts with MERCURY MARINE. The average
-  contract duration was 0.28 year, and the average contract
-  value (not including contracts under $10k) was $59.5K.
-  The longest contract was 1.29 year. The largest contract
-  by value (including amendments) was $1.6M.
+  contract duration was 0.28 years, and the average contract value
+  (not including contracts under $10k) was $59.5K. The longest
+  contract was 1.29 years. The largest contract by value (including
+  amendments) was $1.6M.
 most_recent_fiscal_year_total: '644.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '114'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '114'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage_by_vendor: '-9%'
-s434_mean_number_of_amendments_by_vendor: '1.33'
-s433_total_amendment_increase_value_by_vendor: '-70.4K'
-s424_mean_duration_by_vendor: '0.28'
-s421_mean_contract_value_by_vendor: '59.5K'
-s425_max_duration_by_vendor: '1.29'
-s422_max_contract_value_by_vendor: '1.6M'
+s432_mean_amendment_increase_percentage: '-9%'
+s434_mean_number_of_amendments: '1.33'
+s433_total_amendment_increase_value: '-70.4K'
+s424_mean_duration: '0.28'
+s421_mean_contract_value: '59.5K'
+s425_max_duration: '1.29'
+s422_max_contract_value: '1.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

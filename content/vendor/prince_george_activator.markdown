@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: prince_george_activator
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
   in 2021-2022 on contracts with PRINCE GEORGE ACTIVATOR. The average
-  contract duration was 1.17 year, and the average contract
-  value (not including contracts under $10k) was $2.5M.
-  The longest contract was 3 year. The largest contract
-  by value (including amendments) was $5.9M.
+  contract duration was 1.17 years, and the average contract value
+  (not including contracts under $10k) was $2.5M. The longest
+  contract was 3 years. The largest contract by value (including
+  amendments) was $5.9M.
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '6'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '6'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '17%'
-s432_mean_amendment_increase_percentage_by_vendor: '202%'
-s434_mean_number_of_amendments_by_vendor: '4'
-s433_total_amendment_increase_value_by_vendor: '3.9M'
-s424_mean_duration_by_vendor: '1.17'
-s421_mean_contract_value_by_vendor: '2.5M'
-s425_max_duration_by_vendor: '3'
-s422_max_contract_value_by_vendor: '5.9M'
+s432_mean_amendment_increase_percentage: '202%'
+s434_mean_number_of_amendments: '4'
+s433_total_amendment_increase_value: '3.9M'
+s424_mean_duration: '1.17'
+s421_mean_contract_value: '2.5M'
+s425_max_duration: '3'
+s422_max_contract_value: '5.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

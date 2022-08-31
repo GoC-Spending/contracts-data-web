@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: gc_strategies
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $31.0M
   in 2021-2022 on contracts with GC STRATEGIES. The average
-  contract duration was 1.07 year, and the average contract
-  value (not including contracts under $10k) was $688.3K.
-  The longest contract was 5.87 year. The largest contract
-  by value (including amendments) was $9.2M.
+  contract duration was 1.07 years, and the average contract value
+  (not including contracts under $10k) was $688.3K. The longest
+  contract was 5.87 years. The largest contract by value (including
+  amendments) was $9.2M.
 most_recent_fiscal_year_total: '31.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '110'
-s431_number_of_contracts_by_vendor_with_amendments: '37'
+s431_number_of_contracts: '110'
+s431_number_of_contracts_with_amendments: '37'
 s431_number_of_contracts_amendments_percentage: '34%'
-s432_mean_amendment_increase_percentage_by_vendor: '213%'
-s434_mean_number_of_amendments_by_vendor: '1.95'
-s433_total_amendment_increase_value_by_vendor: '28.1M'
-s424_mean_duration_by_vendor: '1.07'
-s421_mean_contract_value_by_vendor: '688.3K'
-s425_max_duration_by_vendor: '5.87'
-s422_max_contract_value_by_vendor: '9.2M'
+s432_mean_amendment_increase_percentage: '213%'
+s434_mean_number_of_amendments: '1.95'
+s433_total_amendment_increase_value: '28.1M'
+s424_mean_duration: '1.07'
+s421_mean_contract_value: '688.3K'
+s425_max_duration: '5.87'
+s422_max_contract_value: '9.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

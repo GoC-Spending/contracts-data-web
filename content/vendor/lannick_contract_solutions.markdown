@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: lannick_contract_solutions
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $734.6K
   in 2021-2022 on contracts with LANNICK CONTRACT SOLUTIONS. The average
-  contract duration was 1.03 year, and the average contract
-  value (not including contracts under $10k) was $226.9K.
-  The longest contract was 3.34 year. The largest contract
-  by value (including amendments) was $2.5M.
+  contract duration was 1.03 years, and the average contract value
+  (not including contracts under $10k) was $226.9K. The longest
+  contract was 3.34 years. The largest contract by value (including
+  amendments) was $2.5M.
 most_recent_fiscal_year_total: '734.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '47'
-s431_number_of_contracts_by_vendor_with_amendments: '28'
+s431_number_of_contracts: '47'
+s431_number_of_contracts_with_amendments: '28'
 s431_number_of_contracts_amendments_percentage: '60%'
-s432_mean_amendment_increase_percentage_by_vendor: '151%'
-s434_mean_number_of_amendments_by_vendor: '2.68'
-s433_total_amendment_increase_value_by_vendor: '4.8M'
-s424_mean_duration_by_vendor: '1.03'
-s421_mean_contract_value_by_vendor: '226.9K'
-s425_max_duration_by_vendor: '3.34'
-s422_max_contract_value_by_vendor: '2.5M'
+s432_mean_amendment_increase_percentage: '151%'
+s434_mean_number_of_amendments: '2.68'
+s433_total_amendment_increase_value: '4.8M'
+s424_mean_duration: '1.03'
+s421_mean_contract_value: '226.9K'
+s425_max_duration: '3.34'
+s422_max_contract_value: '2.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

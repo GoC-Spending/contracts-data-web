@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: chantier_davie_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $137.4M
   in 2021-2022 on contracts with CHANTIER DAVIE CANADA. The average
-  contract duration was 1.82 year, and the average contract
-  value (not including contracts under $10k) was $184.0M.
-  The longest contract was 5.01 year. The largest contract
-  by value (including amendments) was $782.7M.
+  contract duration was 1.82 years, and the average contract value
+  (not including contracts under $10k) was $184.0M. The longest
+  contract was 5.01 years. The largest contract by value (including
+  amendments) was $782.7M.
 most_recent_fiscal_year_total: '137.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '8'
-s431_number_of_contracts_by_vendor_with_amendments: '5'
+s431_number_of_contracts: '8'
+s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '62%'
-s432_mean_amendment_increase_percentage_by_vendor: '169%'
-s434_mean_number_of_amendments_by_vendor: '3.8'
-s433_total_amendment_increase_value_by_vendor: '188.8M'
-s424_mean_duration_by_vendor: '1.82'
-s421_mean_contract_value_by_vendor: '184.0M'
-s425_max_duration_by_vendor: '5.01'
-s422_max_contract_value_by_vendor: '782.7M'
+s432_mean_amendment_increase_percentage: '169%'
+s434_mean_number_of_amendments: '3.8'
+s433_total_amendment_increase_value: '188.8M'
+s424_mean_duration: '1.82'
+s421_mean_contract_value: '184.0M'
+s425_max_duration: '5.01'
+s422_max_contract_value: '782.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

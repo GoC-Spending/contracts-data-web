@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: wilco_contractors_southwest
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.4M
   in 2021-2022 on contracts with WILCO CONTRACTORS SOUTHWEST. The average
-  contract duration was 1.5 year, and the average contract
-  value (not including contracts under $10k) was $2.5M.
-  The longest contract was 4.02 year. The largest contract
-  by value (including amendments) was $7.0M.
+  contract duration was 1.5 years, and the average contract value
+  (not including contracts under $10k) was $2.5M. The longest
+  contract was 4.02 years. The largest contract by value (including
+  amendments) was $7.0M.
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '13'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '13'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '54%'
-s432_mean_amendment_increase_percentage_by_vendor: '7%'
-s434_mean_number_of_amendments_by_vendor: '3.57'
-s433_total_amendment_increase_value_by_vendor: '1.6M'
-s424_mean_duration_by_vendor: '1.5'
-s421_mean_contract_value_by_vendor: '2.5M'
-s425_max_duration_by_vendor: '4.02'
-s422_max_contract_value_by_vendor: '7.0M'
+s432_mean_amendment_increase_percentage: '7%'
+s434_mean_number_of_amendments: '3.57'
+s433_total_amendment_increase_value: '1.6M'
+s424_mean_duration: '1.5'
+s421_mean_contract_value: '2.5M'
+s425_max_duration: '4.02'
+s422_max_contract_value: '7.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

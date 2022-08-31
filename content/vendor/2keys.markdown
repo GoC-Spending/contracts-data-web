@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: 2keys
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $41.7M
   in 2021-2022 on contracts with 2KEYS. The average
-  contract duration was 2.08 year, and the average contract
-  value (not including contracts under $10k) was $11.1M.
-  The longest contract was 9.42 year. The largest contract
-  by value (including amendments) was $125.7M.
+  contract duration was 2.08 years, and the average contract value
+  (not including contracts under $10k) was $11.1M. The longest
+  contract was 9.42 years. The largest contract by value (including
+  amendments) was $125.7M.
 most_recent_fiscal_year_total: '41.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '23'
-s431_number_of_contracts_by_vendor_with_amendments: '13'
+s431_number_of_contracts: '23'
+s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '57%'
-s432_mean_amendment_increase_percentage_by_vendor: '2285%'
-s434_mean_number_of_amendments_by_vendor: '1.92'
-s433_total_amendment_increase_value_by_vendor: '92.3M'
-s424_mean_duration_by_vendor: '2.08'
-s421_mean_contract_value_by_vendor: '11.1M'
-s425_max_duration_by_vendor: '9.42'
-s422_max_contract_value_by_vendor: '125.7M'
+s432_mean_amendment_increase_percentage: '2285%'
+s434_mean_number_of_amendments: '1.92'
+s433_total_amendment_increase_value: '92.3M'
+s424_mean_duration: '2.08'
+s421_mean_contract_value: '11.1M'
+s425_max_duration: '9.42'
+s422_max_contract_value: '125.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

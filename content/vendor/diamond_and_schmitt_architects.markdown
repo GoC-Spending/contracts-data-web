@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: diamond_and_schmitt_architects
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with DIAMOND AND SCHMITT ARCHITECTS. The average
-  contract duration was 2.36 year, and the average contract
-  value (not including contracts under $10k) was $4.8M.
-  The longest contract was 10.21 year. The largest contract
-  by value (including amendments) was $31.4M.
+  contract duration was 2.36 years, and the average contract value
+  (not including contracts under $10k) was $4.8M. The longest
+  contract was 10.21 years. The largest contract by value (including
+  amendments) was $31.4M.
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '14'
-s431_number_of_contracts_by_vendor_with_amendments: '5'
+s431_number_of_contracts: '14'
+s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '36%'
-s432_mean_amendment_increase_percentage_by_vendor: '189%'
-s434_mean_number_of_amendments_by_vendor: '3.8'
-s433_total_amendment_increase_value_by_vendor: '35.0M'
-s424_mean_duration_by_vendor: '2.36'
-s421_mean_contract_value_by_vendor: '4.8M'
-s425_max_duration_by_vendor: '10.21'
-s422_max_contract_value_by_vendor: '31.4M'
+s432_mean_amendment_increase_percentage: '189%'
+s434_mean_number_of_amendments: '3.8'
+s433_total_amendment_increase_value: '35.0M'
+s424_mean_duration: '2.36'
+s421_mean_contract_value: '4.8M'
+s425_max_duration: '10.21'
+s422_max_contract_value: '31.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

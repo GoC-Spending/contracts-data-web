@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: 736902_ontario
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with 736902 ONTARIO. The average
-  contract duration was 1.3 year, and the average contract
-  value (not including contracts under $10k) was $1.4M.
-  The longest contract was 2.36 year. The largest contract
-  by value (including amendments) was $4.8M.
+  contract duration was 1.3 years, and the average contract value
+  (not including contracts under $10k) was $1.4M. The longest
+  contract was 2.36 years. The largest contract by value (including
+  amendments) was $4.8M.
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '7'
-s431_number_of_contracts_by_vendor_with_amendments: '5'
+s431_number_of_contracts: '7'
+s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '71%'
-s432_mean_amendment_increase_percentage_by_vendor: '4%'
-s434_mean_number_of_amendments_by_vendor: '1.8'
-s433_total_amendment_increase_value_by_vendor: '-55.8K'
-s424_mean_duration_by_vendor: '1.3'
-s421_mean_contract_value_by_vendor: '1.4M'
-s425_max_duration_by_vendor: '2.36'
-s422_max_contract_value_by_vendor: '4.8M'
+s432_mean_amendment_increase_percentage: '4%'
+s434_mean_number_of_amendments: '1.8'
+s433_total_amendment_increase_value: '-55.8K'
+s424_mean_duration: '1.3'
+s421_mean_contract_value: '1.4M'
+s425_max_duration: '2.36'
+s422_max_contract_value: '4.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

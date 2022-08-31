@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: johnson_controls_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.7M
   in 2021-2022 on contracts with JOHNSON CONTROLS CANADA. The average
-  contract duration was 2.01 year, and the average contract
-  value (not including contracts under $10k) was $918.5K.
-  The longest contract was 15.13 year. The largest contract
-  by value (including amendments) was $30.1M.
+  contract duration was 2.01 years, and the average contract value
+  (not including contracts under $10k) was $918.5K. The longest
+  contract was 15.13 years. The largest contract by value (including
+  amendments) was $30.1M.
 most_recent_fiscal_year_total: '4.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '60'
-s431_number_of_contracts_by_vendor_with_amendments: '11'
+s431_number_of_contracts: '60'
+s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '18%'
-s432_mean_amendment_increase_percentage_by_vendor: '421%'
-s434_mean_number_of_amendments_by_vendor: '1.91'
-s433_total_amendment_increase_value_by_vendor: '27.9M'
-s424_mean_duration_by_vendor: '2.01'
-s421_mean_contract_value_by_vendor: '918.5K'
-s425_max_duration_by_vendor: '15.13'
-s422_max_contract_value_by_vendor: '30.1M'
+s432_mean_amendment_increase_percentage: '421%'
+s434_mean_number_of_amendments: '1.91'
+s433_total_amendment_increase_value: '27.9M'
+s424_mean_duration: '2.01'
+s421_mean_contract_value: '918.5K'
+s425_max_duration: '15.13'
+s422_max_contract_value: '30.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

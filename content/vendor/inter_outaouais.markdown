@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: inter_outaouais
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with INTER OUTAOUAIS. The average
-  contract duration was 0.94 year, and the average contract
-  value (not including contracts under $10k) was $1.7M.
-  The longest contract was 2.36 year. The largest contract
-  by value (including amendments) was $5.5M.
+  contract duration was 0.94 years, and the average contract value
+  (not including contracts under $10k) was $1.7M. The longest
+  contract was 2.36 years. The largest contract by value (including
+  amendments) was $5.5M.
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '17'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '17'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '6%'
-s432_mean_amendment_increase_percentage_by_vendor: '6%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '14.7K'
-s424_mean_duration_by_vendor: '0.94'
-s421_mean_contract_value_by_vendor: '1.7M'
-s425_max_duration_by_vendor: '2.36'
-s422_max_contract_value_by_vendor: '5.5M'
+s432_mean_amendment_increase_percentage: '6%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '14.7K'
+s424_mean_duration: '0.94'
+s421_mean_contract_value: '1.7M'
+s425_max_duration: '2.36'
+s422_max_contract_value: '5.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

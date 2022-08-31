@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: mcw_custom_energy_solutions
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.8M
   in 2021-2022 on contracts with MCW CUSTOM ENERGY SOLUTIONS. The average
-  contract duration was 4.69 year, and the average contract
-  value (not including contracts under $10k) was $3.9M.
-  The longest contract was 17.43 year. The largest contract
-  by value (including amendments) was $20.4M.
+  contract duration was 4.69 years, and the average contract value
+  (not including contracts under $10k) was $3.9M. The longest
+  contract was 17.43 years. The largest contract by value (including
+  amendments) was $20.4M.
 most_recent_fiscal_year_total: '10.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '23'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '23'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '30%'
-s432_mean_amendment_increase_percentage_by_vendor: '655%'
-s434_mean_number_of_amendments_by_vendor: '1.86'
-s433_total_amendment_increase_value_by_vendor: '14.8M'
-s424_mean_duration_by_vendor: '4.69'
-s421_mean_contract_value_by_vendor: '3.9M'
-s425_max_duration_by_vendor: '17.43'
-s422_max_contract_value_by_vendor: '20.4M'
+s432_mean_amendment_increase_percentage: '655%'
+s434_mean_number_of_amendments: '1.86'
+s433_total_amendment_increase_value: '14.8M'
+s424_mean_duration: '4.69'
+s421_mean_contract_value: '3.9M'
+s425_max_duration: '17.43'
+s422_max_contract_value: '20.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

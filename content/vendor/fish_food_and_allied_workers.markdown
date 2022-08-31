@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: fish_food_and_allied_workers
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $634.0K
   in 2021-2022 on contracts with FISH FOOD AND ALLIED WORKERS. The average
-  contract duration was 1.21 year, and the average contract
-  value (not including contracts under $10k) was $428.3K.
-  The longest contract was 3.02 year. The largest contract
-  by value (including amendments) was $1.3M.
+  contract duration was 1.21 years, and the average contract value
+  (not including contracts under $10k) was $428.3K. The longest
+  contract was 3.02 years. The largest contract by value (including
+  amendments) was $1.3M.
 most_recent_fiscal_year_total: '634.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '15'
-s431_number_of_contracts_by_vendor_with_amendments: '5'
+s431_number_of_contracts: '15'
+s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '4%'
-s434_mean_number_of_amendments_by_vendor: '1.6'
-s433_total_amendment_increase_value_by_vendor: '111.4K'
-s424_mean_duration_by_vendor: '1.21'
-s421_mean_contract_value_by_vendor: '428.3K'
-s425_max_duration_by_vendor: '3.02'
-s422_max_contract_value_by_vendor: '1.3M'
+s432_mean_amendment_increase_percentage: '4%'
+s434_mean_number_of_amendments: '1.6'
+s433_total_amendment_increase_value: '111.4K'
+s424_mean_duration: '1.21'
+s421_mean_contract_value: '428.3K'
+s425_max_duration: '3.02'
+s422_max_contract_value: '1.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

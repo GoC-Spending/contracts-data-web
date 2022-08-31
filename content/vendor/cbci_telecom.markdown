@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: cbci_telecom
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.9M
   in 2021-2022 on contracts with CBCI TELECOM. The average
-  contract duration was 0.35 year, and the average contract
-  value (not including contracts under $10k) was $67.8K.
-  The longest contract was 4.35 year. The largest contract
-  by value (including amendments) was $3.3M.
+  contract duration was 0.35 years, and the average contract value
+  (not including contracts under $10k) was $67.8K. The longest
+  contract was 4.35 years. The largest contract by value (including
+  amendments) was $3.3M.
 most_recent_fiscal_year_total: '6.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '722'
-s431_number_of_contracts_by_vendor_with_amendments: '36'
+s431_number_of_contracts: '722'
+s431_number_of_contracts_with_amendments: '36'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage_by_vendor: '71%'
-s434_mean_number_of_amendments_by_vendor: '1.08'
-s433_total_amendment_increase_value_by_vendor: '739.7K'
-s424_mean_duration_by_vendor: '0.35'
-s421_mean_contract_value_by_vendor: '67.8K'
-s425_max_duration_by_vendor: '4.35'
-s422_max_contract_value_by_vendor: '3.3M'
+s432_mean_amendment_increase_percentage: '71%'
+s434_mean_number_of_amendments: '1.08'
+s433_total_amendment_increase_value: '739.7K'
+s424_mean_duration: '0.35'
+s421_mean_contract_value: '67.8K'
+s425_max_duration: '4.35'
+s422_max_contract_value: '3.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

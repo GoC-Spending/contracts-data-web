@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: gilmore_reproductions
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
   in 2021-2022 on contracts with GILMORE REPRODUCTIONS. The average
-  contract duration was 0.59 year, and the average contract
-  value (not including contracts under $10k) was $192.7K.
-  The longest contract was 5.01 year. The largest contract
-  by value (including amendments) was $3.5M.
+  contract duration was 0.59 years, and the average contract value
+  (not including contracts under $10k) was $192.7K. The longest
+  contract was 5.01 years. The largest contract by value (including
+  amendments) was $3.5M.
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '85'
-s431_number_of_contracts_by_vendor_with_amendments: '13'
+s431_number_of_contracts: '85'
+s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '15%'
-s432_mean_amendment_increase_percentage_by_vendor: '96%'
-s434_mean_number_of_amendments_by_vendor: '1.38'
-s433_total_amendment_increase_value_by_vendor: '3.6M'
-s424_mean_duration_by_vendor: '0.59'
-s421_mean_contract_value_by_vendor: '192.7K'
-s425_max_duration_by_vendor: '5.01'
-s422_max_contract_value_by_vendor: '3.5M'
+s432_mean_amendment_increase_percentage: '96%'
+s434_mean_number_of_amendments: '1.38'
+s433_total_amendment_increase_value: '3.6M'
+s424_mean_duration: '0.59'
+s421_mean_contract_value: '192.7K'
+s425_max_duration: '5.01'
+s422_max_contract_value: '3.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: 1x1_architecture
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with 1X1 ARCHITECTURE. The average
-  contract duration was 1.56 year, and the average contract
-  value (not including contracts under $10k) was $131.9K.
-  The longest contract was 4.07 year. The largest contract
-  by value (including amendments) was $509.2K.
+  contract duration was 1.56 years, and the average contract value
+  (not including contracts under $10k) was $131.9K. The longest
+  contract was 4.07 years. The largest contract by value (including
+  amendments) was $509.2K.
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '52'
-s431_number_of_contracts_by_vendor_with_amendments: '18'
+s431_number_of_contracts: '52'
+s431_number_of_contracts_with_amendments: '18'
 s431_number_of_contracts_amendments_percentage: '35%'
-s432_mean_amendment_increase_percentage_by_vendor: '26%'
-s434_mean_number_of_amendments_by_vendor: '1.33'
-s433_total_amendment_increase_value_by_vendor: '563.9K'
-s424_mean_duration_by_vendor: '1.56'
-s421_mean_contract_value_by_vendor: '131.9K'
-s425_max_duration_by_vendor: '4.07'
-s422_max_contract_value_by_vendor: '509.2K'
+s432_mean_amendment_increase_percentage: '26%'
+s434_mean_number_of_amendments: '1.33'
+s433_total_amendment_increase_value: '563.9K'
+s424_mean_duration: '1.56'
+s421_mean_contract_value: '131.9K'
+s425_max_duration: '4.07'
+s422_max_contract_value: '509.2K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: sirc-csars
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Security Intelligence Review Committee spent an estimated $478.4K
+  in 2019-2020 on contracts. The average contract duration
+  was 0.75 years, and the average contract value (not including
+  contracts under $10k) was $59.9K. The longest contract was
+  3 years. The largest contract by value (including amendments)
+  was $970.0K.'
+most_recent_fiscal_year_total: '478.4K'
+most_recent_fiscal_year_year: '2019-2020'
+s431_number_of_contracts: '54'
+s431_number_of_contracts_with_amendments: '1'
+s431_number_of_contracts_amendments_percentage: '2%'
+s432_mean_amendment_increase_percentage: '0%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '0.0'
+s424_mean_duration: '0.75'
+s421_mean_contract_value: '59.9K'
+s425_max_duration: '3'
+s422_max_contract_value: '970.0K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Security Intelligence Review Committee spent an estimated **\$478.4K in 2019-2020** on contracts.
-
-Across 54 contracts active since the start of the 2017-2018 fiscal year, 1 have at least one amendment (2%). Of contracts with amendments, the average increase in dollar value was 0% and the average number of amendments was 1. Cumulatively these amendments represent an increase of \$0.0 over the original contract values.
-
-The average contract duration was 0.75 years, and the average contract value (not including contracts under \$10k) was \$59.9K. The longest contract was 3 years. The largest contract by value (including amendments) was \$970.0K.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

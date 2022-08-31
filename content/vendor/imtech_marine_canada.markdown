@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: imtech_marine_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with IMTECH MARINE CANADA. The average
-  contract duration was 0.4 year, and the average contract
-  value (not including contracts under $10k) was $179.8K.
-  The longest contract was 1.64 year. The largest contract
-  by value (including amendments) was $1.0M.
+  contract duration was 0.4 years, and the average contract value
+  (not including contracts under $10k) was $179.8K. The longest
+  contract was 1.64 years. The largest contract by value (including
+  amendments) was $1.0M.
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '66'
-s431_number_of_contracts_by_vendor_with_amendments: '8'
+s431_number_of_contracts: '66'
+s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '12%'
-s432_mean_amendment_increase_percentage_by_vendor: '24%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '429.7K'
-s424_mean_duration_by_vendor: '0.4'
-s421_mean_contract_value_by_vendor: '179.8K'
-s425_max_duration_by_vendor: '1.64'
-s422_max_contract_value_by_vendor: '1.0M'
+s432_mean_amendment_increase_percentage: '24%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '429.7K'
+s424_mean_duration: '0.4'
+s421_mean_contract_value: '179.8K'
+s425_max_duration: '1.64'
+s422_max_contract_value: '1.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

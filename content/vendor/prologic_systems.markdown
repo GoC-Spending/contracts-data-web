@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: prologic_systems
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $764.3K
   in 2021-2022 on contracts with PROLOGIC SYSTEMS. The average
-  contract duration was 0.81 year, and the average contract
-  value (not including contracts under $10k) was $86.9K.
-  The longest contract was 2.41 year. The largest contract
-  by value (including amendments) was $390.6K.
+  contract duration was 0.81 years, and the average contract value
+  (not including contracts under $10k) was $86.9K. The longest
+  contract was 2.41 years. The largest contract by value (including
+  amendments) was $390.6K.
 most_recent_fiscal_year_total: '764.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '85'
-s431_number_of_contracts_by_vendor_with_amendments: '31'
+s431_number_of_contracts: '85'
+s431_number_of_contracts_with_amendments: '31'
 s431_number_of_contracts_amendments_percentage: '36%'
-s432_mean_amendment_increase_percentage_by_vendor: '132%'
-s434_mean_number_of_amendments_by_vendor: '1.32'
-s433_total_amendment_increase_value_by_vendor: '970.8K'
-s424_mean_duration_by_vendor: '0.81'
-s421_mean_contract_value_by_vendor: '86.9K'
-s425_max_duration_by_vendor: '2.41'
-s422_max_contract_value_by_vendor: '390.6K'
+s432_mean_amendment_increase_percentage: '132%'
+s434_mean_number_of_amendments: '1.32'
+s433_total_amendment_increase_value: '970.8K'
+s424_mean_duration: '0.81'
+s421_mean_contract_value: '86.9K'
+s425_max_duration: '2.41'
+s422_max_contract_value: '390.6K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

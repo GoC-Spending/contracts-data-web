@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: b_r_enterprises
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
   in 2021-2022 on contracts with B R ENTERPRISES. The average
-  contract duration was 0.55 year, and the average contract
-  value (not including contracts under $10k) was $1.3M.
-  The longest contract was 1.41 year. The largest contract
-  by value (including amendments) was $4.1M.
+  contract duration was 0.55 years, and the average contract value
+  (not including contracts under $10k) was $1.3M. The longest
+  contract was 1.41 years. The largest contract by value (including
+  amendments) was $4.1M.
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '15'
-s431_number_of_contracts_by_vendor_with_amendments: '9'
+s431_number_of_contracts: '15'
+s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '60%'
-s432_mean_amendment_increase_percentage_by_vendor: '7%'
-s434_mean_number_of_amendments_by_vendor: '1.67'
-s433_total_amendment_increase_value_by_vendor: '763.2K'
-s424_mean_duration_by_vendor: '0.55'
-s421_mean_contract_value_by_vendor: '1.3M'
-s425_max_duration_by_vendor: '1.41'
-s422_max_contract_value_by_vendor: '4.1M'
+s432_mean_amendment_increase_percentage: '7%'
+s434_mean_number_of_amendments: '1.67'
+s433_total_amendment_increase_value: '763.2K'
+s424_mean_duration: '0.55'
+s421_mean_contract_value: '1.3M'
+s425_max_duration: '1.41'
+s422_max_contract_value: '4.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: cer-rec
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Canada Energy Regulator spent an estimated $19.7M
+  in 2021-2022 on contracts. The average contract duration
+  was 1.06 years, and the average contract value (not including
+  contracts under $10k) was $154.4K. The longest contract was
+  7.06 years. The largest contract by value (including amendments)
+  was $2.8M.'
+most_recent_fiscal_year_total: '19.7M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '922'
+s431_number_of_contracts_with_amendments: '143'
+s431_number_of_contracts_amendments_percentage: '16%'
+s432_mean_amendment_increase_percentage: '117%'
+s434_mean_number_of_amendments: '1.36'
+s433_total_amendment_increase_value: '35.4M'
+s424_mean_duration: '1.06'
+s421_mean_contract_value: '154.4K'
+s425_max_duration: '7.06'
+s422_max_contract_value: '2.8M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Canada Energy Regulator spent an estimated **\$19.7M in 2021-2022** on contracts.
-
-Across 922 contracts active since the start of the 2017-2018 fiscal year, 143 have at least one amendment (16%). Of contracts with amendments, the average increase in dollar value was 117% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$35.4M over the original contract values.
-
-The average contract duration was 1.06 years, and the average contract value (not including contracts under \$10k) was \$154.4K. The longest contract was 7.06 years. The largest contract by value (including amendments) was \$2.8M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

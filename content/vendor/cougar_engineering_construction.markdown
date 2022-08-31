@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: cougar_engineering_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.4M
   in 2021-2022 on contracts with COUGAR ENGINEERING CONSTRUCTION. The average
-  contract duration was 1.1 year, and the average contract
-  value (not including contracts under $10k) was $4.0M.
-  The longest contract was 1.52 year. The largest contract
-  by value (including amendments) was $5.7M.
+  contract duration was 1.1 years, and the average contract value
+  (not including contracts under $10k) was $4.0M. The longest
+  contract was 1.52 years. The largest contract by value (including
+  amendments) was $5.7M.
 most_recent_fiscal_year_total: '7.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '3'
-s431_number_of_contracts_by_vendor_with_amendments: '2'
+s431_number_of_contracts: '3'
+s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '67%'
-s432_mean_amendment_increase_percentage_by_vendor: '4%'
-s434_mean_number_of_amendments_by_vendor: '2'
-s433_total_amendment_increase_value_by_vendor: '417.4K'
-s424_mean_duration_by_vendor: '1.1'
-s421_mean_contract_value_by_vendor: '4.0M'
-s425_max_duration_by_vendor: '1.52'
-s422_max_contract_value_by_vendor: '5.7M'
+s432_mean_amendment_increase_percentage: '4%'
+s434_mean_number_of_amendments: '2'
+s433_total_amendment_increase_value: '417.4K'
+s424_mean_duration: '1.1'
+s421_mean_contract_value: '4.0M'
+s425_max_duration: '1.52'
+s422_max_contract_value: '5.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

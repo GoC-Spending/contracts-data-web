@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: parsons_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $55.8M
   in 2021-2022 on contracts with PARSONS CANADA. The average
-  contract duration was 1.91 year, and the average contract
-  value (not including contracts under $10k) was $7.5M.
-  The longest contract was 6.56 year. The largest contract
-  by value (including amendments) was $241.9M.
+  contract duration was 1.91 years, and the average contract value
+  (not including contracts under $10k) was $7.5M. The longest
+  contract was 6.56 years. The largest contract by value (including
+  amendments) was $241.9M.
 most_recent_fiscal_year_total: '55.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '56'
-s431_number_of_contracts_by_vendor_with_amendments: '26'
+s431_number_of_contracts: '56'
+s431_number_of_contracts_with_amendments: '26'
 s431_number_of_contracts_amendments_percentage: '46%'
-s432_mean_amendment_increase_percentage_by_vendor: '314%'
-s434_mean_number_of_amendments_by_vendor: '2.77'
-s433_total_amendment_increase_value_by_vendor: '228.4M'
-s424_mean_duration_by_vendor: '1.91'
-s421_mean_contract_value_by_vendor: '7.5M'
-s425_max_duration_by_vendor: '6.56'
-s422_max_contract_value_by_vendor: '241.9M'
+s432_mean_amendment_increase_percentage: '314%'
+s434_mean_number_of_amendments: '2.77'
+s433_total_amendment_increase_value: '228.4M'
+s424_mean_duration: '1.91'
+s421_mean_contract_value: '7.5M'
+s425_max_duration: '6.56'
+s422_max_contract_value: '241.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

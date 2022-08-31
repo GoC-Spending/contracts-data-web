@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: oag-bvg
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Office of the Auditor General of Canada spent an estimated $17.6M
+  in 2021-2022 on contracts. The average contract duration
+  was 1.07 years, and the average contract value (not including
+  contracts under $10k) was $61.5K. The longest contract was
+  10.76 years. The largest contract by value (including amendments)
+  was $3.7M.'
+most_recent_fiscal_year_total: '17.6M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '1,182'
+s431_number_of_contracts_with_amendments: '175'
+s431_number_of_contracts_amendments_percentage: '15%'
+s432_mean_amendment_increase_percentage: '98%'
+s434_mean_number_of_amendments: '1.21'
+s433_total_amendment_increase_value: '13.5M'
+s424_mean_duration: '1.07'
+s421_mean_contract_value: '61.5K'
+s425_max_duration: '10.76'
+s422_max_contract_value: '3.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Office of the Auditor General of Canada spent an estimated **\$17.6M in 2021-2022** on contracts.
-
-Across 1,182 contracts active since the start of the 2017-2018 fiscal year, 175 have at least one amendment (15%). Of contracts with amendments, the average increase in dollar value was 98% and the average number of amendments was 1.21. Cumulatively these amendments represent an increase of \$13.5M over the original contract values.
-
-The average contract duration was 1.07 years, and the average contract value (not including contracts under \$10k) was \$61.5K. The longest contract was 10.76 years. The largest contract by value (including amendments) was \$3.7M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

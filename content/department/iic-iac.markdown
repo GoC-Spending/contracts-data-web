@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: iic-iac
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Invest in Canada spent an estimated $22.0M
+  in 2021-2022 on contracts. The average contract duration
+  was 0.74 years, and the average contract value (not including
+  contracts under $10k) was $256.7K. The longest contract was
+  5.01 years. The largest contract by value (including amendments)
+  was $8.1M.'
+most_recent_fiscal_year_total: '22.0M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '156'
+s431_number_of_contracts_with_amendments: '14'
+s431_number_of_contracts_amendments_percentage: '9%'
+s432_mean_amendment_increase_percentage: '45%'
+s434_mean_number_of_amendments: '1.36'
+s433_total_amendment_increase_value: '3.5M'
+s424_mean_duration: '0.74'
+s421_mean_contract_value: '256.7K'
+s425_max_duration: '5.01'
+s422_max_contract_value: '8.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Invest in Canada spent an estimated **\$22.0M in 2021-2022** on contracts.
-
-Across 156 contracts active since the start of the 2017-2018 fiscal year, 14 have at least one amendment (9%). Of contracts with amendments, the average increase in dollar value was 45% and the average number of amendments was 1.36. Cumulatively these amendments represent an increase of \$3.5M over the original contract values.
-
-The average contract duration was 0.74 years, and the average contract value (not including contracts under \$10k) was \$256.7K. The longest contract was 5.01 years. The largest contract by value (including amendments) was \$8.1M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

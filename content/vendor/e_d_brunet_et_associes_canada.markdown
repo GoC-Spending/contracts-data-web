@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: e_d_brunet_et_associes_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.2M
   in 2021-2022 on contracts with E D BRUNET ET ASSOCIES CANADA. The average
-  contract duration was 4.16 year, and the average contract
-  value (not including contracts under $10k) was $21.5M.
-  The longest contract was 4.16 year. The largest contract
-  by value (including amendments) was $21.5M.
+  contract duration was 4.16 years, and the average contract value
+  (not including contracts under $10k) was $21.5M. The longest
+  contract was 4.16 years. The largest contract by value (including
+  amendments) was $21.5M.
 most_recent_fiscal_year_total: '5.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '1'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '1'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '100%'
-s432_mean_amendment_increase_percentage_by_vendor: '88%'
-s434_mean_number_of_amendments_by_vendor: '13'
-s433_total_amendment_increase_value_by_vendor: '10.1M'
-s424_mean_duration_by_vendor: '4.16'
-s421_mean_contract_value_by_vendor: '21.5M'
-s425_max_duration_by_vendor: '4.16'
-s422_max_contract_value_by_vendor: '21.5M'
+s432_mean_amendment_increase_percentage: '88%'
+s434_mean_number_of_amendments: '13'
+s433_total_amendment_increase_value: '10.1M'
+s424_mean_duration: '4.16'
+s421_mean_contract_value: '21.5M'
+s425_max_duration: '4.16'
+s422_max_contract_value: '21.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

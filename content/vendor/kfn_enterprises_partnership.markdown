@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: kfn_enterprises_partnership
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $6.4M
   in 2019-2020 on contracts with KFN ENTERPRISES PARTNERSHIP. The average
-  contract duration was 0.12 year, and the average contract
-  value (not including contracts under $10k) was $6.4M.
-  The longest contract was 0.12 year. The largest contract
-  by value (including amendments) was $6.4M.
+  contract duration was 0.12 years, and the average contract value
+  (not including contracts under $10k) was $6.4M. The longest
+  contract was 0.12 years. The largest contract by value (including
+  amendments) was $6.4M.
 most_recent_fiscal_year_total: '6.4M'
 most_recent_fiscal_year_year: '2019-2020'
-s431_number_of_contracts_by_vendor: '1'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '1'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '100%'
-s432_mean_amendment_increase_percentage_by_vendor: '28%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '1.4M'
-s424_mean_duration_by_vendor: '0.12'
-s421_mean_contract_value_by_vendor: '6.4M'
-s425_max_duration_by_vendor: '0.12'
-s422_max_contract_value_by_vendor: '6.4M'
+s432_mean_amendment_increase_percentage: '28%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '1.4M'
+s424_mean_duration: '0.12'
+s421_mean_contract_value: '6.4M'
+s425_max_duration: '0.12'
+s422_max_contract_value: '6.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

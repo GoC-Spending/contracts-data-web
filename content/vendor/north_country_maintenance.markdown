@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: north_country_maintenance
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $771.7K
   in 2019-2020 on contracts with NORTH COUNTRY MAINTENANCE. The average
-  contract duration was 2.68 year, and the average contract
-  value (not including contracts under $10k) was $19.9M.
-  The longest contract was 5.13 year. The largest contract
-  by value (including amendments) was $39.0M.
+  contract duration was 2.68 years, and the average contract value
+  (not including contracts under $10k) was $19.9M. The longest
+  contract was 5.13 years. The largest contract by value (including
+  amendments) was $39.0M.
 most_recent_fiscal_year_total: '771.7K'
 most_recent_fiscal_year_year: '2019-2020'
-s431_number_of_contracts_by_vendor: '2'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '2'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '8%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '3.0M'
-s424_mean_duration_by_vendor: '2.68'
-s421_mean_contract_value_by_vendor: '19.9M'
-s425_max_duration_by_vendor: '5.13'
-s422_max_contract_value_by_vendor: '39.0M'
+s432_mean_amendment_increase_percentage: '8%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '3.0M'
+s424_mean_duration: '2.68'
+s421_mean_contract_value: '19.9M'
+s425_max_duration: '5.13'
+s422_max_contract_value: '39.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

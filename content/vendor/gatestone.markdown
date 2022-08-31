@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: gatestone
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $33.0M
   in 2021-2022 on contracts with GATESTONE. The average
-  contract duration was 0.8 year, and the average contract
-  value (not including contracts under $10k) was $3.4M.
-  The longest contract was 1.36 year. The largest contract
-  by value (including amendments) was $32.4M.
+  contract duration was 0.8 years, and the average contract value
+  (not including contracts under $10k) was $3.4M. The longest
+  contract was 1.36 years. The largest contract by value (including
+  amendments) was $32.4M.
 most_recent_fiscal_year_total: '33.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '18'
-s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts: '18'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '22%'
-s432_mean_amendment_increase_percentage_by_vendor: '84%'
-s434_mean_number_of_amendments_by_vendor: '1.25'
-s433_total_amendment_increase_value_by_vendor: '22.1M'
-s424_mean_duration_by_vendor: '0.8'
-s421_mean_contract_value_by_vendor: '3.4M'
-s425_max_duration_by_vendor: '1.36'
-s422_max_contract_value_by_vendor: '32.4M'
+s432_mean_amendment_increase_percentage: '84%'
+s434_mean_number_of_amendments: '1.25'
+s433_total_amendment_increase_value: '22.1M'
+s424_mean_duration: '0.8'
+s421_mean_contract_value: '3.4M'
+s425_max_duration: '1.36'
+s422_max_contract_value: '32.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: multinational_logistic_services
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $247.1K
   in 2021-2022 on contracts with MULTINATIONAL LOGISTIC SERVICES. The average
-  contract duration was 0.01 year, and the average contract
-  value (not including contracts under $10k) was $74.0K.
-  The longest contract was 0.1 year. The largest contract
-  by value (including amendments) was $283.0K.
+  contract duration was 0.01 years, and the average contract value
+  (not including contracts under $10k) was $74.0K. The longest
+  contract was 0.1 years. The largest contract by value (including
+  amendments) was $283.0K.
 most_recent_fiscal_year_total: '247.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '76'
-s431_number_of_contracts_by_vendor_with_amendments: '11'
+s431_number_of_contracts: '76'
+s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '14%'
-s432_mean_amendment_increase_percentage_by_vendor: '12%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '8.8K'
-s424_mean_duration_by_vendor: '0.01'
-s421_mean_contract_value_by_vendor: '74.0K'
-s425_max_duration_by_vendor: '0.1'
-s422_max_contract_value_by_vendor: '283.0K'
+s432_mean_amendment_increase_percentage: '12%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '8.8K'
+s424_mean_duration: '0.01'
+s421_mean_contract_value: '74.0K'
+s425_max_duration: '0.1'
+s422_max_contract_value: '283.0K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

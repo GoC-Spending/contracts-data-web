@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: nadine_international
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $5.5M
   in 2021-2022 on contracts with NADINE INTERNATIONAL. The average
-  contract duration was 1.14 year, and the average contract
-  value (not including contracts under $10k) was $599.4K.
-  The longest contract was 3.31 year. The largest contract
-  by value (including amendments) was $1.5M.
+  contract duration was 1.14 years, and the average contract value
+  (not including contracts under $10k) was $599.4K. The longest
+  contract was 3.31 years. The largest contract by value (including
+  amendments) was $1.5M.
 most_recent_fiscal_year_total: '5.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '34'
-s431_number_of_contracts_by_vendor_with_amendments: '15'
+s431_number_of_contracts: '34'
+s431_number_of_contracts_with_amendments: '15'
 s431_number_of_contracts_amendments_percentage: '44%'
-s432_mean_amendment_increase_percentage_by_vendor: '353%'
-s434_mean_number_of_amendments_by_vendor: '1.53'
-s433_total_amendment_increase_value_by_vendor: '1.8M'
-s424_mean_duration_by_vendor: '1.14'
-s421_mean_contract_value_by_vendor: '599.4K'
-s425_max_duration_by_vendor: '3.31'
-s422_max_contract_value_by_vendor: '1.5M'
+s432_mean_amendment_increase_percentage: '353%'
+s434_mean_number_of_amendments: '1.53'
+s433_total_amendment_increase_value: '1.8M'
+s424_mean_duration: '1.14'
+s421_mean_contract_value: '599.4K'
+s425_max_duration: '3.31'
+s422_max_contract_value: '1.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

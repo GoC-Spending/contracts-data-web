@@ -5,6 +5,28 @@ date: '2022-08-30'
 slug: statcan
 categories: []
 tags: []
+images:
+  - /img/cover.png
+r_init: |-
+  
+description: 'Statistics Canada spent an estimated $93.4M
+  in 2021-2022 on contracts. The average contract duration
+  was 0.54 years, and the average contract value (not including
+  contracts under $10k) was $220.2K. The longest contract was
+  6.05 years. The largest contract by value (including amendments)
+  was $26.9M.'
+most_recent_fiscal_year_total: '93.4M'
+most_recent_fiscal_year_year: '2021-2022'
+s431_number_of_contracts: '1,358'
+s431_number_of_contracts_with_amendments: '56'
+s431_number_of_contracts_amendments_percentage: '4%'
+s432_mean_amendment_increase_percentage: '95%'
+s434_mean_number_of_amendments: '1.04'
+s433_total_amendment_increase_value: '17.3M'
+s424_mean_duration: '0.54'
+s421_mean_contract_value: '220.2K'
+s425_max_duration: '6.05'
+s422_max_contract_value: '26.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -28,14 +50,8 @@ tags: []
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
-{{< entity_summary >}}
-Statistics Canada spent an estimated **\$93.4M in 2021-2022** on contracts.
-
-Across 1,358 contracts active since the start of the 2017-2018 fiscal year, 56 have at least one amendment (4%). Of contracts with amendments, the average increase in dollar value was 95% and the average number of amendments was 1.04. Cumulatively these amendments represent an increase of \$17.3M over the original contract values.
-
-The average contract duration was 0.54 years, and the average contract value (not including contracts under \$10k) was \$220.2K. The longest contract was 6.05 years. The largest contract by value (including amendments) was \$26.9M.
-
-{{< /entity_summary >}}
+{{< entity_summary_params >}}
+{{< /entity_summary_params >}}
 
 ## Vendors
 

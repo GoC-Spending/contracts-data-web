@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: stepped_care_solutions
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $65.9M
   in 2021-2022 on contracts with STEPPED CARE SOLUTIONS. The average
-  contract duration was 2.33 year, and the average contract
-  value (not including contracts under $10k) was $153.7M.
-  The longest contract was 2.33 year. The largest contract
-  by value (including amendments) was $153.7M.
+  contract duration was 2.33 years, and the average contract value
+  (not including contracts under $10k) was $153.7M. The longest
+  contract was 2.33 years. The largest contract by value (including
+  amendments) was $153.7M.
 most_recent_fiscal_year_total: '65.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '1'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '1'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '100%'
-s432_mean_amendment_increase_percentage_by_vendor: '719%'
-s434_mean_number_of_amendments_by_vendor: '3'
-s433_total_amendment_increase_value_by_vendor: '135.0M'
-s424_mean_duration_by_vendor: '2.33'
-s421_mean_contract_value_by_vendor: '153.7M'
-s425_max_duration_by_vendor: '2.33'
-s422_max_contract_value_by_vendor: '153.7M'
+s432_mean_amendment_increase_percentage: '719%'
+s434_mean_number_of_amendments: '3'
+s433_total_amendment_increase_value: '135.0M'
+s424_mean_duration: '2.33'
+s421_mean_contract_value: '153.7M'
+s425_max_duration: '2.33'
+s422_max_contract_value: '153.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

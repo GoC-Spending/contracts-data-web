@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: schoeler_heaton_architects
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with SCHOELER HEATON ARCHITECTS. The average
-  contract duration was 1.9 year, and the average contract
-  value (not including contracts under $10k) was $337.2K.
-  The longest contract was 7.17 year. The largest contract
-  by value (including amendments) was $1.9M.
+  contract duration was 1.9 years, and the average contract value
+  (not including contracts under $10k) was $337.2K. The longest
+  contract was 7.17 years. The largest contract by value (including
+  amendments) was $1.9M.
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '30'
-s431_number_of_contracts_by_vendor_with_amendments: '14'
+s431_number_of_contracts: '30'
+s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '47%'
-s432_mean_amendment_increase_percentage_by_vendor: '70%'
-s434_mean_number_of_amendments_by_vendor: '1.79'
-s433_total_amendment_increase_value_by_vendor: '1.3M'
-s424_mean_duration_by_vendor: '1.9'
-s421_mean_contract_value_by_vendor: '337.2K'
-s425_max_duration_by_vendor: '7.17'
-s422_max_contract_value_by_vendor: '1.9M'
+s432_mean_amendment_increase_percentage: '70%'
+s434_mean_number_of_amendments: '1.79'
+s433_total_amendment_increase_value: '1.3M'
+s424_mean_duration: '1.9'
+s421_mean_contract_value: '337.2K'
+s425_max_duration: '7.17'
+s422_max_contract_value: '1.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

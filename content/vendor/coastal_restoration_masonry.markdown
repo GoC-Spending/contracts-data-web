@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: coastal_restoration_masonry
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
   in 2021-2022 on contracts with COASTAL RESTORATION MASONRY. The average
-  contract duration was 0.3 year, and the average contract
-  value (not including contracts under $10k) was $154.2K.
-  The longest contract was 6.88 year. The largest contract
-  by value (including amendments) was $7.9M.
+  contract duration was 0.3 years, and the average contract value
+  (not including contracts under $10k) was $154.2K. The longest
+  contract was 6.88 years. The largest contract by value (including
+  amendments) was $7.9M.
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '94'
-s431_number_of_contracts_by_vendor_with_amendments: '9'
+s431_number_of_contracts: '94'
+s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '10%'
-s432_mean_amendment_increase_percentage_by_vendor: '20%'
-s434_mean_number_of_amendments_by_vendor: '2.78'
-s433_total_amendment_increase_value_by_vendor: '4.0M'
-s424_mean_duration_by_vendor: '0.3'
-s421_mean_contract_value_by_vendor: '154.2K'
-s425_max_duration_by_vendor: '6.88'
-s422_max_contract_value_by_vendor: '7.9M'
+s432_mean_amendment_increase_percentage: '20%'
+s434_mean_number_of_amendments: '2.78'
+s433_total_amendment_increase_value: '4.0M'
+s424_mean_duration: '0.3'
+s421_mean_contract_value: '154.2K'
+s425_max_duration: '6.88'
+s422_max_contract_value: '7.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

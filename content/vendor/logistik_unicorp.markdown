@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: logistik_unicorp
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $77.2M
   in 2021-2022 on contracts with LOGISTIK UNICORP. The average
-  contract duration was 0.46 year, and the average contract
-  value (not including contracts under $10k) was $1.9M.
-  The longest contract was 12.18 year. The largest contract
-  by value (including amendments) was $126.4M.
+  contract duration was 0.46 years, and the average contract value
+  (not including contracts under $10k) was $1.9M. The longest
+  contract was 12.18 years. The largest contract by value (including
+  amendments) was $126.4M.
 most_recent_fiscal_year_total: '77.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '181'
-s431_number_of_contracts_by_vendor_with_amendments: '15'
+s431_number_of_contracts: '181'
+s431_number_of_contracts_with_amendments: '15'
 s431_number_of_contracts_amendments_percentage: '8%'
-s432_mean_amendment_increase_percentage_by_vendor: '51%'
-s434_mean_number_of_amendments_by_vendor: '1.8'
-s433_total_amendment_increase_value_by_vendor: '-240.0M'
-s424_mean_duration_by_vendor: '0.46'
-s421_mean_contract_value_by_vendor: '1.9M'
-s425_max_duration_by_vendor: '12.18'
-s422_max_contract_value_by_vendor: '126.4M'
+s432_mean_amendment_increase_percentage: '51%'
+s434_mean_number_of_amendments: '1.8'
+s433_total_amendment_increase_value: '-240.0M'
+s424_mean_duration: '0.46'
+s421_mean_contract_value: '1.9M'
+s425_max_duration: '12.18'
+s422_max_contract_value: '126.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

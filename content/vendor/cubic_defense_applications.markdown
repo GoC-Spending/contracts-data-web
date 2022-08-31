@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: cubic_defense_applications
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $16.7M
   in 2021-2022 on contracts with CUBIC DEFENSE APPLICATIONS. The average
-  contract duration was 4.07 year, and the average contract
-  value (not including contracts under $10k) was $79.4M.
-  The longest contract was 15.01 year. The largest contract
-  by value (including amendments) was $463.4M.
+  contract duration was 4.07 years, and the average contract value
+  (not including contracts under $10k) was $79.4M. The longest
+  contract was 15.01 years. The largest contract by value (including
+  amendments) was $463.4M.
 most_recent_fiscal_year_total: '16.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '6'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '6'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '17%'
-s432_mean_amendment_increase_percentage_by_vendor: '7%'
-s434_mean_number_of_amendments_by_vendor: '3'
-s433_total_amendment_increase_value_by_vendor: '32.2M'
-s424_mean_duration_by_vendor: '4.07'
-s421_mean_contract_value_by_vendor: '79.4M'
-s425_max_duration_by_vendor: '15.01'
-s422_max_contract_value_by_vendor: '463.4M'
+s432_mean_amendment_increase_percentage: '7%'
+s434_mean_number_of_amendments: '3'
+s433_total_amendment_increase_value: '32.2M'
+s424_mean_duration: '4.07'
+s421_mean_contract_value: '79.4M'
+s425_max_duration: '15.01'
+s422_max_contract_value: '463.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: cima
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $7.9M
   in 2021-2022 on contracts with CIMA. The average
-  contract duration was 1.51 year, and the average contract
-  value (not including contracts under $10k) was $315.3K.
-  The longest contract was 6.67 year. The largest contract
-  by value (including amendments) was $5.1M.
+  contract duration was 1.51 years, and the average contract value
+  (not including contracts under $10k) was $315.3K. The longest
+  contract was 6.67 years. The largest contract by value (including
+  amendments) was $5.1M.
 most_recent_fiscal_year_total: '7.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '136'
-s431_number_of_contracts_by_vendor_with_amendments: '56'
+s431_number_of_contracts: '136'
+s431_number_of_contracts_with_amendments: '56'
 s431_number_of_contracts_amendments_percentage: '41%'
-s432_mean_amendment_increase_percentage_by_vendor: '131%'
-s434_mean_number_of_amendments_by_vendor: '1.79'
-s433_total_amendment_increase_value_by_vendor: '7.8M'
-s424_mean_duration_by_vendor: '1.51'
-s421_mean_contract_value_by_vendor: '315.3K'
-s425_max_duration_by_vendor: '6.67'
-s422_max_contract_value_by_vendor: '5.1M'
+s432_mean_amendment_increase_percentage: '131%'
+s434_mean_number_of_amendments: '1.79'
+s433_total_amendment_increase_value: '7.8M'
+s424_mean_duration: '1.51'
+s421_mean_contract_value: '315.3K'
+s425_max_duration: '6.67'
+s422_max_contract_value: '5.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

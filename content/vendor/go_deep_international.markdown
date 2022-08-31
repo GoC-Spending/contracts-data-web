@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: go_deep_international
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
   in 2021-2022 on contracts with GO DEEP INTERNATIONAL. The average
-  contract duration was 0.43 year, and the average contract
-  value (not including contracts under $10k) was $92.2K.
-  The longest contract was 12.19 year. The largest contract
-  by value (including amendments) was $904.0K.
+  contract duration was 0.43 years, and the average contract value
+  (not including contracts under $10k) was $92.2K. The longest
+  contract was 12.19 years. The largest contract by value (including
+  amendments) was $904.0K.
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '128'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '128'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage_by_vendor: '-1%'
-s434_mean_number_of_amendments_by_vendor: '1.17'
-s433_total_amendment_increase_value_by_vendor: '-594.0K'
-s424_mean_duration_by_vendor: '0.43'
-s421_mean_contract_value_by_vendor: '92.2K'
-s425_max_duration_by_vendor: '12.19'
-s422_max_contract_value_by_vendor: '904.0K'
+s432_mean_amendment_increase_percentage: '-1%'
+s434_mean_number_of_amendments: '1.17'
+s433_total_amendment_increase_value: '-594.0K'
+s424_mean_duration: '0.43'
+s421_mean_contract_value: '92.2K'
+s425_max_duration: '12.19'
+s422_max_contract_value: '904.0K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

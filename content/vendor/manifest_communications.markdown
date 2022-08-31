@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: manifest_communications
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $627.2K
   in 2021-2022 on contracts with MANIFEST COMMUNICATIONS. The average
-  contract duration was 1.44 year, and the average contract
-  value (not including contracts under $10k) was $959.0K.
-  The longest contract was 4.63 year. The largest contract
-  by value (including amendments) was $2.9M.
+  contract duration was 1.44 years, and the average contract value
+  (not including contracts under $10k) was $959.0K. The longest
+  contract was 4.63 years. The largest contract by value (including
+  amendments) was $2.9M.
 most_recent_fiscal_year_total: '627.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '6'
-s431_number_of_contracts_by_vendor_with_amendments: '3'
+s431_number_of_contracts: '6'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '132%'
-s434_mean_number_of_amendments_by_vendor: '4.33'
-s433_total_amendment_increase_value_by_vendor: '3.4M'
-s424_mean_duration_by_vendor: '1.44'
-s421_mean_contract_value_by_vendor: '959.0K'
-s425_max_duration_by_vendor: '4.63'
-s422_max_contract_value_by_vendor: '2.9M'
+s432_mean_amendment_increase_percentage: '132%'
+s434_mean_number_of_amendments: '4.33'
+s433_total_amendment_increase_value: '3.4M'
+s424_mean_duration: '1.44'
+s421_mean_contract_value: '959.0K'
+s425_max_duration: '4.63'
+s422_max_contract_value: '2.9M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

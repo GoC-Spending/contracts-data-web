@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: irving_shipbuilding
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $532.2M
   in 2021-2022 on contracts with IRVING SHIPBUILDING. The average
-  contract duration was 2.75 year, and the average contract
-  value (not including contracts under $10k) was $312.5M.
-  The longest contract was 13.76 year. The largest contract
-  by value (including amendments) was $3.3B.
+  contract duration was 2.75 years, and the average contract value
+  (not including contracts under $10k) was $312.5M. The longest
+  contract was 13.76 years. The largest contract by value (including
+  amendments) was $3.3B.
 most_recent_fiscal_year_total: '532.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '18'
-s431_number_of_contracts_by_vendor_with_amendments: '7'
+s431_number_of_contracts: '18'
+s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '39%'
-s432_mean_amendment_increase_percentage_by_vendor: '584%'
-s434_mean_number_of_amendments_by_vendor: '3.29'
-s433_total_amendment_increase_value_by_vendor: '1.9B'
-s424_mean_duration_by_vendor: '2.75'
-s421_mean_contract_value_by_vendor: '312.5M'
-s425_max_duration_by_vendor: '13.76'
-s422_max_contract_value_by_vendor: '3.3B'
+s432_mean_amendment_increase_percentage: '584%'
+s434_mean_number_of_amendments: '3.29'
+s433_total_amendment_increase_value: '1.9B'
+s424_mean_duration: '2.75'
+s421_mean_contract_value: '312.5M'
+s425_max_duration: '13.76'
+s422_max_contract_value: '3.3B'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

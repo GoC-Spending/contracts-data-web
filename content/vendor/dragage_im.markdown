@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: dragage_im
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $469.8K
   in 2021-2022 on contracts with DRAGAGE IM. The average
-  contract duration was 1.68 year, and the average contract
-  value (not including contracts under $10k) was $1.0M.
-  The longest contract was 5.29 year. The largest contract
-  by value (including amendments) was $5.0M.
+  contract duration was 1.68 years, and the average contract value
+  (not including contracts under $10k) was $1.0M. The longest
+  contract was 5.29 years. The largest contract by value (including
+  amendments) was $5.0M.
 most_recent_fiscal_year_total: '469.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '9'
-s431_number_of_contracts_by_vendor_with_amendments: '6'
+s431_number_of_contracts: '9'
+s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '67%'
-s432_mean_amendment_increase_percentage_by_vendor: '84%'
-s434_mean_number_of_amendments_by_vendor: '2.5'
-s433_total_amendment_increase_value_by_vendor: '-7.0M'
-s424_mean_duration_by_vendor: '1.68'
-s421_mean_contract_value_by_vendor: '1.0M'
-s425_max_duration_by_vendor: '5.29'
-s422_max_contract_value_by_vendor: '5.0M'
+s432_mean_amendment_increase_percentage: '84%'
+s434_mean_number_of_amendments: '2.5'
+s433_total_amendment_increase_value: '-7.0M'
+s424_mean_duration: '1.68'
+s421_mean_contract_value: '1.0M'
+s425_max_duration: '5.29'
+s422_max_contract_value: '5.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

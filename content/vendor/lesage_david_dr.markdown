@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: lesage_david_dr
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $817.5K
   in 2021-2022 on contracts with LESAGE DAVID DR. The average
-  contract duration was 2.89 year, and the average contract
-  value (not including contracts under $10k) was $1.0M.
-  The longest contract was 4.25 year. The largest contract
-  by value (including amendments) was $2.1M.
+  contract duration was 2.89 years, and the average contract value
+  (not including contracts under $10k) was $1.0M. The longest
+  contract was 4.25 years. The largest contract by value (including
+  amendments) was $2.1M.
 most_recent_fiscal_year_total: '817.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '8'
-s431_number_of_contracts_by_vendor_with_amendments: '5'
+s431_number_of_contracts: '8'
+s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '62%'
-s432_mean_amendment_increase_percentage_by_vendor: '287%'
-s434_mean_number_of_amendments_by_vendor: '1.6'
-s433_total_amendment_increase_value_by_vendor: '5.1M'
-s424_mean_duration_by_vendor: '2.89'
-s421_mean_contract_value_by_vendor: '1.0M'
-s425_max_duration_by_vendor: '4.25'
-s422_max_contract_value_by_vendor: '2.1M'
+s432_mean_amendment_increase_percentage: '287%'
+s434_mean_number_of_amendments: '1.6'
+s433_total_amendment_increase_value: '5.1M'
+s424_mean_duration: '2.89'
+s421_mean_contract_value: '1.0M'
+s425_max_duration: '4.25'
+s422_max_contract_value: '2.1M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

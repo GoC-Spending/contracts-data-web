@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: pomerleau
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $189.0M
   in 2021-2022 on contracts with POMERLEAU. The average
-  contract duration was 3.11 year, and the average contract
-  value (not including contracts under $10k) was $38.4M.
-  The longest contract was 5.78 year. The largest contract
-  by value (including amendments) was $238.2M.
+  contract duration was 3.11 years, and the average contract value
+  (not including contracts under $10k) was $38.4M. The longest
+  contract was 5.78 years. The largest contract by value (including
+  amendments) was $238.2M.
 most_recent_fiscal_year_total: '189.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '32'
-s431_number_of_contracts_by_vendor_with_amendments: '16'
+s431_number_of_contracts: '32'
+s431_number_of_contracts_with_amendments: '16'
 s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage_by_vendor: '1405%'
-s434_mean_number_of_amendments_by_vendor: '4.31'
-s433_total_amendment_increase_value_by_vendor: '353.5M'
-s424_mean_duration_by_vendor: '3.11'
-s421_mean_contract_value_by_vendor: '38.4M'
-s425_max_duration_by_vendor: '5.78'
-s422_max_contract_value_by_vendor: '238.2M'
+s432_mean_amendment_increase_percentage: '1405%'
+s434_mean_number_of_amendments: '4.31'
+s433_total_amendment_increase_value: '353.5M'
+s424_mean_duration: '3.11'
+s421_mean_contract_value: '38.4M'
+s425_max_duration: '5.78'
+s422_max_contract_value: '238.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

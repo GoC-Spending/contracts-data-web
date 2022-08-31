@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: transpolar_technology
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.7M
   in 2021-2022 on contracts with TRANSPOLAR TECHNOLOGY. The average
-  contract duration was 1.78 year, and the average contract
-  value (not including contracts under $10k) was $433.4K.
-  The longest contract was 11.01 year. The largest contract
-  by value (including amendments) was $9.3M.
+  contract duration was 1.78 years, and the average contract value
+  (not including contracts under $10k) was $433.4K. The longest
+  contract was 11.01 years. The largest contract by value (including
+  amendments) was $9.3M.
 most_recent_fiscal_year_total: '3.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '89'
-s431_number_of_contracts_by_vendor_with_amendments: '13'
+s431_number_of_contracts: '89'
+s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '15%'
-s432_mean_amendment_increase_percentage_by_vendor: '112%'
-s434_mean_number_of_amendments_by_vendor: '1.62'
-s433_total_amendment_increase_value_by_vendor: '9.4M'
-s424_mean_duration_by_vendor: '1.78'
-s421_mean_contract_value_by_vendor: '433.4K'
-s425_max_duration_by_vendor: '11.01'
-s422_max_contract_value_by_vendor: '9.3M'
+s432_mean_amendment_increase_percentage: '112%'
+s434_mean_number_of_amendments: '1.62'
+s433_total_amendment_increase_value: '9.4M'
+s424_mean_duration: '1.78'
+s421_mean_contract_value: '433.4K'
+s425_max_duration: '11.01'
+s422_max_contract_value: '9.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: canada_post
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.9M
   in 2021-2022 on contracts with CANADA POST. The average
-  contract duration was 1.01 year, and the average contract
-  value (not including contracts under $10k) was $96.6K.
-  The longest contract was 9.06 year. The largest contract
-  by value (including amendments) was $13.2M.
+  contract duration was 1.01 years, and the average contract value
+  (not including contracts under $10k) was $96.6K. The longest
+  contract was 9.06 years. The largest contract by value (including
+  amendments) was $13.2M.
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '270'
-s431_number_of_contracts_by_vendor_with_amendments: '40'
+s431_number_of_contracts: '270'
+s431_number_of_contracts_with_amendments: '40'
 s431_number_of_contracts_amendments_percentage: '15%'
-s432_mean_amendment_increase_percentage_by_vendor: '138%'
-s434_mean_number_of_amendments_by_vendor: '2.3'
-s433_total_amendment_increase_value_by_vendor: '13.5M'
-s424_mean_duration_by_vendor: '1.01'
-s421_mean_contract_value_by_vendor: '96.6K'
-s425_max_duration_by_vendor: '9.06'
-s422_max_contract_value_by_vendor: '13.2M'
+s432_mean_amendment_increase_percentage: '138%'
+s434_mean_number_of_amendments: '2.3'
+s433_total_amendment_increase_value: '13.5M'
+s424_mean_duration: '1.01'
+s421_mean_contract_value: '96.6K'
+s425_max_duration: '9.06'
+s422_max_contract_value: '13.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

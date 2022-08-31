@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: m_sullivan_son
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $10.2M
   in 2021-2022 on contracts with M SULLIVAN SON. The average
-  contract duration was 2.88 year, and the average contract
-  value (not including contracts under $10k) was $5.6M.
-  The longest contract was 7.15 year. The largest contract
-  by value (including amendments) was $14.7M.
+  contract duration was 2.88 years, and the average contract value
+  (not including contracts under $10k) was $5.6M. The longest
+  contract was 7.15 years. The largest contract by value (including
+  amendments) was $14.7M.
 most_recent_fiscal_year_total: '10.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '6'
-s431_number_of_contracts_by_vendor_with_amendments: '2'
+s431_number_of_contracts: '6'
+s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '29%'
-s434_mean_number_of_amendments_by_vendor: '2'
-s433_total_amendment_increase_value_by_vendor: '2.0M'
-s424_mean_duration_by_vendor: '2.88'
-s421_mean_contract_value_by_vendor: '5.6M'
-s425_max_duration_by_vendor: '7.15'
-s422_max_contract_value_by_vendor: '14.7M'
+s432_mean_amendment_increase_percentage: '29%'
+s434_mean_number_of_amendments: '2'
+s433_total_amendment_increase_value: '2.0M'
+s424_mean_duration: '2.88'
+s421_mean_contract_value: '5.6M'
+s425_max_duration: '7.15'
+s422_max_contract_value: '14.7M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: ameresco_canada
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $21.8M
   in 2021-2022 on contracts with AMERESCO CANADA. The average
-  contract duration was 8.41 year, and the average contract
-  value (not including contracts under $10k) was $16.6M.
-  The longest contract was 18.66 year. The largest contract
-  by value (including amendments) was $67.2M.
+  contract duration was 8.41 years, and the average contract value
+  (not including contracts under $10k) was $16.6M. The longest
+  contract was 18.66 years. The largest contract by value (including
+  amendments) was $67.2M.
 most_recent_fiscal_year_total: '21.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '19'
-s431_number_of_contracts_by_vendor_with_amendments: '10'
+s431_number_of_contracts: '19'
+s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '53%'
-s432_mean_amendment_increase_percentage_by_vendor: '5822%'
-s434_mean_number_of_amendments_by_vendor: '3.5'
-s433_total_amendment_increase_value_by_vendor: '220.4M'
-s424_mean_duration_by_vendor: '8.41'
-s421_mean_contract_value_by_vendor: '16.6M'
-s425_max_duration_by_vendor: '18.66'
-s422_max_contract_value_by_vendor: '67.2M'
+s432_mean_amendment_increase_percentage: '5822%'
+s434_mean_number_of_amendments: '3.5'
+s433_total_amendment_increase_value: '220.4M'
+s424_mean_duration: '8.41'
+s421_mean_contract_value: '16.6M'
+s425_max_duration: '18.66'
+s422_max_contract_value: '67.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

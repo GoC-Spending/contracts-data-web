@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: avmax_aviation_services
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $254.2K
   in 2021-2022 on contracts with AVMAX AVIATION SERVICES. The average
-  contract duration was 0.06 year, and the average contract
-  value (not including contracts under $10k) was $212.2K.
-  The longest contract was 0.39 year. The largest contract
-  by value (including amendments) was $7.2M.
+  contract duration was 0.06 years, and the average contract value
+  (not including contracts under $10k) was $212.2K. The longest
+  contract was 0.39 years. The largest contract by value (including
+  amendments) was $7.2M.
 most_recent_fiscal_year_total: '254.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '38'
-s431_number_of_contracts_by_vendor_with_amendments: '4'
+s431_number_of_contracts: '38'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '11%'
-s432_mean_amendment_increase_percentage_by_vendor: '87%'
-s434_mean_number_of_amendments_by_vendor: '1.25'
-s433_total_amendment_increase_value_by_vendor: '21.2K'
-s424_mean_duration_by_vendor: '0.06'
-s421_mean_contract_value_by_vendor: '212.2K'
-s425_max_duration_by_vendor: '0.39'
-s422_max_contract_value_by_vendor: '7.2M'
+s432_mean_amendment_increase_percentage: '87%'
+s434_mean_number_of_amendments: '1.25'
+s433_total_amendment_increase_value: '21.2K'
+s424_mean_duration: '0.06'
+s421_mean_contract_value: '212.2K'
+s425_max_duration: '0.39'
+s422_max_contract_value: '7.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

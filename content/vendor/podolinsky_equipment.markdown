@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: podolinsky_equipment
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.6M
   in 2021-2022 on contracts with PODOLINSKY EQUIPMENT. The average
-  contract duration was 0.49 year, and the average contract
-  value (not including contracts under $10k) was $126.3K.
-  The longest contract was 3.02 year. The largest contract
-  by value (including amendments) was $1.2M.
+  contract duration was 0.49 years, and the average contract value
+  (not including contracts under $10k) was $126.3K. The longest
+  contract was 3.02 years. The largest contract by value (including
+  amendments) was $1.2M.
 most_recent_fiscal_year_total: '3.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts_by_vendor: '105'
-s431_number_of_contracts_by_vendor_with_amendments: '5'
+s431_number_of_contracts: '105'
+s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage_by_vendor: '11%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '67.4K'
-s424_mean_duration_by_vendor: '0.49'
-s421_mean_contract_value_by_vendor: '126.3K'
-s425_max_duration_by_vendor: '3.02'
-s422_max_contract_value_by_vendor: '1.2M'
+s432_mean_amendment_increase_percentage: '11%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '67.4K'
+s424_mean_duration: '0.49'
+s421_mean_contract_value: '126.3K'
+s425_max_duration: '3.02'
+s422_max_contract_value: '1.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

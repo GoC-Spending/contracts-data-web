@@ -5,26 +5,28 @@ date: '2022-08-30'
 slug: quad_pro_construction
 categories: []
 tags: []
+images:
+  - /img/cover.png
 r_init: |-
   
 description: The Government of Canada spent an estimated $4.6M
   in 2018-2019 on contracts with QUAD PRO CONSTRUCTION. The average
-  contract duration was 1.43 year, and the average contract
-  value (not including contracts under $10k) was $10.6M.
-  The longest contract was 2 year. The largest contract
-  by value (including amendments) was $27.6M.
+  contract duration was 1.43 years, and the average contract value
+  (not including contracts under $10k) was $10.6M. The longest
+  contract was 2 years. The largest contract by value (including
+  amendments) was $27.6M.
 most_recent_fiscal_year_total: '4.6M'
 most_recent_fiscal_year_year: '2018-2019'
-s431_number_of_contracts_by_vendor: '3'
-s431_number_of_contracts_by_vendor_with_amendments: '1'
+s431_number_of_contracts: '3'
+s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage_by_vendor: '44%'
-s434_mean_number_of_amendments_by_vendor: '1'
-s433_total_amendment_increase_value_by_vendor: '457.7K'
-s424_mean_duration_by_vendor: '1.43'
-s421_mean_contract_value_by_vendor: '10.6M'
-s425_max_duration_by_vendor: '2'
-s422_max_contract_value_by_vendor: '27.6M'
+s432_mean_amendment_increase_percentage: '44%'
+s434_mean_number_of_amendments: '1'
+s433_total_amendment_increase_value: '457.7K'
+s424_mean_duration: '1.43'
+s421_mean_contract_value: '10.6M'
+s425_max_duration: '2'
+s422_max_contract_value: '27.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

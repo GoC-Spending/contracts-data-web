@@ -1,7 +1,7 @@
 ---
-title: Adp Canada
+title: ADP Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: adp_canada
 categories: []
 tags: []
@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $3.8M
-  in 2021-2022 on contracts with Adp Canada. The average
+  in 2021-2022 on contracts with ADP Canada. The average
   contract duration was 7.01 years, and the average contract value
   (not including contracts under $10k) was $26.6M. The longest
   contract was 7.01 years. The largest contract by value (including

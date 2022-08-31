@@ -1,7 +1,7 @@
 ---
 title: Kasian Architecture Interior Design
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: kasian_architecture_interior_design
 categories: []
 tags: []

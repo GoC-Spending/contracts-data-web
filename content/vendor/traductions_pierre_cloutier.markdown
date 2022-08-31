@@ -1,7 +1,7 @@
 ---
 title: Traductions Pierre Cloutier
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: traductions_pierre_cloutier
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: S P Global Market Intelligence
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: s_p_global_market_intelligence
 categories: []
 tags: []

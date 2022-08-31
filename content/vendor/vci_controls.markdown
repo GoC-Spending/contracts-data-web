@@ -1,7 +1,7 @@
 ---
 title: VCI Controls
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: vci_controls
 categories: []
 tags: []

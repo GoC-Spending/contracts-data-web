@@ -1,7 +1,7 @@
 ---
 title: Canadian Fishing Company
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: canadian_fishing_company
 categories: []
 tags: []

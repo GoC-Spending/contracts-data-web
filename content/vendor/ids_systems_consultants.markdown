@@ -1,7 +1,7 @@
 ---
 title: IDS Systems Consultants
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: ids_systems_consultants
 categories: []
 tags: []

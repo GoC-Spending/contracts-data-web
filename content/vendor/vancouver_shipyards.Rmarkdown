@@ -1,7 +1,7 @@
 ---
 title: Vancouver Shipyards
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: vancouver_shipyards
 categories: []
 tags: []

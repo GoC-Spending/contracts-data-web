@@ -1,7 +1,7 @@
 ---
 title: Irving Shipbuilding
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: irving_shipbuilding
 categories: []
 tags: []

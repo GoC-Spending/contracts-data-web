@@ -215,6 +215,8 @@ build_all_pages <- function() {
 }
 
 
+# Note: Restart the session first (even if the Hugo server isn't running)
+# to ensure that updated meta vendor lists are loaded first.
 # Do everything!
 generate_and_build <- function() {
   generate_all_pages(TRUE)

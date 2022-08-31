@@ -1,7 +1,7 @@
 ---
 title: Fish Food and Allied Workers
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: fish_food_and_allied_workers
 categories: []
 tags: []

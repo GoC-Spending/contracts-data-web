@@ -1,7 +1,7 @@
 ---
 title: AV Nunavut Fuels
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: av_nunavut_fuels
 categories: []
 tags: []

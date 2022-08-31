@@ -1,7 +1,7 @@
 ---
 title: Maritime Fence
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: maritime_fence
 categories: []
 tags: []

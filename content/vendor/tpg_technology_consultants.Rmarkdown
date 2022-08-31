@@ -1,7 +1,7 @@
 ---
 title: Tpg Technology Consultants
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: tpg_technology_consultants
 categories: []
 tags: []

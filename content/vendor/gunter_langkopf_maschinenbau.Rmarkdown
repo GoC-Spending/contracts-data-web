@@ -1,7 +1,7 @@
 ---
 title: Gunter Langkopf Maschinenbau
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: gunter_langkopf_maschinenbau
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Number Ten Architectural Group
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: number_ten_architectural_group
 categories: []
 tags: []

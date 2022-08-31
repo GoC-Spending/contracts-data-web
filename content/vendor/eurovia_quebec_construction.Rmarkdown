@@ -1,7 +1,7 @@
 ---
 title: Eurovia Quebec Construction
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: eurovia_quebec_construction
 categories: []
 tags: []

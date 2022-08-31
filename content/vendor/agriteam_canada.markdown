@@ -1,7 +1,7 @@
 ---
 title: Agriteam Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: agriteam_canada
 categories: []
 tags: []

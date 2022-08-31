@@ -1,7 +1,7 @@
 ---
 title: Entreprise de Construction T E Q
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: entreprise_de_construction_t_e_q
 categories: []
 tags: []

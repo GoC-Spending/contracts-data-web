@@ -1,7 +1,7 @@
 ---
 title: GSI International Consulting
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: gsi_international_consulting
 categories: []
 tags: []

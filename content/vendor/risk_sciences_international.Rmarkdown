@@ -1,7 +1,7 @@
 ---
 title: Risk Sciences International
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: risk_sciences_international
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Louis W Bray Construction
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: louis_w_bray_construction
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Impact Assessment Agency of Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: iaac-aeic
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Lannick Contract Solutions
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: lannick_contract_solutions
 categories: []
 tags: []

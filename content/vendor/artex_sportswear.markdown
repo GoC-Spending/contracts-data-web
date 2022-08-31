@@ -1,7 +1,7 @@
 ---
 title: Artex Sportswear
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: artex_sportswear
 categories: []
 tags: []

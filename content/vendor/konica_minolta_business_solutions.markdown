@@ -1,7 +1,7 @@
 ---
 title: Konica Minolta Business Solutions
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: konica_minolta_business_solutions
 categories: []
 tags: []

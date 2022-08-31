@@ -1,7 +1,7 @@
 ---
 title: MAN Energy Solutions Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: man_energy_solutions_canada
 categories: []
 tags: []

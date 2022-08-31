@@ -1,7 +1,7 @@
 ---
 title: Reformar
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: reformar
 categories: []
 tags: []

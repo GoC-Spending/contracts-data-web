@@ -1,7 +1,7 @@
 ---
 title: Lazy H Trail Company
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: lazy_h_trail_company
 categories: []
 tags: []

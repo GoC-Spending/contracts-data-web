@@ -1,7 +1,7 @@
 ---
 title: Amec Foster Wheeler Americas
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: amec_foster_wheeler_americas
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Laboratoires Omega
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: laboratoires_omega
 categories: []
 tags: []

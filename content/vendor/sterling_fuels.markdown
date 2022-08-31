@@ -1,7 +1,7 @@
 ---
 title: Sterling Fuels
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: sterling_fuels
 categories: []
 tags: []

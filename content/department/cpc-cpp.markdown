@@ -1,7 +1,7 @@
 ---
 title: Civilian Review and Complaints Commission for the RCMP
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: cpc-cpp
 categories: []
 tags: []

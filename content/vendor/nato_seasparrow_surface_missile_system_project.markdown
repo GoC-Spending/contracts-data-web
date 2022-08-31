@@ -1,7 +1,7 @@
 ---
 title: Nato Seasparrow Surface Missile System Project
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: nato_seasparrow_surface_missile_system_project
 categories: []
 tags: []

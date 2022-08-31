@@ -1,7 +1,7 @@
 ---
 title: Mustang Helicopters
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: mustang_helicopters
 categories: []
 tags: []

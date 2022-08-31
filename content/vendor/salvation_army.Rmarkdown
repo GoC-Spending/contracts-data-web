@@ -1,7 +1,7 @@
 ---
 title: Salvation Army
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: salvation_army
 categories: []
 tags: []

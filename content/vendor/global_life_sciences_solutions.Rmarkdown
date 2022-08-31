@@ -1,7 +1,7 @@
 ---
 title: Global Life Sciences Solutions
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: global_life_sciences_solutions
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Amtech Aeronautical
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: amtech_aeronautical
 categories: []
 tags: []

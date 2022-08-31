@@ -1,7 +1,7 @@
 ---
 title: Excel 7
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: excel_7
 categories: []
 tags: []

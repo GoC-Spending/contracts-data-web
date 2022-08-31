@@ -1,7 +1,7 @@
 ---
 title: United Church Halfway Homes
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: united_church_halfway_homes
 categories: []
 tags: []

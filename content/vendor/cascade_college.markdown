@@ -1,7 +1,7 @@
 ---
 title: Cascade College
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: cascade_college
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Glencairn Educational Services
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: glencairn_educational_services
 categories: []
 tags: []

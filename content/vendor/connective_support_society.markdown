@@ -1,7 +1,7 @@
 ---
 title: Connective Support Society
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: connective_support_society
 categories: []
 tags: []

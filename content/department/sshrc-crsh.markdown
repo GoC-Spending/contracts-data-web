@@ -1,7 +1,7 @@
 ---
 title: Social Sciences and Humanities Research Council of Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: sshrc-crsh
 categories: []
 tags: []

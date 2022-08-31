@@ -1,7 +1,7 @@
 ---
 title: IMP Group
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: imp_group
 categories: []
 tags: []

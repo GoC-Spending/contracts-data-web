@@ -1,7 +1,7 @@
 ---
-title: Av Tech
+title: AV Tech
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: av_tech
 categories: []
 tags: []
@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
-  in 2021-2022 on contracts with Av Tech. The average
+  in 2021-2022 on contracts with AV Tech. The average
   contract duration was 0.58 years, and the average contract value
   (not including contracts under $10k) was $132.1K. The longest
   contract was 6.34 years. The largest contract by value (including

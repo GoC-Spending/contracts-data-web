@@ -1,7 +1,7 @@
 ---
 title: D2L
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: d2l
 categories: []
 tags: []

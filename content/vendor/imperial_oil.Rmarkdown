@@ -1,7 +1,7 @@
 ---
 title: Imperial Oil
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: imperial_oil
 categories: []
 tags: []

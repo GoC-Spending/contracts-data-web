@@ -1,7 +1,7 @@
 ---
 title: Navpoint Consulting Group
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: navpoint_consulting_group
 categories: []
 tags: []

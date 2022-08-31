@@ -1,7 +1,7 @@
 ---
 title: Ford Motor Company
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: ford_motor_company
 categories: []
 tags: []

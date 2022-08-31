@@ -1,7 +1,7 @@
 ---
 title: NUA Office
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: nua_office
 categories: []
 tags: []

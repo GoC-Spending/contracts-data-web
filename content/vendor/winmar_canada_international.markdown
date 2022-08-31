@@ -1,7 +1,7 @@
 ---
 title: WINMAR Canada International
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: winmar_canada_international
 categories: []
 tags: []

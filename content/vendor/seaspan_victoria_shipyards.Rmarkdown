@@ -1,7 +1,7 @@
 ---
 title: Seaspan Victoria Shipyards
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: seaspan_victoria_shipyards
 categories: []
 tags: []

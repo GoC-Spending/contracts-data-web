@@ -1,7 +1,7 @@
 ---
 title: Manpower Services Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: manpower_services_canada
 categories: []
 tags: []

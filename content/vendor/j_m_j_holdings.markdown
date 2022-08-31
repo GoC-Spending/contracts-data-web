@@ -1,7 +1,7 @@
 ---
 title: J M J Holdings
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: j_m_j_holdings
 categories: []
 tags: []

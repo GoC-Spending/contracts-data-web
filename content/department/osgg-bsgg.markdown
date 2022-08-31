@@ -1,7 +1,7 @@
 ---
 title: Office of the Secretary to the Governor General
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: osgg-bsgg
 categories: []
 tags: []

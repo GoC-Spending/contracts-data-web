@@ -1,7 +1,7 @@
 ---
 title: Applied Electonics
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: applied_electonics
 categories: []
 tags: []

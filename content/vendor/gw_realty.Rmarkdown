@@ -1,7 +1,7 @@
 ---
 title: GW Realty
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: gw_realty
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Les Constructions Binet
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: les_constructions_binet
 categories: []
 tags: []

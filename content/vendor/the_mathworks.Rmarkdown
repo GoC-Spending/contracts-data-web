@@ -1,7 +1,7 @@
 ---
 title: The Mathworks
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: the_mathworks
 categories: []
 tags: []

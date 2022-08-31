@@ -1,7 +1,7 @@
 ---
 title: D H Partnership
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: d_h_partnership
 categories: []
 tags: []

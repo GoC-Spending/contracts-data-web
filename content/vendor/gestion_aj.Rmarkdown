@@ -1,7 +1,7 @@
 ---
 title: Gestion AJ
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: gestion_aj
 categories: []
 tags: []

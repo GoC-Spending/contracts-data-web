@@ -1,7 +1,7 @@
 ---
 title: Data Communications Management
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: data_communications_management
 categories: []
 tags: []

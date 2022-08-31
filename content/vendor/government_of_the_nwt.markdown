@@ -1,7 +1,7 @@
 ---
 title: Government of the NWT
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: government_of_the_nwt
 categories: []
 tags: []

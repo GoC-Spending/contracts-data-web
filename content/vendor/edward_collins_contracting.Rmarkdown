@@ -1,7 +1,7 @@
 ---
 title: Edward Collins Contracting
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: edward_collins_contracting
 categories: []
 tags: []

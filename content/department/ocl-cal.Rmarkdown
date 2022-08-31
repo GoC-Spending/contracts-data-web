@@ -1,7 +1,7 @@
 ---
 title: Office of the Commissioner of Lobbying of Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: ocl-cal
 categories: []
 tags: []

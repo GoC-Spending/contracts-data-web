@@ -1,7 +1,7 @@
 ---
 title: Jowa Fahrzeugteile Vertriebs
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: jowa_fahrzeugteile_vertriebs
 categories: []
 tags: []

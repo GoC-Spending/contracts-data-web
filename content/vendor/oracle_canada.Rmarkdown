@@ -1,7 +1,7 @@
 ---
 title: Oracle Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: oracle_canada
 categories: []
 tags: []

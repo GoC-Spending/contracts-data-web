@@ -1,7 +1,7 @@
 ---
 title: The Masha Krupp Translation Group
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: the_masha_krupp_translation_group
 categories: []
 tags: []

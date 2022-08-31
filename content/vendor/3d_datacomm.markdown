@@ -1,7 +1,7 @@
 ---
 title: 3D datacomm
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: 3d_datacomm
 categories: []
 tags: []

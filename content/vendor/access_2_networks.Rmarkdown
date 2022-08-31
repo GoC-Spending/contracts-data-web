@@ -1,7 +1,7 @@
 ---
 title: Access 2 Networks
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: access_2_networks
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Lesage David Dr
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: lesage_david_dr
 categories: []
 tags: []

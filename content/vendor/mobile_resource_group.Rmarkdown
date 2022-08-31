@@ -1,7 +1,7 @@
 ---
 title: Mobile Resource Group
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: mobile_resource_group
 categories: []
 tags: []

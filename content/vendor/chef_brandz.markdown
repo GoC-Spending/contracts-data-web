@@ -1,7 +1,7 @@
 ---
 title: Chef Brandz
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: chef_brandz
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Eagle Professional Resources
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: eagle_professional_resources
 categories: []
 tags: []

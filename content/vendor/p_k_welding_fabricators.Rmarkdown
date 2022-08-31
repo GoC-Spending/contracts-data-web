@@ -1,7 +1,7 @@
 ---
 title: P K Welding Fabricators
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: p_k_welding_fabricators
 categories: []
 tags: []

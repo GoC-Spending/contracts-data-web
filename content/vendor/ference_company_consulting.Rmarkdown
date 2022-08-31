@@ -1,7 +1,7 @@
 ---
 title: Ference Company Consulting
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: ference_company_consulting
 categories: []
 tags: []

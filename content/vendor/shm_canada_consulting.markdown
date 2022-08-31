@@ -1,7 +1,7 @@
 ---
 title: SHM Canada Consulting
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: shm_canada_consulting
 categories: []
 tags: []

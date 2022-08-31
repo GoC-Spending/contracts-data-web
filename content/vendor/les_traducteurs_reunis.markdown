@@ -1,7 +1,7 @@
 ---
 title: Les Traducteurs Reunis
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: les_traducteurs_reunis
 categories: []
 tags: []

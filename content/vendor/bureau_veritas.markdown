@@ -1,7 +1,7 @@
 ---
 title: Bureau Veritas
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: bureau_veritas
 categories: []
 tags: []

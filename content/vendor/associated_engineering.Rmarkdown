@@ -1,7 +1,7 @@
 ---
 title: Associated Engineering
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: associated_engineering
 categories: []
 tags: []

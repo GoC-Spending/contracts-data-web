@@ -1,7 +1,7 @@
 ---
 title: I4C Information Technology
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: i4c_information_technology
 categories: []
 tags: []

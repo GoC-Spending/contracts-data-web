@@ -1,7 +1,7 @@
 ---
 title: Larch Half Way House of Sudbury
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: larch_half_way_house_of_sudbury
 categories: []
 tags: []

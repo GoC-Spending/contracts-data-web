@@ -1,7 +1,7 @@
 ---
 title: Westcoast Genesis Society
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: westcoast_genesis_society
 categories: []
 tags: []

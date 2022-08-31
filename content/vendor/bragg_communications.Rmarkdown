@@ -1,7 +1,7 @@
 ---
 title: Bragg Communications
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: bragg_communications
 categories: []
 tags: []

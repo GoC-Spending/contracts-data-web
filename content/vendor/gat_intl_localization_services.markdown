@@ -1,7 +1,7 @@
 ---
 title: GAT International Localization Services
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: gat_intl_localization_services
 categories: []
 tags: []

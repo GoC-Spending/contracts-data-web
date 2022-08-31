@@ -1,7 +1,7 @@
 ---
 title: Russell Chernoff Rand Thompson
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: russell_chernoff_rand_thompson
 categories: []
 tags: []

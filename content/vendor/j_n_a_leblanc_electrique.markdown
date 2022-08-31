@@ -1,7 +1,7 @@
 ---
 title: J N A Leblanc Electrique
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: j_n_a_leblanc_electrique
 categories: []
 tags: []

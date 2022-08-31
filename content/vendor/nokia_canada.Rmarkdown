@@ -1,7 +1,7 @@
 ---
 title: Nokia Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: nokia_canada
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: BAE Systems
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: bae_systems
 categories: []
 tags: []

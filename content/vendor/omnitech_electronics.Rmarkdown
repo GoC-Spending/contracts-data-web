@@ -1,7 +1,7 @@
 ---
 title: Omnitech Electronics
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: omnitech_electronics
 categories: []
 tags: []

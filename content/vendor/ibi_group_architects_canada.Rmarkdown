@@ -1,7 +1,7 @@
 ---
 title: IBI Group Architects Canada
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: ibi_group_architects_canada
 categories: []
 tags: []

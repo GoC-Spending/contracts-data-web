@@ -1,7 +1,7 @@
 ---
 title: Everest Construction Management
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: everest_construction_management
 categories: []
 tags: []

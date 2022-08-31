@@ -1,7 +1,7 @@
 ---
 title: RGB Media
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: rgb_media
 categories: []
 tags: []

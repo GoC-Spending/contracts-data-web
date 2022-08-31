@@ -1,7 +1,7 @@
 ---
 title: Maplesoft Consulting
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: maplesoft_consulting
 categories: []
 tags: []

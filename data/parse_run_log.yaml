@@ -1,10 +1,10 @@
-start_time: 2022-08-30 00:16:40
+start_time: 2022-08-30 21:59:08
 csv_date: '2022-08-30'
-csv_source: remote
+csv_source: pre-downloaded
 total_csv_entries: '925095'
 summary_start_fiscal_year: 2017-2018
 summary_end_fiscal_year: 2021-2022
 inflation_price_index_vector: v62307266
-end_time: 2022-08-30 03:59:38
-run_duration_hours: '3.72'
-run_memory_mb: '6578.3'
+end_time: 2022-08-31 01:38:48
+run_duration_hours: '3.66'
+run_memory_mb: '6578.2'

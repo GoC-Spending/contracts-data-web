@@ -1,7 +1,7 @@
 ---
 title: Emergency Medical Technology
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: emergency_medical_technology
 categories: []
 tags: []

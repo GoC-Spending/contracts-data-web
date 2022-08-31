@@ -1,7 +1,7 @@
 ---
 title: Metro Logistics
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: metro_logistics
 categories: []
 tags: []

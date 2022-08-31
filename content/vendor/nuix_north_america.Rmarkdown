@@ -1,7 +1,7 @@
 ---
 title: Nuix North America
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: nuix_north_america
 categories: []
 tags: []

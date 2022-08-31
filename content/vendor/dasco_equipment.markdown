@@ -1,7 +1,7 @@
 ---
 title: DASCO Equipment
 author: ''
-date: '2022-08-30'
+date: '2022-08-31'
 slug: dasco_equipment
 categories: []
 tags: []

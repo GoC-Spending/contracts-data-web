@@ -5,6 +5,8 @@ date: '2022-08-17'
 slug: about
 categories: []
 tags: []
+images:
+  - /img/cover.png
 ---
 
 This research was conducted by [Sean Boots](https://sboots.ca/), [Prof. Amanda Clarke](https://amandaclarke.ca/), [Anne Lajoie](https://www.linkedin.com/in/annemichelelajoie/), and [Chantal Brousseau](https://chantalbrousseau.xyz/) from the [School of Public Policy and Administration](https://carleton.ca/sppa/) and the [Data Science and Analytics program at Carleton University](https://graduate.carleton.ca/cu-programs/data-science-and-analytics/). It expands on [an earlier Ottawa Civic Tech project](https://goc-spending.github.io/about/) from 2017-2019 and was made possible by funding from the [Government of Ontario’s Early Researcher Award program](https://research.carleton.ca/story/moving-fast-and-breaking-public-trust-how-digital-reforms-in-government-must-be-more-accountable-to-citizens/) and the support of the [Canada School of Public Service](https://csps-efpc.gc.ca/index-eng.aspx) [Public Servant-in-Residence](https://sboots.ca/2022/03/16/joining-carleton-university-as-a-public-servant-in-residence/) program.
@@ -52,6 +54,7 @@ Meghan Innes,
 [Nisa Malli](https://www.nisamalli.com/), 
 [Pierre-Antoine Ferron](https://twitter.com/PierreFerron), 
 [Rebecca Croll](https://twitter.com/rebeccacroll), 
+[Rémy Bernard](https://twitter.com/remyb2), 
 [Rohan Alexander](https://rohanalexander.com/), 
 [Sam Burton](https://www.samanthaburton.com/), 
 [Sam Firke](https://samfirke.com/about/), 

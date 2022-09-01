@@ -5,6 +5,8 @@ date: '2022-08-17'
 slug: methodology
 categories: []
 tags: []
+images:
+  - /img/cover.png
 ---
 
 To examine contract trends at a government-wide level, publicly-available contracting data was cleaned, categorized, and aggregated. This process included specific handling for multi-year and amended contracts, to better illustrate estimated spending over time. The R code used for this analysis is [publicly available on GitHub](https://github.com/goc-Spending/contracts-data). The steps used are described in more detail below. 
@@ -96,6 +98,8 @@ The Canadian government uses several categorization approaches, including [econo
 In this analysis, we chose to use the GSA’s [Government-wide Categories](https://www.acquisition.gov/sites/default/files/page_file_uploads/Government%20Wide%20Categories.pdf) structure for two reasons: it included information technology (our primary area of focus) as a distinct top-level category, rather than being nested below professional services. And, it was concise enough at twelve options to facilitate manual categorization and data correction. (In comparison, there are around a hundred GSIN codes and several dozen top-level UNSPSC segments. UNSPSC codes in machine-readable format are also [only available to paid subscribers](https://www.unspsc.org/subscribe) or for purchase.)
 
 About 77% of contracts in the CSV dataset included economic object codes; these were matched to one of the twelve categories above. For contracts without economic object codes, these were matched using the description field. A text classifier model was trained using the initial set of descriptions and categories and run in a Jupyter Notebook. This model was used to generate an expanded matching table of descriptions to categories, with about 9,300 rows. This table was then manually reviewed before using it to categorize the remaining contracts.
+
+Additional information technology contracts were identified using the [commodity code field](https://github.com/GoC-Spending/contracts-data/blob/main/data/categories/gsin_it_subcategories.csv) (based on GSIN codes) and [specific keywords](https://github.com/GoC-Spending/contracts-data/blob/main/data/categories/extended_description_it_subcategories.csv), in order to identify subcategories of IT work for future analysis.
 
 Some contracts are deliberately categorized as “Other and uncategorized”. This includes international development transfers from [Global Affairs Canada](/departments/dfatd-maecd/) intended for other countries (transferred via Canadian non-profit organizations or specialized providers) as well as contracts from various departments that don’t include distinct description fields (for example, issued with descriptions like “Other”, “Payments”, or “Miscellaneous expenditures”).
 

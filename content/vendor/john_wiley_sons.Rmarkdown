@@ -1,7 +1,7 @@
 ---
 title: John Wiley Sons
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: john_wiley_sons
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: White Bear Industries
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: white_bear_industries
 categories: []
 tags: []

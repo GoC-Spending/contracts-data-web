@@ -1,7 +1,7 @@
 ---
 title: Gartner
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: gartner
 categories: []
 tags: []

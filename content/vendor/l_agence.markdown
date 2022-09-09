@@ -1,7 +1,7 @@
 ---
-title: L Agence
+title: L’Agence
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: l_agence
 categories: []
 tags: []
@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $24.0M
-  in 2021-2022 on contracts with L Agence. The average
+  in 2021-2022 on contracts with L’Agence. The average
   contract duration was 1.72 years, and the average contract value
   (not including contracts under $10k) was $13.0M. The longest
   contract was 3.27 years. The largest contract by value (including

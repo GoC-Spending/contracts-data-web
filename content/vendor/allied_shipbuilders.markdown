@@ -1,7 +1,7 @@
 ---
 title: Allied Shipbuilders
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: allied_shipbuilders
 categories: []
 tags: []

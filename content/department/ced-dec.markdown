@@ -1,7 +1,7 @@
 ---
 title: Canada Economic Development for Quebec Regions
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: ced-dec
 categories: []
 tags: []

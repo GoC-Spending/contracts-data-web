@@ -1,7 +1,7 @@
 ---
 title: TYR Tactical
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: tyr_tactical
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Bargreen Ellingson
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: bargreen_ellingson
 categories: []
 tags: []

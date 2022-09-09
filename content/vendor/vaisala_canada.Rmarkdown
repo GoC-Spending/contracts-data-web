@@ -1,7 +1,7 @@
 ---
 title: Vaisala Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: vaisala_canada
 categories: []
 tags: []

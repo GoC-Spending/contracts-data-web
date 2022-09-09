@@ -1,7 +1,7 @@
 ---
 title: Campbell Drug Stores
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: campbell_drug_stores
 categories: []
 tags: []

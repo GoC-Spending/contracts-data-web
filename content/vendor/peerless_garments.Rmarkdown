@@ -1,7 +1,7 @@
 ---
 title: Peerless Garments
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: peerless_garments
 categories: []
 tags: []

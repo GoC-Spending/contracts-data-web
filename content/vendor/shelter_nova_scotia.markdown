@@ -1,7 +1,7 @@
 ---
 title: Shelter Nova Scotia
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: shelter_nova_scotia
 categories: []
 tags: []

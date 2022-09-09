@@ -1,7 +1,7 @@
 ---
 title: Yamaha Motors Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: yamaha_motors_canada
 categories: []
 tags: []

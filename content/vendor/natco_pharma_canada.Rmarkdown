@@ -1,7 +1,7 @@
 ---
 title: Natco Pharma Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: natco_pharma_canada
 categories: []
 tags: []

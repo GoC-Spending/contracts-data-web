@@ -1,7 +1,7 @@
 ---
 title: Procom Consultants
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: procom_consultants
 categories: []
 tags: []

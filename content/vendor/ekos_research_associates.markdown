@@ -1,7 +1,7 @@
 ---
 title: Ekos Research Associates
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: ekos_research_associates
 categories: []
 tags: []

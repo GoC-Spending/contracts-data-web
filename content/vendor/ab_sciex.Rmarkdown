@@ -1,7 +1,7 @@
 ---
 title: AB Sciex
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: ab_sciex
 categories: []
 tags: []

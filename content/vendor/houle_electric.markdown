@@ -1,7 +1,7 @@
 ---
 title: Houle Electric
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: houle_electric
 categories: []
 tags: []

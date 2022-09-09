@@ -1,7 +1,7 @@
 ---
 title: Prince George Activator
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: prince_george_activator
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Les Constructions Beland
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: les_constructions_beland
 categories: []
 tags: []

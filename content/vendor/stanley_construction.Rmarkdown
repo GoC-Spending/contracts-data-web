@@ -1,7 +1,7 @@
 ---
 title: Stanley Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: stanley_construction
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Telecom Computer Services
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: telecom_computer_services
 categories: []
 tags: []

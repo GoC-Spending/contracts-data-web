@@ -1,7 +1,7 @@
 ---
 title: B L Associates
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: b_l_associates
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Zernam Enterprise
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: zernam_enterprise
 categories: []
 tags: []

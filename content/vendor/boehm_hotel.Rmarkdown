@@ -1,7 +1,7 @@
 ---
 title: Boehm Hotel
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: boehm_hotel
 categories: []
 tags: []

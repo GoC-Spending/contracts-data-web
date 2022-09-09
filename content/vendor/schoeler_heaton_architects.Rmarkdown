@@ -1,7 +1,7 @@
 ---
 title: Schoeler Heaton Architects
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: schoeler_heaton_architects
 categories: []
 tags: []

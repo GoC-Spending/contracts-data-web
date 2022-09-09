@@ -1,7 +1,7 @@
 ---
 title: Xpera Risk Mitigation Investigation
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: xpera_risk_mitigation_investigation
 categories: []
 tags: []

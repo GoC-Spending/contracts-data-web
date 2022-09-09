@@ -1,7 +1,7 @@
 ---
 title: Nissan Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: nissan_canada
 categories: []
 tags: []

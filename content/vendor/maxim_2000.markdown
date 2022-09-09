@@ -1,7 +1,7 @@
 ---
 title: Maxim 2000
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: maxim_2000
 categories: []
 tags: []

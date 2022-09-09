@@ -1,7 +1,7 @@
 ---
 title: Western Economic Diversification Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: wd-deo
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Info Tech Research Group
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: info_tech_research_group
 categories: []
 tags: []

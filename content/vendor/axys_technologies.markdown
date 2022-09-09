@@ -1,7 +1,7 @@
 ---
 title: AXYS Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: axys_technologies
 categories: []
 tags: []

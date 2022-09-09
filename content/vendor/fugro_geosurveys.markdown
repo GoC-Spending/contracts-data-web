@@ -1,7 +1,7 @@
 ---
 title: Fugro GeoSurveys
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: fugro_geosurveys
 categories: []
 tags: []

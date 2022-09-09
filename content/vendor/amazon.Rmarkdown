@@ -1,7 +1,7 @@
 ---
 title: Amazon
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: amazon
 categories: []
 tags: []

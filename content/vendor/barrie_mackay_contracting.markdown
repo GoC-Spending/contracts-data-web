@@ -1,7 +1,7 @@
 ---
 title: Barrie MacKay Contracting
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: barrie_mackay_contracting
 categories: []
 tags: []

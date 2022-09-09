@@ -1,7 +1,7 @@
 ---
 title: Graybridge International Consulting
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: graybridge_international_consulting
 categories: []
 tags: []

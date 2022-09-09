@@ -1,7 +1,7 @@
 ---
 title: Canadian Radio-television and Telecommunications Commission
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: crtc
 categories: []
 tags: []

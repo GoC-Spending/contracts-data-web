@@ -1,7 +1,7 @@
 ---
 title: Manitex LiftKing
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: manitex_liftking
 categories: []
 tags: []

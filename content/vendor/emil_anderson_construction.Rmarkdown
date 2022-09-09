@@ -1,7 +1,7 @@
 ---
 title: Emil Anderson Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: emil_anderson_construction
 categories: []
 tags: []

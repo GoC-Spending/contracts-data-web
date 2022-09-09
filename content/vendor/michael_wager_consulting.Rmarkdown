@@ -1,7 +1,7 @@
 ---
 title: Michael Wager Consulting
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: michael_wager_consulting
 categories: []
 tags: []

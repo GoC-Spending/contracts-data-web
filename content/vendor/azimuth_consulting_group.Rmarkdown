@@ -1,7 +1,7 @@
 ---
 title: Azimuth Consulting Group
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: azimuth_consulting_group
 categories: []
 tags: []

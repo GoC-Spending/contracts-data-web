@@ -1,7 +1,7 @@
 ---
 title: Pacific Safety Products
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: pacific_safety_products
 categories: []
 tags: []

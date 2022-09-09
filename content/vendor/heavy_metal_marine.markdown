@@ -1,7 +1,7 @@
 ---
 title: Heavy Metal Marine
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: heavy_metal_marine
 categories: []
 tags: []

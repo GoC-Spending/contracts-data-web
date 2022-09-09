@@ -1,7 +1,7 @@
 ---
 title: St Gelais Montminy Associes
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: st_gelais_montminy_associes
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Lumina IT
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: lumina_it
 categories: []
 tags: []

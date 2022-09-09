@@ -1,7 +1,7 @@
 ---
 title: Cision Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: cision_canada
 categories: []
 tags: []

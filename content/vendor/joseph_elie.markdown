@@ -1,7 +1,7 @@
 ---
 title: Joseph Elie
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: joseph_elie
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Aeropro
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: aeropro
 categories: []
 tags: []

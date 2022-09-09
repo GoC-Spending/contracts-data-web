@@ -1,7 +1,7 @@
 ---
 title: SUSE Software Solutions Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: suse_software_solutions_canada
 categories: []
 tags: []

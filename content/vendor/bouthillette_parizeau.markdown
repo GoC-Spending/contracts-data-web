@@ -1,7 +1,7 @@
 ---
 title: Bouthillette Parizeau
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: bouthillette_parizeau
 categories: []
 tags: []

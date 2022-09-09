@@ -1,7 +1,7 @@
 ---
 title: SIMO Management
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: simo_management
 categories: []
 tags: []

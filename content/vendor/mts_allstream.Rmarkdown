@@ -1,7 +1,7 @@
 ---
 title: MTS Allstream
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: mts_allstream
 categories: []
 tags: []

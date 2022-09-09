@@ -1,7 +1,7 @@
 ---
 title: Gap Wireless
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: gap_wireless
 categories: []
 tags: []

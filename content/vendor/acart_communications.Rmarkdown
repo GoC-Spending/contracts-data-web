@@ -1,7 +1,7 @@
 ---
 title: Acart Communications
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: acart_communications
 categories: []
 tags: []

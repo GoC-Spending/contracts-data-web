@@ -1,7 +1,7 @@
 ---
 title: Accessibility Standards Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: casdo-ocena
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Conoscenti Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: conoscenti_technologies
 categories: []
 tags: []

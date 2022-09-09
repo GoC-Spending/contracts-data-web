@@ -1,7 +1,7 @@
 ---
 title: Brandt Tractor
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: brandt_tractor
 categories: []
 tags: []

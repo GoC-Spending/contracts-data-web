@@ -1,7 +1,7 @@
 ---
 title: Mishkumi Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: mishkumi_technologies
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Nimble Information Strategies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: nimble_information_strategies
 categories: []
 tags: []

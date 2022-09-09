@@ -1,7 +1,7 @@
 ---
-title: Tpg Technology Consultants
+title: TPG Technology Consultants
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: tpg_technology_consultants
 categories: []
 tags: []
@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $58.0M
-  in 2021-2022 on contracts with Tpg Technology Consultants. The average
+  in 2021-2022 on contracts with TPG Technology Consultants. The average
   contract duration was 1.68 years, and the average contract value
   (not including contracts under $10k) was $1.0M. The longest
   contract was 7.55 years. The largest contract by value (including

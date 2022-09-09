@@ -1,7 +1,7 @@
 ---
 title: IHS Global
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: ihs_global
 categories: []
 tags: []

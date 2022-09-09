@@ -1,7 +1,7 @@
 ---
 title: Via Travail
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: via_travail
 categories: []
 tags: []

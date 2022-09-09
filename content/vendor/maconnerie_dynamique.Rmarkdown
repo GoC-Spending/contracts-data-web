@@ -1,7 +1,7 @@
 ---
 title: Maconnerie Dynamique
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: maconnerie_dynamique
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Global Total Office
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: global_total_office
 categories: []
 tags: []

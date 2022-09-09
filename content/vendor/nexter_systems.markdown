@@ -1,7 +1,7 @@
 ---
 title: Nexter Systems
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: nexter_systems
 categories: []
 tags: []

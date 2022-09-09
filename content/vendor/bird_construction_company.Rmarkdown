@@ -1,7 +1,7 @@
 ---
 title: Bird Construction Company
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: bird_construction_company
 categories: []
 tags: []

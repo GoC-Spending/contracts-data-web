@@ -1,7 +1,7 @@
 ---
 title: Teramach Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: teramach_technologies
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Manulife
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: manulife
 categories: []
 tags: []

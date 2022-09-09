@@ -1,7 +1,7 @@
 ---
 title: Podolinsky Equipment
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: podolinsky_equipment
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: CommPower
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: commpower
 categories: []
 tags: []

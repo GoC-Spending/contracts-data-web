@@ -1,7 +1,7 @@
 ---
 title: WorkDynamics Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: workdynamics_technologies
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Allied Paving
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: allied_paving
 categories: []
 tags: []

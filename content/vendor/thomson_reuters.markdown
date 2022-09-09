@@ -1,7 +1,7 @@
 ---
 title: Thomson Reuters
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: thomson_reuters
 categories: []
 tags: []

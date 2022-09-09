@@ -1,7 +1,7 @@
 ---
 title: Gabriela Oliveira
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: gabriela_oliveira
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Laval Fortin
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: laval_fortin
 categories: []
 tags: []

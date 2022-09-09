@@ -1,7 +1,7 @@
 ---
 title: Nova Scotia Power
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: nova_scotia_power
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Ecole De Langues La Cite
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: ecole_de_langues_la_cite
 categories: []
 tags: []

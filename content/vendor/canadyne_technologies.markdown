@@ -1,7 +1,7 @@
 ---
 title: Canadyne Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: canadyne_technologies
 categories: []
 tags: []

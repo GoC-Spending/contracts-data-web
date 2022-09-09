@@ -1,7 +1,7 @@
 ---
 title: Hitachi Data Systems
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: hitachi_data_systems
 categories: []
 tags: []

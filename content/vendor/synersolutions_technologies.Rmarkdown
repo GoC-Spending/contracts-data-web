@@ -1,7 +1,7 @@
 ---
 title: SynerSolutions Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: synersolutions_technologies
 categories: []
 tags: []

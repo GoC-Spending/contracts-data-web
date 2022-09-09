@@ -1,7 +1,7 @@
 ---
 title: Military Grievances External Review Committee
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: mgerc-ceegm
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Defence Construction Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: defence_construction_canada
 categories: []
 tags: []

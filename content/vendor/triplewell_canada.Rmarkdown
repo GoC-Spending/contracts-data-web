@@ -1,7 +1,7 @@
 ---
 title: Triplewell Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: triplewell_canada
 categories: []
 tags: []

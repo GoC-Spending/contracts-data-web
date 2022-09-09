@@ -1,7 +1,7 @@
 ---
 title: Getinge Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: getinge_canada
 categories: []
 tags: []

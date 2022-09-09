@@ -1,7 +1,7 @@
 ---
 title: John Howard Society
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: john_howard_society
 categories: []
 tags: []

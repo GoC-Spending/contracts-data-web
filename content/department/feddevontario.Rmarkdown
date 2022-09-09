@@ -1,7 +1,7 @@
 ---
 title: Federal Economic Development Agency for Southern Ontario
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: feddevontario
 categories: []
 tags: []

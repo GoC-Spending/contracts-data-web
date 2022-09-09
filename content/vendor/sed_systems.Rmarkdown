@@ -1,7 +1,7 @@
 ---
 title: Sed Systems
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: sed_systems
 categories: []
 tags: []

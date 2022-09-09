@@ -1,7 +1,7 @@
 ---
 title: G Bird Holdings
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: g_bird_holdings
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: St Ops Tactical Training Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: st_ops_tactical_training_canada
 categories: []
 tags: []

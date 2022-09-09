@@ -1,7 +1,7 @@
 ---
 title: Les Installations Electriques
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: les_installations_electriques
 categories: []
 tags: []

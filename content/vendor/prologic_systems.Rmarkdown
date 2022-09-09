@@ -1,7 +1,7 @@
 ---
 title: Prologic Systems
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: prologic_systems
 categories: []
 tags: []

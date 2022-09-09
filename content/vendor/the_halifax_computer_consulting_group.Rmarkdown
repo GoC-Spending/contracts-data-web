@@ -1,7 +1,7 @@
 ---
 title: The Halifax Computer Consulting Group
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: the_halifax_computer_consulting_group
 categories: []
 tags: []

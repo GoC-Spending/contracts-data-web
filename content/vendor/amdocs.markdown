@@ -1,7 +1,7 @@
 ---
 title: Amdocs
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: amdocs
 categories: []
 tags: []

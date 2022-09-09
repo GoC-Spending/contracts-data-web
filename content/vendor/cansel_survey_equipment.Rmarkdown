@@ -1,7 +1,7 @@
 ---
 title: Cansel Survey Equipment
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: cansel_survey_equipment
 categories: []
 tags: []

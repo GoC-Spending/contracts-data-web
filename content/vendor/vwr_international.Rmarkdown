@@ -1,7 +1,7 @@
 ---
 title: VWR International
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: vwr_international
 categories: []
 tags: []

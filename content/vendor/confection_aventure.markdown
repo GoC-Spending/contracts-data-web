@@ -1,7 +1,7 @@
 ---
 title: Confection Aventure
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: confection_aventure
 categories: []
 tags: []

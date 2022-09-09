@@ -1,7 +1,7 @@
 ---
 title: Bluedrop Training Simulation
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: bluedrop_training_simulation
 categories: []
 tags: []

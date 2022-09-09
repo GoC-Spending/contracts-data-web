@@ -1,7 +1,7 @@
 ---
 title: Canadian Base Operators
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: canadian_base_operators
 categories: []
 tags: []

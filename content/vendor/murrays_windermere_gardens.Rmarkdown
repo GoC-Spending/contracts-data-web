@@ -1,7 +1,7 @@
 ---
 title: Murray’s Windermere Gardens
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: murrays_windermere_gardens
 categories: []
 tags: []

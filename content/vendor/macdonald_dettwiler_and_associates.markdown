@@ -1,7 +1,7 @@
 ---
-title: Macdonald Dettwiler and Associates
+title: MacDonald Dettwiler and Associates
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: macdonald_dettwiler_and_associates
 categories: []
 tags: []
@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $265.1M
-  in 2021-2022 on contracts with Macdonald Dettwiler and Associates. The average
+  in 2021-2022 on contracts with MacDonald Dettwiler and Associates. The average
   contract duration was 0.64 years, and the average contract value
   (not including contracts under $10k) was $4.0M. The longest
   contract was 23.24 years. The largest contract by value (including

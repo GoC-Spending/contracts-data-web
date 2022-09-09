@@ -1,7 +1,7 @@
 ---
 title: Kudlik Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: kudlik_construction
 categories: []
 tags: []

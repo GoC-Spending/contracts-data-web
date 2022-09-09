@@ -1,7 +1,7 @@
 ---
 title: Global Knowledge
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: global_knowledge
 categories: []
 tags: []

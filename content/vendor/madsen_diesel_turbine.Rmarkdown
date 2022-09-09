@@ -1,7 +1,7 @@
 ---
 title: Madsen Diesel Turbine
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: madsen_diesel_turbine
 categories: []
 tags: []

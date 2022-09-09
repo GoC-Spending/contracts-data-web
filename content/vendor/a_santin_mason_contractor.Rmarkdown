@@ -1,7 +1,7 @@
 ---
 title: A Santin Mason Contractor
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: a_santin_mason_contractor
 categories: []
 tags: []

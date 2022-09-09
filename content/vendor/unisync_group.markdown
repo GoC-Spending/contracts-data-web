@@ -1,7 +1,7 @@
 ---
 title: Unisync Group
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: unisync_group
 categories: []
 tags: []

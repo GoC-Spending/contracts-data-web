@@ -1,7 +1,7 @@
 ---
 title: Status of Women Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: swc-cfc
 categories: []
 tags: []

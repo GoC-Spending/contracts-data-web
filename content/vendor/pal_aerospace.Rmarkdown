@@ -1,7 +1,7 @@
 ---
 title: PAL Aerospace
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: pal_aerospace
 categories: []
 tags: []

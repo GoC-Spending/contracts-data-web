@@ -1,7 +1,7 @@
 ---
 title: Veterans Review and Appeal Board
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: vrab-tacra
 categories: []
 tags: []

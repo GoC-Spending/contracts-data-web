@@ -1,7 +1,7 @@
 ---
 title: 4 Office Automation
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: 4_office_automation
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: GDI Services
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: gdi_services
 categories: []
 tags: []

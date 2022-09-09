@@ -1,7 +1,7 @@
 ---
 title: Advanced Business Interiors
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: advanced_business_interiors
 categories: []
 tags: []

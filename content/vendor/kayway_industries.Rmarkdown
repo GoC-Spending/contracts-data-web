@@ -1,7 +1,7 @@
 ---
 title: Kayway Industries
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: kayway_industries
 categories: []
 tags: []

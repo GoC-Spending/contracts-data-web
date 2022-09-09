@@ -1,7 +1,7 @@
 ---
 title: Woodward’s Oil
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: woodward_s_oil
 categories: []
 tags: []

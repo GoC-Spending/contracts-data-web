@@ -1,7 +1,7 @@
 ---
 title: De Angelis Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: de_angelis_construction
 categories: []
 tags: []

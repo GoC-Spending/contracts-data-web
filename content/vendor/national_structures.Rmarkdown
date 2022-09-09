@@ -1,7 +1,7 @@
 ---
 title: National Structures
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: national_structures
 categories: []
 tags: []

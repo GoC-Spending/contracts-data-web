@@ -1,7 +1,7 @@
 ---
 title: DNR Consulting Group
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: dnr_consulting_group
 categories: []
 tags: []

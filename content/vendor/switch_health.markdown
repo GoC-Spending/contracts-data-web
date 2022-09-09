@@ -1,7 +1,7 @@
 ---
 title: Switch Health
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: switch_health
 categories: []
 tags: []

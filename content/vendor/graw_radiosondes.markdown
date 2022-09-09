@@ -1,7 +1,7 @@
 ---
 title: Graw Radiosondes
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: graw_radiosondes
 categories: []
 tags: []

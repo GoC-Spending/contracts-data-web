@@ -1,7 +1,7 @@
 ---
 title: L3Harris
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: l3harris
 categories: []
 tags: []

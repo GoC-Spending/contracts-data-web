@@ -1,7 +1,7 @@
 ---
 title: Federal Economic Development Agency for Northern Ontario
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: fednor
 categories: []
 tags: []

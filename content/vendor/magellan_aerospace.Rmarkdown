@@ -1,7 +1,7 @@
 ---
 title: Magellan Aerospace
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: magellan_aerospace
 categories: []
 tags: []

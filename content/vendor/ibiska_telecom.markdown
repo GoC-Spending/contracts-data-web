@@ -1,7 +1,7 @@
 ---
 title: Ibiska Telecom
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: ibiska_telecom
 categories: []
 tags: []

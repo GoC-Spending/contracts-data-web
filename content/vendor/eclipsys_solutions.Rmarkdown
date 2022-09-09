@@ -1,7 +1,7 @@
 ---
 title: Eclipsys Solutions
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: eclipsys_solutions
 categories: []
 tags: []

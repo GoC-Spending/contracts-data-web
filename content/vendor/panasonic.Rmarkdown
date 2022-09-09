@@ -1,7 +1,7 @@
 ---
 title: Panasonic
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: panasonic
 categories: []
 tags: []

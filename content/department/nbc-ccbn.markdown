@@ -1,7 +1,7 @@
 ---
 title: The National Battlefields Commission
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: nbc-ccbn
 categories: []
 tags: []

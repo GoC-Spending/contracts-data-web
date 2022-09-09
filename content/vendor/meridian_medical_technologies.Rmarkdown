@@ -1,7 +1,7 @@
 ---
 title: Meridian Medical Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: meridian_medical_technologies
 categories: []
 tags: []

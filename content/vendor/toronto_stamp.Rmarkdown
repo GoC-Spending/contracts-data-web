@@ -1,7 +1,7 @@
 ---
 title: Toronto Stamp
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: toronto_stamp
 categories: []
 tags: []

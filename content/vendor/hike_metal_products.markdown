@@ -1,7 +1,7 @@
 ---
 title: Hike Metal Products
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: hike_metal_products
 categories: []
 tags: []

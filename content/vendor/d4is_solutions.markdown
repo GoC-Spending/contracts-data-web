@@ -1,7 +1,7 @@
 ---
 title: D4IS Solutions
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: d4is_solutions
 categories: []
 tags: []

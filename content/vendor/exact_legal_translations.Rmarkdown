@@ -1,7 +1,7 @@
 ---
 title: Exact Legal Translations
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: exact_legal_translations
 categories: []
 tags: []

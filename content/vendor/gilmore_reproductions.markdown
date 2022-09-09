@@ -1,7 +1,7 @@
 ---
 title: Gilmore Reproductions
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: gilmore_reproductions
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: North Cariboo Air
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: north_cariboo_air
 categories: []
 tags: []

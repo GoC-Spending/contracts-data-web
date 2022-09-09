@@ -1,7 +1,7 @@
 ---
 title: McCarthy Tetrault
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: mccarthy_tetrault
 categories: []
 tags: []

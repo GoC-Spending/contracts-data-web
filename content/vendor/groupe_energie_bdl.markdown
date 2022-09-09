@@ -1,7 +1,7 @@
 ---
 title: Groupe Energie BDL
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: groupe_energie_bdl
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Republic Architecture
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: republic_architecture
 categories: []
 tags: []

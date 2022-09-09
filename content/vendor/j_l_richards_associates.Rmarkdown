@@ -1,7 +1,7 @@
 ---
 title: J L Richards Associates
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: j_l_richards_associates
 categories: []
 tags: []

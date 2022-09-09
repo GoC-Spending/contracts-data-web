@@ -1,7 +1,7 @@
 ---
 title: Nappaq Design Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: nappaq_design_construction
 categories: []
 tags: []

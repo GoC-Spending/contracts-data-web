@@ -1,7 +1,7 @@
 ---
 title: NUCTECH Company
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: nuctech_company
 categories: []
 tags: []

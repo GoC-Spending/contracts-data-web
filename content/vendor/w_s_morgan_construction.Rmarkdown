@@ -1,7 +1,7 @@
 ---
 title: W S Morgan Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: w_s_morgan_construction
 categories: []
 tags: []

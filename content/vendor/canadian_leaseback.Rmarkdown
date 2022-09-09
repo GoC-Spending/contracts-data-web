@@ -1,7 +1,7 @@
 ---
 title: Canadian Leaseback
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: canadian_leaseback
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: STERIS Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: steris_canada
 categories: []
 tags: []

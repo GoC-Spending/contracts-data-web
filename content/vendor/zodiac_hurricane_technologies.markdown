@@ -1,7 +1,7 @@
 ---
 title: Zodiac Hurricane Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: zodiac_hurricane_technologies
 categories: []
 tags: []

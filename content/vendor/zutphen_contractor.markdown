@@ -1,7 +1,7 @@
 ---
 title: Zutphen Contractor
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: zutphen_contractor
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Ross and Anglin
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: ross_and_anglin
 categories: []
 tags: []

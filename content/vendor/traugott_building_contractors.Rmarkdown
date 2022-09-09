@@ -1,7 +1,7 @@
 ---
 title: Traugott Building Contractors
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: traugott_building_contractors
 categories: []
 tags: []

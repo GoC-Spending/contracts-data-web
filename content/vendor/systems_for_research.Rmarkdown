@@ -1,7 +1,7 @@
 ---
 title: Systems for Research
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: systems_for_research
 categories: []
 tags: []

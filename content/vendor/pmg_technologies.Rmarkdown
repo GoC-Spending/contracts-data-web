@@ -1,7 +1,7 @@
 ---
 title: PMG Technologies
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: pmg_technologies
 categories: []
 tags: []

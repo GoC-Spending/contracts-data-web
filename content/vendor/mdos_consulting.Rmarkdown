@@ -1,7 +1,7 @@
 ---
 title: MDOS Consulting
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: mdos_consulting
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Wright Construction Western
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: wright_construction_western
 categories: []
 tags: []

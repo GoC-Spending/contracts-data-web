@@ -1,7 +1,7 @@
 ---
 title: Forrester Research
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: forrester_research
 categories: []
 tags: []

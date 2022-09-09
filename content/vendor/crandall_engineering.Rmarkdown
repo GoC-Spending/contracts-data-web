@@ -1,7 +1,7 @@
 ---
 title: Crandall Engineering
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: crandall_engineering
 categories: []
 tags: []

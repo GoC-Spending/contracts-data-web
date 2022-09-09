@@ -1,7 +1,7 @@
 ---
 title: Grand Toy
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: grand_toy
 categories: []
 tags: []

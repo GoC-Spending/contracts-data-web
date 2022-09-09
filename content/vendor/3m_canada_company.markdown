@@ -1,7 +1,7 @@
 ---
 title: 3M Canada Company
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: 3m_canada_company
 categories: []
 tags: []

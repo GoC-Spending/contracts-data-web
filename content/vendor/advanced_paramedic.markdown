@@ -1,7 +1,7 @@
 ---
 title: Advanced Paramedic
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: advanced_paramedic
 categories: []
 tags: []

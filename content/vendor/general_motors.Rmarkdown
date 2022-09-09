@@ -1,7 +1,7 @@
 ---
 title: General Motors
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: general_motors
 categories: []
 tags: []

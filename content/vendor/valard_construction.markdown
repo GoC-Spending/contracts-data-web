@@ -1,7 +1,7 @@
 ---
 title: Valard Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: valard_construction
 categories: []
 tags: []

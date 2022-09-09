@@ -1,7 +1,7 @@
 ---
-title: Uvair
+title: UVair
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: uvair
 categories: []
 tags: []
@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $661.2K
-  in 2019-2020 on contracts with Uvair. The average
+  in 2019-2020 on contracts with UVair. The average
   contract duration was 0 years, and the average contract value
   (not including contracts under $10k) was $44.9K. The longest
   contract was 0.08 years. The largest contract by value (including

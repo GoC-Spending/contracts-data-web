@@ -1,7 +1,7 @@
 ---
 title: Microsoft Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: microsoft_canada
 categories: []
 tags: []

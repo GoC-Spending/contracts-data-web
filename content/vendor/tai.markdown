@@ -1,7 +1,7 @@
 ---
 title: TAI
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: tai
 categories: []
 tags: []

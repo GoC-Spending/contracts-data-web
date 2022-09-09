@@ -1,7 +1,7 @@
 ---
 title: Veritaaq Technology House
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: veritaaq_technology_house
 categories: []
 tags: []

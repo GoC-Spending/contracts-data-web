@@ -1,7 +1,7 @@
 ---
 title: Intercon Marine
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: intercon_marine
 categories: []
 tags: []

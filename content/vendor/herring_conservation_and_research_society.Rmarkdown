@@ -1,7 +1,7 @@
 ---
 title: Herring Conservation and Research Society
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: herring_conservation_and_research_society
 categories: []
 tags: []

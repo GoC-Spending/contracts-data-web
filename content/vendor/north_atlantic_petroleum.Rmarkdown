@@ -1,7 +1,7 @@
 ---
 title: North Atlantic Petroleum
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: north_atlantic_petroleum
 categories: []
 tags: []

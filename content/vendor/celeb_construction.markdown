@@ -1,7 +1,7 @@
 ---
 title: Celeb Construction
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: celeb_construction
 categories: []
 tags: []

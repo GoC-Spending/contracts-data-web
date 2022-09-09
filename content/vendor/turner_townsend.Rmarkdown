@@ -1,7 +1,7 @@
 ---
 title: Turner Townsend
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: turner_townsend
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Revision Military
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: revision_military
 categories: []
 tags: []

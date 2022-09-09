@@ -1,7 +1,7 @@
 ---
 title: MCW Custom Energy Solutions
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: mcw_custom_energy_solutions
 categories: []
 tags: []

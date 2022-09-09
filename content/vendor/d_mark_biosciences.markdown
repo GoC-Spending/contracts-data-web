@@ -1,7 +1,7 @@
 ---
 title: D Mark Biosciences
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: d_mark_biosciences
 categories: []
 tags: []

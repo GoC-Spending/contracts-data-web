@@ -1,7 +1,7 @@
 ---
 title: Xtech Explosive Decontamination
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: xtech_explosive_decontamination
 categories: []
 tags: []

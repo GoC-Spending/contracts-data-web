@@ -1,7 +1,7 @@
 ---
 title: Biomerieux Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: biomerieux_canada
 categories: []
 tags: []

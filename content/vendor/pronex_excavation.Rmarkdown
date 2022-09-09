@@ -1,7 +1,7 @@
 ---
 title: Pronex Excavation
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: pronex_excavation
 categories: []
 tags: []

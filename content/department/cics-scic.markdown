@@ -1,7 +1,7 @@
 ---
 title: Canadian Intergovernmental Conference Secretariat
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: cics-scic
 categories: []
 tags: []

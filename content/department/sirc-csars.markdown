@@ -1,7 +1,7 @@
 ---
 title: Security Intelligence Review Committee
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: sirc-csars
 categories: []
 tags: []

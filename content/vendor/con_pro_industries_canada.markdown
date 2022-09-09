@@ -1,7 +1,7 @@
 ---
 title: Con Pro Industries Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: con_pro_industries_canada
 categories: []
 tags: []

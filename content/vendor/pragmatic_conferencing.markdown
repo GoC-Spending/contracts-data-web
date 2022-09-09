@@ -1,7 +1,7 @@
 ---
 title: Pragmatic Conferencing
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: pragmatic_conferencing
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
-title: Insa
+title: INSA
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: insa
 categories: []
 tags: []
@@ -10,7 +10,7 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $47.2M
-  in 2021-2022 on contracts with Insa. The average
+  in 2021-2022 on contracts with INSA. The average
   contract duration was 1.26 years, and the average contract value
   (not including contracts under $10k) was $975.7K. The longest
   contract was 9.9 years. The largest contract by value (including

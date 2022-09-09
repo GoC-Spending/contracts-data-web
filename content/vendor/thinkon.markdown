@@ -1,7 +1,7 @@
 ---
 title: ThinkOn
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: thinkon
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Rampart International
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: rampart_international
 categories: []
 tags: []

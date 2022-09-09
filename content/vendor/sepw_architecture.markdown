@@ -1,7 +1,7 @@
 ---
 title: SEPW Architecture
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: sepw_architecture
 categories: []
 tags: []

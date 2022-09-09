@@ -1,7 +1,7 @@
 ---
 title: Quantum Management Services
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: quantum_management_services
 categories: []
 tags: []

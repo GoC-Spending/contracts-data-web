@@ -1,7 +1,7 @@
 ---
 title: Maison Painchaud
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: maison_painchaud
 categories: []
 tags: []

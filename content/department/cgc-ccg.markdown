@@ -1,7 +1,7 @@
 ---
 title: Canadian Grain Commission
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: cgc-ccg
 categories: []
 tags: []

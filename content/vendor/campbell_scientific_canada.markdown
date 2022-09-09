@@ -1,7 +1,7 @@
 ---
 title: Campbell Scientific Canada
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: campbell_scientific_canada
 categories: []
 tags: []

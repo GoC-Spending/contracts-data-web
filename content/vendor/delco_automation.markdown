@@ -1,7 +1,7 @@
 ---
 title: Delco Automation
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: delco_automation
 categories: []
 tags: []

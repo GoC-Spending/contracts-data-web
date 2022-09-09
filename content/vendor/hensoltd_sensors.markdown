@@ -1,7 +1,7 @@
 ---
 title: Hensoltd Sensors
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: hensoltd_sensors
 categories: []
 tags: []

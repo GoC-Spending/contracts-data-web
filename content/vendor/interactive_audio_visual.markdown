@@ -1,7 +1,7 @@
 ---
 title: Interactive Audio Visual
 author: ''
-date: '2022-08-31'
+date: '2022-09-08'
 slug: interactive_audio_visual
 categories: []
 tags: []

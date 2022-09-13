@@ -1,7 +1,7 @@
 ---
 title: Keydata Associates
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: keydata_associates
 categories: []
 tags: []

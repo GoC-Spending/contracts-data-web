@@ -1,7 +1,7 @@
 ---
 title: Trudell Healthcare Solutions
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: trudell_healthcare_solutions
 categories: []
 tags: []

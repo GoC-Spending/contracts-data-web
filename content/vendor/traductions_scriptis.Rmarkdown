@@ -1,7 +1,7 @@
 ---
 title: Traductions Scriptis
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: traductions_scriptis
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Les Entreprises P E C
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: les_entreprises_p_e_c
 categories: []
 tags: []

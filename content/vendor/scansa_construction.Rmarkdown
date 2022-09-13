@@ -1,7 +1,7 @@
 ---
 title: Scansa Construction
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: scansa_construction
 categories: []
 tags: []

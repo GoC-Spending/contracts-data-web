@@ -1,7 +1,7 @@
 ---
 title: Stops Tactical Training
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: stops_tactical_training
 categories: []
 tags: []

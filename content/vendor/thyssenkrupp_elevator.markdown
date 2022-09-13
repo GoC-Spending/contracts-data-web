@@ -1,7 +1,7 @@
 ---
 title: Thyssenkrupp Elevator
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: thyssenkrupp_elevator
 categories: []
 tags: []

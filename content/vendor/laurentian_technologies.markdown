@@ -1,7 +1,7 @@
 ---
 title: Laurentian Technologies
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: laurentian_technologies
 categories: []
 tags: []

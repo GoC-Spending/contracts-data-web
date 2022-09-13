@@ -1,7 +1,7 @@
 ---
 title: Evaluation Personnel Selection
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: evaluation_personnel_selection
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Emmanuel Construction Services
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: emmanuel_construction_services
 categories: []
 tags: []

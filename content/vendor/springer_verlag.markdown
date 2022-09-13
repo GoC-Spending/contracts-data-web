@@ -1,7 +1,7 @@
 ---
 title: Springer Verlag
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: springer_verlag
 categories: []
 tags: []

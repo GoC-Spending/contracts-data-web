@@ -1,7 +1,7 @@
 ---
 title: IWC Excavation
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: iwc_excavation
 categories: []
 tags: []

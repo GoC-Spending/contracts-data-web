@@ -1,7 +1,7 @@
 ---
 title: Thermo Fisher Scientific
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: thermo_fisher_scientific
 categories: []
 tags: []

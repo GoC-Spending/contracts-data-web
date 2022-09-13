@@ -1,7 +1,7 @@
 ---
 title: PALFINGER Marine
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: palfinger_marine
 categories: []
 tags: []

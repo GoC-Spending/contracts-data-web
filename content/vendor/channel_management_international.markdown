@@ -1,7 +1,7 @@
 ---
 title: Channel Management International
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: channel_management_international
 categories: []
 tags: []

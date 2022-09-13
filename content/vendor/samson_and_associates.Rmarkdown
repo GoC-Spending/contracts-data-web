@@ -1,7 +1,7 @@
 ---
 title: Samson and Associates
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: samson_and_associates
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Maison Jeun Aide
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: maison_jeun_aide
 categories: []
 tags: []

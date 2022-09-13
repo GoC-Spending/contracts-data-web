@@ -1,7 +1,7 @@
 ---
 title: West Wind Aviation
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: west_wind_aviation
 categories: []
 tags: []

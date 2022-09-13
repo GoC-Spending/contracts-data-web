@@ -1,7 +1,7 @@
 ---
 title: Construction Cybco
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: construction_cybco
 categories: []
 tags: []

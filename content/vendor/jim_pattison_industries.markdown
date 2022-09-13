@@ -1,7 +1,7 @@
 ---
 title: Jim Pattison Industries
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: jim_pattison_industries
 categories: []
 tags: []

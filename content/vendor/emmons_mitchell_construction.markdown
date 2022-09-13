@@ -1,7 +1,7 @@
 ---
 title: Emmons Mitchell Construction
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: emmons_mitchell_construction
 categories: []
 tags: []

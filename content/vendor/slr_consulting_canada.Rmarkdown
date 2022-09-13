@@ -1,7 +1,7 @@
 ---
 title: SLR Consulting Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: slr_consulting_canada
 categories: []
 tags: []

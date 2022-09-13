@@ -1,7 +1,7 @@
 ---
 title: Instrux Media
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: instrux_media
 categories: []
 tags: []

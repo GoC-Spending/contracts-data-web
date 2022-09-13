@@ -1,7 +1,7 @@
 ---
 title: Super Channel International
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: super_channel_international
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Blumetric Environmental
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: blumetric_environmental
 categories: []
 tags: []

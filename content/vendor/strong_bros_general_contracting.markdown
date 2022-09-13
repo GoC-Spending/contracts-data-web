@@ -1,7 +1,7 @@
 ---
 title: Strong Bros General Contracting
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: strong_bros_general_contracting
 categories: []
 tags: []

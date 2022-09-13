@@ -1,7 +1,7 @@
 ---
 title: Canadian Food Inspection Agency
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: cfia-acia
 categories: []
 tags: []

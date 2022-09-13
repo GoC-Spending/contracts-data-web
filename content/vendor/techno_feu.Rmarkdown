@@ -1,7 +1,7 @@
 ---
 title: Techno Feu
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: techno_feu
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Excel Human Resources
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: excel_human_resources
 categories: []
 tags: []

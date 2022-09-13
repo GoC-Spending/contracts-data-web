@@ -1,7 +1,7 @@
 ---
 title: Inventa Sales and Promotions
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: inventa_sales_and_promotions
 categories: []
 tags: []

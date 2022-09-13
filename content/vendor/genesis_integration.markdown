@@ -1,7 +1,7 @@
 ---
 title: Genesis Integration
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: genesis_integration
 categories: []
 tags: []

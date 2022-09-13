@@ -1,7 +1,7 @@
 ---
 title: Dragage IM
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: dragage_im
 categories: []
 tags: []

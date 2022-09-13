@@ -1,7 +1,7 @@
 ---
 title: International Safety Research
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: international_safety_research
 categories: []
 tags: []

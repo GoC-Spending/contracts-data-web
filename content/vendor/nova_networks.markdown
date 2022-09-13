@@ -1,7 +1,7 @@
 ---
 title: Nova Networks
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: nova_networks
 categories: []
 tags: []

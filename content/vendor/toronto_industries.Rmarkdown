@@ -1,7 +1,7 @@
 ---
 title: Toronto Industries
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: toronto_industries
 categories: []
 tags: []

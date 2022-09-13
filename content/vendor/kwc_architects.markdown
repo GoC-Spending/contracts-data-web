@@ -1,7 +1,7 @@
 ---
 title: Kwc Architects
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: kwc_architects
 categories: []
 tags: []

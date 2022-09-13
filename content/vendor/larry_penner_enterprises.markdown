@@ -1,7 +1,7 @@
 ---
 title: Larry Penner Enterprises
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: larry_penner_enterprises
 categories: []
 tags: []

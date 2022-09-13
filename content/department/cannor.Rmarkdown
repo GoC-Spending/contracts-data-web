@@ -1,7 +1,7 @@
 ---
 title: Canadian Northern Economic Development Agency
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: cannor
 categories: []
 tags: []

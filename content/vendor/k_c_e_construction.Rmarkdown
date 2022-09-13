@@ -1,7 +1,7 @@
 ---
 title: K C E Construction
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: k_c_e_construction
 categories: []
 tags: []

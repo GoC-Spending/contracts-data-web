@@ -1,7 +1,7 @@
 ---
 title: L P Royer
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: l_p_royer
 categories: []
 tags: []

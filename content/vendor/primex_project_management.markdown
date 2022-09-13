@@ -1,7 +1,7 @@
 ---
 title: PRIMEX Project Management
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: primex_project_management
 categories: []
 tags: []

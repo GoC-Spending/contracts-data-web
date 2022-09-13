@@ -1,7 +1,7 @@
 ---
 title: Multinational Logistic Services
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: multinational_logistic_services
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Patented Medicine Prices Review Board Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: pmprb-cepmb
 categories: []
 tags: []

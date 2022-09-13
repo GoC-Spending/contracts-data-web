@@ -1,7 +1,7 @@
 ---
 title: The Right Door Consulting
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: the_right_door_consulting
 categories: []
 tags: []

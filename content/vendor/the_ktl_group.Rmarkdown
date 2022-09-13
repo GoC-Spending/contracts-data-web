@@ -1,7 +1,7 @@
 ---
 title: The KTL Group
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: the_ktl_group
 categories: []
 tags: []

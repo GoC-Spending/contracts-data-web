@@ -1,7 +1,7 @@
 ---
 title: J J Lepera Infrastructures
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: j_j_lepera_infrastructures
 categories: []
 tags: []

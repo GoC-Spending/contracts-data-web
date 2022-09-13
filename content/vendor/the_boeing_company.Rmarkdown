@@ -1,7 +1,7 @@
 ---
 title: The Boeing Company
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: the_boeing_company
 categories: []
 tags: []

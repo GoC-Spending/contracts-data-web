@@ -1,7 +1,7 @@
 ---
 title: Frequentis Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: frequentis_canada
 categories: []
 tags: []

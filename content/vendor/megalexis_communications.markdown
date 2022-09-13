@@ -1,7 +1,7 @@
 ---
 title: Megalexis Communications
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: megalexis_communications
 categories: []
 tags: []

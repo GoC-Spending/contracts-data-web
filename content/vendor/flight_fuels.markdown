@@ -1,7 +1,7 @@
 ---
 title: Flight Fuels
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: flight_fuels
 categories: []
 tags: []

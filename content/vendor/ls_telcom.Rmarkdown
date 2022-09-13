@@ -1,7 +1,7 @@
 ---
 title: LS telcom
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: ls_telcom
 categories: []
 tags: []

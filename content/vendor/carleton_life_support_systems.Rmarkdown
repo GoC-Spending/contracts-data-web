@@ -1,7 +1,7 @@
 ---
 title: Carleton Life Support Systems
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: carleton_life_support_systems
 categories: []
 tags: []

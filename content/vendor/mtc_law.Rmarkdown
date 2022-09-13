@@ -1,7 +1,7 @@
 ---
 title: MTC Law
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: mtc_law
 categories: []
 tags: []

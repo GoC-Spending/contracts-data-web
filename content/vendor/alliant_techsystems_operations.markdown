@@ -1,7 +1,7 @@
 ---
 title: Alliant Techsystems Operations
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: alliant_techsystems_operations
 categories: []
 tags: []

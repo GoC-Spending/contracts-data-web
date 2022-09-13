@@ -1,7 +1,7 @@
 ---
 title: Roudel Medical and Surgical
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: roudel_medical_and_surgical
 categories: []
 tags: []

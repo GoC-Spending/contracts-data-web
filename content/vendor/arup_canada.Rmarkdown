@@ -1,7 +1,7 @@
 ---
 title: Arup Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: arup_canada
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: St Leonard’s Place Peel
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: st_leonards_place_peel
 categories: []
 tags: []

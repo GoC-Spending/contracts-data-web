@@ -1,7 +1,7 @@
 ---
 title: Joseph Ribkoff
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: joseph_ribkoff
 categories: []
 tags: []

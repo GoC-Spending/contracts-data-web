@@ -1,7 +1,7 @@
 ---
 title: Mustang Survival
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: mustang_survival
 categories: []
 tags: []

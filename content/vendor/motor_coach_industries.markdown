@@ -1,7 +1,7 @@
 ---
 title: Motor Coach Industries
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: motor_coach_industries
 categories: []
 tags: []

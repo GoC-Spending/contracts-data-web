@@ -1,7 +1,7 @@
 ---
 title: PR3 Medias
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: pr3_medias
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Hypertec
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: hypertec
 categories: []
 tags: []

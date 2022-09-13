@@ -1,7 +1,7 @@
 ---
 title: University of Calgary
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: university_of_calgary
 categories: []
 tags: []

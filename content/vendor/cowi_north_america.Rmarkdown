@@ -1,7 +1,7 @@
 ---
 title: COWI North America
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: cowi_north_america
 categories: []
 tags: []

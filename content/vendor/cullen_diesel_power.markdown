@@ -1,7 +1,7 @@
 ---
 title: Cullen Diesel Power
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: cullen_diesel_power
 categories: []
 tags: []

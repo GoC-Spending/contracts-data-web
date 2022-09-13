@@ -1,7 +1,7 @@
 ---
 title: Language Research Development Group
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: language_research_development_group
 categories: []
 tags: []

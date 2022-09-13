@@ -1,7 +1,7 @@
 ---
 title: Bio Nuclear Diagnostics
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: bio_nuclear_diagnostics
 categories: []
 tags: []

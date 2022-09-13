@@ -1,7 +1,7 @@
 ---
 title: Financial Transactions and Reports Analysis Centre of Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: fintrac-canafe
 categories: []
 tags: []

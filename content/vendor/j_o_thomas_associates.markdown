@@ -1,7 +1,7 @@
 ---
 title: J O Thomas Associates
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: j_o_thomas_associates
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Modis Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: modis_canada
 categories: []
 tags: []

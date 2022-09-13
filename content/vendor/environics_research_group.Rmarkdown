@@ -1,7 +1,7 @@
 ---
 title: Environics Research Group
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: environics_research_group
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Setanta Contracting
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: setanta_contracting
 categories: []
 tags: []

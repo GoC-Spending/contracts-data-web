@@ -1,7 +1,7 @@
 ---
 title: GM Developpement
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: gm_developpement
 categories: []
 tags: []

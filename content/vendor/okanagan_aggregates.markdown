@@ -1,7 +1,7 @@
 ---
 title: Okanagan Aggregates
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: okanagan_aggregates
 categories: []
 tags: []

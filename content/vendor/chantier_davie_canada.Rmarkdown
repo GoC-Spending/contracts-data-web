@@ -1,7 +1,7 @@
 ---
 title: Chantier Davie Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: chantier_davie_canada
 categories: []
 tags: []

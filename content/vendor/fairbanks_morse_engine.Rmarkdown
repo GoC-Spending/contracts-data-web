@@ -1,7 +1,7 @@
 ---
 title: Fairbanks Morse Engine
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: fairbanks_morse_engine
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Seagate Construction
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: seagate_construction
 categories: []
 tags: []

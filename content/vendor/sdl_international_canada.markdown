@@ -1,7 +1,7 @@
 ---
 title: SDL International Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: sdl_international_canada
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Air Tindi
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: air_tindi
 categories: []
 tags: []

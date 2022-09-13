@@ -1,7 +1,7 @@
 ---
 title: Dynamic Personnel Consultants
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: dynamic_personnel_consultants
 categories: []
 tags: []

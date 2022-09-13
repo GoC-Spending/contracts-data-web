@@ -1,7 +1,7 @@
 ---
 title: Connex Telecommunications
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: connex_telecommunications
 categories: []
 tags: []

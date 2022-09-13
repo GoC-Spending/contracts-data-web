@@ -1,7 +1,7 @@
 ---
 title: Office of the Superintendent of Financial Institutions Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: osfi-bsif
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Public Services and Procurement Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: pwgsc-tpsgc
 categories: []
 tags: []

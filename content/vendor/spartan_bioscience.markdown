@@ -1,7 +1,7 @@
 ---
 title: Spartan Bioscience
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: spartan_bioscience
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: CHU Sainte Justine
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: chu_sainte_justine
 categories: []
 tags: []

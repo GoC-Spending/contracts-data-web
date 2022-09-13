@@ -1,7 +1,7 @@
 ---
 title: Advanced Chippewa Technologies
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: advanced_chippewa_technologies
 categories: []
 tags: []

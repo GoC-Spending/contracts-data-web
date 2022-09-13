@@ -1,7 +1,7 @@
 ---
 title: D Doyle Installations
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: d_doyle_installations
 categories: []
 tags: []

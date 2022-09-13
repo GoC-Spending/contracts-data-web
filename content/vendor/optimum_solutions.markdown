@@ -1,7 +1,7 @@
 ---
 title: Optimum Solutions
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: optimum_solutions
 categories: []
 tags: []

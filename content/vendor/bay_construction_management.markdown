@@ -1,7 +1,7 @@
 ---
 title: Bay Construction Management
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: bay_construction_management
 categories: []
 tags: []

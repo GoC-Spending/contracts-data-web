@@ -1,7 +1,7 @@
 ---
 title: Clariant Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: clariant_canada
 categories: []
 tags: []

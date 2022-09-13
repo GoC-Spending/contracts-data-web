@@ -1,7 +1,7 @@
 ---
 title: Weir Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: weir_canada
 categories: []
 tags: []

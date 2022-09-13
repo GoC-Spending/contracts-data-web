@@ -1,7 +1,7 @@
 ---
 title: MacEwen Petroleum
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: macewen_petroleum
 categories: []
 tags: []

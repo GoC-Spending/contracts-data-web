@@ -1,7 +1,7 @@
 ---
 title: Wyssen Avalanche Control
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: wyssen_avalanche_control
 categories: []
 tags: []

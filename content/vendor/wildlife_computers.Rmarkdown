@@ -1,7 +1,7 @@
 ---
 title: Wildlife Computers
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: wildlife_computers
 categories: []
 tags: []

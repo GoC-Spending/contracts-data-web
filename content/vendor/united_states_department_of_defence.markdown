@@ -1,7 +1,7 @@
 ---
 title: United States Department of Defence
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: united_states_department_of_defence
 categories: []
 tags: []

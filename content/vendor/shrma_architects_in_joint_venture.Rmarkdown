@@ -1,7 +1,7 @@
 ---
 title: SHRMA Architects In Joint Venture
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: shrma_architects_in_joint_venture
 categories: []
 tags: []

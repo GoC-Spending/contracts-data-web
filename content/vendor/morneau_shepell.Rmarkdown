@@ -1,7 +1,7 @@
 ---
 title: Morneau Shepell
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: morneau_shepell
 categories: []
 tags: []

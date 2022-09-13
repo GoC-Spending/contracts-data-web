@@ -1,7 +1,7 @@
 ---
 title: Gino Pelletier Forex Mali Diely Moussa Kouyate Gid
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: gino_pelletier_forex_mali_diely_moussa_kouyate_gid
 categories: []
 tags: []

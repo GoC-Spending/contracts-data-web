@@ -1,7 +1,7 @@
 ---
 title: General Electric Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: general_electric_canada
 categories: []
 tags: []

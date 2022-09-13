@@ -1,7 +1,7 @@
 ---
 title: St Joseph Print Group
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: st_joseph_print_group
 categories: []
 tags: []

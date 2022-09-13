@@ -1,7 +1,7 @@
 ---
 title: Cantex Okanagan Construction
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: cantex_okanagan_construction
 categories: []
 tags: []

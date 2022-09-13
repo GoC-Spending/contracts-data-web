@@ -1,7 +1,7 @@
 ---
 title: JP2G Consultants
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: jp2g_consultants
 categories: []
 tags: []

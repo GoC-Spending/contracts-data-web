@@ -1,7 +1,7 @@
 ---
 title: Proof Experiences
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: proof_experiences
 categories: []
 tags: []

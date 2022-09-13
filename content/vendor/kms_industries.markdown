@@ -1,7 +1,7 @@
 ---
 title: KMS Industries
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: kms_industries
 categories: []
 tags: []

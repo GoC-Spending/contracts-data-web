@@ -1,7 +1,7 @@
 ---
 title: Manitoba Hydro
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: manitoba_hydro
 categories: []
 tags: []

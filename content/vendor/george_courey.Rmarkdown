@@ -1,7 +1,7 @@
 ---
 title: George Courey
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: george_courey
 categories: []
 tags: []

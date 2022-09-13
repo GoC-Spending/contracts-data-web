@@ -1,7 +1,7 @@
 ---
 title: Sharp Electronics
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: sharp_electronics
 categories: []
 tags: []

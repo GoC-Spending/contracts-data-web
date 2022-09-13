@@ -1,7 +1,7 @@
 ---
 title: Seqirus Canada
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: seqirus_canada
 categories: []
 tags: []

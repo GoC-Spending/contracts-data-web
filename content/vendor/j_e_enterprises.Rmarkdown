@@ -1,7 +1,7 @@
 ---
 title: J E Enterprises
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: j_e_enterprises
 categories: []
 tags: []

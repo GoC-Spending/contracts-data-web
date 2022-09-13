@@ -1,7 +1,7 @@
 ---
 title: ECO Technologies
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: eco_technologies
 categories: []
 tags: []

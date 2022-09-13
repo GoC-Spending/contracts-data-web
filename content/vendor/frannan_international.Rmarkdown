@@ -1,7 +1,7 @@
 ---
 title: Frannan International
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: frannan_international
 categories: []
 tags: []

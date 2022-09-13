@@ -1,7 +1,7 @@
 ---
 title: Coradix Technology Consulting
 author: ''
-date: '2022-09-08'
+date: '2022-09-12'
 slug: coradix_technology_consulting
 categories: []
 tags: []

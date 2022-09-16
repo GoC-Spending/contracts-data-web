@@ -1,7 +1,7 @@
 ---
 title: PAL Aerospace
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: pal_aerospace
 categories: []
 tags: []
@@ -21,7 +21,7 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '84'
 s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '17%'
-s432_mean_amendment_increase_percentage: '10%'
+s432_mean_amendment_increase_percentage: '11%'
 s434_mean_number_of_amendments: '4.07'
 s433_total_amendment_increase_value: '12.5M'
 s424_mean_duration: '0.37'

@@ -1,7 +1,7 @@
 ---
 title: Unisource
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: unisource
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '401'
 s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '2%'
-s432_mean_amendment_increase_percentage: '7%'
+s432_mean_amendment_increase_percentage: '12%'
 s434_mean_number_of_amendments: '1.25'
-s433_total_amendment_increase_value: '324.8K'
+s433_total_amendment_increase_value: '334.4K'
 s424_mean_duration: '0.57'
 s421_mean_contract_value: '103.0K'
 s425_max_duration: '3.53'

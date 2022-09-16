@@ -1,7 +1,7 @@
 ---
 title: Garda Security Group
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: garda_security_group
 categories: []
 tags: []

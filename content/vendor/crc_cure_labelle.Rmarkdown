@@ -1,7 +1,7 @@
 ---
 title: CRC Cure Labelle
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: crc_cure_labelle
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Go Deep International
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: go_deep_international
 categories: []
 tags: []

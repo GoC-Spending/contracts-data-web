@@ -1,7 +1,7 @@
 ---
 title: North America Construction
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: north_america_construction
 categories: []
 tags: []

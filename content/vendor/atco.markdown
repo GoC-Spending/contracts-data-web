@@ -1,7 +1,7 @@
 ---
 title: ATCO
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: atco
 categories: []
 tags: []
@@ -12,7 +12,7 @@ r_init: |-
 description: The Government of Canada spent an estimated $29.0M
   in 2021-2022 on contracts with ATCO. The average
   contract duration was 0.63 years, and the average contract value
-  (not including contracts under $10k) was $644.7K. The longest
+  (not including contracts under $10k) was $645.1K. The longest
   contract was 6.3 years. The largest contract by value (including
   amendments) was $79.0M.
 lookup_name: 'ATCO'
@@ -21,11 +21,11 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '288'
 s431_number_of_contracts_with_amendments: '90'
 s431_number_of_contracts_amendments_percentage: '31%'
-s432_mean_amendment_increase_percentage: '24%'
+s432_mean_amendment_increase_percentage: '25%'
 s434_mean_number_of_amendments: '1.41'
-s433_total_amendment_increase_value: '-60.5M'
+s433_total_amendment_increase_value: '-60.4M'
 s424_mean_duration: '0.63'
-s421_mean_contract_value: '644.7K'
+s421_mean_contract_value: '645.1K'
 s425_max_duration: '6.3'
 s422_max_contract_value: '79.0M'
 ---

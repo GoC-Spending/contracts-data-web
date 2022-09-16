@@ -1,7 +1,7 @@
 ---
 title: Iceberg Networks
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: iceberg_networks
 categories: []
 tags: []

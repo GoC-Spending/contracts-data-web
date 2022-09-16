@@ -1,7 +1,7 @@
 ---
 title: Maskimo Construction
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: maskimo_construction
 categories: []
 tags: []

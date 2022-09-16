@@ -1,7 +1,7 @@
 ---
 title: North Bay Hydro
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: north_bay_hydro
 categories: []
 tags: []

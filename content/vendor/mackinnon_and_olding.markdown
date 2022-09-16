@@ -1,7 +1,7 @@
 ---
 title: MacKinnon and Olding
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: mackinnon_and_olding
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '300'
 s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '4%'
-s432_mean_amendment_increase_percentage: '172%'
+s432_mean_amendment_increase_percentage: '173%'
 s434_mean_number_of_amendments: '1.15'
-s433_total_amendment_increase_value: '341.7K'
+s433_total_amendment_increase_value: '347.6K'
 s424_mean_duration: '0.17'
 s421_mean_contract_value: '96.7K'
 s425_max_duration: '1.48'

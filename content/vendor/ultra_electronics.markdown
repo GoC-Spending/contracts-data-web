@@ -1,7 +1,7 @@
 ---
 title: Ultra Electronics
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: ultra_electronics
 categories: []
 tags: []
@@ -12,7 +12,7 @@ r_init: |-
 description: The Government of Canada spent an estimated $5.3M
   in 2021-2022 on contracts with Ultra Electronics. The average
   contract duration was 1.77 years, and the average contract value
-  (not including contracts under $10k) was $2.7M. The longest
+  (not including contracts under $10k) was $2.6M. The longest
   contract was 8.02 years. The largest contract by value (including
   amendments) was $9.8M.
 lookup_name: 'ULTRA ELECTRONICS'
@@ -21,11 +21,11 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '20'
 s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '25%'
-s432_mean_amendment_increase_percentage: '54%'
+s432_mean_amendment_increase_percentage: '51%'
 s434_mean_number_of_amendments: '2.2'
-s433_total_amendment_increase_value: '3.8M'
+s433_total_amendment_increase_value: '3.5M'
 s424_mean_duration: '1.77'
-s421_mean_contract_value: '2.7M'
+s421_mean_contract_value: '2.6M'
 s425_max_duration: '8.02'
 s422_max_contract_value: '9.8M'
 ---

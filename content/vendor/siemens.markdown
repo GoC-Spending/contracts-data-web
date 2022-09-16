@@ -1,7 +1,7 @@
 ---
 title: Siemens
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: siemens
 categories: []
 tags: []
@@ -21,7 +21,7 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '387'
 s431_number_of_contracts_with_amendments: '52'
 s431_number_of_contracts_amendments_percentage: '13%'
-s432_mean_amendment_increase_percentage: '83%'
+s432_mean_amendment_increase_percentage: '82%'
 s434_mean_number_of_amendments: '1.46'
 s433_total_amendment_increase_value: '4.1M'
 s424_mean_duration: '1.12'

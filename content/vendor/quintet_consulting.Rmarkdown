@@ -1,7 +1,7 @@
 ---
 title: Quintet Consulting
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: quintet_consulting
 categories: []
 tags: []

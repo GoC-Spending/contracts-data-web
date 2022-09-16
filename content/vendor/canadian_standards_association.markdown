@@ -1,7 +1,7 @@
 ---
 title: Canadian Standards Association
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: canadian_standards_association
 categories: []
 tags: []

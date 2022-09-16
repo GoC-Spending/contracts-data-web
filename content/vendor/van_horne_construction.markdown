@@ -1,7 +1,7 @@
 ---
 title: Van Horne Construction
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: van_horne_construction
 categories: []
 tags: []

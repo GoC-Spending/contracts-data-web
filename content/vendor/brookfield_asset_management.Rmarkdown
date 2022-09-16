@@ -1,7 +1,7 @@
 ---
 title: Brookfield Asset Management
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: brookfield_asset_management
 categories: []
 tags: []

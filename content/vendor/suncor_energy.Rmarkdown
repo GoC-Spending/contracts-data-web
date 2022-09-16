@@ -1,7 +1,7 @@
 ---
 title: Suncor Energy
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: suncor_energy
 categories: []
 tags: []

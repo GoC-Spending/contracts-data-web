@@ -1,7 +1,7 @@
 ---
 title: Construction Blanchard Et
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: construction_blanchard_et
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Wade General Contracting
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: wade_general_contracting
 categories: []
 tags: []

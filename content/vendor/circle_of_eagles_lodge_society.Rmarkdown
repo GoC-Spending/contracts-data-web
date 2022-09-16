@@ -1,7 +1,7 @@
 ---
 title: Circle of Eagles Lodge Society
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: circle_of_eagles_lodge_society
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: William J Barker Clinical
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: william_j_barker_clinical
 categories: []
 tags: []

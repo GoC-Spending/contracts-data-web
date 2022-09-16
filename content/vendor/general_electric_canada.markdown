@@ -1,7 +1,7 @@
 ---
 title: General Electric Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: general_electric_canada
 categories: []
 tags: []
@@ -9,25 +9,25 @@ images:
   - /img/cover.png
 r_init: |-
   
-description: The Government of Canada spent an estimated $12.6M
+description: The Government of Canada spent an estimated $19.8M
   in 2021-2022 on contracts with General Electric Canada. The average
-  contract duration was 0.5 years, and the average contract value
-  (not including contracts under $10k) was $956.3K. The longest
-  contract was 7.6 years. The largest contract by value (including
-  amendments) was $63.2M.
+  contract duration was 0.61 years, and the average contract value
+  (not including contracts under $10k) was $2.4M. The longest
+  contract was 10.41 years. The largest contract by value (including
+  amendments) was $128.5M.
 lookup_name: 'GENERAL ELECTRIC CANADA'
-most_recent_fiscal_year_total: '12.6M'
+most_recent_fiscal_year_total: '19.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '90'
-s431_number_of_contracts_with_amendments: '8'
-s431_number_of_contracts_amendments_percentage: '9%'
-s432_mean_amendment_increase_percentage: '25%'
-s434_mean_number_of_amendments: '1'
-s433_total_amendment_increase_value: '2.2M'
-s424_mean_duration: '0.5'
-s421_mean_contract_value: '956.3K'
-s425_max_duration: '7.6'
-s422_max_contract_value: '63.2M'
+s431_number_of_contracts: '91'
+s431_number_of_contracts_with_amendments: '9'
+s431_number_of_contracts_amendments_percentage: '10%'
+s432_mean_amendment_increase_percentage: '372%'
+s434_mean_number_of_amendments: '1.44'
+s433_total_amendment_increase_value: '126.8M'
+s424_mean_duration: '0.61'
+s421_mean_contract_value: '2.4M'
+s425_max_duration: '10.41'
+s422_max_contract_value: '128.5M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -171,7 +171,7 @@ s422_max_contract_value: '63.2M'
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/tsb-bst/\">Transportation Safety Board of Canada<\/a>"],[84374.09,null,6951693.29,null,null,391233.5,62090.51,10392.9,null,18332.45],[7741.21,68502.16,1102590.82,15551.13,95850.51,495331.65,67253.85,19633.96,29652.98,100828.45],[6165.27,39331.77,622346.57,null,null,61611.57,5615.58,null,null,null],[6934.84,null,5909200.98,null,44075.85,null,6591627.85,null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/tsb-bst/\">Transportation Safety Board of Canada<\/a>"],[84374.09,null,19299609.85,null,null,391233.5,62090.51,10392.9,null,18332.45],[7741.21,68502.16,13484337.3,15551.13,95850.51,495331.65,67253.85,19633.96,29652.98,100828.45],[6165.27,39331.77,12970263.14,null,null,61611.57,5615.58,null,null,null],[6934.84,null,13148801.38,null,44075.85,null,6591627.85,null,null,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/general_electric_canada/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
 </p>
@@ -179,7 +179,7 @@ s422_max_contract_value: '63.2M'
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/medical/\">Medical<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[5869388.72,784792.97,null,863935.04,null],[151523.93,547867.66,null,1272265.16,31279.98],[17939.06,131626.4,19968.23,565537.07,null],[5237356.53,131626.4,6591627.85,591228.75,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/medical/\">Medical<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[18217305.29,784792.97,null,863935.04,null],[12533270.41,547867.66,null,1272265.16,31279.98],[12365855.63,131626.4,19968.23,565537.07,null],[12476956.93,131626.4,6591627.85,591228.75,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/general_electric_canada/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

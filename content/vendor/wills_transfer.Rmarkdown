@@ -1,7 +1,7 @@
 ---
 title: Wills Transfer
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: wills_transfer
 categories: []
 tags: []

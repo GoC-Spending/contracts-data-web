@@ -1,7 +1,7 @@
 ---
 title: Nadine International
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: nadine_international
 categories: []
 tags: []

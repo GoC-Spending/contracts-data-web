@@ -1,7 +1,7 @@
 ---
 title: Canadian North
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: canadian_north
 categories: []
 tags: []

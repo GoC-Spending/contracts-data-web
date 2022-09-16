@@ -1,7 +1,7 @@
 ---
 title: Broadnet Telecom
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: broadnet_telecom
 categories: []
 tags: []

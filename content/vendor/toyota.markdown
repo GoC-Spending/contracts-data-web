@@ -1,7 +1,7 @@
 ---
 title: Toyota
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: toyota
 categories: []
 tags: []
@@ -133,8 +133,8 @@ s422_max_contract_value: '4.8M'
 - [TOYOTA TOKYO COROLLA CO., LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TOYOTA%20TOKYO%20COROLLA%20CO.%2c%20LTD.%22)
 - [LS NETWORKS TOYOTA - YONGSAN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LS%20NETWORKS%20TOYOTA%20-%20YONGSAN%22)
 - [TOYOTA STE AGATHE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TOYOTA%20STE%20AGATHE%22)
-- [Silverwood Toyota](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Silverwood%20Toyota%22)
 - [Precision Toyota](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Precision%20Toyota%22)
+- [Silverwood Toyota](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Silverwood%20Toyota%22)
 - [North Bay Toyota](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22North%20Bay%20Toyota%22)
 - [Kingston Toyota](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Kingston%20Toyota%22)
 - [Clark Toyota](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Clark%20Toyota%22)

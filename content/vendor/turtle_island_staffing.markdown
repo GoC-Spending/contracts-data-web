@@ -1,7 +1,7 @@
 ---
 title: Turtle Island Staffing
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: turtle_island_staffing
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with Turtle Island Staffing. The average
   contract duration was 0.75 years, and the average contract value
-  (not including contracts under $10k) was $63.7K. The longest
+  (not including contracts under $10k) was $63.8K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $386.8K.
 lookup_name: 'TURTLE ISLAND STAFFING'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '224'
-s431_number_of_contracts_with_amendments: '86'
+s431_number_of_contracts: '223'
+s431_number_of_contracts_with_amendments: '85'
 s431_number_of_contracts_amendments_percentage: '38%'
 s432_mean_amendment_increase_percentage: '86%'
 s434_mean_number_of_amendments: '1.26'
-s433_total_amendment_increase_value: '2.6M'
+s433_total_amendment_increase_value: '2.5M'
 s424_mean_duration: '0.75'
-s421_mean_contract_value: '63.7K'
+s421_mean_contract_value: '63.8K'
 s425_max_duration: '4'
 s422_max_contract_value: '386.8K'
 ---

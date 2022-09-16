@@ -1,7 +1,7 @@
 ---
 title: Mobile Valve
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: mobile_valve
 categories: []
 tags: []

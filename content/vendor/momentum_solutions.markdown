@@ -1,7 +1,7 @@
 ---
 title: Momentum Solutions
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: momentum_solutions
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '43'
 s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '21%'
-s432_mean_amendment_increase_percentage: '35%'
+s432_mean_amendment_increase_percentage: '36%'
 s434_mean_number_of_amendments: '1.22'
-s433_total_amendment_increase_value: '3.8M'
+s433_total_amendment_increase_value: '3.9M'
 s424_mean_duration: '0.14'
 s421_mean_contract_value: '1.3M'
 s425_max_duration: '1.04'

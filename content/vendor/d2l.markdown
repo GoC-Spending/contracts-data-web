@@ -1,7 +1,7 @@
 ---
 title: D2L
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: d2l
 categories: []
 tags: []

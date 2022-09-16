@@ -1,7 +1,7 @@
 ---
 title: Goss Gilroy
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: goss_gilroy
 categories: []
 tags: []

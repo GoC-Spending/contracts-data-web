@@ -1,7 +1,7 @@
 ---
 title: Empowered Networks
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: empowered_networks
 categories: []
 tags: []

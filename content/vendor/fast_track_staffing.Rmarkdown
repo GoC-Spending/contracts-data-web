@@ -1,7 +1,7 @@
 ---
 title: Fast Track Staffing
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: fast_track_staffing
 categories: []
 tags: []

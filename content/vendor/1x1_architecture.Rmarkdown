@@ -1,7 +1,7 @@
 ---
 title: 1X1 Architecture
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: 1x1_architecture
 categories: []
 tags: []

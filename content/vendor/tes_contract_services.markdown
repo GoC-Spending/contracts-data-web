@@ -1,7 +1,7 @@
 ---
 title: TES Contract Services
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: tes_contract_services
 categories: []
 tags: []
@@ -22,7 +22,7 @@ s431_number_of_contracts: '118'
 s431_number_of_contracts_with_amendments: '94'
 s431_number_of_contracts_amendments_percentage: '80%'
 s432_mean_amendment_increase_percentage: '151%'
-s434_mean_number_of_amendments: '2.3'
+s434_mean_number_of_amendments: '2.29'
 s433_total_amendment_increase_value: '49.4M'
 s424_mean_duration: '1.49'
 s421_mean_contract_value: '1.2M'

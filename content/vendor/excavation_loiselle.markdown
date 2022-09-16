@@ -1,7 +1,7 @@
 ---
 title: Excavation Loiselle
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: excavation_loiselle
 categories: []
 tags: []

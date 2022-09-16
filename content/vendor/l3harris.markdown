@@ -1,7 +1,7 @@
 ---
 title: L3Harris
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: l3harris
 categories: []
 tags: []
@@ -9,23 +9,23 @@ images:
   - /img/cover.png
 r_init: |-
   
-description: The Government of Canada spent an estimated $101.3M
+description: The Government of Canada spent an estimated $104.0M
   in 2021-2022 on contracts with L3Harris. The average
-  contract duration was 1.15 years, and the average contract value
-  (not including contracts under $10k) was $5.7M. The longest
+  contract duration was 1.17 years, and the average contract value
+  (not including contracts under $10k) was $5.8M. The longest
   contract was 14.83 years. The largest contract by value (including
   amendments) was $515.8M.
 lookup_name: 'L3HARRIS'
-most_recent_fiscal_year_total: '101.3M'
+most_recent_fiscal_year_total: '104.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '267'
-s431_number_of_contracts_with_amendments: '33'
-s431_number_of_contracts_amendments_percentage: '12%'
-s432_mean_amendment_increase_percentage: '90%'
-s434_mean_number_of_amendments: '2.12'
-s433_total_amendment_increase_value: '452.0M'
-s424_mean_duration: '1.15'
-s421_mean_contract_value: '5.7M'
+s431_number_of_contracts: '268'
+s431_number_of_contracts_with_amendments: '34'
+s431_number_of_contracts_amendments_percentage: '13%'
+s432_mean_amendment_increase_percentage: '121%'
+s434_mean_number_of_amendments: '2.18'
+s433_total_amendment_increase_value: '472.6M'
+s424_mean_duration: '1.17'
+s421_mean_contract_value: '5.8M'
 s425_max_duration: '14.83'
 s422_max_contract_value: '515.8M'
 ---
@@ -210,7 +210,7 @@ s422_max_contract_value: '515.8M'
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/pco-bcp/\">Privy Council Office<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/tsb-bst/\">Transportation Safety Board of Canada<\/a>"],[null,1580266.55,null,153141553.8,153443.98,402725.45,null,44905.41,5528612.88,null,369.53],[null,1584596.05,62232.63,132364864.55,null,17401.25,null,null,1914446.79,49603.94,44907.44],[null,1834097.32,null,103035285.84,null,6696.83,899723.48,null,2334963.06,null,16975.69],[25076.33,2066612.73,null,97319142.23,null,41661.05,1676.06,null,1783110.07,64088.22,8430.01]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/pco-bcp/\">Privy Council Office<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/tsb-bst/\">Transportation Safety Board of Canada<\/a>"],[null,1580266.55,null,155853596.84,153443.98,402725.45,null,44905.41,5528612.88,null,369.53],[null,1584596.05,62232.63,135084337.84,null,17401.25,null,null,1914446.79,49603.94,44907.44],[null,1834097.32,null,105747328.88,null,6696.83,899723.48,null,2334963.06,null,16975.69],[25076.33,2066612.73,null,100031185.26,null,41661.05,1676.06,null,1783110.07,64088.22,8430.01]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/l3harris/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
 </p>
@@ -218,7 +218,7 @@ s422_max_contract_value: '515.8M'
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[9828928.91,null,71704568.02,995730.36,5404732.57,null,72917917.76,null],[10302818.14,9880.68,71613222.97,183867.08,1832332.69,49603.94,51945002.85,101324.3],[9504050.54,36901.32,47613357.26,157837.6,4105419.43,null,46710176.06,null],[10019268.16,null,43868058.32,49052.28,3874516.61,56483.86,43442417.47,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[12540971.94,null,71704568.02,995730.36,5404732.57,null,72917917.76,null],[13022291.43,9880.68,71613222.97,183867.08,1832332.69,49603.94,51945002.85,101324.3],[12216093.57,36901.32,47613357.26,157837.6,4105419.43,null,46710176.06,null],[12731311.2,null,43868058.32,49052.28,3874516.61,56483.86,43442417.47,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/l3harris/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

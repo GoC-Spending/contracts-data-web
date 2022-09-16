@@ -1,7 +1,7 @@
 ---
 title: PetroValue Products
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: petrovalue_products
 categories: []
 tags: []
@@ -12,22 +12,22 @@ r_init: |-
 description: The Government of Canada spent an estimated $3.3M
   in 2021-2022 on contracts with PetroValue Products. The average
   contract duration was 0.12 years, and the average contract value
-  (not including contracts under $10k) was $69.4K. The longest
+  (not including contracts under $10k) was $78.4K. The longest
   contract was 1.59 years. The largest contract by value (including
-  amendments) was $3.4M.
+  amendments) was $5.0M.
 lookup_name: 'PETROVALUE PRODUCTS'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '176'
 s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage: '0%'
+s432_mean_amendment_increase_percentage: '6%'
 s434_mean_number_of_amendments: '1'
-s433_total_amendment_increase_value: '0.0'
+s433_total_amendment_increase_value: '1.6M'
 s424_mean_duration: '0.12'
-s421_mean_contract_value: '69.4K'
+s421_mean_contract_value: '78.4K'
 s425_max_duration: '1.59'
-s422_max_contract_value: '3.4M'
+s422_max_contract_value: '5.0M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

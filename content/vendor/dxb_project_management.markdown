@@ -1,7 +1,7 @@
 ---
 title: DXB Project Management
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: dxb_project_management
 categories: []
 tags: []

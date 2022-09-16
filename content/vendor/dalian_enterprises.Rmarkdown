@@ -1,7 +1,7 @@
 ---
 title: Dalian Enterprises
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: dalian_enterprises
 categories: []
 tags: []

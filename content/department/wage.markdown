@@ -1,7 +1,7 @@
 ---
 title: Department for Women and Gender Equality
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: wage
 categories: []
 tags: []

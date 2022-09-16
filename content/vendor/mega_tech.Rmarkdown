@@ -1,7 +1,7 @@
 ---
 title: Mega Tech
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: mega_tech
 categories: []
 tags: []

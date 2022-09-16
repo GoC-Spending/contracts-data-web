@@ -1,7 +1,7 @@
 ---
 title: Nolinor Aviation
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: nolinor_aviation
 categories: []
 tags: []

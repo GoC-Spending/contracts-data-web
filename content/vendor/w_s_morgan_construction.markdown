@@ -1,7 +1,7 @@
 ---
 title: W S Morgan Construction
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: w_s_morgan_construction
 categories: []
 tags: []
@@ -11,7 +11,7 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $331.6K
   in 2021-2022 on contracts with W S Morgan Construction. The average
-  contract duration was 1.02 years, and the average contract value
+  contract duration was 1.03 years, and the average contract value
   (not including contracts under $10k) was $867.6K. The longest
   contract was 1.94 years. The largest contract by value (including
   amendments) was $2.2M.
@@ -24,7 +24,7 @@ s431_number_of_contracts_amendments_percentage: '75%'
 s432_mean_amendment_increase_percentage: '18%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '843.6K'
-s424_mean_duration: '1.02'
+s424_mean_duration: '1.03'
 s421_mean_contract_value: '867.6K'
 s425_max_duration: '1.94'
 s422_max_contract_value: '2.2M'

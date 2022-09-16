@@ -1,7 +1,7 @@
 ---
 title: Neptec Design Group
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: neptec_design_group
 categories: []
 tags: []

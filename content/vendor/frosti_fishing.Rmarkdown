@@ -1,7 +1,7 @@
 ---
 title: Frosti Fishing
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: frosti_fishing
 categories: []
 tags: []

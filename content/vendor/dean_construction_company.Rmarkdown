@@ -1,7 +1,7 @@
 ---
 title: Dean Construction Company
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: dean_construction_company
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Fisher Paykel Healthcare
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: fisher_paykel_healthcare
 categories: []
 tags: []

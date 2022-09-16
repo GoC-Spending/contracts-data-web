@@ -1,7 +1,7 @@
 ---
 title: Office of the Secretary to the Governor General
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: osgg-bsgg
 categories: []
 tags: []
@@ -21,7 +21,7 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '276'
 s431_number_of_contracts_with_amendments: '68'
 s431_number_of_contracts_amendments_percentage: '25%'
-s432_mean_amendment_increase_percentage: '47%'
+s432_mean_amendment_increase_percentage: '46%'
 s434_mean_number_of_amendments: '1.37'
 s433_total_amendment_increase_value: '2.9M'
 s424_mean_duration: '0.95'

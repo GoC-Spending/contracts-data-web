@@ -1,7 +1,7 @@
 ---
 title: Waste Management of Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: waste_management_of_canada
 categories: []
 tags: []

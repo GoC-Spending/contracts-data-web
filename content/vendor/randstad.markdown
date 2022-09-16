@@ -1,7 +1,7 @@
 ---
 title: Randstad
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: randstad
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $42.2M
   in 2021-2022 on contracts with Randstad. The average
   contract duration was 1.3 years, and the average contract value
-  (not including contracts under $10k) was $335.9K. The longest
+  (not including contracts under $10k) was $335.2K. The longest
   contract was 7.77 years. The largest contract by value (including
   amendments) was $12.4M.
 lookup_name: 'RANDSTAD'
 most_recent_fiscal_year_total: '42.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '698'
-s431_number_of_contracts_with_amendments: '455'
+s431_number_of_contracts: '697'
+s431_number_of_contracts_with_amendments: '454'
 s431_number_of_contracts_amendments_percentage: '65%'
-s432_mean_amendment_increase_percentage: '146%'
-s434_mean_number_of_amendments: '2.14'
-s433_total_amendment_increase_value: '68.9M'
+s432_mean_amendment_increase_percentage: '145%'
+s434_mean_number_of_amendments: '2.13'
+s433_total_amendment_increase_value: '68.2M'
 s424_mean_duration: '1.3'
-s421_mean_contract_value: '335.9K'
+s421_mean_contract_value: '335.2K'
 s425_max_duration: '7.77'
 s422_max_contract_value: '12.4M'
 ---

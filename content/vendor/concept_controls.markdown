@@ -1,7 +1,7 @@
 ---
 title: Concept Controls
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: concept_controls
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '87'
 s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage: '24%'
+s432_mean_amendment_increase_percentage: '25%'
 s434_mean_number_of_amendments: '1'
-s433_total_amendment_increase_value: '839.0K'
+s433_total_amendment_increase_value: '839.9K'
 s424_mean_duration: '0.32'
 s421_mean_contract_value: '84.6K'
 s425_max_duration: '5.41'

@@ -1,7 +1,7 @@
 ---
 title: Tsuut’ina Contracting GP
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: tsuu_t_ina_contracting_gp
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Groupe Onscope
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: groupe_onscope
 categories: []
 tags: []

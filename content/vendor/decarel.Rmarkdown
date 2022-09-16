@@ -1,7 +1,7 @@
 ---
 title: Decarel
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: decarel
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: University of Saskatchewan
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: university_of_saskatchewan
 categories: []
 tags: []

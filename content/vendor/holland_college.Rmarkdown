@@ -1,7 +1,7 @@
 ---
 title: Holland College
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: holland_college
 categories: []
 tags: []

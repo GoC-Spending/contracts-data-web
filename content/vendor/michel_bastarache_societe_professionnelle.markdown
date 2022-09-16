@@ -1,7 +1,7 @@
 ---
 title: Michel Bastarache Societe Professionnelle
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: michel_bastarache_societe_professionnelle
 categories: []
 tags: []

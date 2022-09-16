@@ -1,7 +1,7 @@
 ---
 title: NORDMEC Construction
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: nordmec_construction
 categories: []
 tags: []

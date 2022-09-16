@@ -1,7 +1,7 @@
 ---
 title: Amer Sports Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: amer_sports_canada
 categories: []
 tags: []

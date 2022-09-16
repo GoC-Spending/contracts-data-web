@@ -1,7 +1,7 @@
 ---
 title: Tervita
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: tervita
 categories: []
 tags: []

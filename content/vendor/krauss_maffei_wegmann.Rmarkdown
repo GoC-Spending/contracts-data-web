@@ -1,7 +1,7 @@
 ---
 title: Krauss Maffei Wegmann
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: krauss_maffei_wegmann
 categories: []
 tags: []

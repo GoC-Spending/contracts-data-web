@@ -1,7 +1,7 @@
 ---
 title: Parsons Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: parsons_canada
 categories: []
 tags: []

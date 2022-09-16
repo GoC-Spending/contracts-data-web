@@ -1,7 +1,7 @@
 ---
 title: Ironclad Earthworks
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: ironclad_earthworks
 categories: []
 tags: []

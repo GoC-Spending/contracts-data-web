@@ -1,7 +1,7 @@
 ---
 title: SRA Staffing Solutions
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: sra_staffing_solutions
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $403.0K
   in 2021-2022 on contracts with SRA Staffing Solutions. The average
   contract duration was 1.05 years, and the average contract value
-  (not including contracts under $10k) was $213.0K. The longest
+  (not including contracts under $10k) was $208.6K. The longest
   contract was 3.8 years. The largest contract by value (including
   amendments) was $1.3M.
 lookup_name: 'SRA STAFFING SOLUTIONS'
 most_recent_fiscal_year_total: '403.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '33'
-s431_number_of_contracts_with_amendments: '14'
-s431_number_of_contracts_amendments_percentage: '42%'
-s432_mean_amendment_increase_percentage: '150%'
-s434_mean_number_of_amendments: '2.07'
-s433_total_amendment_increase_value: '1.4M'
+s431_number_of_contracts: '34'
+s431_number_of_contracts_with_amendments: '15'
+s431_number_of_contracts_amendments_percentage: '44%'
+s432_mean_amendment_increase_percentage: '156%'
+s434_mean_number_of_amendments: '2'
+s433_total_amendment_increase_value: '1.5M'
 s424_mean_duration: '1.05'
-s421_mean_contract_value: '213.0K'
+s421_mean_contract_value: '208.6K'
 s425_max_duration: '3.8'
 s422_max_contract_value: '1.3M'
 ---

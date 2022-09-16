@@ -1,7 +1,7 @@
 ---
 title: Totem Offisource
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: totem_offisource
 categories: []
 tags: []

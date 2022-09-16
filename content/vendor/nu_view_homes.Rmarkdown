@@ -1,7 +1,7 @@
 ---
 title: Nu View Homes
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: nu_view_homes
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: THG the History Group
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: thg_the_history_group
 categories: []
 tags: []

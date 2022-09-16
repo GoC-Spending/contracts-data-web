@@ -1,7 +1,7 @@
 ---
 title: Construction Demathieu Bard
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: construction_demathieu_bard
 categories: []
 tags: []

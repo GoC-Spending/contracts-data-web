@@ -1,7 +1,7 @@
 ---
 title: House of Hope
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: house_of_hope
 categories: []
 tags: []

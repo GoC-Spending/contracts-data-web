@@ -1,7 +1,7 @@
 ---
 title: Construction Couture Tanguay
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: construction_couture_tanguay
 categories: []
 tags: []

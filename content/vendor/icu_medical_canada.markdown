@@ -1,7 +1,7 @@
 ---
 title: ICU Medical Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: icu_medical_canada
 categories: []
 tags: []

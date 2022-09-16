@@ -1,7 +1,7 @@
 ---
 title: Compagnie Amplexor Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: compagnie_amplexor_canada
 categories: []
 tags: []

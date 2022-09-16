@@ -1,7 +1,7 @@
 ---
 title: Lionbridge
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: lionbridge
 categories: []
 tags: []
@@ -12,7 +12,7 @@ r_init: |-
 description: The Government of Canada spent an estimated $14.7M
   in 2021-2022 on contracts with Lionbridge. The average
   contract duration was 0.97 years, and the average contract value
-  (not including contracts under $10k) was $172.8K. The longest
+  (not including contracts under $10k) was $172.9K. The longest
   contract was 7.07 years. The largest contract by value (including
   amendments) was $5.3M.
 lookup_name: 'LIONBRIDGE'
@@ -25,7 +25,7 @@ s432_mean_amendment_increase_percentage: '118%'
 s434_mean_number_of_amendments: '1.81'
 s433_total_amendment_increase_value: '14.5M'
 s424_mean_duration: '0.97'
-s421_mean_contract_value: '172.8K'
+s421_mean_contract_value: '172.9K'
 s425_max_duration: '7.07'
 s422_max_contract_value: '5.3M'
 ---

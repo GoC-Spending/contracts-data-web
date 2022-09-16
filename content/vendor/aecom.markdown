@@ -1,7 +1,7 @@
 ---
 title: AECOM
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: aecom
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '361'
 s431_number_of_contracts_with_amendments: '142'
 s431_number_of_contracts_amendments_percentage: '39%'
-s432_mean_amendment_increase_percentage: '228%'
+s432_mean_amendment_increase_percentage: '226%'
 s434_mean_number_of_amendments: '2.35'
-s433_total_amendment_increase_value: '76.0M'
+s433_total_amendment_increase_value: '75.9M'
 s424_mean_duration: '1.7'
 s421_mean_contract_value: '569.9K'
 s425_max_duration: '19.29'

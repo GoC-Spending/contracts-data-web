@@ -1,7 +1,7 @@
 ---
 title: Columbia Fuels
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: columbia_fuels
 categories: []
 tags: []

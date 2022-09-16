@@ -1,7 +1,7 @@
 ---
 title: Barron’s Refrigeration Heating
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: barron_s_refrigeration_heating
 categories: []
 tags: []

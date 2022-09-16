@@ -1,7 +1,7 @@
 ---
 title: Canadian Transportation Agency
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: cta-otc
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '297'
 s431_number_of_contracts_with_amendments: '86'
 s431_number_of_contracts_amendments_percentage: '29%'
-s432_mean_amendment_increase_percentage: '117%'
+s432_mean_amendment_increase_percentage: '114%'
 s434_mean_number_of_amendments: '1.92'
-s433_total_amendment_increase_value: '2.4M'
+s433_total_amendment_increase_value: '2.3M'
 s424_mean_duration: '1.49'
 s421_mean_contract_value: '58.2K'
 s425_max_duration: '6.25'

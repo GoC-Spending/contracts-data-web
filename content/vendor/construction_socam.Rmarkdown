@@ -1,7 +1,7 @@
 ---
 title: Construction Socam
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: construction_socam
 categories: []
 tags: []

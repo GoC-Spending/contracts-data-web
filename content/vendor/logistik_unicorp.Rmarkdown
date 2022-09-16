@@ -1,7 +1,7 @@
 ---
 title: Logistik Unicorp
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: logistik_unicorp
 categories: []
 tags: []

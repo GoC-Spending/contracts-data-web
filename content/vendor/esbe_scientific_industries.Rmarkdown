@@ -1,7 +1,7 @@
 ---
 title: ESBE Scientific Industries
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: esbe_scientific_industries
 categories: []
 tags: []

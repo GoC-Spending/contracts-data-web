@@ -1,7 +1,7 @@
 ---
 title: Techne Seating Component
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: techne_seating_component
 categories: []
 tags: []

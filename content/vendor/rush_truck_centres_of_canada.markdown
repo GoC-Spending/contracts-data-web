@@ -1,7 +1,7 @@
 ---
 title: Rush Truck Centres of Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: rush_truck_centres_of_canada
 categories: []
 tags: []

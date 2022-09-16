@@ -1,7 +1,7 @@
 ---
 title: National Arts Centre
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: national_arts_centre
 categories: []
 tags: []

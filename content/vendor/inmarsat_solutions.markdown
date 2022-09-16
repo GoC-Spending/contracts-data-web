@@ -1,7 +1,7 @@
 ---
 title: Inmarsat Solutions
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: inmarsat_solutions
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: AEREX Avionics
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: aerex_avionics
 categories: []
 tags: []

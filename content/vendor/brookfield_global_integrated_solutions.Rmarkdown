@@ -1,7 +1,7 @@
 ---
 title: Brookfield Global Integrated Solutions
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: brookfield_global_integrated_solutions
 categories: []
 tags: []

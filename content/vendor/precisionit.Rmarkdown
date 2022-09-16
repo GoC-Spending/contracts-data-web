@@ -1,7 +1,7 @@
 ---
 title: PrecisionIT
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: precisionit
 categories: []
 tags: []

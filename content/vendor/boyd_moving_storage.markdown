@@ -1,7 +1,7 @@
 ---
 title: Boyd Moving Storage
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: boyd_moving_storage
 categories: []
 tags: []

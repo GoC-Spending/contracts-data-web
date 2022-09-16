@@ -1,7 +1,7 @@
 ---
 title: Les Traductions Tessier
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: les_traductions_tessier
 categories: []
 tags: []

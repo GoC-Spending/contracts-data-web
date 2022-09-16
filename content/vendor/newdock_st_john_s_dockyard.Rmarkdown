@@ -1,7 +1,7 @@
 ---
 title: Newdock St John’s Dockyard
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: newdock_st_john_s_dockyard
 categories: []
 tags: []

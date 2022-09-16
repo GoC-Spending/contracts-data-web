@@ -1,7 +1,7 @@
 ---
 title: Bell Textron
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: bell_textron
 categories: []
 tags: []

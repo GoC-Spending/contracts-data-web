@@ -1,7 +1,7 @@
 ---
 title: Fast Forward French
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: fast_forward_french
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '514'
 s431_number_of_contracts_with_amendments: '84'
 s431_number_of_contracts_amendments_percentage: '16%'
-s432_mean_amendment_increase_percentage: '52%'
+s432_mean_amendment_increase_percentage: '54%'
 s434_mean_number_of_amendments: '1.37'
-s433_total_amendment_increase_value: '569.6K'
+s433_total_amendment_increase_value: '580.1K'
 s424_mean_duration: '0.6'
 s421_mean_contract_value: '21.5K'
 s425_max_duration: '2.96'

@@ -1,7 +1,7 @@
 ---
 title: Simex Defence
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: simex_defence
 categories: []
 tags: []
@@ -21,7 +21,7 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '962'
 s431_number_of_contracts_with_amendments: '38'
 s431_number_of_contracts_amendments_percentage: '4%'
-s432_mean_amendment_increase_percentage: '33%'
+s432_mean_amendment_increase_percentage: '34%'
 s434_mean_number_of_amendments: '1.11'
 s433_total_amendment_increase_value: '3.2M'
 s424_mean_duration: '0.6'

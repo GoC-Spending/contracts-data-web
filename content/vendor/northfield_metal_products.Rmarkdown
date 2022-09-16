@@ -1,7 +1,7 @@
 ---
 title: Northfield Metal Products
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: northfield_metal_products
 categories: []
 tags: []

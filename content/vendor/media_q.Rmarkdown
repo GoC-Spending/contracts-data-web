@@ -1,7 +1,7 @@
 ---
 title: Media Q
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: media_q
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Roof Tile Management
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: roof_tile_management
 categories: []
 tags: []

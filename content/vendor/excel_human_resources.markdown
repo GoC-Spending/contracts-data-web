@@ -1,7 +1,7 @@
 ---
 title: Excel Human Resources
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: excel_human_resources
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '1,623'
 s431_number_of_contracts_with_amendments: '674'
 s431_number_of_contracts_amendments_percentage: '42%'
-s432_mean_amendment_increase_percentage: '174%'
+s432_mean_amendment_increase_percentage: '173%'
 s434_mean_number_of_amendments: '1.84'
-s433_total_amendment_increase_value: '109.2M'
+s433_total_amendment_increase_value: '109.0M'
 s424_mean_duration: '0.97'
 s421_mean_contract_value: '215.6K'
 s425_max_duration: '7.36'
@@ -167,7 +167,7 @@ s422_max_contract_value: '14.1M'
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/medical/\">Medical<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[243411.12,null,189862.37,15840523.72,33588115.36,null,212451.6],[244078,null,5550047.85,15975723.08,30715767.16,18348.38,549491.98],[243411.12,79015.52,5654509.92,14107515.11,29364271.11,null,226194.47],[243411.12,211439.68,4592968.63,13365943.22,33953266.15,null,106041.17]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/medical/\">Medical<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[243411.12,null,189862.37,15536861.28,33891777.8,null,212451.6],[244078,null,5550047.85,15789579.71,30901910.52,18348.38,549491.98],[243411.12,79015.52,5654509.92,13865727.47,29606058.76,null,226194.47],[243411.12,211439.68,4592968.63,13084198.77,34235010.6,null,106041.17]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/excel_human_resources/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

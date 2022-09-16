@@ -1,7 +1,7 @@
 ---
 title: Pepco
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: pepco
 categories: []
 tags: []
@@ -21,9 +21,9 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '222'
 s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '6%'
-s432_mean_amendment_increase_percentage: '41%'
+s432_mean_amendment_increase_percentage: '45%'
 s434_mean_number_of_amendments: '1.07'
-s433_total_amendment_increase_value: '-186.9K'
+s433_total_amendment_increase_value: '-180.5K'
 s424_mean_duration: '0.15'
 s421_mean_contract_value: '37.1K'
 s425_max_duration: '1'

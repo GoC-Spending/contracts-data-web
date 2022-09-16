@@ -1,7 +1,7 @@
 ---
 title: Troy Life Fire Safety
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: troy_life_fire_safety
 categories: []
 tags: []

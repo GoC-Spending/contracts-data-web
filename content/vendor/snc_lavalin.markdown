@@ -1,7 +1,7 @@
 ---
 title: SNC Lavalin
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: snc_lavalin
 categories: []
 tags: []
@@ -18,12 +18,12 @@ description: The Government of Canada spent an estimated $85.0M
 lookup_name: 'SNC LAVALIN'
 most_recent_fiscal_year_total: '85.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '598'
-s431_number_of_contracts_with_amendments: '202'
+s431_number_of_contracts: '599'
+s431_number_of_contracts_with_amendments: '203'
 s431_number_of_contracts_amendments_percentage: '34%'
 s432_mean_amendment_increase_percentage: '141%'
-s434_mean_number_of_amendments: '2'
-s433_total_amendment_increase_value: '560.2M'
+s434_mean_number_of_amendments: '2.01'
+s433_total_amendment_increase_value: '560.1M'
 s424_mean_duration: '1.24'
 s421_mean_contract_value: '2.3M'
 s425_max_duration: '11.98'

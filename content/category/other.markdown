@@ -1,7 +1,7 @@
 ---
 title: (Other)
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: other
 categories: []
 tags: []
@@ -22,7 +22,7 @@ s431_number_of_contracts: '1,770'
 s431_number_of_contracts_with_amendments: '139'
 s431_number_of_contracts_amendments_percentage: '8%'
 s432_mean_amendment_increase_percentage: '151%'
-s434_mean_number_of_amendments: '1.46'
+s434_mean_number_of_amendments: '1.47'
 s433_total_amendment_increase_value: '38.8M'
 s424_mean_duration: '0.76'
 s421_mean_contract_value: '300.7K'

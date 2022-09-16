@@ -1,7 +1,7 @@
 ---
 title: Hoskin Scientific
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: hoskin_scientific
 categories: []
 tags: []

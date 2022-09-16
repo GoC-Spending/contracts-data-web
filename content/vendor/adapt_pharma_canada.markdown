@@ -1,7 +1,7 @@
 ---
 title: Adapt Pharma Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: adapt_pharma_canada
 categories: []
 tags: []

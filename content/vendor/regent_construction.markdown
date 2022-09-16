@@ -1,7 +1,7 @@
 ---
 title: Regent Construction
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: regent_construction
 categories: []
 tags: []

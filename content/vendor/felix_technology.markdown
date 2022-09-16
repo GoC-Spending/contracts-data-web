@@ -1,7 +1,7 @@
 ---
 title: Felix Technology
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: felix_technology
 categories: []
 tags: []
@@ -12,7 +12,7 @@ r_init: |-
 description: The Government of Canada spent an estimated $3.8M
   in 2021-2022 on contracts with Felix Technology. The average
   contract duration was 0.63 years, and the average contract value
-  (not including contracts under $10k) was $174.1K. The longest
+  (not including contracts under $10k) was $174.2K. The longest
   contract was 6.99 years. The largest contract by value (including
   amendments) was $12.0M.
 lookup_name: 'FELIX TECHNOLOGY'
@@ -21,11 +21,11 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '263'
 s431_number_of_contracts_with_amendments: '28'
 s431_number_of_contracts_amendments_percentage: '11%'
-s432_mean_amendment_increase_percentage: '79%'
+s432_mean_amendment_increase_percentage: '80%'
 s434_mean_number_of_amendments: '1.04'
 s433_total_amendment_increase_value: '2.6M'
 s424_mean_duration: '0.63'
-s421_mean_contract_value: '174.1K'
+s421_mean_contract_value: '174.2K'
 s425_max_duration: '6.99'
 s422_max_contract_value: '12.0M'
 ---

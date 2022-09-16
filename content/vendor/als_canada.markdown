@@ -1,7 +1,7 @@
 ---
 title: ALS Canada
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: als_canada
 categories: []
 tags: []
@@ -21,7 +21,7 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '185'
 s431_number_of_contracts_with_amendments: '25'
 s431_number_of_contracts_amendments_percentage: '14%'
-s432_mean_amendment_increase_percentage: '35%'
+s432_mean_amendment_increase_percentage: '37%'
 s434_mean_number_of_amendments: '1.28'
 s433_total_amendment_increase_value: '4.6M'
 s424_mean_duration: '0.7'

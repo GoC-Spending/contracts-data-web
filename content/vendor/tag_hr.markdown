@@ -1,7 +1,7 @@
 ---
 title: Tag HR
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: tag_hr
 categories: []
 tags: []
@@ -21,7 +21,7 @@ most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '113'
 s431_number_of_contracts_with_amendments: '37'
 s431_number_of_contracts_amendments_percentage: '33%'
-s432_mean_amendment_increase_percentage: '143%'
+s432_mean_amendment_increase_percentage: '144%'
 s434_mean_number_of_amendments: '1.32'
 s433_total_amendment_increase_value: '2.1M'
 s424_mean_duration: '0.89'

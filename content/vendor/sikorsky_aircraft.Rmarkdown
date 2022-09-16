@@ -1,7 +1,7 @@
 ---
 title: Sikorsky Aircraft
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: sikorsky_aircraft
 categories: []
 tags: []

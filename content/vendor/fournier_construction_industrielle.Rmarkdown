@@ -1,7 +1,7 @@
 ---
 title: Fournier Construction Industrielle
 author: ''
-date: '2022-09-12'
+date: '2022-09-15'
 slug: fournier_construction_industrielle
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<main class="content" role="main">
+<main class="content {{if eq .Params.full_width false }}main-not-full-width{{ else }}main-full-width{{end}}" role="main">
 
   <article class="article">
     {{ if eq .Section "post" }}

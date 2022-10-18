@@ -3,6 +3,7 @@ title: About the project
 author: ''
 date: '2022-08-17'
 slug: about
+full_width: false
 categories: []
 tags: []
 images:

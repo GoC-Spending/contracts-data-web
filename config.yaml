@@ -35,9 +35,12 @@ menu:
     - name: Methodology
       url: /methodology/
       weight: 2
+    - name: Guide to reforming IT procurement
+      url: /it-procurement-guide/
+      weight: 3
     - name: Data visualizations
       url: /data-visualizations/
-      weight: 3
+      weight: 4
     - name: About the project
       url: /about/
-      weight: 4
+      weight: 5

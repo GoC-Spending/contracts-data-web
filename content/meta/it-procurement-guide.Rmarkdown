@@ -13,7 +13,7 @@ images:
 
 October 2022
 
-[Dr. Amanda Clarke](https://amandaclarke.ca/), Carleton University\
+[Dr. Amanda Clarke](https://amandaclarke.ca/), Associate Professor, Carleton University\
 [Sean Boots](https://sboots.ca/), Public Servant-in-Residence, Carleton University
 
 
@@ -39,7 +39,7 @@ This policy brief draws on a policy review of global best practice in modern IT 
 
 Traditionally, governments (and many other organisations as well) have structured IT contracts in ways that all but ensure technology projects will be over-budget and delayed, will fail to meet their intended objectives, or will simply fail to get off the ground.
 
-What characterizes this highly-risky traditional IT procurement model? First, traditional IT procurement favours **high dollar value** and **long term** projects. It tends to support only a s**mall number of large providers** operating in a non-competitive market. It relies on a model of wholly or largely **outsourced IT expertise**. Last, it defaults to giving **vendors ownership of the data and Intellectual Property (IP)** emerging from a given IT initiative or system, and also defaults to **proprietary software**. 
+What characterizes this highly-risky traditional IT procurement model? First, traditional IT procurement favours **high dollar value** and **long term** projects. It tends to support only a **small number of large providers** operating in a non-competitive market. It relies on a model of wholly or largely **outsourced IT expertise**. Last, it defaults to giving **vendors ownership of the data and Intellectual Property (IP)** emerging from a given IT initiative or system, and also defaults to **proprietary software**. 
 
 All the evidence shows that when it comes to buying IT products and services, this playbook is a recipe for disaster. Thankfully, we now have a strong base of evidence to support a new playbook for Modern IT Procurement in the public sector. 
 

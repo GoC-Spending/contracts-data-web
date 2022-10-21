@@ -107,7 +107,7 @@ In addition to upskilling existing public servants, **the Government of Canada w
 * **removing bilingualism requirements from technology staff classifications** in order to increase the available talent pool (a measure we acknowledge is controversial and not without costs, and also not likely to materialize); and 
 * **hiring distributed technology staff into the public service with the ability to work anywhere in Canada.**
 
-### 2\. Introduce IT Spend Controls
+### 2\. Introduce IT spend controls
 
 **The most successful government IT procurement efforts, measured by taxpayer dollars saved, are the United Kingdom’s early spend control efforts.** These spend controls – introduced in 2011 – are credited with saving £1.3B over five years (about $2.3B CAD) (National Audit Office 2017). Departments’ procurement spending was limited by the government’s Technology Code of Practice, which instituted a maximum cap on the size of IT contracts, limited certain types of contracts to a maximum of two years, and eliminated automatic contract renewals (GDS 2017 2). 
 
@@ -141,7 +141,7 @@ For firms participating in these new procurement approaches, barriers to entry s
 
 
 
-### 5\. Procure and Publish Open Source Software 
+### 5\. Procure and publish open source software 
 
 While we do not have a comprehensive data source to verify this assumption, we can anticipate that **the vast majority of Government of Canada IT contracts would not prioritize public ownership of software code and open source software** given the _Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts_ (2015) explicitly prevents procuring open source custom software that is owned by the Government of Canada (outside of exceptional cases). The _Policy_ requires that new intellectual property created through Crown procurement contracts (particularly for software products) is owned by the contractor rather than the government. 
 
@@ -158,7 +158,7 @@ As a first step, government-wide IT and procurement policies should be introduce
 Following this initial step, Government of Canada departments should undertake a comprehensive but incremental effort to migrate away from proprietary software products, including legacy database systems and information management products. The only exception to government-wide open source software requirements should be fully-managed cloud services (such as software-as-a-service products), fraud detection software in cases where public disclosure would reduce its effectiveness, and limited national security contexts. 
 
 
-### 6\. Improve the Extent and Quality of Publicly Disclosed IT Procurement Data
+### 6\. Improve the extent and quality of publicly-disclosed IT procurement data
 
 **Beyond public spending disclosures, the Government of Canada should begin comprehensively tracking vendor performance on existing and future IT projects, and require that these performance reports are considered during IT procurement evaluations where the same vendors are candidates.** Under current procurement regulations, past vendor performance is not considered valid evaluation criteria, and vendors with a track record of consistent, large-scale IT project failures continue to successfully win bids as a result. Vendor performance reports should be completed for all IT and management consulting contracts, at the close-out of each contract or (for multi-year contracts) updated annually, and should be published publicly within a year of being written. 
 

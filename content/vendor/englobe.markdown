@@ -1,7 +1,7 @@
 ---
 title: Englobe
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: englobe
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $11.6M
   in 2021-2022 on contracts with Englobe. The average
   contract duration was 0.75 years, and the average contract value
-  (not including contracts under $10k) was $186.3K. The longest
+  (not including contracts under $10k) was $186.4K. The longest
   contract was 6.51 years. The largest contract by value (including
   amendments) was $16.1M.
 lookup_name: 'ENGLOBE'
 most_recent_fiscal_year_total: '11.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '652'
-s431_number_of_contracts_with_amendments: '112'
+s431_number_of_contracts_with_amendments: '113'
 s431_number_of_contracts_amendments_percentage: '17%'
-s432_mean_amendment_increase_percentage: '70%'
+s432_mean_amendment_increase_percentage: '69%'
 s434_mean_number_of_amendments: '1.48'
-s433_total_amendment_increase_value: '15.9M'
+s433_total_amendment_increase_value: '16.0M'
 s424_mean_duration: '0.75'
-s421_mean_contract_value: '186.3K'
+s421_mean_contract_value: '186.4K'
 s425_max_duration: '6.51'
 s422_max_contract_value: '16.1M'
 ---

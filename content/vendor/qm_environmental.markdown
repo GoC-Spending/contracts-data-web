@@ -1,7 +1,7 @@
 ---
 title: QM Environmental
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: qm_environmental
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $13.5M
   in 2021-2022 on contracts with QM Environmental. The average
-  contract duration was 0.52 years, and the average contract value
-  (not including contracts under $10k) was $2.2M. The longest
+  contract duration was 0.45 years, and the average contract value
+  (not including contracts under $10k) was $2.0M. The longest
   contract was 1.89 years. The largest contract by value (including
   amendments) was $24.4M.
 lookup_name: 'QM ENVIRONMENTAL'
 most_recent_fiscal_year_total: '13.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '34'
-s431_number_of_contracts_with_amendments: '13'
-s431_number_of_contracts_amendments_percentage: '38%'
-s432_mean_amendment_increase_percentage: '24%'
-s434_mean_number_of_amendments: '1.85'
-s433_total_amendment_increase_value: '12.2M'
-s424_mean_duration: '0.52'
-s421_mean_contract_value: '2.2M'
+s431_number_of_contracts: '41'
+s431_number_of_contracts_with_amendments: '16'
+s431_number_of_contracts_amendments_percentage: '39%'
+s432_mean_amendment_increase_percentage: '35%'
+s434_mean_number_of_amendments: '1.69'
+s433_total_amendment_increase_value: '14.3M'
+s424_mean_duration: '0.45'
+s421_mean_contract_value: '2.0M'
 s425_max_duration: '1.89'
 s422_max_contract_value: '24.4M'
 ---

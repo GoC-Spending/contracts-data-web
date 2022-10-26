@@ -1,7 +1,7 @@
 ---
 title: Simex Defence
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: simex_defence
 categories: []
 tags: []

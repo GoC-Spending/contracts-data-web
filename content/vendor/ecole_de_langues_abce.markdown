@@ -1,7 +1,7 @@
 ---
 title: Ecole De Langues Abce
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: ecole_de_langues_abce
 categories: []
 tags: []

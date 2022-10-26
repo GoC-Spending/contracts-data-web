@@ -1,7 +1,7 @@
 ---
 title: Precision ADM
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: precision_adm
 categories: []
 tags: []

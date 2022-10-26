@@ -1,7 +1,7 @@
 ---
 title: Contract Community
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: contract_community
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.7M
   in 2021-2022 on contracts with Contract Community. The average
   contract duration was 1.2 years, and the average contract value
-  (not including contracts under $10k) was $208.0K. The longest
+  (not including contracts under $10k) was $206.4K. The longest
   contract was 6.36 years. The largest contract by value (including
   amendments) was $4.5M.
 lookup_name: 'CONTRACT COMMUNITY'
 most_recent_fiscal_year_total: '2.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '121'
+s431_number_of_contracts: '122'
 s431_number_of_contracts_with_amendments: '31'
-s431_number_of_contracts_amendments_percentage: '26%'
+s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '82%'
 s434_mean_number_of_amendments: '1.42'
 s433_total_amendment_increase_value: '2.2M'
 s424_mean_duration: '1.2'
-s421_mean_contract_value: '208.0K'
+s421_mean_contract_value: '206.4K'
 s425_max_duration: '6.36'
 s422_max_contract_value: '4.5M'
 ---

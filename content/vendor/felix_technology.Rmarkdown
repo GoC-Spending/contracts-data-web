@@ -1,7 +1,7 @@
 ---
 title: Felix Technology
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: felix_technology
 categories: []
 tags: []

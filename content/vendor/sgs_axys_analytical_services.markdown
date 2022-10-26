@@ -1,7 +1,7 @@
 ---
 title: SGS Axys Analytical Services
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: sgs_axys_analytical_services
 categories: []
 tags: []

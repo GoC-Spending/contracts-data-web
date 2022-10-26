@@ -1,7 +1,7 @@
 ---
 title: MacDonald Dettwiler and Associates
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: macdonald_dettwiler_and_associates
 categories: []
 tags: []

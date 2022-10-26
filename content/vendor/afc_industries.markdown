@@ -1,7 +1,7 @@
 ---
 title: AFC Industries
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: afc_industries
 categories: []
 tags: []

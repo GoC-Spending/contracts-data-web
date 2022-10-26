@@ -1,7 +1,7 @@
 ---
 title: Acme Future Security Controls
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: acme_future_security_controls
 categories: []
 tags: []

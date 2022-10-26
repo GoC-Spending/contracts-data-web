@@ -1,7 +1,7 @@
 ---
 title: Resolve Salvage Fire Americas
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: resolve_salvage_fire_americas
 categories: []
 tags: []

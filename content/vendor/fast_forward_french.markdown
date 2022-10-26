@@ -1,7 +1,7 @@
 ---
 title: Fast Forward French
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: fast_forward_french
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $3.0M
 lookup_name: 'FAST FORWARD FRENCH'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '514'
+s431_number_of_contracts: '515'
 s431_number_of_contracts_with_amendments: '84'
 s431_number_of_contracts_amendments_percentage: '16%'
 s432_mean_amendment_increase_percentage: '54%'

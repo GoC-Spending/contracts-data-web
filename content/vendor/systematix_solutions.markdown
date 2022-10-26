@@ -1,7 +1,7 @@
 ---
 title: Systematix Solutions
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: systematix_solutions
 categories: []
 tags: []

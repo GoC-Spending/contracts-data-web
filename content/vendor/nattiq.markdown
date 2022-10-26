@@ -1,7 +1,7 @@
 ---
 title: NATTIQ
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: nattiq
 categories: []
 tags: []
@@ -11,20 +11,20 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
   in 2021-2022 on contracts with NATTIQ. The average
-  contract duration was 0.88 years, and the average contract value
+  contract duration was 0.87 years, and the average contract value
   (not including contracts under $10k) was $135.7K. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $1.7M.
 lookup_name: 'NATTIQ'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '101'
+s431_number_of_contracts: '102'
 s431_number_of_contracts_with_amendments: '27'
-s431_number_of_contracts_amendments_percentage: '27%'
+s431_number_of_contracts_amendments_percentage: '26%'
 s432_mean_amendment_increase_percentage: '124%'
 s434_mean_number_of_amendments: '1.7'
 s433_total_amendment_increase_value: '3.3M'
-s424_mean_duration: '0.88'
+s424_mean_duration: '0.87'
 s421_mean_contract_value: '135.7K'
 s425_max_duration: '4.75'
 s422_max_contract_value: '1.7M'

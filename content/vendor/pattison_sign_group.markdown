@@ -1,7 +1,7 @@
 ---
 title: Pattison Sign Group
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: pattison_sign_group
 categories: []
 tags: []

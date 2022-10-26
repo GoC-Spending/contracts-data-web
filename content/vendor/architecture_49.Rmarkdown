@@ -1,7 +1,7 @@
 ---
 title: Architecture 49
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: architecture_49
 categories: []
 tags: []

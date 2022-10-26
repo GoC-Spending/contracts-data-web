@@ -1,7 +1,7 @@
 ---
 title: Defense Information Systems Agency
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: defense_information_systems_agency
 categories: []
 tags: []

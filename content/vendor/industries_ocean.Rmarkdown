@@ -1,7 +1,7 @@
 ---
 title: Industries Ocean
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: industries_ocean
 categories: []
 tags: []

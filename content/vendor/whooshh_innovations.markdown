@@ -1,7 +1,7 @@
 ---
 title: Whooshh Innovations
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: whooshh_innovations
 categories: []
 tags: []

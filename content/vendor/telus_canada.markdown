@@ -1,7 +1,7 @@
 ---
 title: Telus Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: telus_canada
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $83.7M
 lookup_name: 'TELUS CANADA'
 most_recent_fiscal_year_total: '83.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '730'
+s431_number_of_contracts: '731'
 s431_number_of_contracts_with_amendments: '75'
 s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '261%'

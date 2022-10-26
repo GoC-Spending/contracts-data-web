@@ -1,7 +1,7 @@
 ---
 title: McNally Construction
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: mcnally_construction
 categories: []
 tags: []

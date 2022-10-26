@@ -1,7 +1,7 @@
 ---
 title: Mid Canada Mod Center
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: mid_canada_mod_center
 categories: []
 tags: []

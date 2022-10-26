@@ -1,7 +1,7 @@
 ---
 title: L A Hebert
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: l_a_hebert
 categories: []
 tags: []

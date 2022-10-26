@@ -1,7 +1,7 @@
 ---
 title: Bighorn Helicopters
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: bighorn_helicopters
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: FreeBalance
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: freebalance
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with FreeBalance. The average
   contract duration was 1.02 years, and the average contract value
-  (not including contracts under $10k) was $92.1K. The longest
+  (not including contracts under $10k) was $92.0K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $1.0M.
 lookup_name: 'FREEBALANCE'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '118'
-s431_number_of_contracts_with_amendments: '13'
-s431_number_of_contracts_amendments_percentage: '11%'
-s432_mean_amendment_increase_percentage: '87%'
-s434_mean_number_of_amendments: '1.69'
-s433_total_amendment_increase_value: '1.5M'
+s431_number_of_contracts: '119'
+s431_number_of_contracts_with_amendments: '14'
+s431_number_of_contracts_amendments_percentage: '12%'
+s432_mean_amendment_increase_percentage: '84%'
+s434_mean_number_of_amendments: '1.64'
+s433_total_amendment_increase_value: '1.6M'
 s424_mean_duration: '1.02'
-s421_mean_contract_value: '92.1K'
+s421_mean_contract_value: '92.0K'
 s425_max_duration: '4'
 s422_max_contract_value: '1.0M'
 ---

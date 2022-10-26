@@ -1,7 +1,7 @@
 ---
 title: Beckman Coulter Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: beckman_coulter_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with Beckman Coulter Canada. The average
-  contract duration was 0.71 years, and the average contract value
-  (not including contracts under $10k) was $50.3K. The longest
+  contract duration was 0.72 years, and the average contract value
+  (not including contracts under $10k) was $49.9K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $381.0K.
 lookup_name: 'BECKMAN COULTER CANADA'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '120'
+s431_number_of_contracts: '121'
 s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '6%'
 s432_mean_amendment_increase_percentage: '56%'
 s434_mean_number_of_amendments: '1.14'
 s433_total_amendment_increase_value: '180.5K'
-s424_mean_duration: '0.71'
-s421_mean_contract_value: '50.3K'
+s424_mean_duration: '0.72'
+s421_mean_contract_value: '49.9K'
 s425_max_duration: '5.01'
 s422_max_contract_value: '381.0K'
 ---

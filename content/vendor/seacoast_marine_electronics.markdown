@@ -1,7 +1,7 @@
 ---
 title: Seacoast Marine Electronics
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: seacoast_marine_electronics
 categories: []
 tags: []

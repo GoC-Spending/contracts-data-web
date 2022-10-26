@@ -1,7 +1,7 @@
 ---
 title: Bell Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: bell_canada
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $305.3M
 lookup_name: 'BELL CANADA'
 most_recent_fiscal_year_total: '305.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1,064'
+s431_number_of_contracts: '1,067'
 s431_number_of_contracts_with_amendments: '267'
 s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '355%'

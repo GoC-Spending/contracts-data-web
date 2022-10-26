@@ -1,7 +1,7 @@
 ---
 title: Graybridge International Consulting
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: graybridge_international_consulting
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $15.8M
   in 2021-2022 on contracts with Graybridge International Consulting. The average
   contract duration was 0.56 years, and the average contract value
-  (not including contracts under $10k) was $122.7K. The longest
+  (not including contracts under $10k) was $122.6K. The longest
   contract was 7.89 years. The largest contract by value (including
   amendments) was $25.1M.
 lookup_name: 'GRAYBRIDGE INTERNATIONAL CONSULTING'
 most_recent_fiscal_year_total: '15.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '666'
+s431_number_of_contracts: '667'
 s431_number_of_contracts_with_amendments: '165'
 s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '94%'
 s434_mean_number_of_amendments: '1.47'
 s433_total_amendment_increase_value: '40.5M'
 s424_mean_duration: '0.56'
-s421_mean_contract_value: '122.7K'
+s421_mean_contract_value: '122.6K'
 s425_max_duration: '7.89'
 s422_max_contract_value: '25.1M'
 ---

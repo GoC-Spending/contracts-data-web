@@ -1,7 +1,7 @@
 ---
 title: Quorex Construction Services
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: quorex_construction_services
 categories: []
 tags: []

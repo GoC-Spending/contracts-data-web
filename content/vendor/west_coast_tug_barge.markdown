@@ -1,7 +1,7 @@
 ---
 title: West Coast Tug Barge
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: west_coast_tug_barge
 categories: []
 tags: []

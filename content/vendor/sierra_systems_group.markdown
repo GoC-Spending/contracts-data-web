@@ -1,7 +1,7 @@
 ---
 title: Sierra Systems Group
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: sierra_systems_group
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $13.1M
   in 2021-2022 on contracts with Sierra Systems Group. The average
   contract duration was 1.15 years, and the average contract value
-  (not including contracts under $10k) was $782.7K. The longest
+  (not including contracts under $10k) was $777.8K. The longest
   contract was 9.67 years. The largest contract by value (including
   amendments) was $21.3M.
 lookup_name: 'SIERRA SYSTEMS GROUP'
 most_recent_fiscal_year_total: '13.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '116'
+s431_number_of_contracts: '117'
 s431_number_of_contracts_with_amendments: '22'
 s431_number_of_contracts_amendments_percentage: '19%'
 s432_mean_amendment_increase_percentage: '1081%'
 s434_mean_number_of_amendments: '2.41'
 s433_total_amendment_increase_value: '34.3M'
 s424_mean_duration: '1.15'
-s421_mean_contract_value: '782.7K'
+s421_mean_contract_value: '777.8K'
 s425_max_duration: '9.67'
 s422_max_contract_value: '21.3M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Life Technologies
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: life_technologies
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $15.3M
   in 2021-2022 on contracts with Life Technologies. The average
   contract duration was 0.51 years, and the average contract value
-  (not including contracts under $10k) was $149.4K. The longest
+  (not including contracts under $10k) was $149.5K. The longest
   contract was 17.1 years. The largest contract by value (including
   amendments) was $19.4M.
 lookup_name: 'LIFE TECHNOLOGIES'
 most_recent_fiscal_year_total: '15.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '479'
+s431_number_of_contracts: '482'
 s431_number_of_contracts_with_amendments: '31'
 s431_number_of_contracts_amendments_percentage: '6%'
 s432_mean_amendment_increase_percentage: '332%'
 s434_mean_number_of_amendments: '1.81'
 s433_total_amendment_increase_value: '18.8M'
 s424_mean_duration: '0.51'
-s421_mean_contract_value: '149.4K'
+s421_mean_contract_value: '149.5K'
 s425_max_duration: '17.1'
 s422_max_contract_value: '19.4M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Alpine Aerotech
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: alpine_aerotech
 categories: []
 tags: []

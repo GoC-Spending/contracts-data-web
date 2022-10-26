@@ -1,7 +1,7 @@
 ---
 title: St Leonard’s Society Hamilton
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: st_leonard_s_society_hamilton
 categories: []
 tags: []

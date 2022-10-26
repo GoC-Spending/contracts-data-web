@@ -1,7 +1,7 @@
 ---
 title: Caro Analytical Services
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: caro_analytical_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with Caro Analytical Services. The average
-  contract duration was 0.7 years, and the average contract value
-  (not including contracts under $10k) was $239.8K. The longest
+  contract duration was 0.69 years, and the average contract value
+  (not including contracts under $10k) was $267.0K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $2.1M.
 lookup_name: 'CARO ANALYTICAL SERVICES'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '38'
+s431_number_of_contracts: '39'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '16%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '-10%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '-81.9K'
-s424_mean_duration: '0.7'
-s421_mean_contract_value: '239.8K'
+s424_mean_duration: '0.69'
+s421_mean_contract_value: '267.0K'
 s425_max_duration: '3'
 s422_max_contract_value: '2.1M'
 ---

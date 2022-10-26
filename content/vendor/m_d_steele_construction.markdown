@@ -1,7 +1,7 @@
 ---
 title: M D Steele Construction
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: m_d_steele_construction
 categories: []
 tags: []

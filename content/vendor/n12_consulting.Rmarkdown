@@ -1,7 +1,7 @@
 ---
 title: N12 Consulting
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: n12_consulting
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Simplex Grinnell
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: simplex_grinnell
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $4.4M
   in 2021-2022 on contracts with Simplex Grinnell. The average
-  contract duration was 0.95 years, and the average contract value
-  (not including contracts under $10k) was $189.2K. The longest
+  contract duration was 0.94 years, and the average contract value
+  (not including contracts under $10k) was $188.2K. The longest
   contract was 5.25 years. The largest contract by value (including
   amendments) was $3.7M.
 lookup_name: 'SIMPLEX GRINNELL'
 most_recent_fiscal_year_total: '4.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '142'
+s431_number_of_contracts: '143'
 s431_number_of_contracts_with_amendments: '30'
 s431_number_of_contracts_amendments_percentage: '21%'
 s432_mean_amendment_increase_percentage: '197%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '9.1M'
-s424_mean_duration: '0.95'
-s421_mean_contract_value: '189.2K'
+s424_mean_duration: '0.94'
+s421_mean_contract_value: '188.2K'
 s425_max_duration: '5.25'
 s422_max_contract_value: '3.7M'
 ---
@@ -66,9 +66,9 @@ s422_max_contract_value: '3.7M'
 - [SimplexGrinnell](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SimplexGrinnell%22)
 - [SIMPLEX INDUSTIES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SIMPLEX%20INDUSTIES%20INC%22)
 - [Simplex Grinnell](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Simplex%20Grinnell%22)
+- [Location d’outils SIMPLEX s.e.c.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Location%20d%27outils%20SIMPLEX%20s.e.c.%22)
 - [Tyco International of Canada Limited doing business as Simplex Grinnel](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Tyco%20International%20of%20Canada%20Limited%20doing%20business%20as%20Simplex%20Grinnel%22)
 - [SIMPLEX AMERICAS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SIMPLEX%20AMERICAS%22)
-- [Location d’outils SIMPLEX s.e.c.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Location%20d%27outils%20SIMPLEX%20s.e.c.%22)
 - [Simplex Industries Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Simplex%20Industries%20Inc%22)
 - [SIMPLEX INDUSTRIES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SIMPLEX%20INDUSTRIES%22)
 - [SIMPLEX Industries Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SIMPLEX%20Industries%20Inc.%22)

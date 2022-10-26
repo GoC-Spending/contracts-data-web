@@ -1,7 +1,7 @@
 ---
 title: Les Equipements Claude Pedneault
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: les_equipements_claude_pedneault
 categories: []
 tags: []

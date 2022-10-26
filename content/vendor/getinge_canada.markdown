@@ -1,7 +1,7 @@
 ---
 title: Getinge Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: getinge_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $8.3M
   in 2021-2022 on contracts with Getinge Canada. The average
-  contract duration was 1.33 years, and the average contract value
-  (not including contracts under $10k) was $582.0K. The longest
+  contract duration was 1.31 years, and the average contract value
+  (not including contracts under $10k) was $571.7K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $9.8M.
 lookup_name: 'GETINGE CANADA'
 most_recent_fiscal_year_total: '8.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '38'
+s431_number_of_contracts: '39'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '16%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '238%'
 s434_mean_number_of_amendments: '2.17'
 s433_total_amendment_increase_value: '6.6M'
-s424_mean_duration: '1.33'
-s421_mean_contract_value: '582.0K'
+s424_mean_duration: '1.31'
+s421_mean_contract_value: '571.7K'
 s425_max_duration: '5'
 s422_max_contract_value: '9.8M'
 ---

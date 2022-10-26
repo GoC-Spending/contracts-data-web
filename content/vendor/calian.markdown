@@ -1,7 +1,7 @@
 ---
 title: Calian
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: calian
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $307.6M
 lookup_name: 'CALIAN'
 most_recent_fiscal_year_total: '307.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '988'
+s431_number_of_contracts: '989'
 s431_number_of_contracts_with_amendments: '448'
 s431_number_of_contracts_amendments_percentage: '45%'
 s432_mean_amendment_increase_percentage: '141%'

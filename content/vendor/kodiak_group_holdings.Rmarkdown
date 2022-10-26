@@ -1,7 +1,7 @@
 ---
 title: Kodiak Group Holdings
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: kodiak_group_holdings
 categories: []
 tags: []

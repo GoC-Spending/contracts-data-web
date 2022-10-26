@@ -1,7 +1,7 @@
 ---
 title: Artemp Personnel Services
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: artemp_personnel_services
 categories: []
 tags: []

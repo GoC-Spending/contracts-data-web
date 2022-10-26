@@ -1,7 +1,7 @@
 ---
 title: Ethiopian Airlines Group
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: ethiopian_airlines_group
 categories: []
 tags: []

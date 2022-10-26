@@ -1,7 +1,7 @@
 ---
 title: Diamond and Schmitt Architects
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: diamond_and_schmitt_architects
 categories: []
 tags: []

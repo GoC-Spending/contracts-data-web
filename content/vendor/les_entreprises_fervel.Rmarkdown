@@ -1,7 +1,7 @@
 ---
 title: Les Entreprises Fervel
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: les_entreprises_fervel
 categories: []
 tags: []

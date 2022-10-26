@@ -1,7 +1,7 @@
 ---
 title: Bmc Software
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: bmc_software
 categories: []
 tags: []

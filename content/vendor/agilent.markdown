@@ -1,7 +1,7 @@
 ---
 title: Agilent
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: agilent
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $10.2M
 lookup_name: 'AGILENT'
 most_recent_fiscal_year_total: '10.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '546'
+s431_number_of_contracts: '547'
 s431_number_of_contracts_with_amendments: '43'
 s431_number_of_contracts_amendments_percentage: '8%'
 s432_mean_amendment_increase_percentage: '89%'

@@ -1,7 +1,7 @@
 ---
 title: Jones Lang Lasalle
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: jones_lang_lasalle
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Gateway Mechanical Services
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: gateway_mechanical_services
 categories: []
 tags: []

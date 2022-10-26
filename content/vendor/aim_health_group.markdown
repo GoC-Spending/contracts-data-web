@@ -1,7 +1,7 @@
 ---
 title: AIM Health Group
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: aim_health_group
 categories: []
 tags: []

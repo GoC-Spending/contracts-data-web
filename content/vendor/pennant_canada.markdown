@@ -1,7 +1,7 @@
 ---
 title: Pennant Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: pennant_canada
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Levitt Safety
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: levitt_safety
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Eastway Contracting
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: eastway_contracting
 categories: []
 tags: []

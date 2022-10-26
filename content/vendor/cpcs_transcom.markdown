@@ -1,7 +1,7 @@
 ---
 title: CPCS Transcom
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: cpcs_transcom
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $878.9K
 lookup_name: 'CPCS TRANSCOM'
 most_recent_fiscal_year_total: '878.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '52'
+s431_number_of_contracts: '51'
 s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '17%'

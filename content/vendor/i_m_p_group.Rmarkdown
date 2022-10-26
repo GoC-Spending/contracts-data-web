@@ -1,7 +1,7 @@
 ---
 title: I M P Group
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: i_m_p_group
 categories: []
 tags: []

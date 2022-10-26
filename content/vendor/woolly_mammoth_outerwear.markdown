@@ -1,7 +1,7 @@
 ---
 title: Woolly Mammoth Outerwear
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: woolly_mammoth_outerwear
 categories: []
 tags: []

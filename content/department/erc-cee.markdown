@@ -1,7 +1,7 @@
 ---
 title: RCMP External Review Committee
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: erc-cee
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: 'RCMP External Review Committee spent an estimated $149.3K
   in 2021-2022 on contracts. The average contract duration
-  was 0.75 years, and the average contract value (not including
-  contracts under $10k) was $43.4K. The longest contract was
+  was 0.77 years, and the average contract value (not including
+  contracts under $10k) was $47.8K. The longest contract was
   1.73 years. The largest contract by value (including amendments)
-  was $96.3K.'
+  was $100.0K.'
 lookup_name: 'erc-cee'
 most_recent_fiscal_year_total: '149.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '12'
+s431_number_of_contracts: '13'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '17%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '39%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '17.5K'
-s424_mean_duration: '0.75'
-s421_mean_contract_value: '43.4K'
+s424_mean_duration: '0.77'
+s421_mean_contract_value: '47.8K'
 s425_max_duration: '1.73'
-s422_max_contract_value: '96.3K'
+s422_max_contract_value: '100.0K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

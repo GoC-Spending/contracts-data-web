@@ -1,7 +1,7 @@
 ---
 title: Agriteam Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: agriteam_canada
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $5.8M
 lookup_name: 'AGRITEAM CANADA'
 most_recent_fiscal_year_total: '5.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '16'
+s431_number_of_contracts: '15'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'

@@ -1,7 +1,7 @@
 ---
 title: The IT Broker
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: the_it_broker
 categories: []
 tags: []

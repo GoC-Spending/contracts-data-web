@@ -1,7 +1,7 @@
 ---
 title: ITEX
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: itex
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $23.5M
   in 2021-2022 on contracts with ITEX. The average
   contract duration was 1.32 years, and the average contract value
-  (not including contracts under $10k) was $196.0K. The longest
+  (not including contracts under $10k) was $195.8K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $23.1M.
 lookup_name: 'ITEX'
 most_recent_fiscal_year_total: '23.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '902'
+s431_number_of_contracts: '903'
 s431_number_of_contracts_with_amendments: '94'
 s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '29%'
 s434_mean_number_of_amendments: '1.27'
 s433_total_amendment_increase_value: '22.2M'
 s424_mean_duration: '1.32'
-s421_mean_contract_value: '196.0K'
+s421_mean_contract_value: '195.8K'
 s425_max_duration: '10.01'
 s422_max_contract_value: '23.1M'
 ---

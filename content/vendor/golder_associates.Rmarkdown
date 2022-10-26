@@ -1,7 +1,7 @@
 ---
 title: Golder Associates
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: golder_associates
 categories: []
 tags: []

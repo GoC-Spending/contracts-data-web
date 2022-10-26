@@ -1,7 +1,7 @@
 ---
 title: The Canada Life Assurance Company
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: the_canada_life_assurance_company
 categories: []
 tags: []

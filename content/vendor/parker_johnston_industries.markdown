@@ -1,7 +1,7 @@
 ---
 title: Parker Johnston Industries
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: parker_johnston_industries
 categories: []
 tags: []

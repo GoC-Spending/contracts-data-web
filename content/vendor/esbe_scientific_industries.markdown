@@ -1,7 +1,7 @@
 ---
 title: ESBE Scientific Industries
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: esbe_scientific_industries
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $683.6K
   in 2021-2022 on contracts with ESBE Scientific Industries. The average
   contract duration was 0.46 years, and the average contract value
-  (not including contracts under $10k) was $885.7K. The longest
+  (not including contracts under $10k) was $846.0K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $46.2M.
 lookup_name: 'ESBE SCIENTIFIC INDUSTRIES'
 most_recent_fiscal_year_total: '683.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '62'
+s431_number_of_contracts: '65'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '10%'
+s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '19%'
 s434_mean_number_of_amendments: '1.17'
 s433_total_amendment_increase_value: '876.1K'
 s424_mean_duration: '0.46'
-s421_mean_contract_value: '885.7K'
+s421_mean_contract_value: '846.0K'
 s425_max_duration: '5'
 s422_max_contract_value: '46.2M'
 ---

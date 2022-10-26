@@ -1,7 +1,7 @@
 ---
 title: R E Gilmore Investments
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: r_e_gilmore_investments
 categories: []
 tags: []

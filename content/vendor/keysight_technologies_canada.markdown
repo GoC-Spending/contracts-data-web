@@ -1,7 +1,7 @@
 ---
 title: Keysight Technologies Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: keysight_technologies_canada
 categories: []
 tags: []

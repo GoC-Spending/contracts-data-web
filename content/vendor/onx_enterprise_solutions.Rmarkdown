@@ -1,7 +1,7 @@
 ---
 title: OnX Enterprise Solutions
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: onx_enterprise_solutions
 categories: []
 tags: []

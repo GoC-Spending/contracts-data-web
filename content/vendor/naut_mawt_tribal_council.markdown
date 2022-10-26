@@ -1,7 +1,7 @@
 ---
 title: Naut’sa mawt Tribal Council
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: naut_mawt_tribal_council
 categories: []
 tags: []

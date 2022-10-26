@@ -1,7 +1,7 @@
 ---
 title: Niche Technology
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: niche_technology
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Global Upholstery
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: global_upholstery
 categories: []
 tags: []

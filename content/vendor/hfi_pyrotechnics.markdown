@@ -1,7 +1,7 @@
 ---
 title: HFI Pyrotechnics
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: hfi_pyrotechnics
 categories: []
 tags: []

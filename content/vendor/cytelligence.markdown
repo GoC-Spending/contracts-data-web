@@ -1,7 +1,7 @@
 ---
 title: Cytelligence
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: cytelligence
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Siemens
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: siemens
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: ARI Financial Services
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: ari_financial_services
 categories: []
 tags: []
@@ -12,22 +12,22 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.8M
   in 2021-2022 on contracts with ARI Financial Services. The average
   contract duration was 0.86 years, and the average contract value
-  (not including contracts under $10k) was $31.6K. The longest
+  (not including contracts under $10k) was $32.5K. The longest
   contract was 5.01 years. The largest contract by value (including
-  amendments) was $395.2K.
+  amendments) was $591.5K.
 lookup_name: 'ARI FINANCIAL SERVICES'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '574'
+s431_number_of_contracts: '576'
 s431_number_of_contracts_with_amendments: '86'
 s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '132%'
 s434_mean_number_of_amendments: '1.13'
 s433_total_amendment_increase_value: '1.2M'
 s424_mean_duration: '0.86'
-s421_mean_contract_value: '31.6K'
+s421_mean_contract_value: '32.5K'
 s425_max_duration: '5.01'
-s422_max_contract_value: '395.2K'
+s422_max_contract_value: '591.5K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,10 +55,10 @@ s422_max_contract_value: '395.2K'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [ARI FINANCIAL SERVICES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARI%20FINANCIAL%20SERVICES%20INC%22)
 - [ARI FINANCIAL SERVICES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARI%20FINANCIAL%20SERVICES%20INC.%22)
 - [ARI FINANCIAL SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARI%20FINANCIAL%20SERVICES%22)
 - [ARI Financial Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARI%20Financial%20Services%22)
-- [ARI FINANCIAL SERVICES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARI%20FINANCIAL%20SERVICES%20INC%22)
 - [ARI Financial Services Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARI%20Financial%20Services%20Inc.%22)
 - [ARI Financial Services Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARI%20Financial%20Services%20Inc%22)
 - [Ari Financial Services Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ari%20Financial%20Services%20Inc.%22)

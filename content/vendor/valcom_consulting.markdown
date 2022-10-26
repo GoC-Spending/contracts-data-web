@@ -1,7 +1,7 @@
 ---
 title: Valcom Consulting
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: valcom_consulting
 categories: []
 tags: []

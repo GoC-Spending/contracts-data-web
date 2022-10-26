@@ -1,7 +1,7 @@
 ---
 title: General Dynamics
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: general_dynamics
 categories: []
 tags: []

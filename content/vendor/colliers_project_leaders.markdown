@@ -1,7 +1,7 @@
 ---
 title: Colliers Project Leaders
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: colliers_project_leaders
 categories: []
 tags: []

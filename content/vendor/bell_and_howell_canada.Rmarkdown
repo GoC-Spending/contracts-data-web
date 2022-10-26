@@ -1,7 +1,7 @@
 ---
 title: Bell and Howell Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: bell_and_howell_canada
 categories: []
 tags: []

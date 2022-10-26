@@ -1,7 +1,7 @@
 ---
 title: Dynamic Facility Services
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: dynamic_facility_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $141.7K
   in 2021-2022 on contracts with Dynamic Facility Services. The average
-  contract duration was 1.78 years, and the average contract value
-  (not including contracts under $10k) was $858.3K. The longest
+  contract duration was 1.71 years, and the average contract value
+  (not including contracts under $10k) was $785.5K. The longest
   contract was 3.75 years. The largest contract by value (including
   amendments) was $3.6M.
 lookup_name: 'DYNAMIC FACILITY SERVICES'
 most_recent_fiscal_year_total: '141.7K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '10'
+s431_number_of_contracts: '11'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '50%'
+s431_number_of_contracts_amendments_percentage: '45%'
 s432_mean_amendment_increase_percentage: '135%'
 s434_mean_number_of_amendments: '1.8'
 s433_total_amendment_increase_value: '840.4K'
-s424_mean_duration: '1.78'
-s421_mean_contract_value: '858.3K'
+s424_mean_duration: '1.71'
+s421_mean_contract_value: '785.5K'
 s425_max_duration: '3.75'
 s422_max_contract_value: '3.6M'
 ---

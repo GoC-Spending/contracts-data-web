@@ -1,7 +1,7 @@
 ---
 title: Cubic Defense Applications
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: cubic_defense_applications
 categories: []
 tags: []

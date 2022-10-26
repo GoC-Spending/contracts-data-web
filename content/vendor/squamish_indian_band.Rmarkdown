@@ -1,7 +1,7 @@
 ---
 title: Squamish Indian Band
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: squamish_indian_band
 categories: []
 tags: []

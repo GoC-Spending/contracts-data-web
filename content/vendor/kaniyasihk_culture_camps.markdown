@@ -1,7 +1,7 @@
 ---
 title: Kaniyasihk Culture Camps
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: kaniyasihk_culture_camps
 categories: []
 tags: []

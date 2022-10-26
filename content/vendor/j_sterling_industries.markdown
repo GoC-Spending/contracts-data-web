@@ -1,7 +1,7 @@
 ---
 title: J Sterling Industries
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: j_sterling_industries
 categories: []
 tags: []

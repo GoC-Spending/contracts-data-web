@@ -1,7 +1,7 @@
 ---
 title: Fort Garry Fire Truck
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: fort_garry_fire_truck
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: SCA Shipping Consultants Associated
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: sca_shipping_consultants_associated
 categories: []
 tags: []

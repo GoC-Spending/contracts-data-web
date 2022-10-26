@@ -1,7 +1,7 @@
 ---
 title: Elbit Systems
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: elbit_systems
 categories: []
 tags: []

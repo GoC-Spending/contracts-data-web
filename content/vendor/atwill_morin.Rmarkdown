@@ -1,7 +1,7 @@
 ---
 title: Atwill Morin
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: atwill_morin
 categories: []
 tags: []

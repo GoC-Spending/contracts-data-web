@@ -1,7 +1,7 @@
 ---
 title: Copcan Civil
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: copcan_civil
 categories: []
 tags: []

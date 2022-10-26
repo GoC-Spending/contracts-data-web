@@ -1,7 +1,7 @@
 ---
 title: Northwest Marine Technology
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: northwest_marine_technology
 categories: []
 tags: []

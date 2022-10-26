@@ -1,7 +1,7 @@
 ---
 title: Societe Emmanuel Gregoire
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: societe_emmanuel_gregoire
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Institut National D’Optique
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: institut_national_d_optique
 categories: []
 tags: []

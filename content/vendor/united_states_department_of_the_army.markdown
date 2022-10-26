@@ -1,7 +1,7 @@
 ---
 title: United States Department of the Army
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: united_states_department_of_the_army
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Arctic Canada Construction
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: arctic_canada_construction
 categories: []
 tags: []

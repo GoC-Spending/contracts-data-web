@@ -1,7 +1,7 @@
 ---
 title: Canadian Bureau for International Education
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: canadian_bureau_for_international_education
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Colt Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: colt_canada
 categories: []
 tags: []

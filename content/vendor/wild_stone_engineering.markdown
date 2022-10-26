@@ -1,7 +1,7 @@
 ---
 title: Wild Stone Engineering
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: wild_stone_engineering
 categories: []
 tags: []

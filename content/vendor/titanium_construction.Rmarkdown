@@ -1,7 +1,7 @@
 ---
 title: Titanium Construction
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: titanium_construction
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Stantec
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: stantec
 categories: []
 tags: []

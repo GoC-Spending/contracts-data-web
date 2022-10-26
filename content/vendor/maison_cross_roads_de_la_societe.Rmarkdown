@@ -1,7 +1,7 @@
 ---
 title: Maison Cross Roads de la Societe
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: maison_cross_roads_de_la_societe
 categories: []
 tags: []

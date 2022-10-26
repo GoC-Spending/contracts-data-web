@@ -1,7 +1,7 @@
 ---
 title: Subaru Canada
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: subaru_canada
 categories: []
 tags: []

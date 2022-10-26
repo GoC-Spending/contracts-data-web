@@ -1,7 +1,7 @@
 ---
 title: Nuna East
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: nuna_east
 categories: []
 tags: []

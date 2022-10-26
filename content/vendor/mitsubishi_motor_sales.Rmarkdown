@@ -1,7 +1,7 @@
 ---
 title: Mitsubishi Motor Sales
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: mitsubishi_motor_sales
 categories: []
 tags: []

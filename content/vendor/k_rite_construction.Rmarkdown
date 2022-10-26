@@ -1,7 +1,7 @@
 ---
 title: K Rite Construction
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: k_rite_construction
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Holman Fenwick Willan
 author: ''
-date: '2022-09-15'
+date: '2022-10-25'
 slug: holman_fenwick_willan
 categories: []
 tags: []

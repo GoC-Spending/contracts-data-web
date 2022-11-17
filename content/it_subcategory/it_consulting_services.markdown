@@ -1,7 +1,7 @@
 ---
 title: IT consulting services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: it_consulting_services
 categories: []
 tags: []
@@ -10,7 +10,8 @@ images:
 r_init: |-
   
 description: The Government of Canada spent an estimated $1.9B
-  in 2021-2022 on IT consulting services contracts, out of $4.7B in overall information technology spending that year.
+  in 2021-2022 on IT consulting services contracts, out of $4.7B
+  in overall information technology spending that year.
 lookup_name: 'it_consulting_services'
 most_recent_fiscal_year_total: '1.9B'
 most_recent_fiscal_year_year: '2021-2022'

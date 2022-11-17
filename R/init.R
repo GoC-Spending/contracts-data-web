@@ -537,12 +537,18 @@ get_fiscal_year_data_by_entity_and_vendor <- function(vendor, entity_type = "dep
     path <- str_c(get_vendor_path(vendor), "summary_by_fiscal_year_by_it_subcategory.csv")
   }
   
-  data <- read_csv(path) %>%
-    format_totals() %>%
-    rename_column_names() %>%
-    pivot_by_fiscal_year()
+  data <- read_csv(path) 
   
-  return(data)
+  if(is_tibble(data) & count(data) > 0) {
+    data %>%
+      format_totals() %>%
+      rename_column_names() %>%
+      pivot_by_fiscal_year()
+  }
+  else {
+    return(FALSE)
+  }
+
 }
 
 dt_departments_by_fiscal_year_by_vendor <- function(vendor) {
@@ -564,8 +570,13 @@ dt_categories_by_fiscal_year_by_vendor <- function(vendor) {
 dt_it_subcategories_by_fiscal_year_by_vendor <- function(vendor) {
   
   data <- get_fiscal_year_data_by_entity_and_vendor(vendor, "it_subcategories")
-  data %>%
-    dt_fiscal_year_categories()
+  if(is_tibble(data)) {
+    data %>%
+      dt_fiscal_year_categories()
+  }
+  else {
+    return("")
+  }
   
 }
 

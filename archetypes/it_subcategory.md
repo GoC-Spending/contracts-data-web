@@ -22,10 +22,9 @@ most_recent_fiscal_year_total <- get_most_recent_fiscal_year_total(lookup_name, 
 most_recent_fiscal_year_year <- get_most_recent_fiscal_year_year(lookup_name, entity_type)
 
 
-most_recent_overall_it_total <- get_most_recent_fiscal_year_total("3_information_technology", "categories")'
+most_recent_overall_it_total <- get_most_recent_fiscal_year_total("3_information_technology", "categories")`'
 
-description: 'The Government of Canada spent an estimated $`r most_recent_fiscal_year_total`
-  in `r most_recent_fiscal_year_year` on `r current_name` contracts, out of $`r most_recent_overall_it_total` in overall information technology spending that year.'
+description: 'The Government of Canada spent an estimated $`r most_recent_fiscal_year_total` in `r most_recent_fiscal_year_year` on `r current_name` contracts, out of $`r most_recent_overall_it_total` in overall information technology spending that year.'
   
 lookup_name: '`r lookup_name`'
 

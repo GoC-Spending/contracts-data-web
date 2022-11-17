@@ -131,6 +131,27 @@ generate_all_category_pages <- function() {
 }
 
 
+# Generate IT subcategory pages =======================
+
+generate_it_subcategory_page <- function(name, filepath) {
+  blogdown::new_post(
+    name,
+    kind = "it_subcategory",
+    file = str_c("it_subcategory/", filepath, ".Rmarkdown"),
+    open = FALSE)
+}
+
+generate_all_it_subcategory_pages <- function() {
+  # Uses category_labels instead for a wider range of category naming options. Hashtag path dependency!
+  names <- it_subcategory_labels %>% 
+    pull("it_subcategory_name")
+  filepaths <- it_subcategory_labels %>% 
+    pull("original_it_subcategory")
+  map2(names, filepaths, generate_it_subcategory_page)
+}
+
+# Remove old generated content ==================
+
 # If needed, delete the existing dynamically-generated
 # content pages.
 remove_existing_content_folders <- function() {

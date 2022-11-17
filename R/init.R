@@ -38,7 +38,7 @@ it_subcategory_display_amount_threshold <- 10000000
 it_subcategory_display_percentage_threshold <- 0.4
 
 # Pull in frequently-used "meta" data tables
-meta_tables <- tibble(entity_type = c("categories", "departments", "vendors"))
+meta_tables <- tibble(entity_type = c("categories", "departments", "vendors", "it_subcategories"))
 meta_tables <- meta_tables %>%
   mutate(
     file_path = str_c(csv_input_path, "meta/", entity_type, ".csv"),
@@ -648,6 +648,48 @@ dt_departments_by_fiscal_year_by_category <- function(category) {
 dt_vendors_by_fiscal_year_by_category <- function(category) {
   
   data <- get_fiscal_year_data_by_entity_and_category(category, "vendors")
+  data %>%
+    dt_fiscal_year()
+  
+}
+
+
+# IT subcategory-specific functions ===================
+
+get_it_subcategory_path <- function(it_subcategory) {
+  
+  path <- str_c(csv_input_path, "it_subcategories/", it_subcategory, "/")
+  return(path)
+  
+}
+
+get_fiscal_year_data_by_entity_and_it_subcategory <- function(it_subcategory, entity_type = "departments") {
+  if(entity_type == "departments") {
+    path <- str_c(get_it_subcategory_path(it_subcategory), "summary_by_fiscal_year_by_department.csv")
+  }
+  if(entity_type == "vendors") {
+    path <- str_c(get_it_subcategory_path(it_subcategory), "summary_by_fiscal_year_by_vendor.csv")
+  }
+  
+  data <- read_csv(path) %>%
+    format_totals() %>%
+    rename_column_names() %>%
+    pivot_by_fiscal_year()
+  
+  return(data)
+}
+
+dt_departments_by_fiscal_year_by_it_subcategory <- function(it_subcategory) {
+  
+  data <- get_fiscal_year_data_by_entity_and_it_subcategory(it_subcategory, "departments")
+  data %>%
+    dt_fiscal_year()
+  
+}
+
+dt_vendors_by_fiscal_year_by_it_subcategory <- function(it_subcategory) {
+  
+  data <- get_fiscal_year_data_by_entity_and_it_subcategory(it_subcategory, "vendors")
   data %>%
     dt_fiscal_year()
   

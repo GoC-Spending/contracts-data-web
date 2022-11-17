@@ -1,0 +1,56 @@
+---
+title: '{{ .Name }}'
+author: ''
+date: '{{ .Date }}'
+images: ["/img/cover.png"]
+r_init: '`r 
+source("../../R/init.R")
+
+current_filename <- get_current_filename()
+
+entity_type <- "it_subcategories"
+
+lookup_name <- current_filename
+
+current_name <- get_name_from_filename(lookup_name, entity_type)
+
+research_summary_type <- "all"
+
+
+most_recent_fiscal_year_total <- get_most_recent_fiscal_year_total(lookup_name, entity_type)
+
+most_recent_fiscal_year_year <- get_most_recent_fiscal_year_year(lookup_name, entity_type)
+
+
+most_recent_overall_it_total <- get_most_recent_fiscal_year_total("3_information_technology", "categories")'
+
+description: 'The Government of Canada spent an estimated $`r most_recent_fiscal_year_total`
+  in `r most_recent_fiscal_year_year` on `r current_name` contracts, out of $`r most_recent_overall_it_total` in overall information technology spending that year.'
+  
+lookup_name: '`r lookup_name`'
+
+most_recent_fiscal_year_total: '`r most_recent_fiscal_year_total`'
+most_recent_fiscal_year_year: '`r most_recent_fiscal_year_year`'
+most_recent_overall_it_total: '`r most_recent_overall_it_total`'
+---
+
+`r blogdown::shortcode_html("entity_summary_params")`
+`r blogdown::shortcode_html("/entity_summary_params")`
+
+## Vendors
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+dt_vendors_by_fiscal_year_by_it_subcategory(lookup_name)
+a_table_source_data_github(lookup_name, entity_type, "summary_by_fiscal_year_by_vendor.csv")
+
+```
+
+## Departments and agencies
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+dt_departments_by_fiscal_year_by_it_subcategory(lookup_name)
+a_table_source_data_github(lookup_name, entity_type, "summary_by_fiscal_year_by_department.csv")
+
+```

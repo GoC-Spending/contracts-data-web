@@ -18,6 +18,7 @@ permalinks:
   vendor: /vendors/:slugorfilename/
   department: /departments/:slugorfilename/
   category: /categories/:slugorfilename/
+  it_subcategory: /it_subcategories/:slugorfilename/
   overall: /:slugorfilename/
   meta: /:slugorfilename/
 

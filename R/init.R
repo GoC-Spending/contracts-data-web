@@ -653,6 +653,24 @@ dt_vendors_by_fiscal_year_by_category <- function(category) {
   
 }
 
+blogdown_display_it_subcategories_by_category <- function(category) {
+  if(category == "information_technology") {
+    return("markup")
+  }
+  else {
+    return("hide")
+  }
+}
+
+
+# Special overall (homepage-esque) handling for the IT category page
+dt_it_subcategories_by_fiscal_year_overall <- function() {
+  
+  data <- get_fiscal_year_data_by_entity_and_summary_type("all", "it_subcategories")
+  data %>%
+    dt_fiscal_year_categories()
+  
+}
 
 # IT subcategory-specific functions ===================
 
@@ -714,6 +732,9 @@ get_fiscal_year_data_by_entity_and_summary_type <- function(summary_type = "core
   }
   if(entity_type == "categories") {
     path <- str_c(get_summary_overall_path(summary_type), "summary_by_fiscal_year_by_category.csv")
+  }
+  if(entity_type == "it_subcategories") {
+    path <- str_c(get_summary_overall_path(summary_type), "summary_by_fiscal_year_by_it_subcategory.csv")
   }
   
   data <- read_csv(path) %>%

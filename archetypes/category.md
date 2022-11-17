@@ -65,6 +65,17 @@ a_table_source_data_github(lookup_name, entity_type, "summary_by_fiscal_year_by_
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 dt_departments_by_fiscal_year_by_category(lookup_name)
-a_table_source_data_github(lookup_name, entity_type, "summary_by_fiscal_year_by_category.csv")
+a_table_source_data_github(lookup_name, entity_type, "summary_by_fiscal_year_by_department.csv")
+
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results=blogdown_display_it_subcategories_by_category(current_filename)}
+
+# IT subcategories (only displayed on the IT category page using the results function parameter above)
+htmltools::h2("Information technology subcategories")
+
+dt_it_subcategories_by_fiscal_year_overall()
+
+a_table_source_data_github("all", "overall", "summary_by_fiscal_year_by_it_subcategory.csv")
 
 ```

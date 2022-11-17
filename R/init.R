@@ -34,6 +34,8 @@ csv_input_path <- here("../contracts-data/data/out/")
 parse_run_log_yaml_output_path <- here("data/parse_run_log.yaml")
 build_run_log_yaml_output_path <- here("data/build_run_log.yaml")
 
+it_subcategory_display_amount_threshold <- 10000000
+it_subcategory_display_percentage_threshold <- 0.4
 
 # Pull in frequently-used "meta" data tables
 meta_tables <- tibble(entity_type = c("categories", "departments", "vendors"))
@@ -44,6 +46,8 @@ meta_tables <- meta_tables %>%
   )
 
 category_labels <- read_csv(str_c(csv_input_path, "../categories/category_labels.csv"))
+
+it_subcategory_labels <- read_csv(str_c(csv_input_path, "../categories/it_subcategory_labels.csv"))
 
 # Loop through or retrieve vendors, departments, and categories =====
 
@@ -94,6 +98,14 @@ get_category_label_by_path <- function(category_path, output_column = "original_
   category_labels %>%
     filter(category_path == !!category_path) %>%
     pull(output_column)
+  
+}
+
+get_it_subcategory_label_by_path <- function(original_it_subcategory) {
+  
+  it_subcategory_labels %>%
+    filter(original_it_subcategory == !!original_it_subcategory) %>%
+    pull(it_subcategory_name)
   
 }
 
@@ -165,6 +177,10 @@ add_first_column_links <- function(df) {
   }
   else if(first_col == "Category") {
     add_first_column_links_category(df) %>%
+      return()
+  }
+  else if(first_col == "IT subcategory") {
+    add_first_column_links_it_subcategory(df) %>%
       return()
   }
   else {
@@ -252,6 +268,77 @@ add_first_column_links_category <- function(df, replace = TRUE) {
   }
 }
 
+add_first_column_links_it_subcategory <- function(df, replace = TRUE) {
+  
+  # meta_categories <- get_meta_list("categories")
+  df <- df %>%
+    left_join(it_subcategory_labels, by = c("IT subcategory" = "original_it_subcategory"))
+  df <- df %>%
+    mutate(
+      href = str_c('<a href="/it_subcategories/', `IT subcategory`, '/">', it_subcategory_name, "</a>")
+    )
+  
+  if(replace == TRUE) {
+    df %>%
+      mutate(
+        "IT subcategory" = href
+      ) %>%
+      select(! c(href, it_subcategory_name)) %>%
+      return()
+  }
+  else {
+    df %>%
+      return()
+  }
+}
+
+
+# Reusable function for vendors and departments
+has_sufficient_it_spending_to_display_it_subcategories <- function(data, most_recent_fiscal_year_spending) {
+  
+  overall_it_total <- data %>%
+    filter(Category == "3_information_technology") %>%
+    select(! Category) %>%
+    pivot_longer(
+      cols = everything(),
+      names_to = "year",
+      values_to = "total"
+    ) %>%
+    summarize(
+      overall_total = sum(total, na.rm = TRUE)
+    ) %>%
+    pull(overall_total)
+  
+  if(overall_it_total > it_subcategory_display_amount_threshold) {
+    return(TRUE)
+  }
+  
+  if(most_recent_fiscal_year_spending > 0) {
+    most_recent_it_total <- data %>%
+      filter(Category == "3_information_technology") %>%
+      select(! Category) %>%
+      pivot_longer(
+        cols = everything(),
+        names_to = "year",
+        values_to = "total"
+      ) %>%
+      arrange(year) %>%
+      slice_tail(n = 1) %>%
+      pull(total) %>%
+      as.numeric()
+    
+    if(length(most_recent_it_total) > 0) {
+      if(!is.na(most_recent_it_total) & most_recent_it_total / most_recent_fiscal_year_spending >= it_subcategory_display_percentage_threshold) {
+        return(TRUE)
+      }
+      
+    }
+  }
+  
+  return(FALSE)
+  
+}
+
 
 # Small renaming functions ======================
 
@@ -262,7 +349,8 @@ rename_column_names <- function(df) {
   lookup <- c(
     Vendor = "d_vendor_name",
     Category = "d_most_recent_category",
-    Department = "owner_org"
+    Department = "owner_org",
+    "IT subcategory" = "d_most_recent_it_subcategory"
     )
   
   df %>%
@@ -351,6 +439,9 @@ get_fiscal_year_data_by_entity_and_department <- function(department, entity_typ
   if(entity_type == "categories") {
     path <- str_c(get_department_path(department), "summary_by_fiscal_year_by_category.csv")
   }
+  if(entity_type == "it_subcategories") {
+    path <- str_c(get_department_path(department), "summary_by_fiscal_year_by_it_subcategory.csv")
+  }
   
   data <- read_csv(path)
   
@@ -394,6 +485,33 @@ dt_categories_by_fiscal_year_by_department <- function(department) {
   
 }
 
+dt_it_subcategories_by_fiscal_year_by_department <- function(department) {
+  
+  data <- get_fiscal_year_data_by_entity_and_department(department, "it_subcategories")
+  data %>%
+    dt_fiscal_year_categories()
+  
+}
+
+has_sufficient_it_spending_to_display_it_subcategories_by_department <- function(department) {
+  data <- get_fiscal_year_data_by_entity_and_department(department, "categories")
+  
+  most_recent_fiscal_year_spending <- get_most_recent_fiscal_year_total(department, "departments", format = FALSE)
+  
+  # Return the output of:
+  has_sufficient_it_spending_to_display_it_subcategories(data, most_recent_fiscal_year_spending)
+  
+}
+
+blogdown_display_it_subcategories_by_department <- function(department) {
+  if(has_sufficient_it_spending_to_display_it_subcategories_by_department(department)) {
+    return("markup")
+  }
+  else {
+    return("hide")
+  }
+}
+
 # Vendor-specific functions =====================
 
 get_vendor_path <- function(vendor) {
@@ -409,6 +527,9 @@ get_fiscal_year_data_by_entity_and_vendor <- function(vendor, entity_type = "dep
   }
   if(entity_type == "categories") {
     path <- str_c(get_vendor_path(vendor), "summary_by_fiscal_year_by_category.csv")
+  }
+  if(entity_type == "it_subcategories") {
+    path <- str_c(get_vendor_path(vendor), "summary_by_fiscal_year_by_it_subcategory.csv")
   }
   
   data <- read_csv(path) %>%
@@ -433,6 +554,36 @@ dt_categories_by_fiscal_year_by_vendor <- function(vendor) {
   data %>%
     dt_fiscal_year_categories()
   
+}
+
+dt_it_subcategories_by_fiscal_year_by_vendor <- function(vendor) {
+  
+  data <- get_fiscal_year_data_by_entity_and_vendor(vendor, "it_subcategories")
+  data %>%
+    dt_fiscal_year_categories()
+  
+}
+
+
+# Determine whether or not to display the "IT subcategories" section
+has_sufficient_it_spending_to_display_it_subcategories_by_vendor <- function(vendor) {
+  data <- get_fiscal_year_data_by_entity_and_vendor(vendor, "categories")
+  
+  most_recent_fiscal_year_spending <- get_most_recent_fiscal_year_total(vendor, "vendors", format = FALSE)
+  
+  # Return the output of:
+  has_sufficient_it_spending_to_display_it_subcategories(data, most_recent_fiscal_year_spending)
+  
+}
+
+# Format for the knitr chunk "results" parameter
+blogdown_display_it_subcategories_by_vendor <- function(vendor) {
+  if(has_sufficient_it_spending_to_display_it_subcategories_by_vendor(vendor)) {
+    return("markup")
+  }
+  else {
+    return("hide")
+  }
 }
 
 

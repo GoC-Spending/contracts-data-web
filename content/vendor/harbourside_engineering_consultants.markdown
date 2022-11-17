@@ -1,7 +1,7 @@
 ---
 title: Harbourside Engineering Consultants
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: harbourside_engineering_consultants
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with Harbourside Engineering Consultants. The average
-  contract duration was 0.85 years, and the average contract value
-  (not including contracts under $10k) was $203.8K. The longest
+  contract duration was 0.84 years, and the average contract value
+  (not including contracts under $10k) was $204.5K. The longest
   contract was 4.45 years. The largest contract by value (including
   amendments) was $2.5M.
 lookup_name: 'HARBOURSIDE ENGINEERING CONSULTANTS'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '83'
+s431_number_of_contracts: '89'
 s431_number_of_contracts_with_amendments: '19'
-s431_number_of_contracts_amendments_percentage: '23%'
+s431_number_of_contracts_amendments_percentage: '21%'
 s432_mean_amendment_increase_percentage: '174%'
 s434_mean_number_of_amendments: '1.95'
 s433_total_amendment_increase_value: '5.2M'
-s424_mean_duration: '0.85'
-s421_mean_contract_value: '203.8K'
+s424_mean_duration: '0.84'
+s421_mean_contract_value: '204.5K'
 s425_max_duration: '4.45'
 s422_max_contract_value: '2.5M'
 ---

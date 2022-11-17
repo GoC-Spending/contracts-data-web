@@ -1,7 +1,7 @@
 ---
 title: Hyperion Consulting
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hyperion_consulting
 categories: []
 tags: []

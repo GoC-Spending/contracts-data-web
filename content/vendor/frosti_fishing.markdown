@@ -1,7 +1,7 @@
 ---
 title: Frosti Fishing
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: frosti_fishing
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Frosti Fishing. The average
-  contract duration was 0.26 years, and the average contract value
-  (not including contracts under $10k) was $1.5M. The longest
-  contract was 0.34 years. The largest contract by value (including
-  amendments) was $2.1M.
+  contract duration was 0.31 years, and the average contract value
+  (not including contracts under $10k) was $1.7M. The longest
+  contract was 0.51 years. The largest contract by value (including
+  amendments) was $2.3M.
 lookup_name: 'FROSTI FISHING'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '4'
+s431_number_of_contracts: '5'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.26'
-s421_mean_contract_value: '1.5M'
-s425_max_duration: '0.34'
-s422_max_contract_value: '2.1M'
+s424_mean_duration: '0.31'
+s421_mean_contract_value: '1.7M'
+s425_max_duration: '0.51'
+s422_max_contract_value: '2.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

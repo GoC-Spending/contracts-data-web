@@ -1,7 +1,7 @@
 ---
 title: A C L Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: a_c_l_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $3.3M
   in 2021-2022 on contracts with A C L Construction. The average
-  contract duration was 0.42 years, and the average contract value
-  (not including contracts under $10k) was $2.6M. The longest
+  contract duration was 0.46 years, and the average contract value
+  (not including contracts under $10k) was $2.4M. The longest
   contract was 0.56 years. The largest contract by value (including
   amendments) was $3.3M.
 lookup_name: 'A C L CONSTRUCTION'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '2'
+s431_number_of_contracts: '3'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.42'
-s421_mean_contract_value: '2.6M'
+s424_mean_duration: '0.46'
+s421_mean_contract_value: '2.4M'
 s425_max_duration: '0.56'
 s422_max_contract_value: '3.3M'
 ---
@@ -56,6 +56,7 @@ s422_max_contract_value: '3.3M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [A.C.L. CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22A.C.L.%20CONSTRUCTION%20LTD.%22)
+- [A.C.L. Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22A.C.L.%20Construction%20Ltd.%22)
 - [A.C.L. Construction Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22A.C.L.%20Construction%20Limited%22)
 {{< /details >}}
 

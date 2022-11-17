@@ -1,7 +1,7 @@
 ---
 title: Elections Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: elections
 categories: []
 tags: []
@@ -50,6 +50,16 @@ s422_max_contract_value: '91.3M'
 <script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary_params >}}
 {{< /entity_summary_params >}}
@@ -68,4 +78,10 @@ s422_max_contract_value: '91.3M'
 <script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/medical/\">Medical<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/security_and_protection/\">Security and protection<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[702950.56,4524114.34,20935610.55,72645171.58,null,244647.77,1170191.83,143474.41,1492758.23],[1035444.88,8487444.94,37059732.71,80824291.61,null,1777050.76,1227987.74,526459.96,1125772.13],[null,11454080.99,20070286.4,77702949.31,56936.65,389795.49,1426484.75,102668.43,666914.45],[null,4490958.32,9692688.17,61374842.05,3830699.54,1407961.87,666289.39,73796.89,152918.77]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/elections/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
+</p>
+<h2>Information technology subcategories</h2>
+<div id="htmlwidget-3" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/it_subcategories/it_consulting_services/\">IT consulting services<\/a>","<a href=\"/it_subcategories/it_devices_equipment/\">IT devices & equipment<\/a>","<a href=\"/it_subcategories/it_other/\">Other IT (incl. telecommunications)<\/a>","<a href=\"/it_subcategories/it_software_licensing/\">IT software licensing<\/a>"],[62608729.21,1841701.56,2787002.1,5407738.71],[66964276.15,1455052.03,5235551.69,7169411.73],[61901208.48,3070417.9,4903179.09,7828143.83],[49218024.39,1835340.55,4864860.2,5456616.91]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>IT subcategory<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/elections/summary_by_fiscal_year_by_it_subcategory.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

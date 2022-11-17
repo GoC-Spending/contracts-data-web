@@ -1,7 +1,7 @@
 ---
 title: Dream Office
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: dream_office
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $122.6K
   in 2021-2022 on contracts with Dream Office. The average
-  contract duration was 1.02 years, and the average contract value
-  (not including contracts under $10k) was $214.2K. The longest
+  contract duration was 1 years, and the average contract value
+  (not including contracts under $10k) was $205.0K. The longest
   contract was 3.49 years. The largest contract by value (including
   amendments) was $2.3M.
 lookup_name: 'DREAM OFFICE'
 most_recent_fiscal_year_total: '122.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '21'
+s431_number_of_contracts: '22'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '29%'
+s431_number_of_contracts_amendments_percentage: '27%'
 s432_mean_amendment_increase_percentage: '90%'
 s434_mean_number_of_amendments: '1.5'
 s433_total_amendment_increase_value: '1.5M'
-s424_mean_duration: '1.02'
-s421_mean_contract_value: '214.2K'
+s424_mean_duration: '1'
+s421_mean_contract_value: '205.0K'
 s425_max_duration: '3.49'
 s422_max_contract_value: '2.3M'
 ---

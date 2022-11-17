@@ -1,7 +1,7 @@
 ---
 title: Switch Health
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: switch_health
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $471.6M
   in 2021-2022 on contracts with Switch Health. The average
-  contract duration was 0.4 years, and the average contract value
-  (not including contracts under $10k) was $205.0M. The longest
+  contract duration was 0.43 years, and the average contract value
+  (not including contracts under $10k) was $208.1M. The longest
   contract was 1.28 years. The largest contract by value (including
   amendments) was $602.1M.
 lookup_name: 'SWITCH HEALTH'
 most_recent_fiscal_year_total: '471.6M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'
-s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '57%'
-s432_mean_amendment_increase_percentage: '502%'
-s434_mean_number_of_amendments: '1.5'
-s433_total_amendment_increase_value: '502.1M'
-s424_mean_duration: '0.4'
-s421_mean_contract_value: '205.0M'
+s431_number_of_contracts_with_amendments: '5'
+s431_number_of_contracts_amendments_percentage: '71%'
+s432_mean_amendment_increase_percentage: '286%'
+s434_mean_number_of_amendments: '1.6'
+s433_total_amendment_increase_value: '511.3M'
+s424_mean_duration: '0.43'
+s421_mean_contract_value: '208.1M'
 s425_max_duration: '1.28'
 s422_max_contract_value: '602.1M'
 ---

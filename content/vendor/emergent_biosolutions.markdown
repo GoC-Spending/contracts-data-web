@@ -1,7 +1,7 @@
 ---
 title: Emergent Biosolutions
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: emergent_biosolutions
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $14.2M
   in 2021-2022 on contracts with Emergent Biosolutions. The average
-  contract duration was 0.47 years, and the average contract value
-  (not including contracts under $10k) was $614.3K. The longest
+  contract duration was 0.44 years, and the average contract value
+  (not including contracts under $10k) was $548.1K. The longest
   contract was 5.73 years. The largest contract by value (including
   amendments) was $17.8M.
 lookup_name: 'EMERGENT BIOSOLUTIONS'
 most_recent_fiscal_year_total: '14.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '77'
+s431_number_of_contracts: '87'
 s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '5%'
 s432_mean_amendment_increase_percentage: '1781%'
 s434_mean_number_of_amendments: '1.25'
 s433_total_amendment_increase_value: '23.5M'
-s424_mean_duration: '0.47'
-s421_mean_contract_value: '614.3K'
+s424_mean_duration: '0.44'
+s421_mean_contract_value: '548.1K'
 s425_max_duration: '5.73'
 s422_max_contract_value: '17.8M'
 ---

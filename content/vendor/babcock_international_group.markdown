@@ -1,7 +1,7 @@
 ---
 title: Babcock International Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: babcock_international_group
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $91.0M
   in 2021-2022 on contracts with Babcock International Group. The average
-  contract duration was 1.34 years, and the average contract value
-  (not including contracts under $10k) was $48.0M. The longest
+  contract duration was 1.3 years, and the average contract value
+  (not including contracts under $10k) was $46.2M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $706.4M.
 lookup_name: 'BABCOCK INTERNATIONAL GROUP'
 most_recent_fiscal_year_total: '91.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '26'
+s431_number_of_contracts: '27'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '12%'
+s431_number_of_contracts_amendments_percentage: '11%'
 s432_mean_amendment_increase_percentage: '89%'
 s434_mean_number_of_amendments: '4'
 s433_total_amendment_increase_value: '535.5M'
-s424_mean_duration: '1.34'
-s421_mean_contract_value: '48.0M'
+s424_mean_duration: '1.3'
+s421_mean_contract_value: '46.2M'
 s425_max_duration: '10.01'
 s422_max_contract_value: '706.4M'
 ---
@@ -63,13 +63,13 @@ s422_max_contract_value: '706.4M'
 - [Babcock Integrated Technology Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technology%20Canada%22)
 - [babcock international Group Marine and Technology Division](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22babcock%20international%20Group%20Marine%20and%20Technology%20Division%22)
 - [Babcock Integrated Technology LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technology%20LTD%22)
+- [Babcock Integrated Technology Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technology%20Ltd%22)
 - [Babcock Integrated Technology Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technology%20Ltd.%22)
 - [BABCOCK INTERNATIONAL GROUP MARINE AND TECHNOLOGY DIVISION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BABCOCK%20INTERNATIONAL%20GROUP%20MARINE%20AND%20TECHNOLOGY%20DIVISION%22)
 - [Babcock INtegrated Technology Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20INtegrated%20Technology%20Ltd%22)
 - [Babcock International Group Marine and Technology Devision](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20International%20Group%20Marine%20and%20Technology%20Devision%22)
 - [Babcock Integrated Technogoly LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technogoly%20LTD.%22)
 - [Babcocki International Group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcocki%20International%20Group%22)
-- [Babcock Integrated Technology Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technology%20Ltd%22)
 - [BABCOCK INTEGRATED TECHNOLOGY CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BABCOCK%20INTEGRATED%20TECHNOLOGY%20CANADA%22)
 - [Babcock Integrated Technology Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technology%20Limited%22)
 - [Babcock Integrated Technolgoy LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Babcock%20Integrated%20Technolgoy%20LTD%22)

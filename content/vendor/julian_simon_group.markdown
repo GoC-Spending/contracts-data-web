@@ -1,7 +1,7 @@
 ---
 title: Julian Simon Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: julian_simon_group
 categories: []
 tags: []

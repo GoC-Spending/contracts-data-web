@@ -1,7 +1,7 @@
 ---
 title: FEAST Interactive
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: feast_interactive
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Universite De Sherbrooke
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: universite_de_sherbrooke
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with Universite De Sherbrooke. The average
-  contract duration was 0.73 years, and the average contract value
-  (not including contracts under $10k) was $112.6K. The longest
+  contract duration was 0.71 years, and the average contract value
+  (not including contracts under $10k) was $103.3K. The longest
   contract was 3.33 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'UNIVERSITE DE SHERBROOKE'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '34'
+s431_number_of_contracts: '38'
 s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '12%'
+s431_number_of_contracts_amendments_percentage: '11%'
 s432_mean_amendment_increase_percentage: '274%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '1.1M'
-s424_mean_duration: '0.73'
-s421_mean_contract_value: '112.6K'
+s424_mean_duration: '0.71'
+s421_mean_contract_value: '103.3K'
 s425_max_duration: '3.33'
 s422_max_contract_value: '1.1M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Isomass Scientific
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: isomass_scientific
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $717.5K
   in 2021-2022 on contracts with Isomass Scientific. The average
   contract duration was 0.39 years, and the average contract value
-  (not including contracts under $10k) was $129.4K. The longest
+  (not including contracts under $10k) was $126.6K. The longest
   contract was 3.47 years. The largest contract by value (including
   amendments) was $1.4M.
 lookup_name: 'ISOMASS SCIENTIFIC'
 most_recent_fiscal_year_total: '717.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '41'
+s431_number_of_contracts: '42'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '106%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '718.4K'
 s424_mean_duration: '0.39'
-s421_mean_contract_value: '129.4K'
+s421_mean_contract_value: '126.6K'
 s425_max_duration: '3.47'
 s422_max_contract_value: '1.4M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Hastings Painting
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hastings_painting
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Hastings Painting. The average
-  contract duration was 0.73 years, and the average contract value
-  (not including contracts under $10k) was $616.8K. The longest
+  contract duration was 0.68 years, and the average contract value
+  (not including contracts under $10k) was $553.6K. The longest
   contract was 1.56 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'HASTINGS PAINTING'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '7'
+s431_number_of_contracts: '8'
 s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '57%'
+s431_number_of_contracts_amendments_percentage: '50%'
 s432_mean_amendment_increase_percentage: '67%'
 s434_mean_number_of_amendments: '1.25'
 s433_total_amendment_increase_value: '732.1K'
-s424_mean_duration: '0.73'
-s421_mean_contract_value: '616.8K'
+s424_mean_duration: '0.68'
+s421_mean_contract_value: '553.6K'
 s425_max_duration: '1.56'
 s422_max_contract_value: '1.1M'
 ---
@@ -59,6 +59,7 @@ s422_max_contract_value: '1.1M'
 - [HASTINGS PAINTING CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HASTINGS%20PAINTING%20CORPORATION%22)
 - [Hastings Painting Corp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Hastings%20Painting%20Corp%22)
 - [Hastings Painting Corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Hastings%20Painting%20Corporation%22)
+- [HASTINGS PAINTING CORP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HASTINGS%20PAINTING%20CORP%22)
 {{< /details >}}
 
 ## Departments and agencies

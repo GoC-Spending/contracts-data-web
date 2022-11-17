@@ -1,7 +1,7 @@
 ---
 title: Traductions Scriptis
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: traductions_scriptis
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
   in 2021-2022 on contracts with Traductions Scriptis. The average
-  contract duration was 1.35 years, and the average contract value
-  (not including contracts under $10k) was $536.0K. The longest
+  contract duration was 1.47 years, and the average contract value
+  (not including contracts under $10k) was $600.9K. The longest
   contract was 3.02 years. The largest contract by value (including
-  amendments) was $1.3M.
+  amendments) was $1.4M.
 lookup_name: 'TRADUCTIONS SCRIPTIS'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '12'
+s431_number_of_contracts: '13'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '25%'
+s431_number_of_contracts_amendments_percentage: '23%'
 s432_mean_amendment_increase_percentage: '165%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '1.4M'
-s424_mean_duration: '1.35'
-s421_mean_contract_value: '536.0K'
+s424_mean_duration: '1.47'
+s421_mean_contract_value: '600.9K'
 s425_max_duration: '3.02'
-s422_max_contract_value: '1.3M'
+s422_max_contract_value: '1.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,8 +55,8 @@ s422_max_contract_value: '1.3M'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
-- [TRADUCTIONS SCRIPTIS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TRADUCTIONS%20SCRIPTIS%20INC.%22)
 - [Traductions Scriptis Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Traductions%20Scriptis%20Inc.%22)
+- [TRADUCTIONS SCRIPTIS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TRADUCTIONS%20SCRIPTIS%20INC.%22)
 {{< /details >}}
 
 ## Departments and agencies

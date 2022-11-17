@@ -1,7 +1,7 @@
 ---
 title: Graybar Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: graybar_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.1M
   in 2021-2022 on contracts with Graybar Canada. The average
   contract duration was 0.33 years, and the average contract value
-  (not including contracts under $10k) was $30.5K. The longest
+  (not including contracts under $10k) was $30.2K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $580.3K.
 lookup_name: 'GRAYBAR CANADA'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '121'
-s431_number_of_contracts_with_amendments: '2'
+s431_number_of_contracts: '127'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '0%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '0.0'
 s424_mean_duration: '0.33'
-s421_mean_contract_value: '30.5K'
+s421_mean_contract_value: '30.2K'
 s425_max_duration: '4'
 s422_max_contract_value: '580.3K'
 ---

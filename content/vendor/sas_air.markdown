@@ -1,7 +1,7 @@
 ---
 title: Sas Air
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sas_air
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $912.2K
   in 2021-2022 on contracts with Sas Air. The average
-  contract duration was 0.42 years, and the average contract value
-  (not including contracts under $10k) was $207.6K. The longest
+  contract duration was 0.4 years, and the average contract value
+  (not including contracts under $10k) was $200.3K. The longest
   contract was 1.02 years. The largest contract by value (including
   amendments) was $611.7K.
 lookup_name: 'SAS AIR'
 most_recent_fiscal_year_total: '912.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '14'
+s431_number_of_contracts: '15'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '50%'
+s431_number_of_contracts_amendments_percentage: '47%'
 s432_mean_amendment_increase_percentage: '-13%'
 s434_mean_number_of_amendments: '1.29'
 s433_total_amendment_increase_value: '-59.7K'
-s424_mean_duration: '0.42'
-s421_mean_contract_value: '207.6K'
+s424_mean_duration: '0.4'
+s421_mean_contract_value: '200.3K'
 s425_max_duration: '1.02'
 s422_max_contract_value: '611.7K'
 ---

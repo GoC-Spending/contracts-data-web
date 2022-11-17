@@ -1,7 +1,7 @@
 ---
 title: Carleton University
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: carleton_university
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
   in 2021-2022 on contracts with Carleton University. The average
-  contract duration was 0.76 years, and the average contract value
-  (not including contracts under $10k) was $135.7K. The longest
+  contract duration was 0.78 years, and the average contract value
+  (not including contracts under $10k) was $132.6K. The longest
   contract was 5.91 years. The largest contract by value (including
   amendments) was $8.8M.
 lookup_name: 'CARLETON UNIVERSITY'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '179'
+s431_number_of_contracts: '185'
 s431_number_of_contracts_with_amendments: '16'
 s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '91%'
 s434_mean_number_of_amendments: '1.31'
 s433_total_amendment_increase_value: '2.5M'
-s424_mean_duration: '0.76'
-s421_mean_contract_value: '135.7K'
+s424_mean_duration: '0.78'
+s421_mean_contract_value: '132.6K'
 s425_max_duration: '5.91'
 s422_max_contract_value: '8.8M'
 ---

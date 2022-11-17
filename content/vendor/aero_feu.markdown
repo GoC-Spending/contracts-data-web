@@ -1,7 +1,7 @@
 ---
 title: Aero Feu
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: aero_feu
 categories: []
 tags: []
@@ -11,20 +11,20 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $75.5K
   in 2021-2022 on contracts with Aero Feu. The average
-  contract duration was 0.31 years, and the average contract value
+  contract duration was 0.32 years, and the average contract value
   (not including contracts under $10k) was $1.1M. The longest
   contract was 3.76 years. The largest contract by value (including
   amendments) was $23.1M.
 lookup_name: 'AERO FEU'
 most_recent_fiscal_year_total: '75.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '22'
+s431_number_of_contracts: '23'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '23%'
+s431_number_of_contracts_amendments_percentage: '22%'
 s432_mean_amendment_increase_percentage: '-7%'
 s434_mean_number_of_amendments: '1.2'
 s433_total_amendment_increase_value: '6.4M'
-s424_mean_duration: '0.31'
+s424_mean_duration: '0.32'
 s421_mean_contract_value: '1.1M'
 s425_max_duration: '3.76'
 s422_max_contract_value: '23.1M'
@@ -57,6 +57,7 @@ s422_max_contract_value: '23.1M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Aero-feu Ltee](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aero-feu%20Ltee%22)
 - [aréo-feu ltée](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ar%c3%a9o-feu%20lt%c3%a9e%22)
+- [Areo-Feu Ltee](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Areo-Feu%20Ltee%22)
 - [AREO-FEU LTEE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AREO-FEU%20LTEE%22)
 - [AREO-FEU LTEE.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AREO-FEU%20LTEE.%22)
 - [areo-feu](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22areo-feu%22)
@@ -69,7 +70,6 @@ s422_max_contract_value: '23.1M'
 - [AREO FEU](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AREO%20FEU%22)
 - [AERO FEU LTEE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AERO%20FEU%20LTEE%22)
 - [AEROFEU LTEE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEROFEU%20LTEE%22)
-- [Areo-Feu Ltee](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Areo-Feu%20Ltee%22)
 - [ARÉO-FEU](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AR%c3%89O-FEU%22)
 - [AÉRO-FEU](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22A%c3%89RO-FEU%22)
 - [AERO FEU LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AERO%20FEU%20LTD%22)

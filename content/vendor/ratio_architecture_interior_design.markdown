@@ -1,7 +1,7 @@
 ---
 title: Ratio Architecture Interior Design
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ratio_architecture_interior_design
 categories: []
 tags: []

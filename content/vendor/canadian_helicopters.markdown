@@ -1,7 +1,7 @@
 ---
 title: Canadian Helicopters
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: canadian_helicopters
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $6.1M
   in 2021-2022 on contracts with Canadian Helicopters. The average
   contract duration was 0.4 years, and the average contract value
-  (not including contracts under $10k) was $94.2K. The longest
+  (not including contracts under $10k) was $89.6K. The longest
   contract was 4.27 years. The largest contract by value (including
   amendments) was $8.9M.
 lookup_name: 'CANADIAN HELICOPTERS'
 most_recent_fiscal_year_total: '6.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '250'
-s431_number_of_contracts_with_amendments: '25'
+s431_number_of_contracts: '275'
+s431_number_of_contracts_with_amendments: '27'
 s431_number_of_contracts_amendments_percentage: '10%'
-s432_mean_amendment_increase_percentage: '75%'
-s434_mean_number_of_amendments: '1.48'
-s433_total_amendment_increase_value: '9.8M'
+s432_mean_amendment_increase_percentage: '73%'
+s434_mean_number_of_amendments: '1.44'
+s433_total_amendment_increase_value: '9.9M'
 s424_mean_duration: '0.4'
-s421_mean_contract_value: '94.2K'
+s421_mean_contract_value: '89.6K'
 s425_max_duration: '4.27'
 s422_max_contract_value: '8.9M'
 ---

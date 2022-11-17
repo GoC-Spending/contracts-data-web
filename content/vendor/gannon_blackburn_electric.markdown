@@ -1,7 +1,7 @@
 ---
 title: Gannon Blackburn Electric
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gannon_blackburn_electric
 categories: []
 tags: []

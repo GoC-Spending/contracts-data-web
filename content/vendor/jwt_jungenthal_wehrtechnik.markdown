@@ -1,7 +1,7 @@
 ---
 title: Jwt Jungenthal Wehrtechnik
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: jwt_jungenthal_wehrtechnik
 categories: []
 tags: []

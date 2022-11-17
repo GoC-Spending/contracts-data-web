@@ -1,7 +1,7 @@
 ---
 title: Concept Controls
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: concept_controls
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
   in 2021-2022 on contracts with Concept Controls. The average
-  contract duration was 0.32 years, and the average contract value
-  (not including contracts under $10k) was $84.6K. The longest
+  contract duration was 0.3 years, and the average contract value
+  (not including contracts under $10k) was $83.9K. The longest
   contract was 5.41 years. The largest contract by value (including
   amendments) was $2.8M.
 lookup_name: 'CONCEPT CONTROLS'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '87'
+s431_number_of_contracts: '92'
 s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '5%'
+s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '25%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '839.9K'
-s424_mean_duration: '0.32'
-s421_mean_contract_value: '84.6K'
+s424_mean_duration: '0.3'
+s421_mean_contract_value: '83.9K'
 s425_max_duration: '5.41'
 s422_max_contract_value: '2.8M'
 ---

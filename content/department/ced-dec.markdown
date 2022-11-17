@@ -1,7 +1,7 @@
 ---
 title: Canada Economic Development for Quebec Regions
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ced-dec
 categories: []
 tags: []
@@ -50,6 +50,16 @@ s422_max_contract_value: '1.0M'
 <script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
 <link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 
 {{< entity_summary_params >}}
 {{< /entity_summary_params >}}
@@ -68,4 +78,10 @@ s422_max_contract_value: '1.0M'
 <script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/other/\">(Other)<\/a>","<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/security_and_protection/\">Security and protection<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[52385.87,62518.21,26413.49,359313.73,1358481.27,null,22003.28,97324.49,68969.76],[null,185677.4,62183.06,237046.56,1655591.08,51330.79,12007.22,151431.06,132811.83],[null,null,16231.49,365302.06,2290260.6,null,null,187923.18,72051.53],[null,null,null,414349.37,3303830.98,null,null,233955.21,11890.96]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/ced-dec/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
+</p>
+<h2>Information technology subcategories</h2>
+<div id="htmlwidget-3" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/it_subcategories/it_consulting_services/\">IT consulting services<\/a>","<a href=\"/it_subcategories/it_devices_equipment/\">IT devices & equipment<\/a>","<a href=\"/it_subcategories/it_other/\">Other IT (incl. telecommunications)<\/a>","<a href=\"/it_subcategories/it_software_licensing/\">IT software licensing<\/a>"],[746397.38,152485.67,73310.98,386287.24],[863426.8,247735.86,242793.13,301635.29],[1164278.29,489485.68,273648.26,362848.38],[1105821.23,1431271.75,98048.97,668689.03]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>IT subcategory<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/departments/ced-dec/summary_by_fiscal_year_by_it_subcategory.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

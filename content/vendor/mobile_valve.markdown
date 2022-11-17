@@ -1,7 +1,7 @@
 ---
 title: Mobile Valve
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mobile_valve
 categories: []
 tags: []
@@ -12,22 +12,22 @@ r_init: |-
 description: The Government of Canada spent an estimated $3.3M
   in 2021-2022 on contracts with Mobile Valve. The average
   contract duration was 0.72 years, and the average contract value
-  (not including contracts under $10k) was $339.9K. The longest
+  (not including contracts under $10k) was $369.2K. The longest
   contract was 2.47 years. The largest contract by value (including
-  amendments) was $1.8M.
+  amendments) was $2.3M.
 lookup_name: 'MOBILE VALVE'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '55'
+s431_number_of_contracts: '57'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
 s424_mean_duration: '0.72'
-s421_mean_contract_value: '339.9K'
+s421_mean_contract_value: '369.2K'
 s425_max_duration: '2.47'
-s422_max_contract_value: '1.8M'
+s422_max_contract_value: '2.3M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,13 +55,13 @@ s422_max_contract_value: '1.8M'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Mobile Valve, a Division of Source Atlantic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%2c%20a%20Division%20of%20Source%20Atlantic%22)
 - [Mobile Valve, A Division of Source Atlantic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%2c%20A%20Division%20of%20Source%20Atlantic%22)
 - [Mobile Valve, A Division Of Source Atlantic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%2c%20A%20Division%20Of%20Source%20Atlantic%22)
 - [Mobile Valve A Division of Source Atlantic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%20A%20Division%20of%20Source%20Atlantic%22)
 - [MOBILE VALVE, A DIVISION OF SOURCE ATLANTIC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MOBILE%20VALVE%2c%20A%20DIVISION%20OF%20SOURCE%20ATLANTIC%22)
 - [Mobile Valve](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%22)
 - [Mobile Valve (A Division of Source Atlantic)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%20%28A%20Division%20of%20Source%20Atlantic%29%22)
-- [Mobile Valve, a Division of Source Atlantic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%2c%20a%20Division%20of%20Source%20Atlantic%22)
 - [Mobile Valve a Division of Source Atlantic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%20a%20Division%20of%20Source%20Atlantic%22)
 - [MOBILE VALVE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MOBILE%20VALVE%22)
 - [Mobile Valve, a division of Source Atlantic](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mobile%20Valve%2c%20a%20division%20of%20Source%20Atlantic%22)

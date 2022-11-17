@@ -1,7 +1,7 @@
 ---
 title: Bergevin Electrical Contracting
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bergevin_electrical_contracting
 categories: []
 tags: []

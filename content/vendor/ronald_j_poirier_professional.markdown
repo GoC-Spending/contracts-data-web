@@ -1,7 +1,7 @@
 ---
 title: Ronald J Poirier Professional
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ronald_j_poirier_professional
 categories: []
 tags: []

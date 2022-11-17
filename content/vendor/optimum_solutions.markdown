@@ -1,7 +1,7 @@
 ---
 title: Optimum Solutions
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: optimum_solutions
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $7.1M
   in 2021-2022 on contracts with Optimum Solutions. The average
   contract duration was 0 years, and the average contract value
-  (not including contracts under $10k) was $52.0K. The longest
+  (not including contracts under $10k) was $50.5K. The longest
   contract was 0.01 years. The largest contract by value (including
   amendments) was $113.6K.
 lookup_name: 'OPTIMUM SOLUTIONS'
 most_recent_fiscal_year_total: '7.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '141'
+s431_number_of_contracts: '153'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
 s424_mean_duration: '0'
-s421_mean_contract_value: '52.0K'
+s421_mean_contract_value: '50.5K'
 s425_max_duration: '0.01'
 s422_max_contract_value: '113.6K'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 4083261 Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: 4083261_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
   in 2021-2022 on contracts with 4083261 Canada. The average
-  contract duration was 1.14 years, and the average contract value
-  (not including contracts under $10k) was $1.2M. The longest
+  contract duration was 1.05 years, and the average contract value
+  (not including contracts under $10k) was $1.1M. The longest
   contract was 3.54 years. The largest contract by value (including
   amendments) was $3.0M.
 lookup_name: '4083261 CANADA'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '9'
+s431_number_of_contracts: '10'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '56%'
+s431_number_of_contracts_amendments_percentage: '50%'
 s432_mean_amendment_increase_percentage: '32%'
 s434_mean_number_of_amendments: '2.6'
 s433_total_amendment_increase_value: '977.5K'
-s424_mean_duration: '1.14'
-s421_mean_contract_value: '1.2M'
+s424_mean_duration: '1.05'
+s421_mean_contract_value: '1.1M'
 s425_max_duration: '3.54'
 s422_max_contract_value: '3.0M'
 ---

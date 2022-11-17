@@ -1,7 +1,7 @@
 ---
 title: Sterling Fuels
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sterling_fuels
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $3.4M
   in 2021-2022 on contracts with Sterling Fuels. The average
   contract duration was 0.05 years, and the average contract value
-  (not including contracts under $10k) was $125.1K. The longest
+  (not including contracts under $10k) was $121.6K. The longest
   contract was 1.15 years. The largest contract by value (including
   amendments) was $2.0M.
 lookup_name: 'STERLING FUELS'
 most_recent_fiscal_year_total: '3.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '291'
+s431_number_of_contracts: '304'
 s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '22%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '70.5K'
 s424_mean_duration: '0.05'
-s421_mean_contract_value: '125.1K'
+s421_mean_contract_value: '121.6K'
 s425_max_duration: '1.15'
 s422_max_contract_value: '2.0M'
 ---

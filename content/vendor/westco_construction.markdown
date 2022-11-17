@@ -1,7 +1,7 @@
 ---
 title: Westco Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: westco_construction
 categories: []
 tags: []
@@ -19,11 +19,11 @@ lookup_name: 'WESTCO CONSTRUCTION'
 most_recent_fiscal_year_total: '335.0K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '7'
-s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '43%'
-s432_mean_amendment_increase_percentage: '31%'
-s434_mean_number_of_amendments: '3'
-s433_total_amendment_increase_value: '1.0M'
+s431_number_of_contracts_with_amendments: '4'
+s431_number_of_contracts_amendments_percentage: '57%'
+s432_mean_amendment_increase_percentage: '25%'
+s434_mean_number_of_amendments: '2.5'
+s433_total_amendment_increase_value: '1.1M'
 s424_mean_duration: '1.4'
 s421_mean_contract_value: '1.1M'
 s425_max_duration: '3.2'
@@ -57,8 +57,8 @@ s422_max_contract_value: '2.0M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Westco Construction Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Westco%20Construction%20Ltd%22)
 - [WESTCO CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WESTCO%20CONSTRUCTION%20LTD.%22)
-- [Westcor Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Westcor%20Construction%20Ltd.%22)
 - [WESTCOR CONSTRUCTION LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WESTCOR%20CONSTRUCTION%20LTD%22)
+- [Westcor Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Westcor%20Construction%20Ltd.%22)
 - [WESTCOR CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22WESTCOR%20CONSTRUCTION%20LTD.%22)
 {{< /details >}}
 

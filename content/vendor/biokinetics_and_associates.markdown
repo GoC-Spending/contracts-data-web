@@ -1,7 +1,7 @@
 ---
 title: Biokinetics and Associates
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: biokinetics_and_associates
 categories: []
 tags: []

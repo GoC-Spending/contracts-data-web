@@ -1,7 +1,7 @@
 ---
 title: Pacific Industrial Marine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: pacific_industrial_marine
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $738.0K
   in 2021-2022 on contracts with Pacific Industrial Marine. The average
-  contract duration was 0.56 years, and the average contract value
-  (not including contracts under $10k) was $408.2K. The longest
+  contract duration was 0.55 years, and the average contract value
+  (not including contracts under $10k) was $405.6K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $3.5M.
 lookup_name: 'PACIFIC INDUSTRIAL MARINE'
 most_recent_fiscal_year_total: '738.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '44'
+s431_number_of_contracts: '47'
 s431_number_of_contracts_with_amendments: '21'
-s431_number_of_contracts_amendments_percentage: '48%'
+s431_number_of_contracts_amendments_percentage: '45%'
 s432_mean_amendment_increase_percentage: '35%'
 s434_mean_number_of_amendments: '1.71'
 s433_total_amendment_increase_value: '1.6M'
-s424_mean_duration: '0.56'
-s421_mean_contract_value: '408.2K'
+s424_mean_duration: '0.55'
+s421_mean_contract_value: '405.6K'
 s425_max_duration: '5.01'
 s422_max_contract_value: '3.5M'
 ---
@@ -59,6 +59,7 @@ s422_max_contract_value: '3.5M'
 - [Pacific Industrial & Marine Lt](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pacific%20Industrial%20%26%20Marine%20Lt%22)
 - [Pacific Industrial & Marine Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pacific%20Industrial%20%26%20Marine%20Ltd%22)
 - [PACIFIC INDUSTRIAL & MARINE LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PACIFIC%20INDUSTRIAL%20%26%20MARINE%20LTD.%22)
+- [Pacific Industrial & Marine Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pacific%20Industrial%20%26%20Marine%20Ltd.%22)
 - [PACIFIC INDUSTRIAL & MARINE LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PACIFIC%20INDUSTRIAL%20%26%20MARINE%20LTD%22)
 - [PACIFIC INDUSTRIAL MARINE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PACIFIC%20INDUSTRIAL%20MARINE%22)
 {{< /details >}}

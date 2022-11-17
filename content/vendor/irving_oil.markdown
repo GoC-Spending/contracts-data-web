@@ -1,7 +1,7 @@
 ---
 title: Irving Oil
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: irving_oil
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $82.5M
   in 2021-2022 on contracts with Irving Oil. The average
   contract duration was 0.21 years, and the average contract value
-  (not including contracts under $10k) was $149.1K. The longest
+  (not including contracts under $10k) was $154.6K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $16.9M.
 lookup_name: 'IRVING OIL'
 most_recent_fiscal_year_total: '82.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1,972'
-s431_number_of_contracts_with_amendments: '57'
+s431_number_of_contracts: '2,057'
+s431_number_of_contracts_with_amendments: '62'
 s431_number_of_contracts_amendments_percentage: '3%'
-s432_mean_amendment_increase_percentage: '11%'
-s434_mean_number_of_amendments: '1.14'
-s433_total_amendment_increase_value: '-15.3M'
+s432_mean_amendment_increase_percentage: '8%'
+s434_mean_number_of_amendments: '1.13'
+s433_total_amendment_increase_value: '-21.7M'
 s424_mean_duration: '0.21'
-s421_mean_contract_value: '149.1K'
+s421_mean_contract_value: '154.6K'
 s425_max_duration: '5'
 s422_max_contract_value: '16.9M'
 ---
@@ -61,21 +61,21 @@ s422_max_contract_value: '16.9M'
 - [Irving Oil Commercial G.P.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Commercial%20G.P.%22)
 - [IRVING Oil Commercial G.P.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20Oil%20Commercial%20G.P.%22)
 - [Irving Oil Commercial GP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Commercial%20GP%22)
+- [Irving Oil Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Ltd.%22)
 - [Irving Oil Comercial G.P.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Comercial%20G.P.%22)
 - [IRVING OIL COMMERCIAL G.P.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%20COMMERCIAL%20G.P.%22)
 - [IRVING COMMERCIAL GP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20COMMERCIAL%20GP%22)
+- [IRVING OIL MARKETING LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%20MARKETING%20LIMITED%22)
 - [IRVING OIL COMMERCIAL GP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%20COMMERCIAL%20GP%22)
 - [DBA Irving Energy Highlands Fuel Delivery GP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DBA%20Irving%20Energy%20Highlands%20Fuel%20Delivery%20GP%22)
 - [IRVING OIL COMMERCIAL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%20COMMERCIAL%22)
+- [Irving Oil Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Limited%22)
 - [Irving Oil Commerical G.P.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Commerical%20G.P.%22)
 - [Irving Oil Commerical GP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Commerical%20GP%22)
-- [Irving Oil Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Limited%22)
 - [IRVING ENERGY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20ENERGY%22)
-- [IRVING OIL MARKETING LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%20MARKETING%20LIMITED%22)
-- [Irving Oil Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Ltd.%22)
 - [Irving Oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%22)
-- [Irving Commercial G.P.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Commercial%20G.P.%22)
 - [IRVING OIL LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%20LIMITED%22)
+- [Irving Commercial G.P.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Commercial%20G.P.%22)
 - [IRVING](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%22)
 - [Irving Oil Ltf](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Ltf%22)
 - [Irving Energy Distribution & Marketing](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Energy%20Distribution%20%26%20Marketing%22)
@@ -83,6 +83,7 @@ s422_max_contract_value: '16.9M'
 - [LES PETROLES IRVING INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20PETROLES%20IRVING%20INC.%22)
 - [Irving Oil Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Ltd%22)
 - [Irving Oil Commercial Gp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Commercial%20Gp%22)
+- [IRVING Oil Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20Oil%20Limited%22)
 - [IRVING OIL COMMERICAL CP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%20COMMERICAL%20CP%22)
 - [IRVING OIL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IRVING%20OIL%22)
 - [Irving Oil Limited.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Irving%20Oil%20Limited.%22)

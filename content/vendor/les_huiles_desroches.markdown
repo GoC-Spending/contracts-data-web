@@ -1,7 +1,7 @@
 ---
 title: Les Huiles Desroches
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: les_huiles_desroches
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.9M
   in 2021-2022 on contracts with Les Huiles Desroches. The average
   contract duration was 0.1 years, and the average contract value
-  (not including contracts under $10k) was $44.8K. The longest
+  (not including contracts under $10k) was $44.9K. The longest
   contract was 0.97 years. The largest contract by value (including
   amendments) was $310.9K.
 lookup_name: 'LES HUILES DESROCHES'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '318'
+s431_number_of_contracts: '340'
 s431_number_of_contracts_with_amendments: '15'
-s431_number_of_contracts_amendments_percentage: '5%'
+s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '11%'
 s434_mean_number_of_amendments: '1.07'
 s433_total_amendment_increase_value: '77.9K'
 s424_mean_duration: '0.1'
-s421_mean_contract_value: '44.8K'
+s421_mean_contract_value: '44.9K'
 s425_max_duration: '0.97'
 s422_max_contract_value: '310.9K'
 ---
@@ -59,13 +59,17 @@ s422_max_contract_value: '310.9K'
 - [Les Huiles Desroches INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20INC%22)
 - [Les Huiles Desroches INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20INC.%22)
 - [Les huiles desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%22)
+- [Les huiles Desroches INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%20INC%22)
+- [Les Huiles Desroches Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20Inc%22)
+- [Les huiles desroches INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%20INC%22)
+- [Les huiles desroches Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%20Inc%22)
+- [Les huiles desroches inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%20inc%22)
 - [Les huiles Desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%22)
 - [LES HUILES DESROCHES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20DESROCHES%22)
 - [les huiles desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22les%20huiles%20desroches%22)
 - [LES HUILES DESROCHES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20DESROCHES%20INC%22)
 - [LES HUILES DESROCHES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20DESROCHES%20INC.%22)
 - [Les huiles Desroches Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%20Inc%22)
-- [Les Huiles Desroches Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20Inc%22)
 - [Les huiles Desroches inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%20inc.%22)
 - [LES HUILES ESROCHES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HUILES%20ESROCHES%20INC.%22)
 - [Les huiles Desroches Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20Desroches%20Inc.%22)
@@ -73,7 +77,6 @@ s422_max_contract_value: '310.9K'
 - [les huiles desroches inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22les%20huiles%20desroches%20inc%22)
 - [Les Huiles Desroches inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%20inc.%22)
 - [Les huiles desroches INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%20INC.%22)
-- [Les huiles desroches inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20huiles%20desroches%20inc%22)
 - [Les Huiles Desroches](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Les%20Huiles%20Desroches%22)
 - [LES HULES DESROCHES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LES%20HULES%20DESROCHES%20INC.%22)
 - [les huiles desroches inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22les%20huiles%20desroches%20inc.%22)

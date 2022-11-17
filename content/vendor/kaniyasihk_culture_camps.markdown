@@ -1,7 +1,7 @@
 ---
 title: Kaniyasihk Culture Camps
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: kaniyasihk_culture_camps
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $57.6K
   in 2021-2022 on contracts with Kaniyasihk Culture Camps. The average
-  contract duration was 0.81 years, and the average contract value
-  (not including contracts under $10k) was $1.6M. The longest
+  contract duration was 0.76 years, and the average contract value
+  (not including contracts under $10k) was $1.4M. The longest
   contract was 1.32 years. The largest contract by value (including
   amendments) was $12.4M.
 lookup_name: 'KANIYASIHK CULTURE CAMPS'
 most_recent_fiscal_year_total: '57.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '8'
+s431_number_of_contracts: '9'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.81'
-s421_mean_contract_value: '1.6M'
+s424_mean_duration: '0.76'
+s421_mean_contract_value: '1.4M'
 s425_max_duration: '1.32'
 s422_max_contract_value: '12.4M'
 ---
@@ -56,6 +56,7 @@ s422_max_contract_value: '12.4M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [KANIYASIHK CULTURE CAMPS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22KANIYASIHK%20CULTURE%20CAMPS%20INC.%22)
+- [Kaniyasihk Culture Camps Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Kaniyasihk%20Culture%20Camps%20Inc.%22)
 {{< /details >}}
 
 ## Departments and agencies

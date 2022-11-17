@@ -1,7 +1,7 @@
 ---
 title: Zodiac Hurricane Technologies
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: zodiac_hurricane_technologies
 categories: []
 tags: []
@@ -11,20 +11,20 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $17.2M
   in 2021-2022 on contracts with Zodiac Hurricane Technologies. The average
-  contract duration was 1.35 years, and the average contract value
+  contract duration was 1.36 years, and the average contract value
   (not including contracts under $10k) was $3.1M. The longest
   contract was 5.03 years. The largest contract by value (including
   amendments) was $37.2M.
 lookup_name: 'ZODIAC HURRICANE TECHNOLOGIES'
 most_recent_fiscal_year_total: '17.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '26'
+s431_number_of_contracts: '27'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '27%'
+s431_number_of_contracts_amendments_percentage: '26%'
 s432_mean_amendment_increase_percentage: '38%'
 s434_mean_number_of_amendments: '3.29'
 s433_total_amendment_increase_value: '10.1M'
-s424_mean_duration: '1.35'
+s424_mean_duration: '1.36'
 s421_mean_contract_value: '3.1M'
 s425_max_duration: '5.03'
 s422_max_contract_value: '37.2M'
@@ -58,10 +58,10 @@ s422_max_contract_value: '37.2M'
 - [Zodiac Hurricane Technologies Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Zodiac%20Hurricane%20Technologies%20Inc%22)
 - [ZODIAC HURRICANE TECHNOLOGIES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZODIAC%20HURRICANE%20TECHNOLOGIES%20INC%22)
 - [ZODIAC HURRICANE TECHNOLOGIES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZODIAC%20HURRICANE%20TECHNOLOGIES%22)
+- [Zodiac Hurricane Technologies, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Zodiac%20Hurricane%20Technologies%2c%20Inc.%22)
 - [zodiac hurricane technology inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22zodiac%20hurricane%20technology%20inc%22)
 - [ZODIAC HURRICANE TECHNOLOGIES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZODIAC%20HURRICANE%20TECHNOLOGIES%20INC.%22)
 - [ZODIAC HURRICANE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZODIAC%20HURRICANE%22)
-- [Zodiac Hurricane Technologies, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Zodiac%20Hurricane%20Technologies%2c%20Inc.%22)
 - [ZODIAC HURRICANE INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ZODIAC%20HURRICANE%20INC%22)
 - [Zodiac Hurrican Technologies](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Zodiac%20Hurrican%20Technologies%22)
 - [zodiac hurricane technology](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22zodiac%20hurricane%20technology%22)

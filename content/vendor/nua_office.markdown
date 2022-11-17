@@ -1,7 +1,7 @@
 ---
 title: NUA Office
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: nua_office
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with NUA Office. The average
-  contract duration was 0.46 years, and the average contract value
-  (not including contracts under $10k) was $55.0K. The longest
+  contract duration was 0.47 years, and the average contract value
+  (not including contracts under $10k) was $72.8K. The longest
   contract was 1.38 years. The largest contract by value (including
-  amendments) was $349.6K.
+  amendments) was $1.2M.
 lookup_name: 'NUA OFFICE'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '112'
+s431_number_of_contracts: '118'
 s431_number_of_contracts_with_amendments: '11'
-s431_number_of_contracts_amendments_percentage: '10%'
+s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '13%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '128.5K'
-s424_mean_duration: '0.46'
-s421_mean_contract_value: '55.0K'
+s424_mean_duration: '0.47'
+s421_mean_contract_value: '72.8K'
 s425_max_duration: '1.38'
-s422_max_contract_value: '349.6K'
+s422_max_contract_value: '1.2M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,9 +55,9 @@ s422_max_contract_value: '349.6K'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Nua Office Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nua%20Office%20Inc.%22)
 - [NUA OFFICE INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUA%20OFFICE%20INC.%22)
 - [NUA OFFICE INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUA%20OFFICE%20INC%22)
-- [Nua Office Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nua%20Office%20Inc.%22)
 - [Nua Office inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nua%20Office%20inc.%22)
 - [NUA Office Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUA%20Office%20Inc%22)
 - [NUA Office Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUA%20Office%20Inc.%22)

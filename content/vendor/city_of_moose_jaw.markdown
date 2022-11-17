@@ -1,7 +1,7 @@
 ---
 title: City of Moose Jaw
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: city_of_moose_jaw
 categories: []
 tags: []

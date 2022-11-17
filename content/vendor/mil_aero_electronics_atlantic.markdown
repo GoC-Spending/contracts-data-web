@@ -1,7 +1,7 @@
 ---
 title: Mil Aero Electronics Atlantic
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mil_aero_electronics_atlantic
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $42.1K
   in 2021-2022 on contracts with Mil Aero Electronics Atlantic. The average
-  contract duration was 1.22 years, and the average contract value
-  (not including contracts under $10k) was $856.8K. The longest
+  contract duration was 1.25 years, and the average contract value
+  (not including contracts under $10k) was $753.7K. The longest
   contract was 1.7 years. The largest contract by value (including
   amendments) was $2.7M.
 lookup_name: 'MIL AERO ELECTRONICS ATLANTIC'
 most_recent_fiscal_year_total: '42.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '7'
+s431_number_of_contracts: '8'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '1.22'
-s421_mean_contract_value: '856.8K'
+s424_mean_duration: '1.25'
+s421_mean_contract_value: '753.7K'
 s425_max_duration: '1.7'
 s422_max_contract_value: '2.7M'
 ---
@@ -61,6 +61,7 @@ s422_max_contract_value: '2.7M'
 - [Mil-Aero Electronics Atlantic Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mil-Aero%20Electronics%20Atlantic%20Inc%22)
 - [MIl-AERO ELECTRONICS ATLANTIC INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MIl-AERO%20ELECTRONICS%20ATLANTIC%20INC.%22)
 - [Mil-Aero Electronics Atlantic Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mil-Aero%20Electronics%20Atlantic%20Inc.%22)
+- [MIL-AERO ELECTRONICS ATLANTIC INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MIL-AERO%20ELECTRONICS%20ATLANTIC%20INC%22)
 {{< /details >}}
 
 ## Departments and agencies

@@ -1,7 +1,7 @@
 ---
 title: Canadian Bank Note Company
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: canadian_bank_note_company
 categories: []
 tags: []

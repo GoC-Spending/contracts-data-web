@@ -1,7 +1,7 @@
 ---
 title: Datum Marine Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: datum_marine_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $852.3K
   in 2021-2022 on contracts with Datum Marine Services. The average
-  contract duration was 4.78 years, and the average contract value
-  (not including contracts under $10k) was $2.8M. The longest
+  contract duration was 3.73 years, and the average contract value
+  (not including contracts under $10k) was $2.9M. The longest
   contract was 5.5 years. The largest contract by value (including
   amendments) was $3.5M.
 lookup_name: 'DATUM MARINE SERVICES'
 most_recent_fiscal_year_total: '852.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '2'
+s431_number_of_contracts: '3'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '100%'
+s431_number_of_contracts_amendments_percentage: '67%'
 s432_mean_amendment_increase_percentage: '156%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '3.5M'
-s424_mean_duration: '4.78'
-s421_mean_contract_value: '2.8M'
+s424_mean_duration: '3.73'
+s421_mean_contract_value: '2.9M'
 s425_max_duration: '5.5'
 s422_max_contract_value: '3.5M'
 ---

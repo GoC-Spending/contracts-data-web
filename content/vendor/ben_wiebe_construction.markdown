@@ -1,7 +1,7 @@
 ---
 title: Ben Wiebe Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ben_wiebe_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $24.1K
   in 2021-2022 on contracts with Ben Wiebe Construction. The average
-  contract duration was 0.2 years, and the average contract value
-  (not including contracts under $10k) was $168.3K. The longest
+  contract duration was 0.21 years, and the average contract value
+  (not including contracts under $10k) was $158.0K. The longest
   contract was 0.84 years. The largest contract by value (including
   amendments) was $1.8M.
 lookup_name: 'BEN WIEBE CONSTRUCTION'
 most_recent_fiscal_year_total: '24.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '13'
+s431_number_of_contracts: '14'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.2'
-s421_mean_contract_value: '168.3K'
+s424_mean_duration: '0.21'
+s421_mean_contract_value: '158.0K'
 s425_max_duration: '0.84'
 s422_max_contract_value: '1.8M'
 ---
@@ -57,6 +57,7 @@ s422_max_contract_value: '1.8M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [BEN WIEBE CONSTRUCTION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEN%20WIEBE%20CONSTRUCTION%22)
 - [Ben Wiebe Construction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ben%20Wiebe%20Construction%22)
+- [Ben Wiebe Construction Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ben%20Wiebe%20Construction%20Limited%22)
 - [BEN WIEBE CONSTRUCTION LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEN%20WIEBE%20CONSTRUCTION%20LTD%22)
 - [Ben Wiebe Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ben%20Wiebe%20Construction%20Ltd.%22)
 {{< /details >}}

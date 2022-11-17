@@ -1,7 +1,7 @@
 ---
 title: St Leonards Society of North Vancouver
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: st_leonards_society_of_north_vancouver
 categories: []
 tags: []

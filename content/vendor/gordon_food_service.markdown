@@ -1,7 +1,7 @@
 ---
 title: Gordon Food Service
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gordon_food_service
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $4.2M
   in 2021-2022 on contracts with Gordon Food Service. The average
-  contract duration was 0.09 years, and the average contract value
-  (not including contracts under $10k) was $32.0K. The longest
+  contract duration was 0.08 years, and the average contract value
+  (not including contracts under $10k) was $31.4K. The longest
   contract was 3.04 years. The largest contract by value (including
   amendments) was $3.0M.
 lookup_name: 'GORDON FOOD SERVICE'
 most_recent_fiscal_year_total: '4.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '495'
+s431_number_of_contracts: '511'
 s431_number_of_contracts_with_amendments: '16'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '34%'
 s434_mean_number_of_amendments: '1.75'
 s433_total_amendment_increase_value: '564.5K'
-s424_mean_duration: '0.09'
-s421_mean_contract_value: '32.0K'
+s424_mean_duration: '0.08'
+s421_mean_contract_value: '31.4K'
 s425_max_duration: '3.04'
 s422_max_contract_value: '3.0M'
 ---
@@ -89,6 +89,7 @@ s422_max_contract_value: '3.0M'
 - [Gordon food Service](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gordon%20food%20Service%22)
 - [GFS BC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GFS%20BC%22)
 - [GFS Food Service](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GFS%20Food%20Service%22)
+- [GFS ONTARIO INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GFS%20ONTARIO%20INC%22)
 - [Gordon Food Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gordon%20Food%20Services%22)
 - [Gordon Food Service Canada Ltd. Québec Division](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gordon%20Food%20Service%20Canada%20Ltd.%20Qu%c3%a9bec%20Division%22)
 - [GORDON FOOD SERVICES PRAIRIES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GORDON%20FOOD%20SERVICES%20PRAIRIES%20INC.%22)
@@ -109,7 +110,6 @@ s422_max_contract_value: '3.0M'
 - [GFS Prairies](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GFS%20Prairies%22)
 - [Gordon Food Service Canada Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gordon%20Food%20Service%20Canada%20Ltd.%22)
 - [GORDON FOODS SERVICE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GORDON%20FOODS%20SERVICE%22)
-- [GFS ONTARIO INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GFS%20ONTARIO%20INC%22)
 - [GFS ATLANTIC IN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GFS%20ATLANTIC%20IN%22)
 - [GFS Food Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GFS%20Food%20Services%22)
 - [gfs](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22gfs%22)

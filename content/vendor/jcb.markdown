@@ -1,7 +1,7 @@
 ---
 title: Jcb
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: jcb
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
   in 2021-2022 on contracts with Jcb. The average
-  contract duration was 0.45 years, and the average contract value
-  (not including contracts under $10k) was $430.2K. The longest
+  contract duration was 0.54 years, and the average contract value
+  (not including contracts under $10k) was $446.1K. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $1.3M.
 lookup_name: 'JCB'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '11'
+s431_number_of_contracts: '15'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '9%'
+s431_number_of_contracts_amendments_percentage: '7%'
 s432_mean_amendment_increase_percentage: '52%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '29.8K'
-s424_mean_duration: '0.45'
-s421_mean_contract_value: '430.2K'
+s424_mean_duration: '0.54'
+s421_mean_contract_value: '446.1K'
 s425_max_duration: '1'
 s422_max_contract_value: '1.3M'
 ---

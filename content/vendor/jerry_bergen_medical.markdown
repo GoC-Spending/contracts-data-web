@@ -1,7 +1,7 @@
 ---
 title: Jerry Bergen Medical
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: jerry_bergen_medical
 categories: []
 tags: []

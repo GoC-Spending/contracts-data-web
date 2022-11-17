@@ -1,7 +1,7 @@
 ---
 title: Ecole De Langues Abce
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ecole_de_langues_abce
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
   in 2021-2022 on contracts with Ecole De Langues Abce. The average
-  contract duration was 0.62 years, and the average contract value
-  (not including contracts under $10k) was $23.2K. The longest
+  contract duration was 0.61 years, and the average contract value
+  (not including contracts under $10k) was $23.3K. The longest
   contract was 4.5 years. The largest contract by value (including
   amendments) was $250.6K.
 lookup_name: 'ECOLE DE LANGUES ABCE'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '515'
-s431_number_of_contracts_with_amendments: '75'
-s431_number_of_contracts_amendments_percentage: '15%'
-s432_mean_amendment_increase_percentage: '74%'
+s431_number_of_contracts: '525'
+s431_number_of_contracts_with_amendments: '76'
+s431_number_of_contracts_amendments_percentage: '14%'
+s432_mean_amendment_increase_percentage: '73%'
 s434_mean_number_of_amendments: '1.61'
-s433_total_amendment_increase_value: '713.9K'
-s424_mean_duration: '0.62'
-s421_mean_contract_value: '23.2K'
+s433_total_amendment_increase_value: '716.9K'
+s424_mean_duration: '0.61'
+s421_mean_contract_value: '23.3K'
 s425_max_duration: '4.5'
 s422_max_contract_value: '250.6K'
 ---
@@ -65,6 +65,7 @@ s422_max_contract_value: '250.6K'
 - [École de langues ABCE Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%c3%89cole%20de%20langues%20ABCE%20Inc.%22)
 - [ÉCOLE DE LANGUES ABCE INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%c3%89COLE%20DE%20LANGUES%20ABCE%20INC.%22)
 - [ÉCOLE DE LANGUES ABCE INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%c3%89COLE%20DE%20LANGUES%20ABCE%20INC%22)
+- [ÉCOLE DE LANGUES ABCE INC./ABCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%c3%89COLE%20DE%20LANGUES%20ABCE%20INC.%2fABCE%22)
 - [ÉCOLE DE LANGUES ABCE INC./ ABCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%c3%89COLE%20DE%20LANGUES%20ABCE%20INC.%2f%20ABCE%22)
 - [École De Langues Abce Inc./ Abce](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%c3%89cole%20De%20Langues%20Abce%20Inc.%2f%20Abce%22)
 - [École de langues ABCE inc./ ABCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%c3%89cole%20de%20langues%20ABCE%20inc.%2f%20ABCE%22)

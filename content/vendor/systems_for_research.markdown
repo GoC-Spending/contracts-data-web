@@ -1,7 +1,7 @@
 ---
 title: Systems for Research
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: systems_for_research
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $3.7M
   in 2021-2022 on contracts with Systems for Research. The average
-  contract duration was 0.87 years, and the average contract value
-  (not including contracts under $10k) was $559.2K. The longest
+  contract duration was 0.82 years, and the average contract value
+  (not including contracts under $10k) was $477.5K. The longest
   contract was 4.16 years. The largest contract by value (including
   amendments) was $3.0M.
 lookup_name: 'SYSTEMS FOR RESEARCH'
 most_recent_fiscal_year_total: '3.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '14'
+s431_number_of_contracts: '17'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '7%'
+s431_number_of_contracts_amendments_percentage: '6%'
 s432_mean_amendment_increase_percentage: '18%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '14.4K'
-s424_mean_duration: '0.87'
-s421_mean_contract_value: '559.2K'
+s424_mean_duration: '0.82'
+s421_mean_contract_value: '477.5K'
 s425_max_duration: '4.16'
 s422_max_contract_value: '3.0M'
 ---
@@ -61,6 +61,7 @@ s422_max_contract_value: '3.0M'
 - [SYSTEMS FOR RESEARCH CORP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SYSTEMS%20FOR%20RESEARCH%20CORP%22)
 - [Systems For Research](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Systems%20For%20Research%22)
 - [SYSTEMS FOR RESEARCH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SYSTEMS%20FOR%20RESEARCH%22)
+- [Systems for Research, Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Systems%20for%20Research%2c%20Inc%22)
 - [SYSTEMS FOR RESEARCH INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SYSTEMS%20FOR%20RESEARCH%20INC.%22)
 - [Systems for Research Corp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Systems%20for%20Research%20Corp%22)
 {{< /details >}}

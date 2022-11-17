@@ -1,7 +1,7 @@
 ---
 title: Proof Experiences
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: proof_experiences
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with Proof Experiences. The average
-  contract duration was 1.43 years, and the average contract value
-  (not including contracts under $10k) was $1.4M. The longest
+  contract duration was 1.32 years, and the average contract value
+  (not including contracts under $10k) was $1.3M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $5.8M.
 lookup_name: 'PROOF EXPERIENCES'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '13'
+s431_number_of_contracts: '14'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '54%'
+s431_number_of_contracts_amendments_percentage: '50%'
 s432_mean_amendment_increase_percentage: '388%'
 s434_mean_number_of_amendments: '2.14'
 s433_total_amendment_increase_value: '12.3M'
-s424_mean_duration: '1.43'
-s421_mean_contract_value: '1.4M'
+s424_mean_duration: '1.32'
+s421_mean_contract_value: '1.3M'
 s425_max_duration: '5'
 s422_max_contract_value: '5.8M'
 ---

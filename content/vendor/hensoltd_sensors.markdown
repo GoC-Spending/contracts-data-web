@@ -1,7 +1,7 @@
 ---
 title: Hensoltd Sensors
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hensoltd_sensors
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
   in 2021-2022 on contracts with Hensoltd Sensors. The average
-  contract duration was 2.51 years, and the average contract value
-  (not including contracts under $10k) was $5.7M. The longest
+  contract duration was 1.68 years, and the average contract value
+  (not including contracts under $10k) was $3.8M. The longest
   contract was 5.02 years. The largest contract by value (including
   amendments) was $11.3M.
 lookup_name: 'HENSOLTD SENSORS'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '2'
+s431_number_of_contracts: '3'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '2.51'
-s421_mean_contract_value: '5.7M'
+s424_mean_duration: '1.68'
+s421_mean_contract_value: '3.8M'
 s425_max_duration: '5.02'
 s422_max_contract_value: '11.3M'
 ---

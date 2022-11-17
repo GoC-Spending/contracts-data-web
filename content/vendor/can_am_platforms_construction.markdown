@@ -1,7 +1,7 @@
 ---
 title: CAN AM Platforms Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: can_am_platforms_construction
 categories: []
 tags: []

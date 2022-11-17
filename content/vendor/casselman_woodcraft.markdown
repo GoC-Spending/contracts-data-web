@@ -1,7 +1,7 @@
 ---
 title: Casselman Woodcraft
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: casselman_woodcraft
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $614.3K
   in 2021-2022 on contracts with Casselman Woodcraft. The average
-  contract duration was 0.53 years, and the average contract value
-  (not including contracts under $10k) was $26.7K. The longest
+  contract duration was 0.54 years, and the average contract value
+  (not including contracts under $10k) was $26.6K. The longest
   contract was 1.07 years. The largest contract by value (including
   amendments) was $102.0K.
 lookup_name: 'CASSELMAN WOODCRAFT'
 most_recent_fiscal_year_total: '614.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '173'
+s431_number_of_contracts: '180'
 s431_number_of_contracts_with_amendments: '45'
-s431_number_of_contracts_amendments_percentage: '26%'
+s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '1%'
 s434_mean_number_of_amendments: '1.18'
 s433_total_amendment_increase_value: '2.6K'
-s424_mean_duration: '0.53'
-s421_mean_contract_value: '26.7K'
+s424_mean_duration: '0.54'
+s421_mean_contract_value: '26.6K'
 s425_max_duration: '1.07'
 s422_max_contract_value: '102.0K'
 ---

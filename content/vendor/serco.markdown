@@ -1,7 +1,7 @@
 ---
 title: Serco
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: serco
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $55.9M
   in 2021-2022 on contracts with Serco. The average
-  contract duration was 2.87 years, and the average contract value
-  (not including contracts under $10k) was $100.1M. The longest
+  contract duration was 2.64 years, and the average contract value
+  (not including contracts under $10k) was $91.0M. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $695.3M.
 lookup_name: 'SERCO'
 most_recent_fiscal_year_total: '55.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '10'
+s431_number_of_contracts: '11'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '30%'
+s431_number_of_contracts_amendments_percentage: '27%'
 s432_mean_amendment_increase_percentage: '46%'
 s434_mean_number_of_amendments: '2.67'
 s433_total_amendment_increase_value: '2.7M'
-s424_mean_duration: '2.87'
-s421_mean_contract_value: '100.1M'
+s424_mean_duration: '2.64'
+s421_mean_contract_value: '91.0M'
 s425_max_duration: '10.01'
 s422_max_contract_value: '695.3M'
 ---
@@ -63,8 +63,8 @@ s422_max_contract_value: '695.3M'
 - [SERCO DES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SERCO%20DES%20INC.%22)
 - [Serco Consulting](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Serco%20Consulting%22)
 - [SERCO FACILITIES MANAGEMENT INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SERCO%20FACILITIES%20MANAGEMENT%20INC.%22)
-- [Serco Facilities Management Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Serco%20Facilities%20Management%20Inc.%22)
 - [SERCO CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SERCO%20CANADA%20INC%22)
+- [Serco Facilities Management Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Serco%20Facilities%20Management%20Inc.%22)
 - [Serco Canada Marine Corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Serco%20Canada%20Marine%20Corporation%22)
 - [SERCO MANAGEMENT SOLUTIONS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SERCO%20MANAGEMENT%20SOLUTIONS%20INC.%22)
 - [Serco Shared Services Centre](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Serco%20Shared%20Services%20Centre%22)

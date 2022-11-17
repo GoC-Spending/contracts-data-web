@@ -1,7 +1,7 @@
 ---
 title: Spearhead Management Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: spearhead_management_canada
 categories: []
 tags: []

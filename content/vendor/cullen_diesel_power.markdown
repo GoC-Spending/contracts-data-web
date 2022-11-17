@@ -1,7 +1,7 @@
 ---
 title: Cullen Diesel Power
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: cullen_diesel_power
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $5.5M
   in 2021-2022 on contracts with Cullen Diesel Power. The average
-  contract duration was 0.38 years, and the average contract value
-  (not including contracts under $10k) was $297.2K. The longest
+  contract duration was 0.37 years, and the average contract value
+  (not including contracts under $10k) was $292.5K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $3.3M.
 lookup_name: 'CULLEN DIESEL POWER'
 most_recent_fiscal_year_total: '5.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '46'
+s431_number_of_contracts: '47'
 s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '11%'
 s432_mean_amendment_increase_percentage: '37%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '10.2K'
-s424_mean_duration: '0.38'
-s421_mean_contract_value: '297.2K'
+s424_mean_duration: '0.37'
+s421_mean_contract_value: '292.5K'
 s425_max_duration: '5'
 s422_max_contract_value: '3.3M'
 ---
@@ -57,6 +57,7 @@ s422_max_contract_value: '3.3M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [CULLEN DIESEL POWER LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CULLEN%20DIESEL%20POWER%20LTD%22)
 - [cullen diesel power ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22cullen%20diesel%20power%20ltd.%22)
+- [Cullen Diesel Power](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Cullen%20Diesel%20Power%22)
 - [CULLEN DIESEL POWER LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CULLEN%20DIESEL%20POWER%20LTD.%22)
 - [cullen diesel power ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22cullen%20diesel%20power%20ltd%22)
 - [Cullen Diesel Power Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Cullen%20Diesel%20Power%20Ltd.%22)

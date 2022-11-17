@@ -1,7 +1,7 @@
 ---
 title: CryptoMill Technologies
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: cryptomill_technologies
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: M 2 Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: m_2_group
 categories: []
 tags: []

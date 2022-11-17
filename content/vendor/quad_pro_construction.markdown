@@ -1,7 +1,7 @@
 ---
 title: Quad Pro Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: quad_pro_construction
 categories: []
 tags: []

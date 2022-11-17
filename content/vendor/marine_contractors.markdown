@@ -1,7 +1,7 @@
 ---
 title: Marine Contractors
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: marine_contractors
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $51.1K
   in 2020-2021 on contracts with Marine Contractors. The average
-  contract duration was 0.4 years, and the average contract value
-  (not including contracts under $10k) was $1.2M. The longest
+  contract duration was 0.43 years, and the average contract value
+  (not including contracts under $10k) was $1.1M. The longest
   contract was 0.95 years. The largest contract by value (including
   amendments) was $8.3M.
 lookup_name: 'MARINE CONTRACTORS'
 most_recent_fiscal_year_total: '51.1K'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts: '11'
+s431_number_of_contracts: '12'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '64%'
+s431_number_of_contracts_amendments_percentage: '58%'
 s432_mean_amendment_increase_percentage: '1%'
 s434_mean_number_of_amendments: '1.43'
 s433_total_amendment_increase_value: '35.2K'
-s424_mean_duration: '0.4'
-s421_mean_contract_value: '1.2M'
+s424_mean_duration: '0.43'
+s421_mean_contract_value: '1.1M'
 s425_max_duration: '0.95'
 s422_max_contract_value: '8.3M'
 ---
@@ -57,6 +57,7 @@ s422_max_contract_value: '8.3M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [MARINE CONTRACTORS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MARINE%20CONTRACTORS%20INC%22)
 - [MARINE CONTRACTORS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MARINE%20CONTRACTORS%20INC.%22)
+- [Marine Contractors Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Marine%20Contractors%20Inc%22)
 - [Marine Contractors Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Marine%20Contractors%20Inc.%22)
 {{< /details >}}
 

@@ -1,7 +1,7 @@
 ---
 title: L3Harris
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: l3harris
 categories: []
 tags: []
@@ -9,27 +9,37 @@ images:
   - /img/cover.png
 r_init: |-
   
-description: The Government of Canada spent an estimated $104.0M
+description: The Government of Canada spent an estimated $107.3M
   in 2021-2022 on contracts with L3Harris. The average
-  contract duration was 1.17 years, and the average contract value
-  (not including contracts under $10k) was $5.8M. The longest
+  contract duration was 1.22 years, and the average contract value
+  (not including contracts under $10k) was $5.6M. The longest
   contract was 14.83 years. The largest contract by value (including
   amendments) was $515.8M.
 lookup_name: 'L3HARRIS'
-most_recent_fiscal_year_total: '104.0M'
+most_recent_fiscal_year_total: '107.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '268'
-s431_number_of_contracts_with_amendments: '34'
+s431_number_of_contracts: '277'
+s431_number_of_contracts_with_amendments: '37'
 s431_number_of_contracts_amendments_percentage: '13%'
-s432_mean_amendment_increase_percentage: '121%'
-s434_mean_number_of_amendments: '2.18'
-s433_total_amendment_increase_value: '472.6M'
-s424_mean_duration: '1.17'
-s421_mean_contract_value: '5.8M'
+s432_mean_amendment_increase_percentage: '117%'
+s434_mean_number_of_amendments: '2.11'
+s433_total_amendment_increase_value: '492.1M'
+s424_mean_duration: '1.22'
+s421_mean_contract_value: '5.6M'
 s425_max_duration: '14.83'
 s422_max_contract_value: '515.8M'
 ---
 
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
@@ -64,13 +74,13 @@ s422_max_contract_value: '515.8M'
 - [L-3 Communications MAPPS Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20Communications%20MAPPS%20Inc.%22)
 - [L-3 Communications MAPPS Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20Communications%20MAPPS%20Inc%22)
 - [L3 MAPPS Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L3%20MAPPS%20Inc.%22)
+- [L-3 COMMUNICATIONS CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20COMMUNICATIONS%20CORPORATION%22)
 - [L-3 Communications Sonoma EO, Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20Communications%20Sonoma%20EO%2c%20Inc%22)
 - [Harris RF Communications](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Harris%20RF%20Communications%22)
 - [Harris Global Communications Inc. (L3-Harris)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Harris%20Global%20Communications%20Inc.%20%28L3-Harris%29%22)
 - [L-3 Communications CMRO, a division of L-3 Communications MAS (Canada)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20Communications%20CMRO%2c%20a%20division%20of%20L-3%20Communications%20MAS%20%28Canada%29%22)
 - [L3 COMMUNICATIONS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L3%20COMMUNICATIONS%22)
 - [L-3 Communications Spar Aerospace](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20Communications%20Spar%20Aerospace%22)
-- [L-3 COMMUNICATIONS CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20COMMUNICATIONS%20CORPORATION%22)
 - [Harris Corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Harris%20Corporation%22)
 - [L-3 COMMUNICATIONS MAPPS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20COMMUNICATIONS%20MAPPS%20INC%22)
 - [L3 Communications](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L3%20Communications%22)
@@ -106,6 +116,7 @@ s422_max_contract_value: '515.8M'
 - [L-3 National Security Solutions Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20National%20Security%20Solutions%20Inc.%22)
 - [L-3 COMMUNICATIONS MAS (CANADA)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20COMMUNICATIONS%20MAS%20%28CANADA%29%22)
 - [L-3 COMMUNICATIONS ELECTRONIC SYSTEMS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20COMMUNICATIONS%20ELECTRONIC%20SYSTEMS%20INC.%22)
+- [L3 TECHNOLOGIES MAS Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L3%20TECHNOLOGIES%20MAS%20Inc.%22)
 - [L-3 SERVICES, INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20SERVICES%2c%20INC%22)
 - [Harris Global Communications, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Harris%20Global%20Communications%2c%20Inc.%22)
 - [Harris Corporation RF Communications Divison](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Harris%20Corporation%20RF%20Communications%20Divison%22)
@@ -147,7 +158,6 @@ s422_max_contract_value: '515.8M'
 - [harris RF communications](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22harris%20RF%20communications%22)
 - [L3 Technologies MAS Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L3%20Technologies%20MAS%20Inc.%22)
 - [L-3 Brashear](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20Brashear%22)
-- [L3 TECHNOLOGIES MAS Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L3%20TECHNOLOGIES%20MAS%20Inc.%22)
 - [HARRIS RF COMMUNICATIONS DIVISION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HARRIS%20RF%20COMMUNICATIONS%20DIVISION%22)
 - [L3 ESSCO INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L3%20ESSCO%20INC%22)
 - [L-3 COMMUNICATIONS ESSCO](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22L-3%20COMMUNICATIONS%20ESSCO%22)
@@ -210,7 +220,7 @@ s422_max_contract_value: '515.8M'
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/pco-bcp/\">Privy Council Office<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/tsb-bst/\">Transportation Safety Board of Canada<\/a>"],[null,1580266.55,null,155853596.84,153443.98,402725.45,null,44905.41,5528612.88,null,369.53],[null,1584596.05,62232.63,135084337.84,null,17401.25,null,null,1914446.79,49603.94,44907.44],[null,1834097.32,null,105747328.88,null,6696.83,899723.48,null,2334963.06,null,16975.69],[25076.33,2066612.73,null,100031185.26,null,41661.05,1676.06,null,1783110.07,64088.22,8430.01]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/pco-bcp/\">Privy Council Office<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>","<a href=\"/departments/tsb-bst/\">Transportation Safety Board of Canada<\/a>"],[null,1580266.55,null,159136265.77,153443.98,402725.45,null,44905.41,5528612.88,null,369.53],[null,1584596.05,62232.63,138376000.38,null,17401.25,null,null,1914446.79,49603.94,44907.44],[null,1834097.32,null,109029997.81,null,6696.83,899723.48,null,2334963.06,null,16975.69],[25076.33,2066612.73,null,103313854.2,null,41661.05,1676.06,null,1783110.07,64088.22,8430.01]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/l3harris/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
 </p>
@@ -218,7 +228,13 @@ s422_max_contract_value: '515.8M'
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[12540971.94,null,71704568.02,995730.36,5404732.57,null,72917917.76,null],[13022291.43,9880.68,71613222.97,183867.08,1832332.69,49603.94,51945002.85,101324.3],[12216093.57,36901.32,47613357.26,157837.6,4105419.43,null,46710176.06,null],[12731311.2,null,43868058.32,49052.28,3874516.61,56483.86,43442417.47,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[12539843.39,null,72020683.08,995730.36,5404732.57,null,75885600.18,null],[13021159.78,9880.68,71930204.1,183867.08,1832332.69,49603.94,54920815.91,101324.3],[12214965.02,36901.32,47929472.33,157837.6,4105419.43,null,49677858.49,null],[12730182.64,null,44184173.38,49052.28,3874516.61,56483.86,46410099.9,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/l3harris/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
+</p>
+<h2>Information technology subcategories</h2>
+<div id="htmlwidget-3" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/it_subcategories/it_consulting_services/\">IT consulting services<\/a>","<a href=\"/it_subcategories/it_devices_equipment/\">IT devices & equipment<\/a>","<a href=\"/it_subcategories/it_other/\">Other IT (incl. telecommunications)<\/a>","<a href=\"/it_subcategories/it_software_licensing/\">IT software licensing<\/a>"],[null,59114.86,4628527.99,717089.72],[null,4493.59,1773937.34,53901.77],[1041799.29,899723.48,2155466.64,8430.01],[2066612.73,1676.06,1797797.81,8430.01]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>IT subcategory<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/l3harris/summary_by_fiscal_year_by_it_subcategory.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

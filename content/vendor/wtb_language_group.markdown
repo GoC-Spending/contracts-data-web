@@ -1,7 +1,7 @@
 ---
 title: Wtb Language Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: wtb_language_group
 categories: []
 tags: []
@@ -11,20 +11,20 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
   in 2021-2022 on contracts with Wtb Language Group. The average
-  contract duration was 0.91 years, and the average contract value
+  contract duration was 0.88 years, and the average contract value
   (not including contracts under $10k) was $52.0K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $659.0K.
 lookup_name: 'WTB LANGUAGE GROUP'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '70'
+s431_number_of_contracts: '77'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '10%'
+s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '55%'
 s434_mean_number_of_amendments: '1.14'
 s433_total_amendment_increase_value: '162.4K'
-s424_mean_duration: '0.91'
+s424_mean_duration: '0.88'
 s421_mean_contract_value: '52.0K'
 s425_max_duration: '2'
 s422_max_contract_value: '659.0K'

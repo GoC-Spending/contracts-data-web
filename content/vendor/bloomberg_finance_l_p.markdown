@@ -1,7 +1,7 @@
 ---
 title: Bloomberg Finance L P
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bloomberg_finance_l_p
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with Bloomberg Finance L P. The average
-  contract duration was 1.52 years, and the average contract value
-  (not including contracts under $10k) was $110.9K. The longest
+  contract duration was 1.51 years, and the average contract value
+  (not including contracts under $10k) was $108.8K. The longest
   contract was 5.72 years. The largest contract by value (including
   amendments) was $406.0K.
 lookup_name: 'BLOOMBERG FINANCE L P'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '43'
+s431_number_of_contracts: '44'
 s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '30%'
 s432_mean_amendment_increase_percentage: '208%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '1.3M'
-s424_mean_duration: '1.52'
-s421_mean_contract_value: '110.9K'
+s424_mean_duration: '1.51'
+s421_mean_contract_value: '108.8K'
 s425_max_duration: '5.72'
 s422_max_contract_value: '406.0K'
 ---

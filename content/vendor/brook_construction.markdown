@@ -1,7 +1,7 @@
 ---
 title: Brook Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: brook_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with Brook Construction. The average
-  contract duration was 0.62 years, and the average contract value
-  (not including contracts under $10k) was $1.6M. The longest
+  contract duration was 0.58 years, and the average contract value
+  (not including contracts under $10k) was $1.5M. The longest
   contract was 2.01 years. The largest contract by value (including
   amendments) was $6.5M.
 lookup_name: 'BROOK CONSTRUCTION'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '6'
+s431_number_of_contracts: '7'
 s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '67%'
+s431_number_of_contracts_amendments_percentage: '57%'
 s432_mean_amendment_increase_percentage: '5%'
 s434_mean_number_of_amendments: '2.5'
 s433_total_amendment_increase_value: '497.0K'
-s424_mean_duration: '0.62'
-s421_mean_contract_value: '1.6M'
+s424_mean_duration: '0.58'
+s421_mean_contract_value: '1.5M'
 s425_max_duration: '2.01'
 s422_max_contract_value: '6.5M'
 ---
@@ -56,6 +56,7 @@ s422_max_contract_value: '6.5M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [BROOK CONSTRUCTION (2007) INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BROOK%20CONSTRUCTION%20%282007%29%20INC.%22)
+- [Brook Construction Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Brook%20Construction%20Inc%22)
 {{< /details >}}
 
 ## Departments and agencies

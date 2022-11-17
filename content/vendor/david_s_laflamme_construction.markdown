@@ -1,7 +1,7 @@
 ---
 title: David S Laflamme Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: david_s_laflamme_construction
 categories: []
 tags: []

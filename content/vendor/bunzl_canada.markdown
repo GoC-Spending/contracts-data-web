@@ -1,7 +1,7 @@
 ---
 title: Bunzl Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bunzl_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $160.6K
   in 2021-2022 on contracts with Bunzl Canada. The average
-  contract duration was 0.21 years, and the average contract value
-  (not including contracts under $10k) was $190.7K. The longest
+  contract duration was 0.22 years, and the average contract value
+  (not including contracts under $10k) was $175.2K. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $2.6M.
 lookup_name: 'BUNZL CANADA'
 most_recent_fiscal_year_total: '160.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '21'
+s431_number_of_contracts: '23'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.21'
-s421_mean_contract_value: '190.7K'
+s424_mean_duration: '0.22'
+s421_mean_contract_value: '175.2K'
 s425_max_duration: '1'
 s422_max_contract_value: '2.6M'
 ---

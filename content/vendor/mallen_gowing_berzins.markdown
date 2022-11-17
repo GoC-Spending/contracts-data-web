@@ -1,7 +1,7 @@
 ---
 title: Mallen Gowing Berzins
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mallen_gowing_berzins
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: K L Construction Ontario
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: k_l_construction_ontario
 categories: []
 tags: []

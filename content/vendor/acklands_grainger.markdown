@@ -1,7 +1,7 @@
 ---
 title: Acklands Grainger
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: acklands_grainger
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.7M
   in 2021-2022 on contracts with Acklands Grainger. The average
   contract duration was 0.19 years, and the average contract value
-  (not including contracts under $10k) was $35.2K. The longest
+  (not including contracts under $10k) was $35.0K. The longest
   contract was 3.02 years. The largest contract by value (including
   amendments) was $2.1M.
 lookup_name: 'ACKLANDS GRAINGER'
 most_recent_fiscal_year_total: '2.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '426'
+s431_number_of_contracts: '436'
 s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '-2%'
 s434_mean_number_of_amendments: '1.21'
 s433_total_amendment_increase_value: '-408.0K'
 s424_mean_duration: '0.19'
-s421_mean_contract_value: '35.2K'
+s421_mean_contract_value: '35.0K'
 s425_max_duration: '3.02'
 s422_max_contract_value: '2.1M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Global Total Office
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: global_total_office
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with Global Total Office. The average
-  contract duration was 0.46 years, and the average contract value
-  (not including contracts under $10k) was $69.7K. The longest
+  contract duration was 0.45 years, and the average contract value
+  (not including contracts under $10k) was $68.9K. The longest
   contract was 3.42 years. The largest contract by value (including
   amendments) was $3.3M.
 lookup_name: 'GLOBAL TOTAL OFFICE'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '121'
-s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '2%'
-s432_mean_amendment_increase_percentage: '73%'
-s434_mean_number_of_amendments: '2.33'
-s433_total_amendment_increase_value: '2.2M'
-s424_mean_duration: '0.46'
-s421_mean_contract_value: '69.7K'
+s431_number_of_contracts: '124'
+s431_number_of_contracts_with_amendments: '4'
+s431_number_of_contracts_amendments_percentage: '3%'
+s432_mean_amendment_increase_percentage: '61%'
+s434_mean_number_of_amendments: '2'
+s433_total_amendment_increase_value: '2.3M'
+s424_mean_duration: '0.45'
+s421_mean_contract_value: '68.9K'
 s425_max_duration: '3.42'
 s422_max_contract_value: '3.3M'
 ---

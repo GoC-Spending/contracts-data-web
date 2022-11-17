@@ -1,7 +1,7 @@
 ---
 title: Draeger
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: draeger
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $422.7K
   in 2021-2022 on contracts with Draeger. The average
-  contract duration was 0.87 years, and the average contract value
-  (not including contracts under $10k) was $934.0K. The longest
+  contract duration was 0.84 years, and the average contract value
+  (not including contracts under $10k) was $895.1K. The longest
   contract was 10.19 years. The largest contract by value (including
   amendments) was $11.0M.
 lookup_name: 'DRAEGER'
 most_recent_fiscal_year_total: '422.7K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '22'
+s431_number_of_contracts: '23'
 s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '100%'
 s434_mean_number_of_amendments: '1.5'
 s433_total_amendment_increase_value: '39.1K'
-s424_mean_duration: '0.87'
-s421_mean_contract_value: '934.0K'
+s424_mean_duration: '0.84'
+s421_mean_contract_value: '895.1K'
 s425_max_duration: '10.19'
 s422_max_contract_value: '11.0M'
 ---

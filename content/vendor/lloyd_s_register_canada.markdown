@@ -1,7 +1,7 @@
 ---
 title: Lloyd’s Register Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: lloyd_s_register_canada
 categories: []
 tags: []

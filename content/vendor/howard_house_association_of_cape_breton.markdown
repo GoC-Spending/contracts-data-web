@@ -1,7 +1,7 @@
 ---
 title: Howard House Association of Cape Breton
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: howard_house_association_of_cape_breton
 categories: []
 tags: []

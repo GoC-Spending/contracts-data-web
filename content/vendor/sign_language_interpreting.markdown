@@ -1,7 +1,7 @@
 ---
 title: Sign Language Interpreting
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sign_language_interpreting
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.5M
   in 2021-2022 on contracts with Sign Language Interpreting. The average
-  contract duration was 0.85 years, and the average contract value
-  (not including contracts under $10k) was $92.7K. The longest
+  contract duration was 0.83 years, and the average contract value
+  (not including contracts under $10k) was $90.2K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $605.4K.
 lookup_name: 'SIGN LANGUAGE INTERPRETING'
 most_recent_fiscal_year_total: '2.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '82'
-s431_number_of_contracts_with_amendments: '22'
+s431_number_of_contracts: '85'
+s431_number_of_contracts_with_amendments: '23'
 s431_number_of_contracts_amendments_percentage: '27%'
-s432_mean_amendment_increase_percentage: '685%'
-s434_mean_number_of_amendments: '2.68'
+s432_mean_amendment_increase_percentage: '657%'
+s434_mean_number_of_amendments: '2.61'
 s433_total_amendment_increase_value: '4.3M'
-s424_mean_duration: '0.85'
-s421_mean_contract_value: '92.7K'
+s424_mean_duration: '0.83'
+s421_mean_contract_value: '90.2K'
 s425_max_duration: '3'
 s422_max_contract_value: '605.4K'
 ---

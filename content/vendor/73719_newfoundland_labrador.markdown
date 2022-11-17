@@ -1,7 +1,7 @@
 ---
 title: 73719 Newfoundland Labrador
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: 73719_newfoundland_labrador
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Wills Transfer
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: wills_transfer
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $9.2M
   in 2021-2022 on contracts with Wills Transfer. The average
-  contract duration was 1.06 years, and the average contract value
-  (not including contracts under $10k) was $175.3K. The longest
+  contract duration was 1.05 years, and the average contract value
+  (not including contracts under $10k) was $172.3K. The longest
   contract was 4.05 years. The largest contract by value (including
   amendments) was $3.9M.
 lookup_name: 'WILLS TRANSFER'
 most_recent_fiscal_year_total: '9.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '53'
+s431_number_of_contracts: '54'
 s431_number_of_contracts_with_amendments: '21'
-s431_number_of_contracts_amendments_percentage: '40%'
+s431_number_of_contracts_amendments_percentage: '39%'
 s432_mean_amendment_increase_percentage: '84%'
 s434_mean_number_of_amendments: '1.62'
 s433_total_amendment_increase_value: '326.1K'
-s424_mean_duration: '1.06'
-s421_mean_contract_value: '175.3K'
+s424_mean_duration: '1.05'
+s421_mean_contract_value: '172.3K'
 s425_max_duration: '4.05'
 s422_max_contract_value: '3.9M'
 ---

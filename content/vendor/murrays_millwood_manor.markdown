@@ -1,7 +1,7 @@
 ---
 title: Murrays Millwood Manor
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: murrays_millwood_manor
 categories: []
 tags: []

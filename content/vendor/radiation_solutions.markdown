@@ -1,7 +1,7 @@
 ---
 title: Radiation Solutions
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: radiation_solutions
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Radiation Solutions. The average
   contract duration was 0.75 years, and the average contract value
-  (not including contracts under $10k) was $391.0K. The longest
+  (not including contracts under $10k) was $393.2K. The longest
   contract was 6.88 years. The largest contract by value (including
   amendments) was $6.0M.
 lookup_name: 'RADIATION SOLUTIONS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '33'
+s431_number_of_contracts: '34'
 s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '233%'
 s434_mean_number_of_amendments: '3'
 s433_total_amendment_increase_value: '6.3M'
 s424_mean_duration: '0.75'
-s421_mean_contract_value: '391.0K'
+s421_mean_contract_value: '393.2K'
 s425_max_duration: '6.88'
 s422_max_contract_value: '6.0M'
 ---

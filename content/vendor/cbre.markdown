@@ -1,7 +1,7 @@
 ---
 title: CBRE
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: cbre
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $168.1K
   in 2021-2022 on contracts with CBRE. The average
-  contract duration was 0.33 years, and the average contract value
-  (not including contracts under $10k) was $246.5K. The longest
+  contract duration was 0.34 years, and the average contract value
+  (not including contracts under $10k) was $214.0K. The longest
   contract was 1.13 years. The largest contract by value (including
   amendments) was $5.3M.
 lookup_name: 'CBRE'
 most_recent_fiscal_year_total: '168.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '24'
+s431_number_of_contracts: '28'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.33'
-s421_mean_contract_value: '246.5K'
+s424_mean_duration: '0.34'
+s421_mean_contract_value: '214.0K'
 s425_max_duration: '1.13'
 s422_max_contract_value: '5.3M'
 ---

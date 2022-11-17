@@ -1,7 +1,7 @@
 ---
 title: Everest Construction Management
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: everest_construction_management
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $852.5K
   in 2021-2022 on contracts with Everest Construction Management. The average
-  contract duration was 1.16 years, and the average contract value
-  (not including contracts under $10k) was $3.0M. The longest
+  contract duration was 1.26 years, and the average contract value
+  (not including contracts under $10k) was $3.3M. The longest
   contract was 3.02 years. The largest contract by value (including
   amendments) was $7.0M.
 lookup_name: 'EVEREST CONSTRUCTION MANAGEMENT'
 most_recent_fiscal_year_total: '852.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '4'
+s431_number_of_contracts: '5'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '75%'
+s431_number_of_contracts_amendments_percentage: '60%'
 s432_mean_amendment_increase_percentage: '15%'
 s434_mean_number_of_amendments: '2.33'
 s433_total_amendment_increase_value: '1.2M'
-s424_mean_duration: '1.16'
-s421_mean_contract_value: '3.0M'
+s424_mean_duration: '1.26'
+s421_mean_contract_value: '3.3M'
 s425_max_duration: '3.02'
 s422_max_contract_value: '7.0M'
 ---
@@ -56,9 +56,9 @@ s422_max_contract_value: '7.0M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Everest Construction Management](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Everest%20Construction%20Management%22)
+- [Everest Construction Management Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Everest%20Construction%20Management%20Ltd%22)
 - [EVEREST CONSTRUCTION MANAGEMENT LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVEREST%20CONSTRUCTION%20MANAGEMENT%20LTD%22)
 - [EVEREST CONSTRUCTION MANAGEMENT LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EVEREST%20CONSTRUCTION%20MANAGEMENT%20LTD.%22)
-- [Everest Construction Management Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Everest%20Construction%20Management%20Ltd%22)
 - [Everest Construction Management Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Everest%20Construction%20Management%20Ltd.%22)
 {{< /details >}}
 

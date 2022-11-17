@@ -1,7 +1,7 @@
 ---
 title: Hexagon
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hexagon
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $375.4K
   in 2021-2022 on contracts with Hexagon. The average
   contract duration was 0.87 years, and the average contract value
-  (not including contracts under $10k) was $143.0K. The longest
+  (not including contracts under $10k) was $142.0K. The longest
   contract was 3.33 years. The largest contract by value (including
   amendments) was $885.2K.
 lookup_name: 'HEXAGON'
 most_recent_fiscal_year_total: '375.4K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '43'
+s431_number_of_contracts: '45'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '206%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '121.3K'
 s424_mean_duration: '0.87'
-s421_mean_contract_value: '143.0K'
+s421_mean_contract_value: '142.0K'
 s425_max_duration: '3.33'
 s422_max_contract_value: '885.2K'
 ---
@@ -60,6 +60,7 @@ s422_max_contract_value: '885.2K'
 - [Intergraph Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Intergraph%20Canada%20Ltd%22)
 - [INTERGRAPH CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22INTERGRAPH%20CANADA%20LTD%22)
 - [Intergraph Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Intergraph%20Canada%22)
+- [Intergraph Canada ulc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Intergraph%20Canada%20ulc.%22)
 - [Intergraph Canada Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Intergraph%20Canada%20Limited%22)
 - [Intergraph Cnaada Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Intergraph%20Cnaada%20Ltd.%22)
 - [Intergraph Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Intergraph%20Canada%20Inc.%22)

@@ -1,7 +1,7 @@
 ---
 title: Biomerieux Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: biomerieux_canada
 categories: []
 tags: []
@@ -11,20 +11,20 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $10.4M
   in 2021-2022 on contracts with Biomerieux Canada. The average
-  contract duration was 1.15 years, and the average contract value
+  contract duration was 1.12 years, and the average contract value
   (not including contracts under $10k) was $1.4M. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $27.6M.
 lookup_name: 'BIOMERIEUX CANADA'
 most_recent_fiscal_year_total: '10.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '36'
+s431_number_of_contracts: '37'
 s431_number_of_contracts_with_amendments: '11'
-s431_number_of_contracts_amendments_percentage: '31%'
+s431_number_of_contracts_amendments_percentage: '30%'
 s432_mean_amendment_increase_percentage: '458%'
 s434_mean_number_of_amendments: '1.73'
 s433_total_amendment_increase_value: '7.2M'
-s424_mean_duration: '1.15'
+s424_mean_duration: '1.12'
 s421_mean_contract_value: '1.4M'
 s425_max_duration: '4'
 s422_max_contract_value: '27.6M'

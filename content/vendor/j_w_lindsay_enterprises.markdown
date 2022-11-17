@@ -1,7 +1,7 @@
 ---
 title: J W Lindsay Enterprises
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: j_w_lindsay_enterprises
 categories: []
 tags: []

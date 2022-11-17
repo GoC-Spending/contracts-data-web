@@ -1,7 +1,7 @@
 ---
 title: Broadnet Telecom
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: broadnet_telecom
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.8M
   in 2021-2022 on contracts with Broadnet Telecom. The average
   contract duration was 0.5 years, and the average contract value
-  (not including contracts under $10k) was $344.2K. The longest
+  (not including contracts under $10k) was $342.0K. The longest
   contract was 1.17 years. The largest contract by value (including
   amendments) was $10.7M.
 lookup_name: 'BROADNET TELECOM'
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '45'
+s431_number_of_contracts: '46'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '16%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '-20%'
 s434_mean_number_of_amendments: '1.71'
 s433_total_amendment_increase_value: '1.8M'
 s424_mean_duration: '0.5'
-s421_mean_contract_value: '344.2K'
+s421_mean_contract_value: '342.0K'
 s425_max_duration: '1.17'
 s422_max_contract_value: '10.7M'
 ---

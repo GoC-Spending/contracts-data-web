@@ -1,7 +1,7 @@
 ---
 title: General Electric Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: general_electric_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $19.8M
   in 2021-2022 on contracts with General Electric Canada. The average
   contract duration was 0.61 years, and the average contract value
-  (not including contracts under $10k) was $2.4M. The longest
+  (not including contracts under $10k) was $2.3M. The longest
   contract was 10.41 years. The largest contract by value (including
   amendments) was $128.5M.
 lookup_name: 'GENERAL ELECTRIC CANADA'
 most_recent_fiscal_year_total: '19.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '91'
+s431_number_of_contracts: '93'
 s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '372%'
 s434_mean_number_of_amendments: '1.44'
 s433_total_amendment_increase_value: '126.8M'
 s424_mean_duration: '0.61'
-s421_mean_contract_value: '2.4M'
+s421_mean_contract_value: '2.3M'
 s425_max_duration: '10.41'
 s422_max_contract_value: '128.5M'
 ---

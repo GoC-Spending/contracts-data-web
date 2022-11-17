@@ -1,7 +1,7 @@
 ---
 title: Amtek Engineering
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: amtek_engineering
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $16.8K
   in 2021-2022 on contracts with Amtek Engineering. The average
-  contract duration was 3.12 years, and the average contract value
-  (not including contracts under $10k) was $523.3K. The longest
+  contract duration was 3.02 years, and the average contract value
+  (not including contracts under $10k) was $508.3K. The longest
   contract was 5.53 years. The largest contract by value (including
   amendments) was $1.9M.
 lookup_name: 'AMTEK ENGINEERING'
 most_recent_fiscal_year_total: '16.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '32'
+s431_number_of_contracts: '33'
 s431_number_of_contracts_with_amendments: '22'
-s431_number_of_contracts_amendments_percentage: '69%'
+s431_number_of_contracts_amendments_percentage: '67%'
 s432_mean_amendment_increase_percentage: '106%'
 s434_mean_number_of_amendments: '1.91'
 s433_total_amendment_increase_value: '4.6M'
-s424_mean_duration: '3.12'
-s421_mean_contract_value: '523.3K'
+s424_mean_duration: '3.02'
+s421_mean_contract_value: '508.3K'
 s425_max_duration: '5.53'
 s422_max_contract_value: '1.9M'
 ---
@@ -79,6 +79,7 @@ s422_max_contract_value: '1.9M'
 - [AMTEK Engineering Services LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AMTEK%20Engineering%20Services%20LTD.%22)
 - [Amtek Engineering Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Amtek%20Engineering%20Ltd.%22)
 - [Amtek Engineering Srvices Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Amtek%20Engineering%20Srvices%20Ltd.%22)
+- [AMPTEK INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AMPTEK%20INC.%22)
 - [Amtek Engineering Serices Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Amtek%20Engineering%20Serices%20Inc.%22)
 - [AMPTEK INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AMPTEK%20INC%22)
 {{< /details >}}

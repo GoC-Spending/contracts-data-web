@@ -1,7 +1,7 @@
 ---
 title: Kraken Robotic Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: kraken_robotic_systems
 categories: []
 tags: []

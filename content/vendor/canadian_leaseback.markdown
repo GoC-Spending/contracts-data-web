@@ -1,7 +1,7 @@
 ---
 title: Canadian Leaseback
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: canadian_leaseback
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $336.0K
   in 2021-2022 on contracts with Canadian Leaseback. The average
-  contract duration was 0.73 years, and the average contract value
-  (not including contracts under $10k) was $180.4K. The longest
+  contract duration was 0.72 years, and the average contract value
+  (not including contracts under $10k) was $172.3K. The longest
   contract was 4.57 years. The largest contract by value (including
   amendments) was $7.3M.
 lookup_name: 'CANADIAN LEASEBACK'
 most_recent_fiscal_year_total: '336.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '174'
+s431_number_of_contracts: '183'
 s431_number_of_contracts_with_amendments: '23'
 s431_number_of_contracts_amendments_percentage: '13%'
 s432_mean_amendment_increase_percentage: '50%'
 s434_mean_number_of_amendments: '1.74'
 s433_total_amendment_increase_value: '4.1M'
-s424_mean_duration: '0.73'
-s421_mean_contract_value: '180.4K'
+s424_mean_duration: '0.72'
+s421_mean_contract_value: '172.3K'
 s425_max_duration: '4.57'
 s422_max_contract_value: '7.3M'
 ---

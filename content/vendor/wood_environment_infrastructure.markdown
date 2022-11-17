@@ -1,7 +1,7 @@
 ---
 title: Wood Environment Infrastructure
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: wood_environment_infrastructure
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $408.1K
   in 2021-2022 on contracts with Wood Environment Infrastructure. The average
-  contract duration was 0.79 years, and the average contract value
-  (not including contracts under $10k) was $57.2K. The longest
+  contract duration was 0.78 years, and the average contract value
+  (not including contracts under $10k) was $56.4K. The longest
   contract was 4.45 years. The largest contract by value (including
   amendments) was $385.2K.
 lookup_name: 'WOOD ENVIRONMENT INFRASTRUCTURE'
 most_recent_fiscal_year_total: '408.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '52'
+s431_number_of_contracts: '53'
 s431_number_of_contracts_with_amendments: '15'
-s431_number_of_contracts_amendments_percentage: '29%'
+s431_number_of_contracts_amendments_percentage: '28%'
 s432_mean_amendment_increase_percentage: '126%'
 s434_mean_number_of_amendments: '1.53'
 s433_total_amendment_increase_value: '528.5K'
-s424_mean_duration: '0.79'
-s421_mean_contract_value: '57.2K'
+s424_mean_duration: '0.78'
+s421_mean_contract_value: '56.4K'
 s425_max_duration: '4.45'
 s422_max_contract_value: '385.2K'
 ---

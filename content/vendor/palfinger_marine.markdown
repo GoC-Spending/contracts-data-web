@@ -1,7 +1,7 @@
 ---
 title: PALFINGER Marine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: palfinger_marine
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $988.5K
   in 2021-2022 on contracts with PALFINGER Marine. The average
-  contract duration was 0.27 years, and the average contract value
-  (not including contracts under $10k) was $232.7K. The longest
+  contract duration was 0.29 years, and the average contract value
+  (not including contracts under $10k) was $224.3K. The longest
   contract was 1.51 years. The largest contract by value (including
   amendments) was $8.0M.
 lookup_name: 'PALFINGER MARINE'
 most_recent_fiscal_year_total: '988.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '73'
+s431_number_of_contracts: '76'
 s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '7%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '1.9M'
-s424_mean_duration: '0.27'
-s421_mean_contract_value: '232.7K'
+s424_mean_duration: '0.29'
+s421_mean_contract_value: '224.3K'
 s425_max_duration: '1.51'
 s422_max_contract_value: '8.0M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Millennium Limousine Service
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: millennium_limousine_service
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $894.1K
   in 2021-2022 on contracts with Millennium Limousine Service. The average
-  contract duration was 3 years, and the average contract value
-  (not including contracts under $10k) was $2.7M. The longest
+  contract duration was 1.54 years, and the average contract value
+  (not including contracts under $10k) was $1.4M. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $2.7M.
 lookup_name: 'MILLENNIUM LIMOUSINE SERVICE'
 most_recent_fiscal_year_total: '894.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1'
+s431_number_of_contracts: '2'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '100%'
+s431_number_of_contracts_amendments_percentage: '50%'
 s432_mean_amendment_increase_percentage: '8%'
 s434_mean_number_of_amendments: '3'
 s433_total_amendment_increase_value: '209.9K'
-s424_mean_duration: '3'
-s421_mean_contract_value: '2.7M'
+s424_mean_duration: '1.54'
+s421_mean_contract_value: '1.4M'
 s425_max_duration: '3'
 s422_max_contract_value: '2.7M'
 ---

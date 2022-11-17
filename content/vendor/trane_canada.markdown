@@ -1,7 +1,7 @@
 ---
 title: Trane Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: trane_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $234.1K
   in 2021-2022 on contracts with Trane Canada. The average
-  contract duration was 1.37 years, and the average contract value
-  (not including contracts under $10k) was $108.2K. The longest
+  contract duration was 1.3 years, and the average contract value
+  (not including contracts under $10k) was $102.7K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $747.3K.
 lookup_name: 'TRANE CANADA'
 most_recent_fiscal_year_total: '234.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '42'
-s431_number_of_contracts_with_amendments: '10'
+s431_number_of_contracts: '46'
+s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '24%'
-s432_mean_amendment_increase_percentage: '212%'
-s434_mean_number_of_amendments: '1.7'
+s432_mean_amendment_increase_percentage: '257%'
+s434_mean_number_of_amendments: '1.64'
 s433_total_amendment_increase_value: '1.6M'
-s424_mean_duration: '1.37'
-s421_mean_contract_value: '108.2K'
+s424_mean_duration: '1.3'
+s421_mean_contract_value: '102.7K'
 s425_max_duration: '5.01'
 s422_max_contract_value: '747.3K'
 ---

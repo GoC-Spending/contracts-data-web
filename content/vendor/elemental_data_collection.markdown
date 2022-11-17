@@ -1,7 +1,7 @@
 ---
 title: Elemental Data Collection
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: elemental_data_collection
 categories: []
 tags: []

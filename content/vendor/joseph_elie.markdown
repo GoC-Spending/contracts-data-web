@@ -1,7 +1,7 @@
 ---
 title: Joseph Elie
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: joseph_elie
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $3.1M
   in 2021-2022 on contracts with Joseph Elie. The average
-  contract duration was 0.23 years, and the average contract value
-  (not including contracts under $10k) was $220.7K. The longest
+  contract duration was 0.24 years, and the average contract value
+  (not including contracts under $10k) was $222.3K. The longest
   contract was 1.15 years. The largest contract by value (including
   amendments) was $2.0M.
 lookup_name: 'JOSEPH ELIE'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '130'
+s431_number_of_contracts: '135'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '5%'
+s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '17%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '44.5K'
-s424_mean_duration: '0.23'
-s421_mean_contract_value: '220.7K'
+s424_mean_duration: '0.24'
+s421_mean_contract_value: '222.3K'
 s425_max_duration: '1.15'
 s422_max_contract_value: '2.0M'
 ---

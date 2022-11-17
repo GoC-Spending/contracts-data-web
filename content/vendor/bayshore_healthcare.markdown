@@ -1,7 +1,7 @@
 ---
 title: Bayshore Healthcare
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bayshore_healthcare
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $16.7M
   in 2021-2022 on contracts with Bayshore Healthcare. The average
-  contract duration was 0.95 years, and the average contract value
-  (not including contracts under $10k) was $379.1K. The longest
+  contract duration was 0.91 years, and the average contract value
+  (not including contracts under $10k) was $374.9K. The longest
   contract was 6.08 years. The largest contract by value (including
   amendments) was $6.5M.
 lookup_name: 'BAYSHORE HEALTHCARE'
 most_recent_fiscal_year_total: '16.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '123'
-s431_number_of_contracts_with_amendments: '31'
-s431_number_of_contracts_amendments_percentage: '25%'
-s432_mean_amendment_increase_percentage: '125%'
-s434_mean_number_of_amendments: '2.06'
+s431_number_of_contracts: '135'
+s431_number_of_contracts_with_amendments: '38'
+s431_number_of_contracts_amendments_percentage: '28%'
+s432_mean_amendment_increase_percentage: '102%'
+s434_mean_number_of_amendments: '1.97'
 s433_total_amendment_increase_value: '8.6M'
-s424_mean_duration: '0.95'
-s421_mean_contract_value: '379.1K'
+s424_mean_duration: '0.91'
+s421_mean_contract_value: '374.9K'
 s425_max_duration: '6.08'
 s422_max_contract_value: '6.5M'
 ---

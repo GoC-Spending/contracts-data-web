@@ -1,7 +1,7 @@
 ---
 title: Ag Creations
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ag_creations
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
   in 2021-2022 on contracts with Ag Creations. The average
-  contract duration was 0.33 years, and the average contract value
-  (not including contracts under $10k) was $92.5K. The longest
+  contract duration was 0.32 years, and the average contract value
+  (not including contracts under $10k) was $95.0K. The longest
   contract was 1.08 years. The largest contract by value (including
   amendments) was $1.3M.
 lookup_name: 'AG CREATIONS'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '42'
+s431_number_of_contracts: '48'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '20%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '39.5K'
-s424_mean_duration: '0.33'
-s421_mean_contract_value: '92.5K'
+s424_mean_duration: '0.32'
+s421_mean_contract_value: '95.0K'
 s425_max_duration: '1.08'
 s422_max_contract_value: '1.3M'
 ---
@@ -56,12 +56,12 @@ s422_max_contract_value: '1.3M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Ag Creations Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ag%20Creations%20Inc.%22)
-- [AG Creations Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20Creations%20Inc%22)
 - [AG CREATIONS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20CREATIONS%20INC.%22)
+- [AG Creations Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20Creations%20Inc%22)
+- [AG Creations](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20Creations%22)
 - [AG Creations Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20Creations%20Inc.%22)
 - [Ag Creations Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ag%20Creations%20Inc%22)
 - [AG CREATIONS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20CREATIONS%20INC%22)
-- [AG Creations](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20Creations%22)
 - [AG CREATIONS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AG%20CREATIONS%22)
 {{< /details >}}
 

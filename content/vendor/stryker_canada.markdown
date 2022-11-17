@@ -1,7 +1,7 @@
 ---
 title: Stryker Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: stryker_canada
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $96.4K
 lookup_name: 'STRYKER CANADA'
 most_recent_fiscal_year_total: '96.4K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '24'
+s431_number_of_contracts: '25'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'

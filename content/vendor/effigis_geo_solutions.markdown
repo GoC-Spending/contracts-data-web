@@ -1,7 +1,7 @@
 ---
 title: Effigis Geo Solutions
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: effigis_geo_solutions
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Leeway Yachts
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: leeway_yachts
 categories: []
 tags: []
@@ -11,22 +11,22 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $5.6M
   in 2021-2022 on contracts with Leeway Yachts. The average
-  contract duration was 1.36 years, and the average contract value
+  contract duration was 2.34 years, and the average contract value
   (not including contracts under $10k) was $3.7M. The longest
-  contract was 3 years. The largest contract by value (including
+  contract was 7.24 years. The largest contract by value (including
   amendments) was $8.9M.
 lookup_name: 'LEEWAY YACHTS'
 most_recent_fiscal_year_total: '5.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '5'
+s431_number_of_contracts: '6'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '1.36'
+s424_mean_duration: '2.34'
 s421_mean_contract_value: '3.7M'
-s425_max_duration: '3'
+s425_max_duration: '7.24'
 s422_max_contract_value: '8.9M'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Island Temperature Controls
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: island_temperature_controls
 categories: []
 tags: []

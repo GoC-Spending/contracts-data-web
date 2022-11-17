@@ -1,7 +1,7 @@
 ---
 title: Universite De Montreal
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: universite_de_montreal
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $880.3K
   in 2021-2022 on contracts with Universite De Montreal. The average
-  contract duration was 1.23 years, and the average contract value
-  (not including contracts under $10k) was $147.9K. The longest
+  contract duration was 1.2 years, and the average contract value
+  (not including contracts under $10k) was $142.4K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $1.8M.
 lookup_name: 'UNIVERSITE DE MONTREAL'
 most_recent_fiscal_year_total: '880.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '40'
+s431_number_of_contracts: '42'
 s431_number_of_contracts_with_amendments: '9'
-s431_number_of_contracts_amendments_percentage: '22%'
+s431_number_of_contracts_amendments_percentage: '21%'
 s432_mean_amendment_increase_percentage: '63%'
 s434_mean_number_of_amendments: '1.44'
 s433_total_amendment_increase_value: '1.1M'
-s424_mean_duration: '1.23'
-s421_mean_contract_value: '147.9K'
+s424_mean_duration: '1.2'
+s421_mean_contract_value: '142.4K'
 s425_max_duration: '5.01'
 s422_max_contract_value: '1.8M'
 ---

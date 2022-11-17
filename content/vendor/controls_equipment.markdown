@@ -1,7 +1,7 @@
 ---
 title: Controls Equipment
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: controls_equipment
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $541.8K
   in 2021-2022 on contracts with Controls Equipment. The average
-  contract duration was 0.87 years, and the average contract value
-  (not including contracts under $10k) was $82.2K. The longest
+  contract duration was 0.86 years, and the average contract value
+  (not including contracts under $10k) was $80.8K. The longest
   contract was 4.5 years. The largest contract by value (including
   amendments) was $654.1K.
 lookup_name: 'CONTROLS EQUIPMENT'
 most_recent_fiscal_year_total: '541.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '60'
-s431_number_of_contracts_with_amendments: '12'
-s431_number_of_contracts_amendments_percentage: '20%'
-s432_mean_amendment_increase_percentage: '137%'
-s434_mean_number_of_amendments: '1.58'
-s433_total_amendment_increase_value: '787.0K'
-s424_mean_duration: '0.87'
-s421_mean_contract_value: '82.2K'
+s431_number_of_contracts: '62'
+s431_number_of_contracts_with_amendments: '13'
+s431_number_of_contracts_amendments_percentage: '21%'
+s432_mean_amendment_increase_percentage: '127%'
+s434_mean_number_of_amendments: '1.54'
+s433_total_amendment_increase_value: '822.5K'
+s424_mean_duration: '0.86'
+s421_mean_contract_value: '80.8K'
 s425_max_duration: '4.5'
 s422_max_contract_value: '654.1K'
 ---

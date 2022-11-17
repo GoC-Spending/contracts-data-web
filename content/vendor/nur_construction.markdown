@@ -1,7 +1,7 @@
 ---
 title: Nur Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: nur_construction
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Nur Construction. The average
   contract duration was 0.16 years, and the average contract value
-  (not including contracts under $10k) was $45.3K. The longest
+  (not including contracts under $10k) was $45.6K. The longest
   contract was 1.46 years. The largest contract by value (including
   amendments) was $1.9M.
 lookup_name: 'NUR CONSTRUCTION'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '103'
+s431_number_of_contracts: '115'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '5%'
+s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '27%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '21.3K'
 s424_mean_duration: '0.16'
-s421_mean_contract_value: '45.3K'
+s421_mean_contract_value: '45.6K'
 s425_max_duration: '1.46'
 s422_max_contract_value: '1.9M'
 ---
@@ -59,6 +59,7 @@ s422_max_contract_value: '1.9M'
 - [NUR Construction Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20Construction%20Inc.%22)
 - [NUR CONSTRUCTION LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20CONSTRUCTION%20LTD%22)
 - [nur construction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22nur%20construction%22)
+- [NUR Construction LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20Construction%20LTD%22)
 - [nur construction ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22nur%20construction%20ltd%22)
 - [NUR Construction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20Construction%22)
 - [Nur Construction LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nur%20Construction%20LTD%22)
@@ -66,7 +67,7 @@ s422_max_contract_value: '1.9M'
 - [NUR Construction Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20Construction%20Ltd%22)
 - [Nur Construction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nur%20Construction%22)
 - [Nur Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nur%20Construction%20Ltd.%22)
-- [NUR Construction LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20Construction%20LTD%22)
+- [Nur construction Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nur%20construction%20Ltd%22)
 - [NUR CONSTRUCTION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20CONSTRUCTION%22)
 - [NUR CONSTRUCTION ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUR%20CONSTRUCTION%20ltd%22)
 {{< /details >}}

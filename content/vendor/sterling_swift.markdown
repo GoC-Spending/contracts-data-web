@@ -1,7 +1,7 @@
 ---
 title: Sterling Swift
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sterling_swift
 categories: []
 tags: []

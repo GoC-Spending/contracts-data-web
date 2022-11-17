@@ -1,7 +1,7 @@
 ---
 title: Allen Hastings
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: allen_hastings
 categories: []
 tags: []

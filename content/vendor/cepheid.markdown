@@ -1,7 +1,7 @@
 ---
 title: Cepheid
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: cepheid
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $40.5M
   in 2021-2022 on contracts with Cepheid. The average
-  contract duration was 1.97 years, and the average contract value
-  (not including contracts under $10k) was $66.9M. The longest
+  contract duration was 1.53 years, and the average contract value
+  (not including contracts under $10k) was $44.7M. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $133.8M.
 lookup_name: 'CEPHEID'
 most_recent_fiscal_year_total: '40.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '2'
+s431_number_of_contracts: '3'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '50%'
+s431_number_of_contracts_amendments_percentage: '33%'
 s432_mean_amendment_increase_percentage: '31%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '2.6K'
-s424_mean_duration: '1.97'
-s421_mean_contract_value: '66.9M'
+s424_mean_duration: '1.53'
+s421_mean_contract_value: '44.7M'
 s425_max_duration: '2'
 s422_max_contract_value: '133.8M'
 ---
@@ -56,9 +56,9 @@ s422_max_contract_value: '133.8M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [CEPHEID INC. (CAD FUNDS)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CEPHEID%20INC.%20%28CAD%20FUNDS%29%22)
+- [CEPHEID CANADA ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CEPHEID%20CANADA%20ULC%22)
 - [Cepheid](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Cepheid%22)
 - [CEPHEID INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CEPHEID%20INC%22)
-- [CEPHEID CANADA ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CEPHEID%20CANADA%20ULC%22)
 {{< /details >}}
 
 ## Departments and agencies

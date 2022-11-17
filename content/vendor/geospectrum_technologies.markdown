@@ -1,7 +1,7 @@
 ---
 title: GeoSpectrum Technologies
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: geospectrum_technologies
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Amer Sports Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: amer_sports_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Amer Sports Canada. The average
-  contract duration was 1.45 years, and the average contract value
-  (not including contracts under $10k) was $1.4M. The longest
+  contract duration was 1.31 years, and the average contract value
+  (not including contracts under $10k) was $1.3M. The longest
   contract was 6.03 years. The largest contract by value (including
   amendments) was $8.3M.
 lookup_name: 'AMER SPORTS CANADA'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '7'
+s431_number_of_contracts: '8'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '1.45'
-s421_mean_contract_value: '1.4M'
+s424_mean_duration: '1.31'
+s421_mean_contract_value: '1.3M'
 s425_max_duration: '6.03'
 s422_max_contract_value: '8.3M'
 ---
@@ -56,12 +56,12 @@ s422_max_contract_value: '8.3M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [ARC’TERYX Equipment, a division of Amer Sports Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARC%27TERYX%20Equipment%2c%20a%20division%20of%20Amer%20Sports%20Canada%20Inc.%22)
+- [Arc’Teryx](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Arc%27Teryx%22)
 - [Amer Sports Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Amer%20Sports%20Canada%22)
 - [Arc’teryx](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Arc%27teryx%22)
 - [ARC’TERYX](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARC%27TERYX%22)
 - [ARC’TERYX EQUIPMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARC%27TERYX%20EQUIPMENT%22)
 - [AMER SPORTS CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AMER%20SPORTS%20CANADA%22)
-- [Arc’Teryx](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Arc%27Teryx%22)
 - [AMER SPORTS CANADA, INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AMER%20SPORTS%20CANADA%2c%20INC%22)
 - [ARC’TERYX LEAF](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARC%27TERYX%20LEAF%22)
 - [ARC’TERYX EQUIPMENT INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ARC%27TERYX%20EQUIPMENT%20INC.%22)

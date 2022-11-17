@@ -1,7 +1,7 @@
 ---
 title: Global Upholstery
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: global_upholstery
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with Global Upholstery. The average
   contract duration was 0.26 years, and the average contract value
-  (not including contracts under $10k) was $34.0K. The longest
+  (not including contracts under $10k) was $34.3K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'GLOBAL UPHOLSTERY'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '563'
+s431_number_of_contracts: '584'
 s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '6%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-22.7K'
 s424_mean_duration: '0.26'
-s421_mean_contract_value: '34.0K'
+s421_mean_contract_value: '34.3K'
 s425_max_duration: '7.01'
 s422_max_contract_value: '1.1M'
 ---
@@ -58,10 +58,10 @@ s422_max_contract_value: '1.1M'
 - [GLOBAL UPHOLSTERY CO. INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CO.%20INC.%22)
 - [GLOBAL UPHOLSTERY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%22)
 - [GLOBAL UPHOLSTERY CO. LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CO.%20LTD.%22)
+- [Global Upholstery Co. Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20Upholstery%20Co.%20Inc.%22)
 - [Global Upholstery Co. Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20Upholstery%20Co.%20Ltd.%22)
 - [Global Upholstery Co Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20Upholstery%20Co%20Inc.%22)
 - [GLOBAL UPHOLSTERY CO INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CO%20INC%22)
-- [Global Upholstery Co. Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20Upholstery%20Co.%20Inc.%22)
 - [GLOBAL UPHOLSTERY CO. INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CO.%20INC%22)
 - [GLOBAL UPHOLSTERY CO.LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CO.LTD%22)
 - [global upholstery Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22global%20upholstery%20Inc%22)
@@ -121,6 +121,7 @@ s422_max_contract_value: '1.1M'
 - [GLOBAL UPHOLSTERY CO.INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CO.INC%22)
 - [Global Upholostery](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20Upholostery%22)
 - [Global Upholstery Co,. Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20Upholstery%20Co%2c.%20Inc%22)
+- [Global UPholstery](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20UPholstery%22)
 - [GLOBAL UPHOLSTERY CO.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CO.%22)
 - [GLOBAL UPHOLSTERY CON INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GLOBAL%20UPHOLSTERY%20CON%20INC%22)
 - [Global Upholstery Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Global%20Upholstery%20Inc.%22)

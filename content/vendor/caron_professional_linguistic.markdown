@@ -1,7 +1,7 @@
 ---
 title: Caron Professional Linguistic
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: caron_professional_linguistic
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Caron Professional Linguistic. The average
-  contract duration was 0.71 years, and the average contract value
-  (not including contracts under $10k) was $23.1K. The longest
+  contract duration was 0.7 years, and the average contract value
+  (not including contracts under $10k) was $24.4K. The longest
   contract was 8.99 years. The largest contract by value (including
-  amendments) was $199.0K.
+  amendments) was $233.1K.
 lookup_name: 'CARON PROFESSIONAL LINGUISTIC'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '153'
-s431_number_of_contracts_with_amendments: '28'
-s431_number_of_contracts_amendments_percentage: '18%'
+s431_number_of_contracts: '162'
+s431_number_of_contracts_with_amendments: '30'
+s431_number_of_contracts_amendments_percentage: '19%'
 s432_mean_amendment_increase_percentage: '37%'
-s434_mean_number_of_amendments: '1.21'
-s433_total_amendment_increase_value: '218.9K'
-s424_mean_duration: '0.71'
-s421_mean_contract_value: '23.1K'
+s434_mean_number_of_amendments: '1.2'
+s433_total_amendment_increase_value: '231.8K'
+s424_mean_duration: '0.7'
+s421_mean_contract_value: '24.4K'
 s425_max_duration: '8.99'
-s422_max_contract_value: '199.0K'
+s422_max_contract_value: '233.1K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

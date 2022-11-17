@@ -1,7 +1,7 @@
 ---
 title: Devlin Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: devlin_construction
 categories: []
 tags: []

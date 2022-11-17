@@ -1,7 +1,7 @@
 ---
 title: PRA
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: pra
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.8M
   in 2021-2022 on contracts with PRA. The average
   contract duration was 0.93 years, and the average contract value
-  (not including contracts under $10k) was $87.7K. The longest
+  (not including contracts under $10k) was $87.9K. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'PRA'
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '108'
-s431_number_of_contracts_with_amendments: '16'
+s431_number_of_contracts: '110'
+s431_number_of_contracts_with_amendments: '17'
 s431_number_of_contracts_amendments_percentage: '15%'
-s432_mean_amendment_increase_percentage: '78%'
-s434_mean_number_of_amendments: '1.69'
+s432_mean_amendment_increase_percentage: '75%'
+s434_mean_number_of_amendments: '1.65'
 s433_total_amendment_increase_value: '1.4M'
 s424_mean_duration: '0.93'
-s421_mean_contract_value: '87.7K'
+s421_mean_contract_value: '87.9K'
 s425_max_duration: '4.75'
 s422_max_contract_value: '1.1M'
 ---
@@ -60,8 +60,8 @@ s422_max_contract_value: '1.1M'
 - [PRA. INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PRA.%20INC.%22)
 - [PRA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PRA%20INC%22)
 - [PRA Incorporated](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PRA%20Incorporated%22)
-- [Pra Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pra%20Inc.%22)
 - [PRA INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PRA%20%20INC.%22)
+- [Pra Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pra%20Inc.%22)
 - [Pra Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pra%20Inc%22)
 - [PRA Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PRA%20Inc%22)
 {{< /details >}}

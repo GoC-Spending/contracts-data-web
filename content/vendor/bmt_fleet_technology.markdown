@@ -1,7 +1,7 @@
 ---
 title: BMT Fleet Technology
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bmt_fleet_technology
 categories: []
 tags: []

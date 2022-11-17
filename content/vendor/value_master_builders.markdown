@@ -1,7 +1,7 @@
 ---
 title: Value Master Builders
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: value_master_builders
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $209.2K
   in 2021-2022 on contracts with Value Master Builders. The average
   contract duration was 0.17 years, and the average contract value
-  (not including contracts under $10k) was $109.8K. The longest
+  (not including contracts under $10k) was $107.6K. The longest
   contract was 1.01 years. The largest contract by value (including
   amendments) was $2.2M.
 lookup_name: 'VALUE MASTER BUILDERS'
 most_recent_fiscal_year_total: '209.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '80'
+s431_number_of_contracts: '82'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '3%'
+s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '-32%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-32.4K'
 s424_mean_duration: '0.17'
-s421_mean_contract_value: '109.8K'
+s421_mean_contract_value: '107.6K'
 s425_max_duration: '1.01'
 s422_max_contract_value: '2.2M'
 ---
@@ -65,6 +65,8 @@ s422_max_contract_value: '2.2M'
 - [Value Masters Builders](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Value%20Masters%20Builders%22)
 - [Value Master builders ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Value%20Master%20builders%20ltd%22)
 - [Value Master Builders LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Value%20Master%20Builders%20LTD%22)
+- [Value masters builders ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Value%20masters%20builders%20ltd%22)
+- [Value master builders ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Value%20master%20builders%20ltd%22)
 - [Values Master Builders LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Values%20Master%20Builders%20LTD%22)
 {{< /details >}}
 

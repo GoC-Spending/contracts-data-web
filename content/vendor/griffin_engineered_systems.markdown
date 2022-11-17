@@ -1,7 +1,7 @@
 ---
 title: Griffin Engineered Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: griffin_engineered_systems
 categories: []
 tags: []

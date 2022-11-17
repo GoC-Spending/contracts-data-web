@@ -1,7 +1,7 @@
 ---
 title: M D Charlton
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: m_d_charlton
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $3.5M
   in 2021-2022 on contracts with M D Charlton. The average
   contract duration was 0.27 years, and the average contract value
-  (not including contracts under $10k) was $92.9K. The longest
+  (not including contracts under $10k) was $92.1K. The longest
   contract was 4.93 years. The largest contract by value (including
   amendments) was $2.3M.
 lookup_name: 'M D CHARLTON'
 most_recent_fiscal_year_total: '3.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '269'
+s431_number_of_contracts: '280'
 s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '184%'
 s434_mean_number_of_amendments: '1.5'
 s433_total_amendment_increase_value: '1.6M'
 s424_mean_duration: '0.27'
-s421_mean_contract_value: '92.9K'
+s421_mean_contract_value: '92.1K'
 s425_max_duration: '4.93'
 s422_max_contract_value: '2.3M'
 ---
@@ -65,6 +65,7 @@ s422_max_contract_value: '2.3M'
 - [M.D. CHARLTON CO LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M.D.%20CHARLTON%20CO%20LTD.%22)
 - [M D CHarlton Co.Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M%20D%20CHarlton%20Co.Ltd.%22)
 - [M.D. Charlton CO. Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M.D.%20Charlton%20CO.%20Ltd%22)
+- [M D Charlton Co Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M%20D%20Charlton%20Co%20Ltd%22)
 - [MD Charlton](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MD%20Charlton%22)
 - [MD CHARLTON CO LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MD%20CHARLTON%20CO%20LTD%22)
 - [MD Charlton Co. Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MD%20Charlton%20Co.%20Ltd.%22)
@@ -86,7 +87,6 @@ s422_max_contract_value: '2.3M'
 - [M D CHARLTON](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M%20D%20CHARLTON%22)
 - [M.D CHARLTON CO LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M.D%20CHARLTON%20CO%20LTD%22)
 - [M D Charlton CO Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M%20D%20Charlton%20CO%20Ltd%22)
-- [M D Charlton Co Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M%20D%20Charlton%20Co%20Ltd%22)
 - [M.D. Charlton Co. LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M.D.%20Charlton%20Co.%20LTD.%22)
 - [M.D. CHARLTON CO. LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M.D.%20CHARLTON%20CO.%20LTD%22)
 - [M.D. CHARLTON](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22M.D.%20CHARLTON%22)

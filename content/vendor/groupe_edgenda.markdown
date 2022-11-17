@@ -1,7 +1,7 @@
 ---
 title: Groupe Edgenda
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: groupe_edgenda
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Groupe Edgenda. The average
-  contract duration was 0.88 years, and the average contract value
-  (not including contracts under $10k) was $161.2K. The longest
+  contract duration was 0.87 years, and the average contract value
+  (not including contracts under $10k) was $156.7K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $1.2M.
 lookup_name: 'GROUPE EDGENDA'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '32'
+s431_number_of_contracts: '33'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '16%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '88%'
 s434_mean_number_of_amendments: '1.2'
 s433_total_amendment_increase_value: '362.5K'
-s424_mean_duration: '0.88'
-s421_mean_contract_value: '161.2K'
+s424_mean_duration: '0.87'
+s421_mean_contract_value: '156.7K'
 s425_max_duration: '3'
 s422_max_contract_value: '1.2M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: University of New Brunswick
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: university_of_new_brunswick
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with University of New Brunswick. The average
-  contract duration was 1.01 years, and the average contract value
-  (not including contracts under $10k) was $152.6K. The longest
+  contract duration was 1 years, and the average contract value
+  (not including contracts under $10k) was $151.2K. The longest
   contract was 8.34 years. The largest contract by value (including
   amendments) was $1.8M.
 lookup_name: 'UNIVERSITY OF NEW BRUNSWICK'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '76'
+s431_number_of_contracts: '77'
 s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '18%'
 s432_mean_amendment_increase_percentage: '134%'
 s434_mean_number_of_amendments: '1.57'
 s433_total_amendment_increase_value: '1.9M'
-s424_mean_duration: '1.01'
-s421_mean_contract_value: '152.6K'
+s424_mean_duration: '1'
+s421_mean_contract_value: '151.2K'
 s425_max_duration: '8.34'
 s422_max_contract_value: '1.8M'
 ---

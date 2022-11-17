@@ -1,7 +1,7 @@
 ---
 title: Les Aliments Guy Chicoine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: les_aliments_guy_chicoine
 categories: []
 tags: []
@@ -12,22 +12,22 @@ r_init: |-
 description: The Government of Canada spent an estimated $903.6K
   in 2021-2022 on contracts with Les Aliments Guy Chicoine. The average
   contract duration was 0 years, and the average contract value
-  (not including contracts under $10k) was $15.7K. The longest
+  (not including contracts under $10k) was $16.6K. The longest
   contract was 0 years. The largest contract by value (including
-  amendments) was $28.3K.
+  amendments) was $39.3K.
 lookup_name: 'LES ALIMENTS GUY CHICOINE'
 most_recent_fiscal_year_total: '903.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '118'
+s431_number_of_contracts: '141'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
 s424_mean_duration: '0'
-s421_mean_contract_value: '15.7K'
+s421_mean_contract_value: '16.6K'
 s425_max_duration: '0'
-s422_max_contract_value: '28.3K'
+s422_max_contract_value: '39.3K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

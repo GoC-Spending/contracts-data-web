@@ -1,7 +1,7 @@
 ---
 title: St Leonard’s House Windsor
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: st_leonards_house_windsor
 categories: []
 tags: []

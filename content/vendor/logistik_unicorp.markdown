@@ -1,7 +1,7 @@
 ---
 title: Logistik Unicorp
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: logistik_unicorp
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $77.2M
   in 2021-2022 on contracts with Logistik Unicorp. The average
-  contract duration was 0.46 years, and the average contract value
-  (not including contracts under $10k) was $1.9M. The longest
+  contract duration was 0.44 years, and the average contract value
+  (not including contracts under $10k) was $1.8M. The longest
   contract was 12.18 years. The largest contract by value (including
   amendments) was $126.4M.
 lookup_name: 'LOGISTIK UNICORP'
 most_recent_fiscal_year_total: '77.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '181'
+s431_number_of_contracts: '194'
 s431_number_of_contracts_with_amendments: '15'
 s431_number_of_contracts_amendments_percentage: '8%'
 s432_mean_amendment_increase_percentage: '51%'
 s434_mean_number_of_amendments: '1.8'
 s433_total_amendment_increase_value: '-240.0M'
-s424_mean_duration: '0.46'
-s421_mean_contract_value: '1.9M'
+s424_mean_duration: '0.44'
+s421_mean_contract_value: '1.8M'
 s425_max_duration: '12.18'
 s422_max_contract_value: '126.4M'
 ---
@@ -90,6 +90,7 @@ s422_max_contract_value: '126.4M'
 - [LOGISTIKS UNICORP INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOGISTIKS%20UNICORP%20INC.%22)
 - [Logistik unicorp Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20unicorp%20Inc%22)
 - [logistik unicorps](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22logistik%20unicorps%22)
+- [Logistik unicorp inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Logistik%20unicorp%20inc%22)
 {{< /details >}}
 
 ## Departments and agencies

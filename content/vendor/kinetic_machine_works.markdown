@@ -1,7 +1,7 @@
 ---
 title: Kinetic Machine Works
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: kinetic_machine_works
 categories: []
 tags: []

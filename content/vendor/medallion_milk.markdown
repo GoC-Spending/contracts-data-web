@@ -1,7 +1,7 @@
 ---
 title: Medallion Milk
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: medallion_milk
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $627.3K
 lookup_name: 'MEDALLION MILK'
 most_recent_fiscal_year_total: '627.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '227'
+s431_number_of_contracts: '232'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: '0%'

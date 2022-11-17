@@ -1,7 +1,7 @@
 ---
 title: Lakeshore Helicopters
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: lakeshore_helicopters
 categories: []
 tags: []

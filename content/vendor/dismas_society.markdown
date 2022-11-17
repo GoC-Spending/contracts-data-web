@@ -1,7 +1,7 @@
 ---
 title: Dismas Society
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: dismas_society
 categories: []
 tags: []

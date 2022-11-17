@@ -1,7 +1,7 @@
 ---
 title: Aqua Guard Spill Response
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: aqua_guard_spill_response
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $956.9K
   in 2021-2022 on contracts with Aqua Guard Spill Response. The average
-  contract duration was 0.99 years, and the average contract value
-  (not including contracts under $10k) was $1.8M. The longest
+  contract duration was 0.9 years, and the average contract value
+  (not including contracts under $10k) was $1.4M. The longest
   contract was 1.54 years. The largest contract by value (including
   amendments) was $3.5M.
 lookup_name: 'AQUA GUARD SPILL RESPONSE'
 most_recent_fiscal_year_total: '956.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '4'
+s431_number_of_contracts: '5'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '50%'
+s431_number_of_contracts_amendments_percentage: '40%'
 s432_mean_amendment_increase_percentage: '82%'
 s434_mean_number_of_amendments: '4.5'
 s433_total_amendment_increase_value: '2.4M'
-s424_mean_duration: '0.99'
-s421_mean_contract_value: '1.8M'
+s424_mean_duration: '0.9'
+s421_mean_contract_value: '1.4M'
 s425_max_duration: '1.54'
 s422_max_contract_value: '3.5M'
 ---

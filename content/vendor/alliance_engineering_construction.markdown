@@ -1,7 +1,7 @@
 ---
 title: Alliance Engineering Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: alliance_engineering_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with Alliance Engineering Construction. The average
-  contract duration was 0.52 years, and the average contract value
-  (not including contracts under $10k) was $1.1M. The longest
+  contract duration was 0.54 years, and the average contract value
+  (not including contracts under $10k) was $1.0M. The longest
   contract was 1.21 years. The largest contract by value (including
   amendments) was $2.6M.
 lookup_name: 'ALLIANCE ENGINEERING CONSTRUCTION'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '7'
+s431_number_of_contracts: '8'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '29%'
+s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '26%'
 s434_mean_number_of_amendments: '2.5'
 s433_total_amendment_increase_value: '458.4K'
-s424_mean_duration: '0.52'
-s421_mean_contract_value: '1.1M'
+s424_mean_duration: '0.54'
+s421_mean_contract_value: '1.0M'
 s425_max_duration: '1.21'
 s422_max_contract_value: '2.6M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fdf Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: fdf_group
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $197.5K
   in 2021-2022 on contracts with Fdf Group. The average
-  contract duration was 0.18 years, and the average contract value
-  (not including contracts under $10k) was $41.7K. The longest
+  contract duration was 0.17 years, and the average contract value
+  (not including contracts under $10k) was $41.4K. The longest
   contract was 3.09 years. The largest contract by value (including
   amendments) was $1 000.0K.
 lookup_name: 'FDF GROUP'
 most_recent_fiscal_year_total: '197.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '89'
+s431_number_of_contracts: '91'
 s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '-8%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-18.1K'
-s424_mean_duration: '0.18'
-s421_mean_contract_value: '41.7K'
+s424_mean_duration: '0.17'
+s421_mean_contract_value: '41.4K'
 s425_max_duration: '3.09'
 s422_max_contract_value: '1 000.0K'
 ---

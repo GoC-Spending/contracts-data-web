@@ -1,7 +1,7 @@
 ---
 title: Pro Medical Industries
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: pro_medical_industries
 categories: []
 tags: []

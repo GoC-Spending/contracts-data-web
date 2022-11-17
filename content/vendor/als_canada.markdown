@@ -1,7 +1,7 @@
 ---
 title: ALS Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: als_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.9M
   in 2021-2022 on contracts with ALS Canada. The average
   contract duration was 0.69 years, and the average contract value
-  (not including contracts under $10k) was $102.6K. The longest
+  (not including contracts under $10k) was $98.7K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $6.3M.
 lookup_name: 'ALS CANADA'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '186'
+s431_number_of_contracts: '197'
 s431_number_of_contracts_with_amendments: '25'
 s431_number_of_contracts_amendments_percentage: '13%'
 s432_mean_amendment_increase_percentage: '37%'
 s434_mean_number_of_amendments: '1.28'
 s433_total_amendment_increase_value: '4.6M'
 s424_mean_duration: '0.69'
-s421_mean_contract_value: '102.6K'
+s421_mean_contract_value: '98.7K'
 s425_max_duration: '5'
 s422_max_contract_value: '6.3M'
 ---
@@ -67,7 +67,9 @@ s422_max_contract_value: '6.3M'
 - [ALS CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ALS%20CANADA%20INC%22)
 - [ALS Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ALS%20Canada%20Inc.%22)
 - [ALS Canada LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ALS%20Canada%20LTD%22)
+- [ALS Canada Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ALS%20Canada%20Inc%22)
 - [Als Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Als%20Canada%22)
+- [Als Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Als%20Canada%20Ltd%22)
 {{< /details >}}
 
 ## Departments and agencies

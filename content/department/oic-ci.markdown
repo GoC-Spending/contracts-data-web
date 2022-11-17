@@ -1,7 +1,7 @@
 ---
 title: Office of the Information Commissioner of Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: oic-ci
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: 'Office of the Information Commissioner of Canada spent an estimated $2.9M
   in 2021-2022 on contracts. The average contract duration
   was 1.04 years, and the average contract value (not including
-  contracts under $10k) was $101.4K. The longest contract was
+  contracts under $10k) was $100.4K. The longest contract was
   7.01 years. The largest contract by value (including amendments)
   was $1.9M.'
 lookup_name: 'oic-ci'
 most_recent_fiscal_year_total: '2.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '167'
-s431_number_of_contracts_with_amendments: '24'
-s431_number_of_contracts_amendments_percentage: '14%'
-s432_mean_amendment_increase_percentage: '182%'
-s434_mean_number_of_amendments: '1.71'
+s431_number_of_contracts: '170'
+s431_number_of_contracts_with_amendments: '25'
+s431_number_of_contracts_amendments_percentage: '15%'
+s432_mean_amendment_increase_percentage: '181%'
+s434_mean_number_of_amendments: '1.68'
 s433_total_amendment_increase_value: '4.6M'
 s424_mean_duration: '1.04'
-s421_mean_contract_value: '101.4K'
+s421_mean_contract_value: '100.4K'
 s425_max_duration: '7.01'
 s422_max_contract_value: '1.9M'
 ---

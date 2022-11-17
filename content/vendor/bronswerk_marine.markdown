@@ -1,7 +1,7 @@
 ---
 title: Bronswerk Marine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bronswerk_marine
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $3.2M
   in 2021-2022 on contracts with Bronswerk Marine. The average
-  contract duration was 1.09 years, and the average contract value
-  (not including contracts under $10k) was $1.1M. The longest
+  contract duration was 1.07 years, and the average contract value
+  (not including contracts under $10k) was $1.0M. The longest
   contract was 10.04 years. The largest contract by value (including
   amendments) was $20.2M.
 lookup_name: 'BRONSWERK MARINE'
 most_recent_fiscal_year_total: '3.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '57'
+s431_number_of_contracts: '59'
 s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '34%'
 s434_mean_number_of_amendments: '1.71'
 s433_total_amendment_increase_value: '-5.4M'
-s424_mean_duration: '1.09'
-s421_mean_contract_value: '1.1M'
+s424_mean_duration: '1.07'
+s421_mean_contract_value: '1.0M'
 s425_max_duration: '10.04'
 s422_max_contract_value: '20.2M'
 ---

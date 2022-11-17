@@ -1,7 +1,7 @@
 ---
 title: Controlled Environments
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: controlled_environments
 categories: []
 tags: []

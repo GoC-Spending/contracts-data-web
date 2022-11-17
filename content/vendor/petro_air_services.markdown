@@ -1,7 +1,7 @@
 ---
 title: Petro Air Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: petro_air_services
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $3.1M
   in 2021-2022 on contracts with Petro Air Services. The average
   contract duration was 0.58 years, and the average contract value
-  (not including contracts under $10k) was $350.0K. The longest
+  (not including contracts under $10k) was $335.2K. The longest
   contract was 3.16 years. The largest contract by value (including
   amendments) was $4.8M.
 lookup_name: 'PETRO AIR SERVICES'
 most_recent_fiscal_year_total: '3.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '37'
+s431_number_of_contracts: '39'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '413%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '887.7K'
 s424_mean_duration: '0.58'
-s421_mean_contract_value: '350.0K'
+s421_mean_contract_value: '335.2K'
 s425_max_duration: '3.16'
 s422_max_contract_value: '4.8M'
 ---
@@ -65,6 +65,7 @@ s422_max_contract_value: '4.8M'
 - [PETRO AIR SERVICES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETRO%20AIR%20SERVICES%20INC.%22)
 - [Petro Air Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Petro%20Air%20Services%22)
 - [PETRO AIR SERVICE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PETRO%20AIR%20SERVICE%22)
+- [petro air services inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22petro%20air%20services%20inc%22)
 {{< /details >}}
 
 ## Departments and agencies

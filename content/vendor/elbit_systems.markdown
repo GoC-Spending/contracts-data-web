@@ -1,7 +1,7 @@
 ---
 title: Elbit Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: elbit_systems
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $16.0M
   in 2021-2022 on contracts with Elbit Systems. The average
-  contract duration was 2.02 years, and the average contract value
-  (not including contracts under $10k) was $8.8M. The longest
+  contract duration was 1.82 years, and the average contract value
+  (not including contracts under $10k) was $7.5M. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $37.0M.
 lookup_name: 'ELBIT SYSTEMS'
 most_recent_fiscal_year_total: '16.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '11'
+s431_number_of_contracts: '13'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '9%'
+s431_number_of_contracts_amendments_percentage: '8%'
 s432_mean_amendment_increase_percentage: '31%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '8.7M'
-s424_mean_duration: '2.02'
-s421_mean_contract_value: '8.8M'
+s424_mean_duration: '1.82'
+s421_mean_contract_value: '7.5M'
 s425_max_duration: '5.01'
 s422_max_contract_value: '37.0M'
 ---
@@ -63,10 +63,10 @@ s422_max_contract_value: '37.0M'
 - [ELBIT SYSTEMS ELECTRO-OPTICS ELOP LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ELBIT%20SYSTEMS%20ELECTRO-OPTICS%20ELOP%20LTD%22)
 - [Elbit Systems Of America LLC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Elbit%20Systems%20Of%20America%20LLC%22)
 - [Elbit Systems Land and C4I Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Elbit%20Systems%20Land%20and%20C4I%20Ltd.%22)
+- [Elbit Systems of America](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Elbit%20Systems%20of%20America%22)
 - [Elbit Systems of America - Night Vision](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Elbit%20Systems%20of%20America%20-%20Night%20Vision%22)
 - [ELBIT OF AMERIA LLC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ELBIT%20OF%20AMERIA%20LLC%22)
 - [Elbit Systems Electro-Optics Elop Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Elbit%20Systems%20Electro-Optics%20Elop%20Ltd%22)
-- [Elbit Systems of America](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Elbit%20Systems%20of%20America%22)
 - [ELBIT SYSTEMS ELECTRO-OPTICS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ELBIT%20SYSTEMS%20ELECTRO-OPTICS%22)
 {{< /details >}}
 

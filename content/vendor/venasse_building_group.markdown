@@ -1,7 +1,7 @@
 ---
 title: Venasse Building Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: venasse_building_group
 categories: []
 tags: []

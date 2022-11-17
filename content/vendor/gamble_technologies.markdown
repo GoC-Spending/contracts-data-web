@@ -1,7 +1,7 @@
 ---
 title: Gamble Technologies
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gamble_technologies
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.0M
   in 2021-2022 on contracts with Gamble Technologies. The average
   contract duration was 0.5 years, and the average contract value
-  (not including contracts under $10k) was $122.5K. The longest
+  (not including contracts under $10k) was $117.4K. The longest
   contract was 3.28 years. The largest contract by value (including
   amendments) was $1.7M.
 lookup_name: 'GAMBLE TECHNOLOGIES'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '57'
+s431_number_of_contracts: '60'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '9%'
+s431_number_of_contracts_amendments_percentage: '8%'
 s432_mean_amendment_increase_percentage: '72%'
 s434_mean_number_of_amendments: '1.8'
 s433_total_amendment_increase_value: '1.3M'
 s424_mean_duration: '0.5'
-s421_mean_contract_value: '122.5K'
+s421_mean_contract_value: '117.4K'
 s425_max_duration: '3.28'
 s422_max_contract_value: '1.7M'
 ---

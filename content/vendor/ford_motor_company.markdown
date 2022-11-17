@@ -1,7 +1,7 @@
 ---
 title: Ford Motor Company
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ford_motor_company
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $90.1M
   in 2021-2022 on contracts with Ford Motor Company. The average
-  contract duration was 0.5 years, and the average contract value
-  (not including contracts under $10k) was $195.2K. The longest
+  contract duration was 0.51 years, and the average contract value
+  (not including contracts under $10k) was $190.9K. The longest
   contract was 10.38 years. The largest contract by value (including
   amendments) was $5.0M.
 lookup_name: 'FORD MOTOR COMPANY'
 most_recent_fiscal_year_total: '90.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1,900'
-s431_number_of_contracts_with_amendments: '213'
+s431_number_of_contracts: '1,975'
+s431_number_of_contracts_with_amendments: '219'
 s431_number_of_contracts_amendments_percentage: '11%'
-s432_mean_amendment_increase_percentage: '28%'
-s434_mean_number_of_amendments: '1.42'
+s432_mean_amendment_increase_percentage: '27%'
+s434_mean_number_of_amendments: '1.43'
 s433_total_amendment_increase_value: '8.4M'
-s424_mean_duration: '0.5'
-s421_mean_contract_value: '195.2K'
+s424_mean_duration: '0.51'
+s421_mean_contract_value: '190.9K'
 s425_max_duration: '10.38'
 s422_max_contract_value: '5.0M'
 ---
@@ -87,6 +87,7 @@ s422_max_contract_value: '5.0M'
 - [FORD MOTOR COMPANY OF CANADA LIMITED FORD DU CANADA LIMITEE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FORD%20MOTOR%20COMPANY%20OF%20CANADA%20LIMITED%20FORD%20DU%20CANADA%20LIMITEE%22)
 - [Ford Motor Company of Canada Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Company%20of%20Canada%20Inc.%22)
 - [Ford Motor Company Of Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Company%20Of%20Canada%20Ltd%22)
+- [Ford Motor Company Of Canada,](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Company%20Of%20Canada%2c%22)
 - [Ford Motor Compnay of Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Compnay%20of%20Canada%22)
 - [Ford Motor Companyof Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Companyof%20Canada%22)
 - [Ford Motor Company of canada Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Company%20of%20canada%20Ltd.%22)
@@ -116,7 +117,6 @@ s422_max_contract_value: '5.0M'
 - [Ford Motor Compagny of Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Compagny%20of%20Canada%22)
 - [FORD MOTOR CO. OF CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FORD%20MOTOR%20CO.%20OF%20CANADA%20LTD.%22)
 - [FORD MOTOR COMPAMY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FORD%20MOTOR%20COMPAMY%22)
-- [Ford Motor Company Of Canada,](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20Company%20Of%20Canada%2c%22)
 - [FORD MOTOR COMPANY OF CANADA ATTN: JACKIE - PAYROLL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FORD%20MOTOR%20COMPANY%20OF%20CANADA%20ATTN%3a%20JACKIE%20-%20PAYROLL%22)
 - [Ford Motor COMPANY OF CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Motor%20COMPANY%20OF%20CANADA%22)
 - [Ford Credit Canada Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ford%20Credit%20Canada%20Limited%22)

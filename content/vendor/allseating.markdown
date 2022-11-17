@@ -1,7 +1,7 @@
 ---
 title: Allseating
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: allseating
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Allseating. The average
   contract duration was 0.27 years, and the average contract value
-  (not including contracts under $10k) was $51.3K. The longest
+  (not including contracts under $10k) was $50.8K. The longest
   contract was 2.05 years. The largest contract by value (including
   amendments) was $578.4K.
 lookup_name: 'ALLSEATING'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '79'
+s431_number_of_contracts: '80'
 s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '5%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '3.8K'
 s424_mean_duration: '0.27'
-s421_mean_contract_value: '51.3K'
+s421_mean_contract_value: '50.8K'
 s425_max_duration: '2.05'
 s422_max_contract_value: '578.4K'
 ---

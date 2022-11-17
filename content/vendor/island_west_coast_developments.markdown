@@ -1,7 +1,7 @@
 ---
 title: Island West Coast Developments
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: island_west_coast_developments
 categories: []
 tags: []

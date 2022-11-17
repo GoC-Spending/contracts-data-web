@@ -1,7 +1,7 @@
 ---
 title: Bremner Engineering and Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bremner_engineering_and_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2020-2021 on contracts with Bremner Engineering and Construction. The average
-  contract duration was 0.6 years, and the average contract value
-  (not including contracts under $10k) was $744.9K. The longest
+  contract duration was 0.59 years, and the average contract value
+  (not including contracts under $10k) was $642.0K. The longest
   contract was 2.52 years. The largest contract by value (including
   amendments) was $3.1M.
 lookup_name: 'BREMNER ENGINEERING AND CONSTRUCTION'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts: '6'
+s431_number_of_contracts: '7'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '33%'
+s431_number_of_contracts_amendments_percentage: '29%'
 s432_mean_amendment_increase_percentage: '10%'
 s434_mean_number_of_amendments: '2.5'
 s433_total_amendment_increase_value: '100.2K'
-s424_mean_duration: '0.6'
-s421_mean_contract_value: '744.9K'
+s424_mean_duration: '0.59'
+s421_mean_contract_value: '642.0K'
 s425_max_duration: '2.52'
 s422_max_contract_value: '3.1M'
 ---

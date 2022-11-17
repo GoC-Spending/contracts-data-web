@@ -1,7 +1,7 @@
 ---
 title: Fts Forest Technology Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: fts_forest_technology_systems
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $554.5K
   in 2021-2022 on contracts with Fts Forest Technology Systems. The average
-  contract duration was 0.24 years, and the average contract value
-  (not including contracts under $10k) was $44.9K. The longest
+  contract duration was 0.25 years, and the average contract value
+  (not including contracts under $10k) was $46.0K. The longest
   contract was 1.19 years. The largest contract by value (including
   amendments) was $266.3K.
 lookup_name: 'FTS FOREST TECHNOLOGY SYSTEMS'
 most_recent_fiscal_year_total: '554.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '87'
+s431_number_of_contracts: '92'
 s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '0%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '0.0'
-s424_mean_duration: '0.24'
-s421_mean_contract_value: '44.9K'
+s424_mean_duration: '0.25'
+s421_mean_contract_value: '46.0K'
 s425_max_duration: '1.19'
 s422_max_contract_value: '266.3K'
 ---

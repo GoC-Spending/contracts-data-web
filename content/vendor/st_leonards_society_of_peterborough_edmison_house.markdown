@@ -1,7 +1,7 @@
 ---
 title: St Leonards Society of Peterborough Edmison House
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: st_leonards_society_of_peterborough_edmison_house
 categories: []
 tags: []

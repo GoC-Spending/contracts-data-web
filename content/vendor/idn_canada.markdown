@@ -1,7 +1,7 @@
 ---
 title: Idn Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: idn_canada
 categories: []
 tags: []
@@ -12,21 +12,21 @@ r_init: |-
 description: The Government of Canada spent an estimated $494.4K
   in 2021-2022 on contracts with Idn Canada. The average
   contract duration was 0.13 years, and the average contract value
-  (not including contracts under $10k) was $38.6K. The longest
-  contract was 0.41 years. The largest contract by value (including
+  (not including contracts under $10k) was $39.0K. The longest
+  contract was 0.56 years. The largest contract by value (including
   amendments) was $149.9K.
 lookup_name: 'IDN CANADA'
 most_recent_fiscal_year_total: '494.4K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '78'
+s431_number_of_contracts: '81'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
 s424_mean_duration: '0.13'
-s421_mean_contract_value: '38.6K'
-s425_max_duration: '0.41'
+s421_mean_contract_value: '39.0K'
+s425_max_duration: '0.56'
 s422_max_contract_value: '149.9K'
 ---
 

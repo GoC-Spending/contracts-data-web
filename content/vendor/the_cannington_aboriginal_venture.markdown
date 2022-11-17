@@ -1,7 +1,7 @@
 ---
 title: The Cannington Aboriginal Venture
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: the_cannington_aboriginal_venture
 categories: []
 tags: []

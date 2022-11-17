@@ -1,7 +1,7 @@
 ---
 title: McGregor Geoscience
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mcgregor_geoscience
 categories: []
 tags: []

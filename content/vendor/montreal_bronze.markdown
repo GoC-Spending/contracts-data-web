@@ -1,7 +1,7 @@
 ---
 title: Montreal Bronze
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: montreal_bronze
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Montreal Bronze. The average
-  contract duration was 0.45 years, and the average contract value
-  (not including contracts under $10k) was $116.1K. The longest
+  contract duration was 0.46 years, and the average contract value
+  (not including contracts under $10k) was $127.1K. The longest
   contract was 1 years. The largest contract by value (including
-  amendments) was $508.2K.
+  amendments) was $582.7K.
 lookup_name: 'MONTREAL BRONZE'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '44'
+s431_number_of_contracts: '47'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.45'
-s421_mean_contract_value: '116.1K'
+s424_mean_duration: '0.46'
+s421_mean_contract_value: '127.1K'
 s425_max_duration: '1'
-s422_max_contract_value: '508.2K'
+s422_max_contract_value: '582.7K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

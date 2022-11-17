@@ -1,7 +1,7 @@
 ---
 title: Corcan
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: corcan
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $966.4K
   in 2021-2022 on contracts with Corcan. The average
-  contract duration was 0.48 years, and the average contract value
-  (not including contracts under $10k) was $64.0K. The longest
+  contract duration was 0.46 years, and the average contract value
+  (not including contracts under $10k) was $62.8K. The longest
   contract was 9.58 years. The largest contract by value (including
   amendments) was $325.8K.
 lookup_name: 'CORCAN'
 most_recent_fiscal_year_total: '966.4K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '31'
+s431_number_of_contracts: '32'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '10%'
+s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '-18%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-12.6K'
-s424_mean_duration: '0.48'
-s421_mean_contract_value: '64.0K'
+s424_mean_duration: '0.46'
+s421_mean_contract_value: '62.8K'
 s425_max_duration: '9.58'
 s422_max_contract_value: '325.8K'
 ---

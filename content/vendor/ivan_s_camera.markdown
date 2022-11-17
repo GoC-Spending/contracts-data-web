@@ -1,7 +1,7 @@
 ---
 title: Ivan S Camera
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ivan_s_camera
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Ivan S Camera. The average
   contract duration was 0.22 years, and the average contract value
-  (not including contracts under $10k) was $45.8K. The longest
+  (not including contracts under $10k) was $45.4K. The longest
   contract was 1.38 years. The largest contract by value (including
   amendments) was $396.5K.
 lookup_name: 'IVAN S CAMERA'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '184'
+s431_number_of_contracts: '187'
 s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '6%'
 s432_mean_amendment_increase_percentage: '2%'
 s434_mean_number_of_amendments: '1.36'
 s433_total_amendment_increase_value: '14.6K'
 s424_mean_duration: '0.22'
-s421_mean_contract_value: '45.8K'
+s421_mean_contract_value: '45.4K'
 s425_max_duration: '1.38'
 s422_max_contract_value: '396.5K'
 ---

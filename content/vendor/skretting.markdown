@@ -1,7 +1,7 @@
 ---
 title: Skretting
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: skretting
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $804.8K
   in 2021-2022 on contracts with Skretting. The average
-  contract duration was 0.25 years, and the average contract value
-  (not including contracts under $10k) was $28.1K. The longest
+  contract duration was 0.26 years, and the average contract value
+  (not including contracts under $10k) was $27.6K. The longest
   contract was 1.01 years. The largest contract by value (including
   amendments) was $86.9K.
 lookup_name: 'SKRETTING'
 most_recent_fiscal_year_total: '804.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '118'
+s431_number_of_contracts: '123'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '3%'
+s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '-9%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-10.5K'
-s424_mean_duration: '0.25'
-s421_mean_contract_value: '28.1K'
+s424_mean_duration: '0.26'
+s421_mean_contract_value: '27.6K'
 s425_max_duration: '1.01'
 s422_max_contract_value: '86.9K'
 ---

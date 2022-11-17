@@ -1,7 +1,7 @@
 ---
 title: Intercon Marine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: intercon_marine
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $11.4K
   in 2021-2022 on contracts with Intercon Marine. The average
-  contract duration was 0.51 years, and the average contract value
-  (not including contracts under $10k) was $351.9K. The longest
+  contract duration was 0.48 years, and the average contract value
+  (not including contracts under $10k) was $339.1K. The longest
   contract was 3.05 years. The largest contract by value (including
   amendments) was $2.7M.
 lookup_name: 'INTERCON MARINE'
 most_recent_fiscal_year_total: '11.4K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '21'
+s431_number_of_contracts: '23'
 s431_number_of_contracts_with_amendments: '12'
-s431_number_of_contracts_amendments_percentage: '57%'
+s431_number_of_contracts_amendments_percentage: '52%'
 s432_mean_amendment_increase_percentage: '181%'
 s434_mean_number_of_amendments: '1.58'
 s433_total_amendment_increase_value: '3.7M'
-s424_mean_duration: '0.51'
-s421_mean_contract_value: '351.9K'
+s424_mean_duration: '0.48'
+s421_mean_contract_value: '339.1K'
 s425_max_duration: '3.05'
 s422_max_contract_value: '2.7M'
 ---

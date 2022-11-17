@@ -1,7 +1,7 @@
 ---
 title: Grand Toy
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: grand_toy
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Grand Toy. The average
   contract duration was 0.22 years, and the average contract value
-  (not including contracts under $10k) was $32.3K. The longest
+  (not including contracts under $10k) was $32.1K. The longest
   contract was 6.01 years. The largest contract by value (including
   amendments) was $2.3M.
 lookup_name: 'GRAND TOY'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '389'
+s431_number_of_contracts: '395'
 s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '28%'
 s434_mean_number_of_amendments: '1.21'
 s433_total_amendment_increase_value: '161.1K'
 s424_mean_duration: '0.22'
-s421_mean_contract_value: '32.3K'
+s421_mean_contract_value: '32.1K'
 s425_max_duration: '6.01'
 s422_max_contract_value: '2.3M'
 ---
@@ -75,6 +75,7 @@ s422_max_contract_value: '2.3M'
 - [Grand&Toy](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Grand%26Toy%22)
 - [Grand & Toy Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Grand%20%26%20Toy%20Ltd.%22)
 - [grand & toy ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22grand%20%26%20toy%20ltd%22)
+- [Grand & toy](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Grand%20%26%20toy%22)
 - [GRAND &TOY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GRAND%20%26TOY%22)
 - [GRAND&TOY LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GRAND%26TOY%20LIMITED%22)
 - [GRAND&TOY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GRAND%26TOY%22)

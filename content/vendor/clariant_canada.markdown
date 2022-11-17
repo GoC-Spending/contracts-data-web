@@ -1,7 +1,7 @@
 ---
 title: Clariant Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: clariant_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.1M
   in 2021-2022 on contracts with Clariant Canada. The average
   contract duration was 0.1 years, and the average contract value
-  (not including contracts under $10k) was $45.1K. The longest
+  (not including contracts under $10k) was $45.3K. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $123.7K.
 lookup_name: 'CLARIANT CANADA'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '126'
+s431_number_of_contracts: '131'
 s431_number_of_contracts_with_amendments: '8'
 s431_number_of_contracts_amendments_percentage: '6%'
 s432_mean_amendment_increase_percentage: '1%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '4.5K'
 s424_mean_duration: '0.1'
-s421_mean_contract_value: '45.1K'
+s421_mean_contract_value: '45.3K'
 s425_max_duration: '1'
 s422_max_contract_value: '123.7K'
 ---

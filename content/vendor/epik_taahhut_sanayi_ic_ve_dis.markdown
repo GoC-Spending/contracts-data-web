@@ -1,7 +1,7 @@
 ---
 title: Epik Taahhut Sanayi Ic Ve Dis
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: epik_taahhut_sanayi_ic_ve_dis
 categories: []
 tags: []

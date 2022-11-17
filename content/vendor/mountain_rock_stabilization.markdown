@@ -1,7 +1,7 @@
 ---
 title: Mountain Rock Stabilization
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mountain_rock_stabilization
 categories: []
 tags: []

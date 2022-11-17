@@ -1,7 +1,7 @@
 ---
 title: Sigma Safety
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sigma_safety
 categories: []
 tags: []

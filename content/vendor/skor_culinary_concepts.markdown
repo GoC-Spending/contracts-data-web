@@ -1,7 +1,7 @@
 ---
 title: Skor Culinary Concepts
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: skor_culinary_concepts
 categories: []
 tags: []

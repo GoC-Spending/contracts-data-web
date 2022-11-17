@@ -1,7 +1,7 @@
 ---
 title: Elite Environmental Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: elite_environmental_group
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Elite Environmental Group. The average
-  contract duration was 0.42 years, and the average contract value
-  (not including contracts under $10k) was $37.2K. The longest
+  contract duration was 0.43 years, and the average contract value
+  (not including contracts under $10k) was $36.1K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $307.0K.
 lookup_name: 'ELITE ENVIRONMENTAL GROUP'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '113'
+s431_number_of_contracts: '120'
 s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '88%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '125.0K'
-s424_mean_duration: '0.42'
-s421_mean_contract_value: '37.2K'
+s424_mean_duration: '0.43'
+s421_mean_contract_value: '36.1K'
 s425_max_duration: '2'
 s422_max_contract_value: '307.0K'
 ---

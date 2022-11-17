@@ -1,7 +1,7 @@
 ---
 title: D Doyle Installations
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: d_doyle_installations
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $969.6K
 lookup_name: 'D DOYLE INSTALLATIONS'
 most_recent_fiscal_year_total: '969.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '172'
+s431_number_of_contracts: '178'
 s431_number_of_contracts_with_amendments: '16'
 s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '125%'

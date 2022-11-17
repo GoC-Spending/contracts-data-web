@@ -1,7 +1,7 @@
 ---
 title: Canada France Hawaii Telescope
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: canada_france_hawaii_telescope
 categories: []
 tags: []

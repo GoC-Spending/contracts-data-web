@@ -1,7 +1,7 @@
 ---
 title: Sani Sport
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sani_sport
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $538.2K
   in 2021-2022 on contracts with Sani Sport. The average
-  contract duration was 0.3 years, and the average contract value
-  (not including contracts under $10k) was $73.4K. The longest
+  contract duration was 0.29 years, and the average contract value
+  (not including contracts under $10k) was $72.0K. The longest
   contract was 0.94 years. The largest contract by value (including
   amendments) was $988.6K.
 lookup_name: 'SANI SPORT'
 most_recent_fiscal_year_total: '538.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '34'
+s431_number_of_contracts: '35'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '222%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '313.5K'
-s424_mean_duration: '0.3'
-s421_mean_contract_value: '73.4K'
+s424_mean_duration: '0.29'
+s421_mean_contract_value: '72.0K'
 s425_max_duration: '0.94'
 s422_max_contract_value: '988.6K'
 ---

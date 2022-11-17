@@ -1,7 +1,7 @@
 ---
 title: Asokan Business Interiors
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: asokan_business_interiors
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.8M
   in 2021-2022 on contracts with Asokan Business Interiors. The average
   contract duration was 0.41 years, and the average contract value
-  (not including contracts under $10k) was $56.9K. The longest
+  (not including contracts under $10k) was $56.7K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $2.7M.
 lookup_name: 'ASOKAN BUSINESS INTERIORS'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '324'
+s431_number_of_contracts: '337'
 s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '12%'
 s434_mean_number_of_amendments: '2.08'
 s433_total_amendment_increase_value: '1.2M'
 s424_mean_duration: '0.41'
-s421_mean_contract_value: '56.9K'
+s421_mean_contract_value: '56.7K'
 s425_max_duration: '10.01'
 s422_max_contract_value: '2.7M'
 ---
@@ -57,8 +57,8 @@ s422_max_contract_value: '2.7M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [ASOKAN BUSINESS INTERIORS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ASOKAN%20BUSINESS%20INTERIORS%20INC.%22)
 - [Asokan Business Interiors](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Asokan%20Business%20Interiors%22)
-- [ASOKAN BUSINESS INTERIORS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ASOKAN%20BUSINESS%20INTERIORS%20INC%22)
 - [ASOKAN BUSINESS INTERIORS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ASOKAN%20BUSINESS%20INTERIORS%22)
+- [ASOKAN BUSINESS INTERIORS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ASOKAN%20BUSINESS%20INTERIORS%20INC%22)
 - [Asokan Business Interiors /](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Asokan%20Business%20Interiors%20%2f%22)
 - [Asokan Business Interiors Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Asokan%20Business%20Interiors%20Inc.%22)
 - [ASOKAN Business Interiors](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ASOKAN%20Business%20Interiors%22)

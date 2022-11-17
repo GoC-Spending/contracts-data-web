@@ -1,7 +1,7 @@
 ---
 title: J P Gravel Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: j_p_gravel_construction
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $244.9K
   in 2021-2022 on contracts with J P Gravel Construction. The average
   contract duration was 0.48 years, and the average contract value
-  (not including contracts under $10k) was $542.9K. The longest
+  (not including contracts under $10k) was $582.7K. The longest
   contract was 1.53 years. The largest contract by value (including
   amendments) was $2.9M.
 lookup_name: 'J P GRAVEL CONSTRUCTION'
 most_recent_fiscal_year_total: '244.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '11'
+s431_number_of_contracts: '13'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '55%'
+s431_number_of_contracts_amendments_percentage: '46%'
 s432_mean_amendment_increase_percentage: '13%'
 s434_mean_number_of_amendments: '1.83'
 s433_total_amendment_increase_value: '474.6K'
 s424_mean_duration: '0.48'
-s421_mean_contract_value: '542.9K'
+s421_mean_contract_value: '582.7K'
 s425_max_duration: '1.53'
 s422_max_contract_value: '2.9M'
 ---
@@ -59,6 +59,7 @@ s422_max_contract_value: '2.9M'
 - [J P GRAVEL CONSTRUCTION INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J%20P%20GRAVEL%20CONSTRUCTION%20INC.%22)
 - [J.P GRAVEL CONSTRUCTION INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J.P%20GRAVEL%20CONSTRUCTION%20INC%22)
 - [J P Gravel Construction Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J%20P%20Gravel%20Construction%20Inc.%22)
+- [J.P. Gravel Construction Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22J.P.%20Gravel%20Construction%20Inc.%22)
 {{< /details >}}
 
 ## Departments and agencies

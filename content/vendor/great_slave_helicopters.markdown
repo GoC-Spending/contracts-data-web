@@ -1,7 +1,7 @@
 ---
 title: Great Slave Helicopters
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: great_slave_helicopters
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $3.0M
   in 2021-2022 on contracts with Great Slave Helicopters. The average
-  contract duration was 0.52 years, and the average contract value
-  (not including contracts under $10k) was $140.4K. The longest
+  contract duration was 0.5 years, and the average contract value
+  (not including contracts under $10k) was $131.1K. The longest
   contract was 6.06 years. The largest contract by value (including
   amendments) was $3.5M.
 lookup_name: 'GREAT SLAVE HELICOPTERS'
 most_recent_fiscal_year_total: '3.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '184'
+s431_number_of_contracts: '209'
 s431_number_of_contracts_with_amendments: '20'
-s431_number_of_contracts_amendments_percentage: '11%'
+s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '76%'
 s434_mean_number_of_amendments: '1.55'
 s433_total_amendment_increase_value: '6.7M'
-s424_mean_duration: '0.52'
-s421_mean_contract_value: '140.4K'
+s424_mean_duration: '0.5'
+s421_mean_contract_value: '131.1K'
 s425_max_duration: '6.06'
 s422_max_contract_value: '3.5M'
 ---
@@ -57,11 +57,11 @@ s422_max_contract_value: '3.5M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [GREAT SLAVE HELICOPTERS 2018 LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTERS%202018%20LTD.%22)
 - [GREAT SLAVE HELICOPTERS LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTERS%20LTD.%22)
+- [Great Slave Helicopters 2018 Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Great%20Slave%20Helicopters%202018%20Ltd.%22)
 - [Great Slave Helicopters](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Great%20Slave%20Helicopters%22)
 - [GREAT SLAVE HELICOPTERS LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTERS%20LTD%22)
 - [Great Slave Helicopters 2018 Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Great%20Slave%20Helicopters%202018%20Ltd%22)
 - [GREAT LAKES HELICOPTER CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20LAKES%20HELICOPTER%20CORPORATION%22)
-- [Great Slave Helicopters 2018 Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Great%20Slave%20Helicopters%202018%20Ltd.%22)
 - [GREAT SLAVE HELICOPTERS 2018 LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTERS%202018%20LTD%22)
 - [GREAT SLAVE HELICOPTERS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTERS%22)
 - [GREAT SLAVE HELICOPTER LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GREAT%20SLAVE%20HELICOPTER%20LTD%22)

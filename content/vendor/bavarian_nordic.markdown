@@ -1,7 +1,7 @@
 ---
 title: Bavarian Nordic
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bavarian_nordic
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: University of Manitoba
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: university_of_manitoba
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $884.2K
   in 2021-2022 on contracts with University of Manitoba. The average
-  contract duration was 0.71 years, and the average contract value
-  (not including contracts under $10k) was $62.6K. The longest
+  contract duration was 0.73 years, and the average contract value
+  (not including contracts under $10k) was $63.9K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $585.5K.
 lookup_name: 'UNIVERSITY OF MANITOBA'
 most_recent_fiscal_year_total: '884.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '63'
+s431_number_of_contracts: '66'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '100%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '25.9K'
-s424_mean_duration: '0.71'
-s421_mean_contract_value: '62.6K'
+s424_mean_duration: '0.73'
+s421_mean_contract_value: '63.9K'
 s425_max_duration: '7.01'
 s422_max_contract_value: '585.5K'
 ---

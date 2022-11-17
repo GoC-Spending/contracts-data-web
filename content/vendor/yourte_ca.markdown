@@ -1,7 +1,7 @@
 ---
 title: Yourte Ca
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: yourte_ca
 categories: []
 tags: []

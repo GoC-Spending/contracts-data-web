@@ -1,7 +1,7 @@
 ---
 title: Madsen Diesel Turbine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: madsen_diesel_turbine
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.1M
   in 2021-2022 on contracts with Madsen Diesel Turbine. The average
-  contract duration was 0.21 years, and the average contract value
-  (not including contracts under $10k) was $48.6K. The longest
+  contract duration was 0.22 years, and the average contract value
+  (not including contracts under $10k) was $47.7K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $969.7K.
 lookup_name: 'MADSEN DIESEL TURBINE'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '256'
+s431_number_of_contracts: '263'
 s431_number_of_contracts_with_amendments: '18'
 s431_number_of_contracts_amendments_percentage: '7%'
 s432_mean_amendment_increase_percentage: '103%'
 s434_mean_number_of_amendments: '1.11'
 s433_total_amendment_increase_value: '1.4M'
-s424_mean_duration: '0.21'
-s421_mean_contract_value: '48.6K'
+s424_mean_duration: '0.22'
+s421_mean_contract_value: '47.7K'
 s425_max_duration: '2'
 s422_max_contract_value: '969.7K'
 ---

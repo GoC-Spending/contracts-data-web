@@ -1,7 +1,7 @@
 ---
 title: World University Consortium
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: world_university_consortium
 categories: []
 tags: []

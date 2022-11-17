@@ -1,7 +1,7 @@
 ---
 title: Correctional Services of Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: correctional_services_of_canada
 categories: []
 tags: []
@@ -11,22 +11,22 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.9M
   in 2020-2021 on contracts with Correctional Services of Canada. The average
-  contract duration was 0.14 years, and the average contract value
-  (not including contracts under $10k) was $140.5K. The longest
-  contract was 0.35 years. The largest contract by value (including
+  contract duration was 0.17 years, and the average contract value
+  (not including contracts under $10k) was $152.6K. The longest
+  contract was 0.54 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'CORRECTIONAL SERVICES OF CANADA'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts: '20'
+s431_number_of_contracts: '22'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '5%'
 s432_mean_amendment_increase_percentage: '-20%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-19.9K'
-s424_mean_duration: '0.14'
-s421_mean_contract_value: '140.5K'
-s425_max_duration: '0.35'
+s424_mean_duration: '0.17'
+s421_mean_contract_value: '152.6K'
+s425_max_duration: '0.54'
 s422_max_contract_value: '1.1M'
 ---
 

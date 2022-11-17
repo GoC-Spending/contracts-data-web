@@ -1,7 +1,7 @@
 ---
 title: Gateway Mechanical Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gateway_mechanical_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $438.8K
   in 2021-2022 on contracts with Gateway Mechanical Services. The average
-  contract duration was 0.49 years, and the average contract value
-  (not including contracts under $10k) was $110.7K. The longest
+  contract duration was 0.48 years, and the average contract value
+  (not including contracts under $10k) was $104.7K. The longest
   contract was 4.25 years. The largest contract by value (including
   amendments) was $8.0M.
 lookup_name: 'GATEWAY MECHANICAL SERVICES'
 most_recent_fiscal_year_total: '438.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '108'
-s431_number_of_contracts_with_amendments: '13'
+s431_number_of_contracts: '115'
+s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '12%'
-s432_mean_amendment_increase_percentage: '22%'
-s434_mean_number_of_amendments: '1.77'
+s432_mean_amendment_increase_percentage: '21%'
+s434_mean_number_of_amendments: '1.71'
 s433_total_amendment_increase_value: '2.4M'
-s424_mean_duration: '0.49'
-s421_mean_contract_value: '110.7K'
+s424_mean_duration: '0.48'
+s421_mean_contract_value: '104.7K'
 s425_max_duration: '4.25'
 s422_max_contract_value: '8.0M'
 ---

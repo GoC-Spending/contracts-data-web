@@ -1,7 +1,7 @@
 ---
 title: Graphic Office Interior
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: graphic_office_interior
 categories: []
 tags: []

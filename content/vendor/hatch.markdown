@@ -1,7 +1,7 @@
 ---
 title: Hatch
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hatch
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Hatch. The average
-  contract duration was 1.77 years, and the average contract value
-  (not including contracts under $10k) was $423.1K. The longest
+  contract duration was 1.72 years, and the average contract value
+  (not including contracts under $10k) was $422.6K. The longest
   contract was 14.05 years. The largest contract by value (including
   amendments) was $6.7M.
 lookup_name: 'HATCH'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '23'
+s431_number_of_contracts: '24'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '13%'
+s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '106%'
 s434_mean_number_of_amendments: '3'
 s433_total_amendment_increase_value: '4.9M'
-s424_mean_duration: '1.77'
-s421_mean_contract_value: '423.1K'
+s424_mean_duration: '1.72'
+s421_mean_contract_value: '422.6K'
 s425_max_duration: '14.05'
 s422_max_contract_value: '6.7M'
 ---
@@ -57,8 +57,8 @@ s422_max_contract_value: '6.7M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [HATCH LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HATCH%20LTD%22)
 - [Hatch Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Hatch%20Ltd%22)
-- [HATCH CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HATCH%20CORPORATION%22)
 - [Hatch Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Hatch%20Ltd.%22)
+- [HATCH CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HATCH%20CORPORATION%22)
 - [Hatch Corporation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Hatch%20Corporation%22)
 - [HATCH](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HATCH%22)
 - [HATCH LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HATCH%20LTD.%22)

@@ -1,7 +1,7 @@
 ---
 title: SNC Lavalin
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: snc_lavalin
 categories: []
 tags: []
@@ -9,23 +9,23 @@ images:
   - /img/cover.png
 r_init: |-
   
-description: The Government of Canada spent an estimated $85.0M
+description: The Government of Canada spent an estimated $85.4M
   in 2021-2022 on contracts with SNC Lavalin. The average
   contract duration was 1.24 years, and the average contract value
-  (not including contracts under $10k) was $2.3M. The longest
+  (not including contracts under $10k) was $2.2M. The longest
   contract was 11.98 years. The largest contract by value (including
   amendments) was $760.8M.
 lookup_name: 'SNC LAVALIN'
-most_recent_fiscal_year_total: '85.0M'
+most_recent_fiscal_year_total: '85.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '599'
-s431_number_of_contracts_with_amendments: '203'
-s431_number_of_contracts_amendments_percentage: '34%'
-s432_mean_amendment_increase_percentage: '141%'
-s434_mean_number_of_amendments: '2.01'
-s433_total_amendment_increase_value: '560.1M'
+s431_number_of_contracts: '636'
+s431_number_of_contracts_with_amendments: '208'
+s431_number_of_contracts_amendments_percentage: '33%'
+s432_mean_amendment_increase_percentage: '138%'
+s434_mean_number_of_amendments: '2.05'
+s433_total_amendment_increase_value: '561.9M'
 s424_mean_duration: '1.24'
-s421_mean_contract_value: '2.3M'
+s421_mean_contract_value: '2.2M'
 s425_max_duration: '11.98'
 s422_max_contract_value: '760.8M'
 ---
@@ -124,9 +124,11 @@ s422_max_contract_value: '760.8M'
 - [SNC LAVALIN INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC%20LAVALIN%20INC%22)
 - [SNC-LAVALIN WIIBE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-LAVALIN%20WIIBE%22)
 - [SNC-LAVALIN INC, ENVIRONMENTAL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-LAVALIN%20INC%2c%20ENVIRONMENTAL%22)
+- [Snc-Lavalin Grands Projets Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Snc-Lavalin%20Grands%20Projets%20Inc.%22)
 - [SNC - Lavalin](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC%20-%20Lavalin%22)
 - [SNC-LAVALIN GEM QUEBEC INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-LAVALIN%20GEM%20QUEBEC%20INC.%22)
 - [SNC-LAVALIN ENVIRONMENT INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-LAVALIN%20ENVIRONMENT%20INC.%22)
+- [SNC-Lavalin inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-Lavalin%20inc.%22)
 - [SNC-Lavalin (Fredericton)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-Lavalin%20%28Fredericton%29%22)
 - [SNC-Lavalin Inc. (Montreal)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-Lavalin%20Inc.%20%28Montreal%29%22)
 - [SNC-Lavalin Inc. (Burnaby, BC)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-Lavalin%20Inc.%20%28Burnaby%2c%20BC%29%22)
@@ -136,6 +138,7 @@ s422_max_contract_value: '760.8M'
 - [SNC Lavallin](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC%20Lavallin%22)
 - [SNC-LAVALIN PROFAC INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-LAVALIN%20PROFAC%20INC%22)
 - [SNC LAVALIN O&M](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC%20LAVALIN%20O%26M%22)
+- [SNC - LAVALIN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC%20-%20LAVALIN%22)
 - [SNC LAvalin](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC%20LAvalin%22)
 - [SNC LAVALIN PROFAC INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC%20LAVALIN%20PROFAC%20INC.%22)
 - [SNC-LAVALIN OPERATIONS & MAINTENANCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SNC-LAVALIN%20OPERATIONS%20%26%20MAINTENANCE%22)
@@ -192,7 +195,7 @@ s422_max_contract_value: '760.8M'
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/aandc-aadnc/\">Crown-Indigenous Relations and Northern Affairs Canada<\/a>","<a href=\"/departments/cer-rec/\">Canada Energy Regulator<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/ic/\">Innovation, Science and Economic Development Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[null,113326.93,47411.52,16950,null,279288.07,95892343.98,392711.09,26477.36,76370.6,486111.38,0,3078681.85,15315367.89,31500,334376.66],[11772.87,340809.74,21721.3,10229.62,43945.7,2486427.59,66092220.85,1496019.71,37860.43,53150.32,491672.08,0,2841992.28,13889114.47,null,176304.07],[null,370845.07,16320.65,null,153662.72,272034.33,66609604.46,1417783.11,69407.42,null,79969.2,0,1935296.1,14837632.39,24373.66,227889.47],[null,131907.3,null,null,204709.77,975955.76,67271889.27,415854.13,79146.61,null,141895.79,null,1778988.15,13943252.44,null,20251.86]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/aandc-aadnc/\">Crown-Indigenous Relations and Northern Affairs Canada<\/a>","<a href=\"/departments/cer-rec/\">Canada Energy Regulator<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/ic/\">Innovation, Science and Economic Development Canada<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[null,113326.93,47411.52,16950,null,279288.07,95903881.01,392711.09,26477.36,76370.6,486111.38,0,2990175,15145846.2,31500,334376.66],[11772.87,340809.74,21721.3,10229.62,43945.7,2486427.59,66025693.9,1496019.71,37860.43,53150.32,491672.08,0,2753242.94,13723506.21,null,176304.07],[null,370845.07,16320.65,null,153662.72,272034.33,66623612.54,1417783.11,69407.42,null,79969.2,0,2043894.68,14792515.51,24373.66,227889.47],[null,131907.3,null,null,204709.77,975955.76,67455249.44,415854.13,79146.61,null,141895.79,null,1826502.5,14152923.19,null,20251.86]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/snc_lavalin/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
 </p>
@@ -200,7 +203,7 @@ s422_max_contract_value: '760.8M'
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/security_and_protection/\">Security and protection<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[79636741.25,34274818.52,73160.64,17724,14373.6,2074099.33,null],[81632975.03,6339174.62,0,21091.4,0,null,null],[78621304.85,7371885.93,0,10045.3,null,null,11582.5],[77601620.34,7154586.88,50499.75,94144.1,null,63000,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/security_and_protection/\">Security and protection<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[79390249.75,34274818.52,73160.64,17724,14373.6,2074099.33,null],[81308041.02,6343224.08,0,21091.4,0,null,null],[78614902.65,7455777.91,0,10045.3,null,null,11582.5],[77703370.52,7493381.97,50499.75,94144.1,null,63000,null]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/snc_lavalin/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

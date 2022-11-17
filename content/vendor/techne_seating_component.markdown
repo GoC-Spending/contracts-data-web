@@ -1,7 +1,7 @@
 ---
 title: Techne Seating Component
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: techne_seating_component
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $1.3M
 lookup_name: 'TECHNE SEATING COMPONENT'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '87'
+s431_number_of_contracts: '88'
 s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '81%'

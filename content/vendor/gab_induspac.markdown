@@ -1,7 +1,7 @@
 ---
 title: GAB Induspac
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gab_induspac
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with GAB Induspac. The average
   contract duration was 0.09 years, and the average contract value
-  (not including contracts under $10k) was $22.8K. The longest
+  (not including contracts under $10k) was $22.9K. The longest
   contract was 0.82 years. The largest contract by value (including
   amendments) was $98.1K.
 lookup_name: 'GAB INDUSPAC'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '236'
+s431_number_of_contracts: '241'
 s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '1%'
 s432_mean_amendment_increase_percentage: '14%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '4.2K'
 s424_mean_duration: '0.09'
-s421_mean_contract_value: '22.8K'
+s421_mean_contract_value: '22.9K'
 s425_max_duration: '0.82'
 s422_max_contract_value: '98.1K'
 ---
@@ -58,6 +58,7 @@ s422_max_contract_value: '98.1K'
 - [GAB Induspac](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GAB%20Induspac%22)
 - [Gab Induspac](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gab%20Induspac%22)
 - [GAB INDUSPAC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GAB%20INDUSPAC%22)
+- [GABindusPAC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GABindusPAC%22)
 - [Gab-Induspac](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gab-Induspac%22)
 - [gab-Induspac](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22gab-Induspac%22)
 - [GAB-INDUSPAC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GAB-INDUSPAC%22)

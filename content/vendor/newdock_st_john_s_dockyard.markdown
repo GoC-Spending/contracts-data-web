@@ -1,7 +1,7 @@
 ---
 title: Newdock St John’s Dockyard
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: newdock_st_john_s_dockyard
 categories: []
 tags: []
@@ -11,20 +11,20 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $11.7M
   in 2021-2022 on contracts with Newdock St John’s Dockyard. The average
-  contract duration was 0.19 years, and the average contract value
+  contract duration was 0.22 years, and the average contract value
   (not including contracts under $10k) was $2.6M. The longest
   contract was 1.55 years. The largest contract by value (including
   amendments) was $22.8M.
 lookup_name: 'NEWDOCK ST JOHN S DOCKYARD'
 most_recent_fiscal_year_total: '11.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '37'
+s431_number_of_contracts: '40'
 s431_number_of_contracts_with_amendments: '31'
-s431_number_of_contracts_amendments_percentage: '84%'
+s431_number_of_contracts_amendments_percentage: '78%'
 s432_mean_amendment_increase_percentage: '53%'
 s434_mean_number_of_amendments: '1.61'
 s433_total_amendment_increase_value: '36.1M'
-s424_mean_duration: '0.19'
+s424_mean_duration: '0.22'
 s421_mean_contract_value: '2.6M'
 s425_max_duration: '1.55'
 s422_max_contract_value: '22.8M'
@@ -58,6 +58,7 @@ s422_max_contract_value: '22.8M'
 - [NEWDOCK, ST. JOHN’S DOCKYARD LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEWDOCK%2c%20ST.%20JOHN%27S%20DOCKYARD%20LIMITED%22)
 - [NEWDOCK, ST. JOHN’S DOCKYARD LIMITE D](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEWDOCK%2c%20ST.%20JOHN%27S%20DOCKYARD%20LIMITE%20D%22)
 - [NEWDOCK, ST. JOHN’S DOCKYARD LIMITE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEWDOCK%2c%20ST.%20JOHN%27S%20DOCKYARD%20LIMITE%22)
+- [NEWDOCK, ST. JOHN’S DOCKYARD LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEWDOCK%2c%20ST.%20JOHN%27S%20DOCKYARD%20LTD%22)
 - [ST. JOHN’S DOCKYARD LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ST.%20JOHN%27S%20DOCKYARD%20LIMITED%22)
 - [St John’s Dockyard Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St%20John%27s%20Dockyard%20Limited%22)
 - [ST JOHN’S DOCKYARD LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ST%20JOHN%27S%20DOCKYARD%20LIMITED%22)

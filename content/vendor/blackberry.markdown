@@ -1,7 +1,7 @@
 ---
 title: Blackberry
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: blackberry
 categories: []
 tags: []
@@ -11,7 +11,7 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $6.8M
   in 2021-2022 on contracts with Blackberry. The average
-  contract duration was 0.93 years, and the average contract value
+  contract duration was 0.92 years, and the average contract value
   (not including contracts under $10k) was $409.5K. The longest
   contract was 3.27 years. The largest contract by value (including
   amendments) was $12.0M.
@@ -19,17 +19,27 @@ lookup_name: 'BLACKBERRY'
 most_recent_fiscal_year_total: '6.8M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '102'
-s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '7%'
-s432_mean_amendment_increase_percentage: '42%'
+s431_number_of_contracts_with_amendments: '8'
+s431_number_of_contracts_amendments_percentage: '8%'
+s432_mean_amendment_increase_percentage: '37%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '1.5M'
-s424_mean_duration: '0.93'
+s424_mean_duration: '0.92'
 s421_mean_contract_value: '409.5K'
 s425_max_duration: '3.27'
 s422_max_contract_value: '12.0M'
 ---
 
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
@@ -68,6 +78,7 @@ s422_max_contract_value: '12.0M'
 - [BLACKBERRY LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BLACKBERRY%20LTD%22)
 - [RESEARCH IN MOTION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RESEARCH%20IN%20MOTION%22)
 - [Research In Motion Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Research%20In%20Motion%20Ltd.%22)
+- [Blackberry Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Blackberry%20Ltd%22)
 - [Blackberry](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Blackberry%22)
 - [BLACKBERRY WORLD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BLACKBERRY%20WORLD%22)
 - [Research in Motion LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Research%20in%20Motion%20LTD%22)
@@ -87,4 +98,10 @@ s422_max_contract_value: '12.0M'
 <script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>"],[32205.69,5426.05,3572374.11],[51011.15,19024.66,5365727],[207626.1,15820,8025528.95],[285517.5,null,6518072.2]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/blackberry/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
+</p>
+<h2>Information technology subcategories</h2>
+<div id="htmlwidget-3" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/it_subcategories/it_consulting_services/\">IT consulting services<\/a>","<a href=\"/it_subcategories/it_other/\">Other IT (incl. telecommunications)<\/a>","<a href=\"/it_subcategories/it_software_licensing/\">IT software licensing<\/a>"],[66834.19,1477638.46,2027901.46],[750446.54,3877864.28,737416.19],[2124784.52,4724253.89,1176490.54],[364888.43,416162.9,5737020.87]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>IT subcategory<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/blackberry/summary_by_fiscal_year_by_it_subcategory.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

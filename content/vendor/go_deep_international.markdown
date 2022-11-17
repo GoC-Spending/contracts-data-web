@@ -1,7 +1,7 @@
 ---
 title: Go Deep International
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: go_deep_international
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $1.9M
 lookup_name: 'GO DEEP INTERNATIONAL'
 most_recent_fiscal_year_total: '1.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '128'
+s431_number_of_contracts: '129'
 s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '5%'
 s432_mean_amendment_increase_percentage: '-1%'

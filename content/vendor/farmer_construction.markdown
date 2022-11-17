@@ -1,7 +1,7 @@
 ---
 title: Farmer Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: farmer_construction
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with Farmer Construction. The average
   contract duration was 0.45 years, and the average contract value
-  (not including contracts under $10k) was $60.9K. The longest
+  (not including contracts under $10k) was $60.3K. The longest
   contract was 1.77 years. The largest contract by value (including
   amendments) was $5.5M.
 lookup_name: 'FARMER CONSTRUCTION'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '189'
-s431_number_of_contracts_with_amendments: '16'
-s431_number_of_contracts_amendments_percentage: '8%'
-s432_mean_amendment_increase_percentage: '14%'
-s434_mean_number_of_amendments: '1.44'
-s433_total_amendment_increase_value: '224.2K'
+s431_number_of_contracts: '196'
+s431_number_of_contracts_with_amendments: '17'
+s431_number_of_contracts_amendments_percentage: '9%'
+s432_mean_amendment_increase_percentage: '16%'
+s434_mean_number_of_amendments: '1.41'
+s433_total_amendment_increase_value: '249.2K'
 s424_mean_duration: '0.45'
-s421_mean_contract_value: '60.9K'
+s421_mean_contract_value: '60.3K'
 s425_max_duration: '1.77'
 s422_max_contract_value: '5.5M'
 ---
@@ -58,12 +58,12 @@ s422_max_contract_value: '5.5M'
 - [Farmer Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Construction%20Ltd.%22)
 - [FARMER CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FARMER%20CONSTRUCTION%20LTD.%22)
 - [Farmer Construction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Construction%22)
+- [Farmer Construction Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Construction%20Ltd%22)
 - [Farmer Construction LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Construction%20LTD%22)
 - [FARMER CONSTRUCTION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FARMER%20CONSTRUCTION%22)
 - [Farmer construction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20construction%22)
 - [Farmer construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20construction%20Ltd.%22)
 - [Farmer Constuction](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Constuction%22)
-- [Farmer Construction Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Construction%20Ltd%22)
 - [Farmer Construction LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Construction%20LTD.%22)
 - [Farmer Constrution Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Constrution%20Ltd%22)
 - [Farmer Construction ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Farmer%20Construction%20ltd.%22)

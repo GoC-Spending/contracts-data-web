@@ -1,7 +1,7 @@
 ---
 title: Institute On Governance
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: institute_on_governance
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Institute On Governance. The average
-  contract duration was 0.47 years, and the average contract value
-  (not including contracts under $10k) was $30.6K. The longest
+  contract duration was 0.48 years, and the average contract value
+  (not including contracts under $10k) was $30.2K. The longest
   contract was 2.22 years. The largest contract by value (including
   amendments) was $279.6K.
 lookup_name: 'INSTITUTE ON GOVERNANCE'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '180'
+s431_number_of_contracts: '188'
 s431_number_of_contracts_with_amendments: '14'
-s431_number_of_contracts_amendments_percentage: '8%'
+s431_number_of_contracts_amendments_percentage: '7%'
 s432_mean_amendment_increase_percentage: '24%'
 s434_mean_number_of_amendments: '1.07'
 s433_total_amendment_increase_value: '328.2K'
-s424_mean_duration: '0.47'
-s421_mean_contract_value: '30.6K'
+s424_mean_duration: '0.48'
+s421_mean_contract_value: '30.2K'
 s425_max_duration: '2.22'
 s422_max_contract_value: '279.6K'
 ---

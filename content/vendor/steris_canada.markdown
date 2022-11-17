@@ -1,7 +1,7 @@
 ---
 title: STERIS Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: steris_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.2M
   in 2021-2022 on contracts with STERIS Canada. The average
   contract duration was 1.13 years, and the average contract value
-  (not including contracts under $10k) was $83.6K. The longest
+  (not including contracts under $10k) was $83.1K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $1.7M.
 lookup_name: 'STERIS CANADA'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '100'
+s431_number_of_contracts: '104'
 s431_number_of_contracts_with_amendments: '15'
-s431_number_of_contracts_amendments_percentage: '15%'
+s431_number_of_contracts_amendments_percentage: '14%'
 s432_mean_amendment_increase_percentage: '86%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '488.4K'
 s424_mean_duration: '1.13'
-s421_mean_contract_value: '83.6K'
+s421_mean_contract_value: '83.1K'
 s425_max_duration: '5'
 s422_max_contract_value: '1.7M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Bulldog Contracting
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bulldog_contracting
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with Bulldog Contracting. The average
-  contract duration was 0.46 years, and the average contract value
-  (not including contracts under $10k) was $773.4K. The longest
+  contract duration was 0.42 years, and the average contract value
+  (not including contracts under $10k) was $699.7K. The longest
   contract was 1.51 years. The largest contract by value (including
   amendments) was $2.2M.
 lookup_name: 'BULLDOG CONTRACTING'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '9'
+s431_number_of_contracts: '10'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '33%'
+s431_number_of_contracts_amendments_percentage: '30%'
 s432_mean_amendment_increase_percentage: '157%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '1.5M'
-s424_mean_duration: '0.46'
-s421_mean_contract_value: '773.4K'
+s424_mean_duration: '0.42'
+s421_mean_contract_value: '699.7K'
 s425_max_duration: '1.51'
 s422_max_contract_value: '2.2M'
 ---

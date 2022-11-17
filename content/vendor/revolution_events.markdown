@@ -1,7 +1,7 @@
 ---
 title: Revolution Events
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: revolution_events
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Revolution Events. The average
-  contract duration was 0.13 years, and the average contract value
-  (not including contracts under $10k) was $29.2K. The longest
+  contract duration was 0.12 years, and the average contract value
+  (not including contracts under $10k) was $28.2K. The longest
   contract was 0.5 years. The largest contract by value (including
   amendments) was $105.0K.
 lookup_name: 'REVOLUTION EVENTS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '80'
-s431_number_of_contracts_with_amendments: '3'
+s431_number_of_contracts: '89'
+s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '4%'
-s432_mean_amendment_increase_percentage: '4%'
+s432_mean_amendment_increase_percentage: '3%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '1.1K'
-s424_mean_duration: '0.13'
-s421_mean_contract_value: '29.2K'
+s424_mean_duration: '0.12'
+s421_mean_contract_value: '28.2K'
 s425_max_duration: '0.5'
 s422_max_contract_value: '105.0K'
 ---

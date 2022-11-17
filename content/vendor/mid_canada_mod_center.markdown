@@ -1,7 +1,7 @@
 ---
 title: Mid Canada Mod Center
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mid_canada_mod_center
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.2M
   in 2021-2022 on contracts with Mid Canada Mod Center. The average
   contract duration was 0.04 years, and the average contract value
-  (not including contracts under $10k) was $39.7K. The longest
+  (not including contracts under $10k) was $39.0K. The longest
   contract was 1.34 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'MID CANADA MOD CENTER'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '115'
+s431_number_of_contracts: '124'
 s431_number_of_contracts_with_amendments: '18'
-s431_number_of_contracts_amendments_percentage: '16%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '14%'
 s434_mean_number_of_amendments: '1.11'
 s433_total_amendment_increase_value: '489.9K'
 s424_mean_duration: '0.04'
-s421_mean_contract_value: '39.7K'
+s421_mean_contract_value: '39.0K'
 s425_max_duration: '1.34'
 s422_max_contract_value: '1.1M'
 ---

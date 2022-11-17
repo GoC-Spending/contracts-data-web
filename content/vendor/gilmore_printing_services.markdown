@@ -1,7 +1,7 @@
 ---
 title: Gilmore Printing Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gilmore_printing_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $9.1K
   in 2021-2022 on contracts with Gilmore Printing Services. The average
-  contract duration was 0.83 years, and the average contract value
-  (not including contracts under $10k) was $92.7K. The longest
+  contract duration was 0.81 years, and the average contract value
+  (not including contracts under $10k) was $87.8K. The longest
   contract was 5.17 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'GILMORE PRINTING SERVICES'
 most_recent_fiscal_year_total: '9.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '41'
+s431_number_of_contracts: '44'
 s431_number_of_contracts_with_amendments: '8'
-s431_number_of_contracts_amendments_percentage: '20%'
+s431_number_of_contracts_amendments_percentage: '18%'
 s432_mean_amendment_increase_percentage: '76%'
 s434_mean_number_of_amendments: '1.75'
 s433_total_amendment_increase_value: '184.9K'
-s424_mean_duration: '0.83'
-s421_mean_contract_value: '92.7K'
+s424_mean_duration: '0.81'
+s421_mean_contract_value: '87.8K'
 s425_max_duration: '5.17'
 s422_max_contract_value: '1.1M'
 ---

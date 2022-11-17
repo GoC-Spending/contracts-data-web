@@ -1,7 +1,7 @@
 ---
 title: Pylon Electronics
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: pylon_electronics
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Safe Face Shields
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: safe_face_shields
 categories: []
 tags: []

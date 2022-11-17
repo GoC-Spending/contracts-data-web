@@ -1,7 +1,7 @@
 ---
 title: Blue Collar Silviculture
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: blue_collar_silviculture
 categories: []
 tags: []

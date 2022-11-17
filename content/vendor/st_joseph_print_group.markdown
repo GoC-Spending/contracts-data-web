@@ -1,7 +1,7 @@
 ---
 title: St Joseph Print Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: st_joseph_print_group
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with St Joseph Print Group. The average
-  contract duration was 0.64 years, and the average contract value
-  (not including contracts under $10k) was $98.8K. The longest
+  contract duration was 0.63 years, and the average contract value
+  (not including contracts under $10k) was $97.9K. The longest
   contract was 9.1 years. The largest contract by value (including
   amendments) was $5.7M.
 lookup_name: 'ST JOSEPH PRINT GROUP'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '146'
-s431_number_of_contracts_with_amendments: '18'
-s431_number_of_contracts_amendments_percentage: '12%'
-s432_mean_amendment_increase_percentage: '78%'
-s434_mean_number_of_amendments: '1.33'
+s431_number_of_contracts: '150'
+s431_number_of_contracts_with_amendments: '19'
+s431_number_of_contracts_amendments_percentage: '13%'
+s432_mean_amendment_increase_percentage: '82%'
+s434_mean_number_of_amendments: '1.32'
 s433_total_amendment_increase_value: '4.4M'
-s424_mean_duration: '0.64'
-s421_mean_contract_value: '98.8K'
+s424_mean_duration: '0.63'
+s421_mean_contract_value: '97.9K'
 s425_max_duration: '9.1'
 s422_max_contract_value: '5.7M'
 ---
@@ -92,9 +92,9 @@ s422_max_contract_value: '5.7M'
 - [St. Joseph print group](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St.%20Joseph%20print%20group%22)
 - [St Joseph Print Group INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St%20Joseph%20Print%20Group%20INC%22)
 - [St. Joseph Print Group Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St.%20Joseph%20Print%20Group%20Inc%22)
+- [ST JOSEPH PRINT GROUP INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ST%20JOSEPH%20PRINT%20GROUP%20INC%22)
 - [St Joseph print group inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St%20Joseph%20print%20group%20inc%22)
 - [St-Joseph print group inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22St-Joseph%20print%20group%20inc%22)
-- [ST JOSEPH PRINT GROUP INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ST%20JOSEPH%20PRINT%20GROUP%20INC%22)
 {{< /details >}}
 
 ## Departments and agencies

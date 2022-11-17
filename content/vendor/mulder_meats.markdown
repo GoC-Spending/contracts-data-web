@@ -1,7 +1,7 @@
 ---
 title: Mulder Meats
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mulder_meats
 categories: []
 tags: []
@@ -12,21 +12,21 @@ r_init: |-
 description: The Government of Canada spent an estimated $299.2K
   in 2021-2022 on contracts with Mulder Meats. The average
   contract duration was 0 years, and the average contract value
-  (not including contracts under $10k) was $17.9K. The longest
-  contract was 0 years. The largest contract by value (including
+  (not including contracts under $10k) was $17.7K. The longest
+  contract was 0.01 years. The largest contract by value (including
   amendments) was $100.0K.
 lookup_name: 'MULDER MEATS'
 most_recent_fiscal_year_total: '299.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '147'
+s431_number_of_contracts: '176'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
 s424_mean_duration: '0'
-s421_mean_contract_value: '17.9K'
-s425_max_duration: '0'
+s421_mean_contract_value: '17.7K'
+s425_max_duration: '0.01'
 s422_max_contract_value: '100.0K'
 ---
 

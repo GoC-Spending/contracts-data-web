@@ -1,7 +1,7 @@
 ---
 title: Kongsberg
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: kongsberg
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $6.2M
   in 2021-2022 on contracts with Kongsberg. The average
-  contract duration was 0.41 years, and the average contract value
-  (not including contracts under $10k) was $397.8K. The longest
+  contract duration was 0.42 years, and the average contract value
+  (not including contracts under $10k) was $386.9K. The longest
   contract was 4.58 years. The largest contract by value (including
   amendments) was $17.8M.
 lookup_name: 'KONGSBERG'
 most_recent_fiscal_year_total: '6.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '111'
+s431_number_of_contracts: '116'
 s431_number_of_contracts_with_amendments: '12'
-s431_number_of_contracts_amendments_percentage: '11%'
+s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '43%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '308.2K'
-s424_mean_duration: '0.41'
-s421_mean_contract_value: '397.8K'
+s424_mean_duration: '0.42'
+s421_mean_contract_value: '386.9K'
 s425_max_duration: '4.58'
 s422_max_contract_value: '17.8M'
 ---

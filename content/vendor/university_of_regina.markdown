@@ -1,7 +1,7 @@
 ---
 title: University of Regina
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: university_of_regina
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.8M
   in 2021-2022 on contracts with University of Regina. The average
   contract duration was 0.54 years, and the average contract value
-  (not including contracts under $10k) was $386.8K. The longest
+  (not including contracts under $10k) was $376.9K. The longest
   contract was 4.85 years. The largest contract by value (including
   amendments) was $12.5M.
 lookup_name: 'UNIVERSITY OF REGINA'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '35'
+s431_number_of_contracts: '36'
 s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '6%'
 s432_mean_amendment_increase_percentage: '53%'
 s434_mean_number_of_amendments: '1.5'
 s433_total_amendment_increase_value: '2.5M'
 s424_mean_duration: '0.54'
-s421_mean_contract_value: '386.8K'
+s421_mean_contract_value: '376.9K'
 s425_max_duration: '4.85'
 s422_max_contract_value: '12.5M'
 ---

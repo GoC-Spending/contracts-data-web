@@ -1,7 +1,7 @@
 ---
 title: Integrated Distribution Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: integrated_distribution_systems
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $275.8K
   in 2021-2022 on contracts with Integrated Distribution Systems. The average
-  contract duration was 0.86 years, and the average contract value
-  (not including contracts under $10k) was $431.3K. The longest
+  contract duration was 0.9 years, and the average contract value
+  (not including contracts under $10k) was $394.4K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $10.3M.
 lookup_name: 'INTEGRATED DISTRIBUTION SYSTEMS'
 most_recent_fiscal_year_total: '275.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '29'
+s431_number_of_contracts: '33'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '17%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '139%'
 s434_mean_number_of_amendments: '1.2'
 s433_total_amendment_increase_value: '172.4K'
-s424_mean_duration: '0.86'
-s421_mean_contract_value: '431.3K'
+s424_mean_duration: '0.9'
+s421_mean_contract_value: '394.4K'
 s425_max_duration: '3'
 s422_max_contract_value: '10.3M'
 ---
@@ -59,9 +59,12 @@ s422_max_contract_value: '10.3M'
 - [Integrated Distribution Systems o/a Wajax](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Integrated%20Distribution%20Systems%20o%2fa%20Wajax%22)
 - [INTEGRATED DISTRIBUTION SYSTEMS LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22INTEGRATED%20DISTRIBUTION%20SYSTEMS%20LTD%22)
 - [INTEGRATED DISTRIBUTION SYSTEMS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22INTEGRATED%20DISTRIBUTION%20SYSTEMS%22)
+- [INTEGRATED DISTRIBUTION SYSTEMS LP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22INTEGRATED%20DISTRIBUTION%20SYSTEMS%20LP%22)
 - [INTEGRATED DISTRIBUTION SYSTEMS LIM](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22INTEGRATED%20DISTRIBUTION%20SYSTEMS%20LIM%22)
 - [Integrated Distribution Systems Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Integrated%20Distribution%20Systems%20Ltd%22)
 - [intgegrated Distribution Systems Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22intgegrated%20Distribution%20Systems%20Ltd%22)
+- [Integrated Distribution Systems LP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Integrated%20Distribution%20Systems%20LP%22)
+- [INTEGRATED DISTRIBUTION SYSTEMS LP O/A WAJAX](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22INTEGRATED%20DISTRIBUTION%20SYSTEMS%20LP%20O%2fA%20WAJAX%22)
 - [Integrated Distribution Systems](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Integrated%20Distribution%20Systems%22)
 - [Intergrated Distribution Systems](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Intergrated%20Distribution%20Systems%22)
 {{< /details >}}

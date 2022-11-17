@@ -1,7 +1,7 @@
 ---
 title: Okanagan Aggregates
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: okanagan_aggregates
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $6.7M
   in 2021-2022 on contracts with Okanagan Aggregates. The average
-  contract duration was 0.78 years, and the average contract value
-  (not including contracts under $10k) was $4.5M. The longest
+  contract duration was 0.77 years, and the average contract value
+  (not including contracts under $10k) was $4.4M. The longest
   contract was 3.59 years. The largest contract by value (including
   amendments) was $29.9M.
 lookup_name: 'OKANAGAN AGGREGATES'
 most_recent_fiscal_year_total: '6.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '24'
+s431_number_of_contracts: '25'
 s431_number_of_contracts_with_amendments: '16'
-s431_number_of_contracts_amendments_percentage: '67%'
+s431_number_of_contracts_amendments_percentage: '64%'
 s432_mean_amendment_increase_percentage: '17%'
 s434_mean_number_of_amendments: '2.06'
 s433_total_amendment_increase_value: '14.7M'
-s424_mean_duration: '0.78'
-s421_mean_contract_value: '4.5M'
+s424_mean_duration: '0.77'
+s421_mean_contract_value: '4.4M'
 s425_max_duration: '3.59'
 s422_max_contract_value: '29.9M'
 ---

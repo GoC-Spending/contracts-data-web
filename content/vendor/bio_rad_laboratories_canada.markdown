@@ -1,7 +1,7 @@
 ---
 title: Bio Rad Laboratories Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bio_rad_laboratories_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $972.3K
   in 2021-2022 on contracts with Bio Rad Laboratories Canada. The average
-  contract duration was 0.27 years, and the average contract value
-  (not including contracts under $10k) was $34.5K. The longest
+  contract duration was 0.28 years, and the average contract value
+  (not including contracts under $10k) was $34.6K. The longest
   contract was 3.11 years. The largest contract by value (including
   amendments) was $293.2K.
 lookup_name: 'BIO RAD LABORATORIES CANADA'
 most_recent_fiscal_year_total: '972.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '145'
+s431_number_of_contracts: '149'
 s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '1%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '20.1K'
-s424_mean_duration: '0.27'
-s421_mean_contract_value: '34.5K'
+s424_mean_duration: '0.28'
+s421_mean_contract_value: '34.6K'
 s425_max_duration: '3.11'
 s422_max_contract_value: '293.2K'
 ---
@@ -59,10 +59,10 @@ s422_max_contract_value: '293.2K'
 - [BIO-RAD LABORATORIES( CANADA) LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%28%20CANADA%29%20LTD.%22)
 - [BIO-RAD LABORATORIES (CANADA) LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%20%28CANADA%29%20LTD%22)
 - [Bio-Rad Laboratories (Canada) Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bio-Rad%20Laboratories%20%28Canada%29%20Ltd.%22)
+- [BIO-RAD LABORATORIES CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%20CANADA%20LTD%22)
 - [Bio Rad Laboratories (Canada) Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bio%20Rad%20Laboratories%20%28Canada%29%20Ltd%22)
 - [BIO-RAD LABORATORIES CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%20CANADA%20LTD.%22)
 - [BIO-RAD LABORATORIES (CANADA)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%20%28CANADA%29%22)
-- [BIO-RAD LABORATORIES CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%20CANADA%20LTD%22)
 - [BIO-RAD LABORATORIES(CANADA) LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%28CANADA%29%20LTD.%22)
 - [BIO-RAD LABORATORIES CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BIO-RAD%20LABORATORIES%20CANADA%22)
 - [Bio-Rad Laboratories Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bio-Rad%20Laboratories%20Canada%20Ltd%22)

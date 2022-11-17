@@ -1,7 +1,7 @@
 ---
 title: Totem Offisource
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: totem_offisource
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.8M
   in 2021-2022 on contracts with Totem Offisource. The average
   contract duration was 0.31 years, and the average contract value
-  (not including contracts under $10k) was $85.0K. The longest
+  (not including contracts under $10k) was $82.2K. The longest
   contract was 2.05 years. The largest contract by value (including
   amendments) was $3.4M.
 lookup_name: 'TOTEM OFFISOURCE'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '373'
+s431_number_of_contracts: '390'
 s431_number_of_contracts_with_amendments: '24'
 s431_number_of_contracts_amendments_percentage: '6%'
 s432_mean_amendment_increase_percentage: '22%'
 s434_mean_number_of_amendments: '1.25'
 s433_total_amendment_increase_value: '-1.8M'
 s424_mean_duration: '0.31'
-s421_mean_contract_value: '85.0K'
+s421_mean_contract_value: '82.2K'
 s425_max_duration: '2.05'
 s422_max_contract_value: '3.4M'
 ---

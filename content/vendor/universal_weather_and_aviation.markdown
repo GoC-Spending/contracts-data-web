@@ -1,7 +1,7 @@
 ---
 title: Universal Weather and Aviation
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: universal_weather_and_aviation
 categories: []
 tags: []

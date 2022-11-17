@@ -1,7 +1,7 @@
 ---
 title: Tsi
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: tsi
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $716.3K
   in 2021-2022 on contracts with Tsi. The average
-  contract duration was 0.31 years, and the average contract value
-  (not including contracts under $10k) was $88.9K. The longest
+  contract duration was 0.3 years, and the average contract value
+  (not including contracts under $10k) was $86.0K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $366.8K.
 lookup_name: 'TSI'
 most_recent_fiscal_year_total: '716.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '39'
+s431_number_of_contracts: '41'
 s431_number_of_contracts_with_amendments: '2'
 s431_number_of_contracts_amendments_percentage: '5%'
 s432_mean_amendment_increase_percentage: '9%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-84.2K'
-s424_mean_duration: '0.31'
-s421_mean_contract_value: '88.9K'
+s424_mean_duration: '0.3'
+s421_mean_contract_value: '86.0K'
 s425_max_duration: '3'
 s422_max_contract_value: '366.8K'
 ---

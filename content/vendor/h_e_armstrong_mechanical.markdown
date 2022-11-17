@@ -1,7 +1,7 @@
 ---
 title: H E Armstrong Mechanical
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: h_e_armstrong_mechanical
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $572.4K
   in 2021-2022 on contracts with H E Armstrong Mechanical. The average
-  contract duration was 0.37 years, and the average contract value
-  (not including contracts under $10k) was $44.7K. The longest
+  contract duration was 0.38 years, and the average contract value
+  (not including contracts under $10k) was $45.2K. The longest
   contract was 1.01 years. The largest contract by value (including
   amendments) was $861.9K.
 lookup_name: 'H E ARMSTRONG MECHANICAL'
 most_recent_fiscal_year_total: '572.4K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '117'
+s431_number_of_contracts: '122'
 s431_number_of_contracts_with_amendments: '12'
 s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '32%'
 s434_mean_number_of_amendments: '1.08'
 s433_total_amendment_increase_value: '115.9K'
-s424_mean_duration: '0.37'
-s421_mean_contract_value: '44.7K'
+s424_mean_duration: '0.38'
+s421_mean_contract_value: '45.2K'
 s425_max_duration: '1.01'
 s422_max_contract_value: '861.9K'
 ---
@@ -68,6 +68,7 @@ s422_max_contract_value: '861.9K'
 - [H.E. Armstrong Mechanical LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22H.E.%20Armstrong%20Mechanical%20LTD%22)
 - [H. E. Armstrong Mechanical Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22H.%20E.%20Armstrong%20Mechanical%20Ltd%22)
 - [H E Armstrong Mechanical LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22H%20E%20Armstrong%20Mechanical%20LTD%22)
+- [H.E.. Armstrong Mechanical Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22H.E..%20Armstrong%20Mechanical%20Ltd%22)
 - [H.E Armstrong mechanical ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22H.E%20Armstrong%20mechanical%20ltd%22)
 {{< /details >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Nammo Perry
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: nammo_perry
 categories: []
 tags: []

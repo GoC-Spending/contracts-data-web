@@ -1,7 +1,7 @@
 ---
 title: Heavy Metal Marine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: heavy_metal_marine
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with Heavy Metal Marine. The average
-  contract duration was 0.57 years, and the average contract value
-  (not including contracts under $10k) was $520.6K. The longest
+  contract duration was 0.55 years, and the average contract value
+  (not including contracts under $10k) was $572.7K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $2.7M.
 lookup_name: 'HEAVY METAL MARINE'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '26'
+s431_number_of_contracts: '27'
 s431_number_of_contracts_with_amendments: '10'
-s431_number_of_contracts_amendments_percentage: '38%'
+s431_number_of_contracts_amendments_percentage: '37%'
 s432_mean_amendment_increase_percentage: '64%'
 s434_mean_number_of_amendments: '1.7'
 s433_total_amendment_increase_value: '4.3M'
-s424_mean_duration: '0.57'
-s421_mean_contract_value: '520.6K'
+s424_mean_duration: '0.55'
+s421_mean_contract_value: '572.7K'
 s425_max_duration: '5.01'
 s422_max_contract_value: '2.7M'
 ---

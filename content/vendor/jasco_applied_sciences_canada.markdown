@@ -1,7 +1,7 @@
 ---
 title: JASCO Applied Sciences Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: jasco_applied_sciences_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $4.7M
   in 2021-2022 on contracts with JASCO Applied Sciences Canada. The average
   contract duration was 0.48 years, and the average contract value
-  (not including contracts under $10k) was $290.4K. The longest
+  (not including contracts under $10k) was $279.8K. The longest
   contract was 4.85 years. The largest contract by value (including
   amendments) was $8.2M.
 lookup_name: 'JASCO APPLIED SCIENCES CANADA'
 most_recent_fiscal_year_total: '4.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '71'
+s431_number_of_contracts: '77'
 s431_number_of_contracts_with_amendments: '12'
-s431_number_of_contracts_amendments_percentage: '17%'
+s431_number_of_contracts_amendments_percentage: '16%'
 s432_mean_amendment_increase_percentage: '43%'
 s434_mean_number_of_amendments: '1.92'
 s433_total_amendment_increase_value: '-1.0M'
 s424_mean_duration: '0.48'
-s421_mean_contract_value: '290.4K'
+s421_mean_contract_value: '279.8K'
 s425_max_duration: '4.85'
 s422_max_contract_value: '8.2M'
 ---
@@ -62,6 +62,8 @@ s422_max_contract_value: '8.2M'
 - [JASCO Applied Sciences (Canada) Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JASCO%20Applied%20Sciences%20%28Canada%29%20Ltd%22)
 - [JASCO Applied Sciences](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JASCO%20Applied%20Sciences%22)
 - [Jasco Applied Sciences (Canada) Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Jasco%20Applied%20Sciences%20%28Canada%29%20Ltd.%22)
+- [Jasco Applied Sciences Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Jasco%20Applied%20Sciences%20Canada%20Ltd%22)
+- [Jasco Applied Sciences Canada Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Jasco%20Applied%20Sciences%20Canada%20Ltd.%22)
 - [JASCO Applied Sciences (Canada) Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JASCO%20Applied%20Sciences%20%28Canada%29%20Ltd.%22)
 {{< /details >}}
 

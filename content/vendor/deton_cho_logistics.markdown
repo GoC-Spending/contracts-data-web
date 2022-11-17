@@ -1,7 +1,7 @@
 ---
 title: Deton Cho Logistics
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: deton_cho_logistics
 categories: []
 tags: []

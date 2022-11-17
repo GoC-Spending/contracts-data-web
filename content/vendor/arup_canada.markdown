@@ -1,7 +1,7 @@
 ---
 title: Arup Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: arup_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.4M
   in 2021-2022 on contracts with Arup Canada. The average
-  contract duration was 6.87 years, and the average contract value
-  (not including contracts under $10k) was $21.7M. The longest
+  contract duration was 3.67 years, and the average contract value
+  (not including contracts under $10k) was $10.9M. The longest
   contract was 6.87 years. The largest contract by value (including
   amendments) was $21.7M.
 lookup_name: 'ARUP CANADA'
 most_recent_fiscal_year_total: '2.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1'
+s431_number_of_contracts: '2'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '6.87'
-s421_mean_contract_value: '21.7M'
+s424_mean_duration: '3.67'
+s421_mean_contract_value: '10.9M'
 s425_max_duration: '6.87'
 s422_max_contract_value: '21.7M'
 ---

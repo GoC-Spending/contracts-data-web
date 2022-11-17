@@ -1,7 +1,7 @@
 ---
 title: Lockheed Martin
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: lockheed_martin
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $48.7M
   in 2021-2022 on contracts with Lockheed Martin. The average
-  contract duration was 3.62 years, and the average contract value
-  (not including contracts under $10k) was $64.4M. The longest
+  contract duration was 3.57 years, and the average contract value
+  (not including contracts under $10k) was $63.0M. The longest
   contract was 14.67 years. The largest contract by value (including
   amendments) was $1.8B.
 lookup_name: 'LOCKHEED MARTIN'
 most_recent_fiscal_year_total: '48.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '48'
+s431_number_of_contracts: '49'
 s431_number_of_contracts_with_amendments: '11'
-s431_number_of_contracts_amendments_percentage: '23%'
+s431_number_of_contracts_amendments_percentage: '22%'
 s432_mean_amendment_increase_percentage: '140%'
 s434_mean_number_of_amendments: '2.73'
 s433_total_amendment_increase_value: '545.8M'
-s424_mean_duration: '3.62'
-s421_mean_contract_value: '64.4M'
+s424_mean_duration: '3.57'
+s421_mean_contract_value: '63.0M'
 s425_max_duration: '14.67'
 s422_max_contract_value: '1.8B'
 ---
@@ -70,6 +70,7 @@ s422_max_contract_value: '1.8B'
 - [LOCKHEED MARTIN AERONAUTICAL SYSTEMS CO](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOCKHEED%20MARTIN%20AERONAUTICAL%20SYSTEMS%20CO%22)
 - [LOCKHEED MARTIN MISSILES AND FIRE CONTROL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOCKHEED%20MARTIN%20MISSILES%20AND%20FIRE%20CONTROL%22)
 - [Lockheed Martin Sippican Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lockheed%20Martin%20Sippican%20Inc%22)
+- [Lockheed Martin Canada, Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lockheed%20Martin%20Canada%2c%20Inc.%22)
 - [Lockheed Martin Aeronautics Services International](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lockheed%20Martin%20Aeronautics%20Services%20International%22)
 - [LOCKHEED MARTIN AERONAUTICS COMPANY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LOCKHEED%20MARTIN%20AERONAUTICS%20COMPANY%22)
 - [Lockheed Martin Canada Inc. CDL Systems](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Lockheed%20Martin%20Canada%20Inc.%20CDL%20Systems%22)

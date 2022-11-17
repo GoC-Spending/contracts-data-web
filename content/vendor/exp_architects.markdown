@@ -1,7 +1,7 @@
 ---
 title: Exp Architects
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: exp_architects
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.5M
   in 2021-2022 on contracts with Exp Architects. The average
-  contract duration was 1.31 years, and the average contract value
-  (not including contracts under $10k) was $263.7K. The longest
+  contract duration was 1.27 years, and the average contract value
+  (not including contracts under $10k) was $250.3K. The longest
   contract was 5.62 years. The largest contract by value (including
   amendments) was $2.1M.
 lookup_name: 'EXP ARCHITECTS'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '31'
+s431_number_of_contracts: '33'
 s431_number_of_contracts_with_amendments: '10'
-s431_number_of_contracts_amendments_percentage: '32%'
+s431_number_of_contracts_amendments_percentage: '30%'
 s432_mean_amendment_increase_percentage: '47%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '1.1M'
-s424_mean_duration: '1.31'
-s421_mean_contract_value: '263.7K'
+s424_mean_duration: '1.27'
+s421_mean_contract_value: '250.3K'
 s425_max_duration: '5.62'
 s422_max_contract_value: '2.1M'
 ---

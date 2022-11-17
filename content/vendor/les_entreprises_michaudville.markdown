@@ -1,7 +1,7 @@
 ---
 title: Les Entreprises Michaudville
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: les_entreprises_michaudville
 categories: []
 tags: []

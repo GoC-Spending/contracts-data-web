@@ -1,7 +1,7 @@
 ---
 title: SCA Shipping Consultants Associated
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sca_shipping_consultants_associated
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $9.4M
   in 2021-2022 on contracts with SCA Shipping Consultants Associated. The average
-  contract duration was 0.08 years, and the average contract value
-  (not including contracts under $10k) was $193.3K. The longest
+  contract duration was 0.07 years, and the average contract value
+  (not including contracts under $10k) was $195.6K. The longest
   contract was 3.04 years. The largest contract by value (including
   amendments) was $11.1M.
 lookup_name: 'SCA SHIPPING CONSULTANTS ASSOCIATED'
 most_recent_fiscal_year_total: '9.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '380'
+s431_number_of_contracts: '387'
 s431_number_of_contracts_with_amendments: '68'
 s431_number_of_contracts_amendments_percentage: '18%'
 s432_mean_amendment_increase_percentage: '18%'
-s434_mean_number_of_amendments: '1.04'
+s434_mean_number_of_amendments: '1.06'
 s433_total_amendment_increase_value: '10.2M'
-s424_mean_duration: '0.08'
-s421_mean_contract_value: '193.3K'
+s424_mean_duration: '0.07'
+s421_mean_contract_value: '195.6K'
 s425_max_duration: '3.04'
 s422_max_contract_value: '11.1M'
 ---
@@ -69,6 +69,7 @@ s422_max_contract_value: '11.1M'
 - [SHIPPING CONSULTANTS ASSOCIATED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SHIPPING%20CONSULTANTS%20ASSOCIATED%22)
 - [S.C.A. - Shipping Consultants Associated Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22S.C.A.%20-%20Shipping%20Consultants%20Associated%20Ltd%22)
 - [SCA - SHIPPING CONSULTANTS ASSOCIATED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SCA%20-%20SHIPPING%20CONSULTANTS%20ASSOCIATED%22)
+- [S.C.A.-Shipping Consultants Associated](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22S.C.A.-Shipping%20Consultants%20Associated%22)
 - [S.C.A. - Shipping Consultants Association](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22S.C.A.%20-%20Shipping%20Consultants%20Association%22)
 - [S.C.A. Shipping Consultants Associated Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22S.C.A.%20Shipping%20Consultants%20Associated%20Ltd.%22)
 - [SCA - SHIPPING CONSULTANTS ASSOCIATED LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SCA%20-%20SHIPPING%20CONSULTANTS%20ASSOCIATED%20LTD%22)

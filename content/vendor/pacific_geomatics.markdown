@@ -1,7 +1,7 @@
 ---
 title: Pacific Geomatics
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: pacific_geomatics
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $383.1K
   in 2021-2022 on contracts with Pacific Geomatics. The average
-  contract duration was 0.11 years, and the average contract value
-  (not including contracts under $10k) was $75.3K. The longest
+  contract duration was 0.15 years, and the average contract value
+  (not including contracts under $10k) was $72.2K. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $979.4K.
 lookup_name: 'PACIFIC GEOMATICS'
 most_recent_fiscal_year_total: '383.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '29'
+s431_number_of_contracts: '31'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '0%'
 s434_mean_number_of_amendments: '3'
 s433_total_amendment_increase_value: '0.0'
-s424_mean_duration: '0.11'
-s421_mean_contract_value: '75.3K'
+s424_mean_duration: '0.15'
+s421_mean_contract_value: '72.2K'
 s425_max_duration: '1'
 s422_max_contract_value: '979.4K'
 ---
@@ -64,6 +64,7 @@ s422_max_contract_value: '979.4K'
 - [PACIFIC GEOMATICS LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PACIFIC%20GEOMATICS%20LIMITED%22)
 - [Pacific Geomatics Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pacific%20Geomatics%20Ltd.%22)
 - [Pacific Geomatics LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Pacific%20Geomatics%20LTD%22)
+- [PACIFIC GEOMATICS Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PACIFIC%20GEOMATICS%20Ltd%22)
 {{< /details >}}
 
 ## Departments and agencies

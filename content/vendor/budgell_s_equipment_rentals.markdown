@@ -1,7 +1,7 @@
 ---
 title: Budgell’s Equipment Rentals
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: budgell_s_equipment_rentals
 categories: []
 tags: []

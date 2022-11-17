@@ -1,7 +1,7 @@
 ---
 title: MarineNav
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: marinenav
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.8M
   in 2021-2022 on contracts with MarineNav. The average
   contract duration was 0.6 years, and the average contract value
-  (not including contracts under $10k) was $78.5K. The longest
+  (not including contracts under $10k) was $77.9K. The longest
   contract was 2.17 years. The largest contract by value (including
   amendments) was $835.0K.
 lookup_name: 'MARINENAV'
 most_recent_fiscal_year_total: '2.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '83'
+s431_number_of_contracts: '84'
 s431_number_of_contracts_with_amendments: '23'
-s431_number_of_contracts_amendments_percentage: '28%'
+s431_number_of_contracts_amendments_percentage: '27%'
 s432_mean_amendment_increase_percentage: '191%'
 s434_mean_number_of_amendments: '2.04'
 s433_total_amendment_increase_value: '709.1K'
 s424_mean_duration: '0.6'
-s421_mean_contract_value: '78.5K'
+s421_mean_contract_value: '77.9K'
 s425_max_duration: '2.17'
 s422_max_contract_value: '835.0K'
 ---

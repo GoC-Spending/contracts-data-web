@@ -1,7 +1,7 @@
 ---
 title: Colt Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: colt_canada
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $34.9M
 lookup_name: 'COLT CANADA'
 most_recent_fiscal_year_total: '34.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '202'
+s431_number_of_contracts: '207'
 s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '9%'

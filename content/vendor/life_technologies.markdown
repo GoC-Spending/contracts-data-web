@@ -1,7 +1,7 @@
 ---
 title: Life Technologies
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: life_technologies
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $15.3M
   in 2021-2022 on contracts with Life Technologies. The average
   contract duration was 0.51 years, and the average contract value
-  (not including contracts under $10k) was $149.5K. The longest
+  (not including contracts under $10k) was $143.6K. The longest
   contract was 17.1 years. The largest contract by value (including
   amendments) was $19.4M.
 lookup_name: 'LIFE TECHNOLOGIES'
 most_recent_fiscal_year_total: '15.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '482'
-s431_number_of_contracts_with_amendments: '31'
+s431_number_of_contracts: '508'
+s431_number_of_contracts_with_amendments: '32'
 s431_number_of_contracts_amendments_percentage: '6%'
-s432_mean_amendment_increase_percentage: '332%'
+s432_mean_amendment_increase_percentage: '322%'
 s434_mean_number_of_amendments: '1.81'
 s433_total_amendment_increase_value: '18.8M'
 s424_mean_duration: '0.51'
-s421_mean_contract_value: '149.5K'
+s421_mean_contract_value: '143.6K'
 s425_max_duration: '17.1'
 s422_max_contract_value: '19.4M'
 ---
@@ -61,8 +61,8 @@ s422_max_contract_value: '19.4M'
 - [Life Technologies](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Life%20Technologies%22)
 - [Life Technologies Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Life%20Technologies%20Inc.%22)
 - [LIFE TECHNOLOGIES CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LIFE%20TECHNOLOGIES%20CORPORATION%22)
-- [LIFE TECHNOLOGIES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%40LIFE%20TECHNOLOGIES%20INC.%22)
 - [Life Technologies Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Life%20Technologies%20Inc%22)
+- [LIFE TECHNOLOGIES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22%40LIFE%20TECHNOLOGIES%20INC.%22)
 - [LIFE TECHNOLOGIES LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22LIFE%20TECHNOLOGIES%20LIMITED%22)
 {{< /details >}}
 

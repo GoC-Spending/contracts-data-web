@@ -1,7 +1,7 @@
 ---
 title: Can Tec Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: can_tec_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $805.6K
   in 2021-2022 on contracts with Can Tec Services. The average
-  contract duration was 1.09 years, and the average contract value
-  (not including contracts under $10k) was $71.6K. The longest
+  contract duration was 1.08 years, and the average contract value
+  (not including contracts under $10k) was $70.5K. The longest
   contract was 3.55 years. The largest contract by value (including
   amendments) was $330.1K.
 lookup_name: 'CAN TEC SERVICES'
 most_recent_fiscal_year_total: '805.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '40'
+s431_number_of_contracts: '41'
 s431_number_of_contracts_with_amendments: '6'
 s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '36%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '211.2K'
-s424_mean_duration: '1.09'
-s421_mean_contract_value: '71.6K'
+s424_mean_duration: '1.08'
+s421_mean_contract_value: '70.5K'
 s425_max_duration: '3.55'
 s422_max_contract_value: '330.1K'
 ---

@@ -1,7 +1,7 @@
 ---
 title: University of Western Ontario
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: university_of_western_ontario
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with University of Western Ontario. The average
-  contract duration was 1 years, and the average contract value
-  (not including contracts under $10k) was $137.8K. The longest
+  contract duration was 0.97 years, and the average contract value
+  (not including contracts under $10k) was $131.5K. The longest
   contract was 10.01 years. The largest contract by value (including
   amendments) was $2.3M.
 lookup_name: 'UNIVERSITY OF WESTERN ONTARIO'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '60'
+s431_number_of_contracts: '64'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '10%'
+s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '81%'
 s434_mean_number_of_amendments: '1.67'
 s433_total_amendment_increase_value: '1.2M'
-s424_mean_duration: '1'
-s421_mean_contract_value: '137.8K'
+s424_mean_duration: '0.97'
+s421_mean_contract_value: '131.5K'
 s425_max_duration: '10.01'
 s422_max_contract_value: '2.3M'
 ---

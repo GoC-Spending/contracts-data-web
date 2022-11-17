@@ -1,7 +1,7 @@
 ---
 title: Flight Fuels
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: flight_fuels
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
   in 2021-2022 on contracts with Flight Fuels. The average
-  contract duration was 0.1 years, and the average contract value
-  (not including contracts under $10k) was $61.1K. The longest
+  contract duration was 0.09 years, and the average contract value
+  (not including contracts under $10k) was $73.3K. The longest
   contract was 0.97 years. The largest contract by value (including
   amendments) was $934.9K.
 lookup_name: 'FLIGHT FUELS'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '150'
-s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '1%'
-s432_mean_amendment_increase_percentage: '0%'
+s431_number_of_contracts: '168'
+s431_number_of_contracts_with_amendments: '4'
+s431_number_of_contracts_amendments_percentage: '2%'
+s432_mean_amendment_increase_percentage: '2%'
 s434_mean_number_of_amendments: '1'
-s433_total_amendment_increase_value: '0.0'
-s424_mean_duration: '0.1'
-s421_mean_contract_value: '61.1K'
+s433_total_amendment_increase_value: '-12.4K'
+s424_mean_duration: '0.09'
+s421_mean_contract_value: '73.3K'
 s425_max_duration: '0.97'
 s422_max_contract_value: '934.9K'
 ---
@@ -63,6 +63,7 @@ s422_max_contract_value: '934.9K'
 - [FLIGHT FUELS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FLIGHT%20FUELS%22)
 - [Flight Fuels Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Flight%20Fuels%20Inc%22)
 - [FLIGHT FUELS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FLIGHT%20FUELS%20INC.%22)
+- [Flight fuels](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Flight%20fuels%22)
 - [FLIGHT FUELS LP.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FLIGHT%20FUELS%20LP.%22)
 - [FLIGHT FUELS LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22FLIGHT%20FUELS%20LIMITED%22)
 - [Flight Fuels Lp](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Flight%20Fuels%20Lp%22)

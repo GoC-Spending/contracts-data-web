@@ -1,7 +1,7 @@
 ---
 title: Seawatch
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: seawatch
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with Seawatch. The average
-  contract duration was 1.73 years, and the average contract value
-  (not including contracts under $10k) was $4.3M. The longest
+  contract duration was 1.77 years, and the average contract value
+  (not including contracts under $10k) was $4.5M. The longest
   contract was 3.96 years. The largest contract by value (including
   amendments) was $10.0M.
 lookup_name: 'SEAWATCH'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '6'
+s431_number_of_contracts: '7'
 s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '67%'
+s431_number_of_contracts_amendments_percentage: '57%'
 s432_mean_amendment_increase_percentage: '41%'
 s434_mean_number_of_amendments: '1.75'
 s433_total_amendment_increase_value: '6.8M'
-s424_mean_duration: '1.73'
-s421_mean_contract_value: '4.3M'
+s424_mean_duration: '1.77'
+s421_mean_contract_value: '4.5M'
 s425_max_duration: '3.96'
 s422_max_contract_value: '10.0M'
 ---

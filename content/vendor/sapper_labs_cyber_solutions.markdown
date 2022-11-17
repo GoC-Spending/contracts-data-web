@@ -1,7 +1,7 @@
 ---
 title: Sapper Labs Cyber Solutions
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sapper_labs_cyber_solutions
 categories: []
 tags: []

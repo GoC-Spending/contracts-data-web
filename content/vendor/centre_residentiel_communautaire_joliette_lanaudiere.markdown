@@ -1,7 +1,7 @@
 ---
 title: Centre Residentiel Communautaire Joliette Lanaudiere
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: centre_residentiel_communautaire_joliette_lanaudiere
 categories: []
 tags: []

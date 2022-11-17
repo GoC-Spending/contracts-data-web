@@ -1,7 +1,7 @@
 ---
 title: Imperial Oil
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: imperial_oil
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $47.8M
   in 2021-2022 on contracts with Imperial Oil. The average
   contract duration was 0.19 years, and the average contract value
-  (not including contracts under $10k) was $118.4K. The longest
+  (not including contracts under $10k) was $136.3K. The longest
   contract was 5.53 years. The largest contract by value (including
   amendments) was $2.3M.
 lookup_name: 'IMPERIAL OIL'
 most_recent_fiscal_year_total: '47.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1,456'
+s431_number_of_contracts: '1,496'
 s431_number_of_contracts_with_amendments: '72'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage: '142%'
-s434_mean_number_of_amendments: '1.47'
+s432_mean_amendment_increase_percentage: '143%'
+s434_mean_number_of_amendments: '1.49'
 s433_total_amendment_increase_value: '-3.1M'
 s424_mean_duration: '0.19'
-s421_mean_contract_value: '118.4K'
+s421_mean_contract_value: '136.3K'
 s425_max_duration: '5.53'
 s422_max_contract_value: '2.3M'
 ---
@@ -64,9 +64,11 @@ s422_max_contract_value: '2.3M'
 - [IMPERIAL ESSO](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20ESSO%22)
 - [IMPERIAL ESSO OIL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20ESSO%20OIL%22)
 - [IMPERIAL OIL, EXXONMOBIL AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20OIL%2c%20EXXONMOBIL%20AVIATION%22)
+- [imperial oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22imperial%20oil%22)
 - [ESSO IMPERIAL OIL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ESSO%20IMPERIAL%20OIL%22)
 - [Imperial Oil Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20Oil%20Limited%22)
 - [IMPERIAL OIL PRODUCTS AD CHEMICALS DIVISION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20OIL%20PRODUCTS%20AD%20CHEMICALS%20DIVISION%22)
+- [imperior oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22imperior%20oil%22)
 - [Imperial OiV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20OiV%22)
 - [IMPERIAL OIL ESSO](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20OIL%20ESSO%22)
 - [Esso Imperial Oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Esso%20Imperial%20Oil%22)
@@ -88,7 +90,6 @@ s422_max_contract_value: '2.3M'
 - [Imperial Oil Limited and McColl Frontenac Petroleum Ltd (Noco Fuels Canada LP)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20Oil%20Limited%20and%20McColl%20Frontenac%20Petroleum%20Ltd%20%28Noco%20Fuels%20Canada%20LP%29%22)
 - [Imperial OIl](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20OIl%22)
 - [Imperial Oil / Exxonmobil Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20Oil%20%20%2f%20%20Exxonmobil%20Aviation%22)
-- [imperial oil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22imperial%20oil%22)
 - [Imperial Oil Products and Chmicals Division](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Imperial%20Oil%20Products%20and%20Chmicals%20Division%22)
 - [IMPERIAL OIL SHIPPED FROM MCDOUGALL ENERGY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20OIL%20SHIPPED%20FROM%20MCDOUGALL%20ENERGY%22)
 - [IMPERIAL OIL PRODLUCTS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22IMPERIAL%20OIL%20PRODLUCTS%22)
@@ -180,7 +181,7 @@ s422_max_contract_value: '2.3M'
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[340427.59,1909325.36,51278.04,3022680.97,null,1513017.26,null,305417.03,553840.36,644780.32],[350644.26,1423250.35,0,51843857.03,336272.07,1230429.29,16280.25,247575.85,232668.97,482903.95],[254502.39,449465.77,null,31716705.92,382742.44,547182.09,13557.86,119962.5,64923.47,447587.25],[283596.22,636033.39,null,45050863.82,530088.04,777205.83,15859.83,49927.5,166925.87,302961.6]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/isc-sac/\">Indigenous Services Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/phac-aspc/\">Public Health Agency of Canada<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[340427.59,1909325.36,51278.04,3022680.97,null,1513017.26,null,305417.03,553840.36,644780.32],[350644.26,1423250.35,0,51843857.03,336272.07,1230429.29,16280.25,247575.85,232668.97,482903.95],[254502.39,449465.77,null,31716705.92,382742.44,547182.09,13557.86,119962.5,64923.47,447587.25],[283596.22,636033.39,null,45065379.4,530088.04,777205.83,15859.83,49927.5,166925.87,302961.6]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/imperial_oil/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
 </p>
@@ -188,7 +189,7 @@ s422_max_contract_value: '2.3M'
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>"],[39328,3022680.97,5016470.79,262287.17],[16485.43,51843857.03,3700517.46,603022.09],[null,31716705.92,2242712.67,37211.1],[null,45050863.82,2456790.11,305808.17]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/transportation_and_logistics/\">Transportation and logistics<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>"],[39328,3022680.97,5016470.79,262287.17],[16485.43,51843857.03,3700517.46,603022.09],[null,31716705.92,2242712.67,37211.1],[null,45065379.4,2456790.11,305808.17]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/imperial_oil/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

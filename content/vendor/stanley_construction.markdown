@@ -1,7 +1,7 @@
 ---
 title: Stanley Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: stanley_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $4.0M
   in 2021-2022 on contracts with Stanley Construction. The average
-  contract duration was 1.18 years, and the average contract value
-  (not including contracts under $10k) was $1.7M. The longest
+  contract duration was 1.09 years, and the average contract value
+  (not including contracts under $10k) was $1.6M. The longest
   contract was 2.27 years. The largest contract by value (including
   amendments) was $4.7M.
 lookup_name: 'STANLEY CONSTRUCTION'
 most_recent_fiscal_year_total: '4.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '8'
+s431_number_of_contracts: '9'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '62%'
+s431_number_of_contracts_amendments_percentage: '56%'
 s432_mean_amendment_increase_percentage: '11%'
 s434_mean_number_of_amendments: '1.6'
 s433_total_amendment_increase_value: '985.0K'
-s424_mean_duration: '1.18'
-s421_mean_contract_value: '1.7M'
+s424_mean_duration: '1.09'
+s421_mean_contract_value: '1.6M'
 s425_max_duration: '2.27'
 s422_max_contract_value: '4.7M'
 ---

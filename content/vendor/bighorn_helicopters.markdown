@@ -1,7 +1,7 @@
 ---
 title: Bighorn Helicopters
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bighorn_helicopters
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
   in 2021-2022 on contracts with Bighorn Helicopters. The average
-  contract duration was 0.32 years, and the average contract value
-  (not including contracts under $10k) was $61.3K. The longest
+  contract duration was 0.31 years, and the average contract value
+  (not including contracts under $10k) was $68.9K. The longest
   contract was 1.15 years. The largest contract by value (including
   amendments) was $643.7K.
 lookup_name: 'BIGHORN HELICOPTERS'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '96'
-s431_number_of_contracts_with_amendments: '9'
-s431_number_of_contracts_amendments_percentage: '9%'
-s432_mean_amendment_increase_percentage: '54%'
+s431_number_of_contracts: '107'
+s431_number_of_contracts_with_amendments: '12'
+s431_number_of_contracts_amendments_percentage: '11%'
+s432_mean_amendment_increase_percentage: '93%'
 s434_mean_number_of_amendments: '1'
-s433_total_amendment_increase_value: '408.7K'
-s424_mean_duration: '0.32'
-s421_mean_contract_value: '61.3K'
+s433_total_amendment_increase_value: '953.6K'
+s424_mean_duration: '0.31'
+s421_mean_contract_value: '68.9K'
 s425_max_duration: '1.15'
 s422_max_contract_value: '643.7K'
 ---

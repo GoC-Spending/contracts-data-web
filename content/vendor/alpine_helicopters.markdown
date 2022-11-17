@@ -1,7 +1,7 @@
 ---
 title: Alpine Helicopters
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: alpine_helicopters
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with Alpine Helicopters. The average
-  contract duration was 0.29 years, and the average contract value
-  (not including contracts under $10k) was $32.9K. The longest
+  contract duration was 0.3 years, and the average contract value
+  (not including contracts under $10k) was $35.8K. The longest
   contract was 2.05 years. The largest contract by value (including
-  amendments) was $389.0K.
+  amendments) was $394.1K.
 lookup_name: 'ALPINE HELICOPTERS'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '247'
+s431_number_of_contracts: '262'
 s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '21%'
 s434_mean_number_of_amendments: '1.09'
 s433_total_amendment_increase_value: '167.6K'
-s424_mean_duration: '0.29'
-s421_mean_contract_value: '32.9K'
+s424_mean_duration: '0.3'
+s421_mean_contract_value: '35.8K'
 s425_max_duration: '2.05'
-s422_max_contract_value: '389.0K'
+s422_max_contract_value: '394.1K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

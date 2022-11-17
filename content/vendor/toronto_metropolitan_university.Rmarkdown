@@ -1,7 +1,7 @@
 ---
 title: Toronto Metropolitan University
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: toronto_metropolitan_university
 categories: []
 tags: []
@@ -73,5 +73,16 @@ a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_yea
 
 dt_categories_by_fiscal_year_by_vendor(current_filename)
 a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_category.csv")
+
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results=blogdown_display_it_subcategories_by_vendor(current_filename)}
+
+# IT subcategories where applicable
+htmltools::h2("Information technology subcategories")
+
+dt_it_subcategories_by_fiscal_year_by_vendor(current_filename)
+
+a_table_source_data_github(current_filename, entity_type, "summary_by_fiscal_year_by_it_subcategory.csv")
 
 ```

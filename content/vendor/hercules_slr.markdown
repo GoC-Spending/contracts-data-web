@@ -1,7 +1,7 @@
 ---
 title: Hercules SLR
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hercules_slr
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $564.0K
   in 2021-2022 on contracts with Hercules SLR. The average
-  contract duration was 0.33 years, and the average contract value
-  (not including contracts under $10k) was $209.2K. The longest
+  contract duration was 0.35 years, and the average contract value
+  (not including contracts under $10k) was $185.1K. The longest
   contract was 3.86 years. The largest contract by value (including
   amendments) was $4.7M.
 lookup_name: 'HERCULES SLR'
 most_recent_fiscal_year_total: '564.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '28'
+s431_number_of_contracts: '32'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '11%'
+s431_number_of_contracts_amendments_percentage: '9%'
 s432_mean_amendment_increase_percentage: '609%'
 s434_mean_number_of_amendments: '2.67'
 s433_total_amendment_increase_value: '4.4M'
-s424_mean_duration: '0.33'
-s421_mean_contract_value: '209.2K'
+s424_mean_duration: '0.35'
+s421_mean_contract_value: '185.1K'
 s425_max_duration: '3.86'
 s422_max_contract_value: '4.7M'
 ---

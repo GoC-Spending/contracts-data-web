@@ -1,7 +1,7 @@
 ---
 title: Northrop Grumman
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: northrop_grumman
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Conference Board of Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: conference_board_of_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $895.8K
   in 2021-2022 on contracts with Conference Board of Canada. The average
   contract duration was 0.77 years, and the average contract value
-  (not including contracts under $10k) was $38.7K. The longest
+  (not including contracts under $10k) was $39.0K. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $493.7K.
 lookup_name: 'CONFERENCE BOARD OF CANADA'
 most_recent_fiscal_year_total: '895.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '181'
+s431_number_of_contracts: '184'
 s431_number_of_contracts_with_amendments: '13'
 s431_number_of_contracts_amendments_percentage: '7%'
 s432_mean_amendment_increase_percentage: '80%'
 s434_mean_number_of_amendments: '1.46'
 s433_total_amendment_increase_value: '561.1K'
 s424_mean_duration: '0.77'
-s421_mean_contract_value: '38.7K'
+s421_mean_contract_value: '39.0K'
 s425_max_duration: '5'
 s422_max_contract_value: '493.7K'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Miller Waste Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: miller_waste_systems
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.1M
   in 2021-2022 on contracts with Miller Waste Systems. The average
-  contract duration was 1.08 years, and the average contract value
-  (not including contracts under $10k) was $87.0K. The longest
+  contract duration was 1.07 years, and the average contract value
+  (not including contracts under $10k) was $84.9K. The longest
   contract was 4.04 years. The largest contract by value (including
   amendments) was $596.6K.
 lookup_name: 'MILLER WASTE SYSTEMS'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '63'
+s431_number_of_contracts: '65'
 s431_number_of_contracts_with_amendments: '11'
 s431_number_of_contracts_amendments_percentage: '17%'
 s432_mean_amendment_increase_percentage: '75%'
 s434_mean_number_of_amendments: '1.18'
 s433_total_amendment_increase_value: '-489.8K'
-s424_mean_duration: '1.08'
-s421_mean_contract_value: '87.0K'
+s424_mean_duration: '1.07'
+s421_mean_contract_value: '84.9K'
 s425_max_duration: '4.04'
 s422_max_contract_value: '596.6K'
 ---

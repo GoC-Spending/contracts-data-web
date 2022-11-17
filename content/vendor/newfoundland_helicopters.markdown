@@ -1,7 +1,7 @@
 ---
 title: Newfoundland Helicopters
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: newfoundland_helicopters
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $778.9K
   in 2021-2022 on contracts with Newfoundland Helicopters. The average
-  contract duration was 0.19 years, and the average contract value
-  (not including contracts under $10k) was $43.5K. The longest
+  contract duration was 0.2 years, and the average contract value
+  (not including contracts under $10k) was $45.2K. The longest
   contract was 2.92 years. The largest contract by value (including
   amendments) was $454.6K.
 lookup_name: 'NEWFOUNDLAND HELICOPTERS'
 most_recent_fiscal_year_total: '778.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '69'
-s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '6%'
-s432_mean_amendment_increase_percentage: '67%'
+s431_number_of_contracts: '73'
+s431_number_of_contracts_with_amendments: '6'
+s431_number_of_contracts_amendments_percentage: '8%'
+s432_mean_amendment_increase_percentage: '73%'
 s434_mean_number_of_amendments: '1'
-s433_total_amendment_increase_value: '312.1K'
-s424_mean_duration: '0.19'
-s421_mean_contract_value: '43.5K'
+s433_total_amendment_increase_value: '350.7K'
+s424_mean_duration: '0.2'
+s421_mean_contract_value: '45.2K'
 s425_max_duration: '2.92'
 s422_max_contract_value: '454.6K'
 ---

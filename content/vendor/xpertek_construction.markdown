@@ -1,7 +1,7 @@
 ---
 title: Xpertek Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: xpertek_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with Xpertek Construction. The average
-  contract duration was 0.59 years, and the average contract value
-  (not including contracts under $10k) was $163.3K. The longest
+  contract duration was 0.56 years, and the average contract value
+  (not including contracts under $10k) was $156.9K. The longest
   contract was 2.98 years. The largest contract by value (including
   amendments) was $2.0M.
 lookup_name: 'XPERTEK CONSTRUCTION'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '31'
+s431_number_of_contracts: '33'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '16%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '3%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '119.8K'
-s424_mean_duration: '0.59'
-s421_mean_contract_value: '163.3K'
+s424_mean_duration: '0.56'
+s421_mean_contract_value: '156.9K'
 s425_max_duration: '2.98'
 s422_max_contract_value: '2.0M'
 ---
@@ -58,6 +58,7 @@ s422_max_contract_value: '2.0M'
 - [XPERTEK CONSTRUCTION (2004) INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22XPERTEK%20CONSTRUCTION%20%282004%29%20INC.%22)
 - [XPERTEK CONSTRUCTION 2004 INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22XPERTEK%20CONSTRUCTION%202004%20INC.%22)
 - [Xpertek Construction (2004) Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Xpertek%20Construction%20%282004%29%20Inc.%22)
+- [XPERTEK CONSTRUCTION LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22XPERTEK%20CONSTRUCTION%20LTD%22)
 {{< /details >}}
 
 ## Departments and agencies

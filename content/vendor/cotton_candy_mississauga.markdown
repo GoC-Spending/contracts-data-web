@@ -1,7 +1,7 @@
 ---
 title: Cotton Candy Mississauga
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: cotton_candy_mississauga
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $361.0K
   in 2021-2022 on contracts with Cotton Candy Mississauga. The average
-  contract duration was 0.41 years, and the average contract value
-  (not including contracts under $10k) was $30.9K. The longest
+  contract duration was 0.4 years, and the average contract value
+  (not including contracts under $10k) was $31.2K. The longest
   contract was 4.11 years. The largest contract by value (including
   amendments) was $290.3K.
 lookup_name: 'COTTON CANDY MISSISSAUGA'
 most_recent_fiscal_year_total: '361.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '131'
+s431_number_of_contracts: '136'
 s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '81%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '34.1K'
-s424_mean_duration: '0.41'
-s421_mean_contract_value: '30.9K'
+s424_mean_duration: '0.4'
+s421_mean_contract_value: '31.2K'
 s425_max_duration: '4.11'
 s422_max_contract_value: '290.3K'
 ---

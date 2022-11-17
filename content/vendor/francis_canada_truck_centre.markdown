@@ -1,7 +1,7 @@
 ---
 title: Francis Canada Truck Centre
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: francis_canada_truck_centre
 categories: []
 tags: []

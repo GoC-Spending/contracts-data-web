@@ -1,7 +1,7 @@
 ---
 title: Sustainable Trails 2011
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sustainable_trails_2011
 categories: []
 tags: []

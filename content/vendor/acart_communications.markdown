@@ -1,7 +1,7 @@
 ---
 title: Acart Communications
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: acart_communications
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $174.0K
   in 2021-2022 on contracts with Acart Communications. The average
-  contract duration was 0.89 years, and the average contract value
-  (not including contracts under $10k) was $545.9K. The longest
+  contract duration was 0.88 years, and the average contract value
+  (not including contracts under $10k) was $532.7K. The longest
   contract was 7.01 years. The largest contract by value (including
   amendments) was $8.6M.
 lookup_name: 'ACART COMMUNICATIONS'
 most_recent_fiscal_year_total: '174.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '27'
+s431_number_of_contracts: '28'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '22%'
+s431_number_of_contracts_amendments_percentage: '21%'
 s432_mean_amendment_increase_percentage: '2261%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '6.5M'
-s424_mean_duration: '0.89'
-s421_mean_contract_value: '545.9K'
+s424_mean_duration: '0.88'
+s421_mean_contract_value: '532.7K'
 s425_max_duration: '7.01'
 s422_max_contract_value: '8.6M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Aeroport De Quebec
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: aeroport_de_quebec
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
   in 2021-2022 on contracts with Aeroport De Quebec. The average
-  contract duration was 0.47 years, and the average contract value
-  (not including contracts under $10k) was $1.5M. The longest
+  contract duration was 0.38 years, and the average contract value
+  (not including contracts under $10k) was $1.1M. The longest
   contract was 0.72 years. The largest contract by value (including
   amendments) was $3.0M.
 lookup_name: 'AEROPORT DE QUEBEC'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '3'
+s431_number_of_contracts: '4'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '33%'
+s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '426%'
 s434_mean_number_of_amendments: '3'
 s433_total_amendment_increase_value: '2.4M'
-s424_mean_duration: '0.47'
-s421_mean_contract_value: '1.5M'
+s424_mean_duration: '0.38'
+s421_mean_contract_value: '1.1M'
 s425_max_duration: '0.72'
 s422_max_contract_value: '3.0M'
 ---
@@ -56,6 +56,7 @@ s422_max_contract_value: '3.0M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [AEROPORT DE QUEBEC INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22AEROPORT%20DE%20QUEBEC%20INC%22)
+- [Aeroport de Quebec Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aeroport%20de%20Quebec%20Inc.%22)
 - [Aeroport de Québec Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Aeroport%20de%20Qu%c3%a9bec%20Inc.%22)
 {{< /details >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Lwg Architectural Interiors
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: lwg_architectural_interiors
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $476.9K
   in 2021-2022 on contracts with Lwg Architectural Interiors. The average
   contract duration was 1.22 years, and the average contract value
-  (not including contracts under $10k) was $190.4K. The longest
+  (not including contracts under $10k) was $191.4K. The longest
   contract was 4.36 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'LWG ARCHITECTURAL INTERIORS'
 most_recent_fiscal_year_total: '476.9K'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '22'
-s431_number_of_contracts_with_amendments: '11'
-s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage: '71%'
-s434_mean_number_of_amendments: '1.73'
-s433_total_amendment_increase_value: '869.8K'
+s431_number_of_contracts_with_amendments: '12'
+s431_number_of_contracts_amendments_percentage: '55%'
+s432_mean_amendment_increase_percentage: '70%'
+s434_mean_number_of_amendments: '1.67'
+s433_total_amendment_increase_value: '895.9K'
 s424_mean_duration: '1.22'
-s421_mean_contract_value: '190.4K'
+s421_mean_contract_value: '191.4K'
 s425_max_duration: '4.36'
 s422_max_contract_value: '1.1M'
 ---

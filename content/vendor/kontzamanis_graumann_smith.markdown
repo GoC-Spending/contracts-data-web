@@ -1,7 +1,7 @@
 ---
 title: Kontzamanis Graumann Smith
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: kontzamanis_graumann_smith
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.3M
   in 2021-2022 on contracts with Kontzamanis Graumann Smith. The average
-  contract duration was 1.33 years, and the average contract value
-  (not including contracts under $10k) was $341.8K. The longest
+  contract duration was 1.31 years, and the average contract value
+  (not including contracts under $10k) was $336.7K. The longest
   contract was 6.65 years. The largest contract by value (including
   amendments) was $5.7M.
 lookup_name: 'KONTZAMANIS GRAUMANN SMITH'
 most_recent_fiscal_year_total: '1.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '38'
+s431_number_of_contracts: '39'
 s431_number_of_contracts_with_amendments: '21'
-s431_number_of_contracts_amendments_percentage: '55%'
+s431_number_of_contracts_amendments_percentage: '54%'
 s432_mean_amendment_increase_percentage: '34%'
 s434_mean_number_of_amendments: '1.38'
 s433_total_amendment_increase_value: '3.7M'
-s424_mean_duration: '1.33'
-s421_mean_contract_value: '341.8K'
+s424_mean_duration: '1.31'
+s421_mean_contract_value: '336.7K'
 s425_max_duration: '6.65'
 s422_max_contract_value: '5.7M'
 ---

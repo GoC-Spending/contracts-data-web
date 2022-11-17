@@ -1,7 +1,7 @@
 ---
 title: Techno Feu
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: techno_feu
 categories: []
 tags: []
@@ -11,22 +11,22 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $93.1K
   in 2021-2022 on contracts with Techno Feu. The average
-  contract duration was 0.27 years, and the average contract value
-  (not including contracts under $10k) was $369.5K. The longest
-  contract was 1.01 years. The largest contract by value (including
+  contract duration was 0.33 years, and the average contract value
+  (not including contracts under $10k) was $450.3K. The longest
+  contract was 1.6 years. The largest contract by value (including
   amendments) was $4.4M.
 lookup_name: 'TECHNO FEU'
 most_recent_fiscal_year_total: '93.1K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '22'
+s431_number_of_contracts: '25'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '14%'
+s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '44%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '2.3M'
-s424_mean_duration: '0.27'
-s421_mean_contract_value: '369.5K'
-s425_max_duration: '1.01'
+s424_mean_duration: '0.33'
+s421_mean_contract_value: '450.3K'
+s425_max_duration: '1.6'
 s422_max_contract_value: '4.4M'
 ---
 
@@ -57,9 +57,9 @@ s422_max_contract_value: '4.4M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [TECHNO FEU INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TECHNO%20FEU%20INC%22)
 - [Techno Feu Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Techno%20Feu%20Inc%22)
+- [Techno Feu Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Techno%20Feu%20Inc.%22)
 - [Techno feu Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Techno%20feu%20Inc%22)
 - [Techno Fue](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Techno%20Fue%22)
-- [Techno Feu Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Techno%20Feu%20Inc.%22)
 - [Techno FEU](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Techno%20FEU%22)
 - [Technofeu](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Technofeu%22)
 - [Techno Feu](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Techno%20Feu%22)

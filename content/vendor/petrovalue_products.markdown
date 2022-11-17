@@ -1,7 +1,7 @@
 ---
 title: PetroValue Products
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: petrovalue_products
 categories: []
 tags: []
@@ -18,9 +18,9 @@ description: The Government of Canada spent an estimated $3.3M
 lookup_name: 'PETROVALUE PRODUCTS'
 most_recent_fiscal_year_total: '3.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '176'
+s431_number_of_contracts: '179'
 s431_number_of_contracts_with_amendments: '8'
-s431_number_of_contracts_amendments_percentage: '5%'
+s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '6%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '1.6M'

@@ -1,7 +1,7 @@
 ---
 title: Mte Logistix Edmonton
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mte_logistix_edmonton
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Bubble Technology Industries
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bubble_technology_industries
 categories: []
 tags: []

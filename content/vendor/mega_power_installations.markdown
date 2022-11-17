@@ -1,7 +1,7 @@
 ---
 title: Mega Power Installations
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mega_power_installations
 categories: []
 tags: []
@@ -18,11 +18,11 @@ description: The Government of Canada spent an estimated $699.5K
 lookup_name: 'MEGA POWER INSTALLATIONS'
 most_recent_fiscal_year_total: '699.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '115'
-s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage: '21%'
-s434_mean_number_of_amendments: '1.33'
+s431_number_of_contracts: '118'
+s431_number_of_contracts_with_amendments: '7'
+s431_number_of_contracts_amendments_percentage: '6%'
+s432_mean_amendment_increase_percentage: '18%'
+s434_mean_number_of_amendments: '1.29'
 s433_total_amendment_increase_value: '46.5K'
 s424_mean_duration: '0.46'
 s421_mean_contract_value: '34.7K'
@@ -67,6 +67,7 @@ s422_max_contract_value: '96.2K'
 - [Mega Power installations](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mega%20Power%20installations%22)
 - [Mega Power Installations ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mega%20Power%20Installations%20ltd%22)
 - [Mega Power Installations Ltd/](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mega%20Power%20Installations%20Ltd%2f%22)
+- [MEGA POWER INSTALLATIONS LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MEGA%20POWER%20INSTALLATIONS%20LTD%22)
 - [Mega Power Installations LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mega%20Power%20Installations%20LTD%22)
 - [Mega power Installations LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mega%20power%20Installations%20LTD.%22)
 - [Mega Power iNstallations](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mega%20Power%20iNstallations%22)

@@ -1,7 +1,7 @@
 ---
 title: Canadian Bureau for International Education
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: canadian_bureau_for_international_education
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $6.4M
   in 2021-2022 on contracts with Canadian Bureau for International Education. The average
-  contract duration was 1.96 years, and the average contract value
-  (not including contracts under $10k) was $9.1M. The longest
+  contract duration was 1.8 years, and the average contract value
+  (not including contracts under $10k) was $8.0M. The longest
   contract was 6.95 years. The largest contract by value (including
   amendments) was $49.9M.
 lookup_name: 'CANADIAN BUREAU FOR INTERNATIONAL EDUCATION'
 most_recent_fiscal_year_total: '6.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '7'
+s431_number_of_contracts: '8'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '14%'
+s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '22%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '8.9M'
-s424_mean_duration: '1.96'
-s421_mean_contract_value: '9.1M'
+s424_mean_duration: '1.8'
+s421_mean_contract_value: '8.0M'
 s425_max_duration: '6.95'
 s422_max_contract_value: '49.9M'
 ---
@@ -57,8 +57,8 @@ s422_max_contract_value: '49.9M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [CANADIAN BUREAU FOR INT’L EDUCATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CANADIAN%20BUREAU%20FOR%20INT%27L%20EDUCATION%22)
 - [CANADIAN BUREAU FOR INTERNATIONAL](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CANADIAN%20BUREAU%20FOR%20INTERNATIONAL%22)
-- [CANADIAN BUREAU FOR INTERNATIONAL EDUCATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CANADIAN%20BUREAU%20FOR%20INTERNATIONAL%20EDUCATION%22)
 - [CANADIAN BUREAU FOR INTERNATIONAL EDUCATION (CBIE)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CANADIAN%20BUREAU%20FOR%20INTERNATIONAL%20EDUCATION%20%28CBIE%29%22)
+- [CANADIAN BUREAU FOR INTERNATIONAL EDUCATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CANADIAN%20BUREAU%20FOR%20INTERNATIONAL%20EDUCATION%22)
 {{< /details >}}
 
 ## Departments and agencies

@@ -1,7 +1,7 @@
 ---
 title: Humanscale Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: humanscale_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.7M
   in 2021-2022 on contracts with Humanscale Canada. The average
-  contract duration was 0.23 years, and the average contract value
-  (not including contracts under $10k) was $32.2K. The longest
+  contract duration was 0.24 years, and the average contract value
+  (not including contracts under $10k) was $32.5K. The longest
   contract was 1.17 years. The largest contract by value (including
   amendments) was $575.4K.
 lookup_name: 'HUMANSCALE CANADA'
 most_recent_fiscal_year_total: '1.7M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '229'
+s431_number_of_contracts: '240'
 s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '1%'
 s432_mean_amendment_increase_percentage: '34%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '71.1K'
-s424_mean_duration: '0.23'
-s421_mean_contract_value: '32.2K'
+s424_mean_duration: '0.24'
+s421_mean_contract_value: '32.5K'
 s425_max_duration: '1.17'
 s422_max_contract_value: '575.4K'
 ---

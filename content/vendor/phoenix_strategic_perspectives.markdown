@@ -1,7 +1,7 @@
 ---
 title: Phoenix Strategic Perspectives
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: phoenix_strategic_perspectives
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.1M
   in 2021-2022 on contracts with Phoenix Strategic Perspectives. The average
   contract duration was 0.71 years, and the average contract value
-  (not including contracts under $10k) was $92.8K. The longest
+  (not including contracts under $10k) was $92.5K. The longest
   contract was 3.67 years. The largest contract by value (including
   amendments) was $756.9K.
 lookup_name: 'PHOENIX STRATEGIC PERSPECTIVES'
 most_recent_fiscal_year_total: '1.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '68'
+s431_number_of_contracts: '70'
 s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '6%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '17.8K'
 s424_mean_duration: '0.71'
-s421_mean_contract_value: '92.8K'
+s421_mean_contract_value: '92.5K'
 s425_max_duration: '3.67'
 s422_max_contract_value: '756.9K'
 ---

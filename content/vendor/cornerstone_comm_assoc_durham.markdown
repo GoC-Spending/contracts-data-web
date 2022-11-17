@@ -1,7 +1,7 @@
 ---
 title: Cornerstone Comm Assoc Durham
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: cornerstone_comm_assoc_durham
 categories: []
 tags: []

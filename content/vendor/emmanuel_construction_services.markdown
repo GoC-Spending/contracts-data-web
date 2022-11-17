@@ -1,7 +1,7 @@
 ---
 title: Emmanuel Construction Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: emmanuel_construction_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Emmanuel Construction Services. The average
-  contract duration was 1.31 years, and the average contract value
-  (not including contracts under $10k) was $2.3M. The longest
+  contract duration was 1.18 years, and the average contract value
+  (not including contracts under $10k) was $2.1M. The longest
   contract was 2.31 years. The largest contract by value (including
   amendments) was $4.3M.
 lookup_name: 'EMMANUEL CONSTRUCTION SERVICES'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '6'
+s431_number_of_contracts: '7'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '83%'
+s431_number_of_contracts_amendments_percentage: '71%'
 s432_mean_amendment_increase_percentage: '17%'
 s434_mean_number_of_amendments: '2.8'
 s433_total_amendment_increase_value: '2.0M'
-s424_mean_duration: '1.31'
-s421_mean_contract_value: '2.3M'
+s424_mean_duration: '1.18'
+s421_mean_contract_value: '2.1M'
 s425_max_duration: '2.31'
 s422_max_contract_value: '4.3M'
 ---

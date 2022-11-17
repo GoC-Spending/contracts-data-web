@@ -1,7 +1,7 @@
 ---
 title: McKesson Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mckesson_canada
 categories: []
 tags: []
@@ -12,22 +12,22 @@ r_init: |-
 description: The Government of Canada spent an estimated $30.4M
   in 2021-2022 on contracts with McKesson Canada. The average
   contract duration was 0.05 years, and the average contract value
-  (not including contracts under $10k) was $58.3K. The longest
+  (not including contracts under $10k) was $58.1K. The longest
   contract was 0.98 years. The largest contract by value (including
-  amendments) was $439.6K.
+  amendments) was $492.8K.
 lookup_name: 'MCKESSON CANADA'
 most_recent_fiscal_year_total: '30.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '3,516'
-s431_number_of_contracts_with_amendments: '25'
+s431_number_of_contracts: '3,729'
+s431_number_of_contracts_with_amendments: '28'
 s431_number_of_contracts_amendments_percentage: '1%'
-s432_mean_amendment_increase_percentage: '1%'
+s432_mean_amendment_increase_percentage: '5%'
 s434_mean_number_of_amendments: '1'
-s433_total_amendment_increase_value: '-151.7K'
+s433_total_amendment_increase_value: '-119.1K'
 s424_mean_duration: '0.05'
-s421_mean_contract_value: '58.3K'
+s421_mean_contract_value: '58.1K'
 s425_max_duration: '0.98'
-s422_max_contract_value: '439.6K'
+s422_max_contract_value: '492.8K'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,8 +55,8 @@ s422_max_contract_value: '439.6K'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
-- [MCKESSON CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MCKESSON%20CANADA%22)
 - [MCKESSON CANADA CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MCKESSON%20CANADA%20CORPORATION%22)
+- [MCKESSON CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MCKESSON%20CANADA%22)
 - [McKESSON CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22McKESSON%20CANADA%22)
 - [MCKESSON DISTRIBUTION PARTNERS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MCKESSON%20DISTRIBUTION%20PARTNERS%22)
 - [McKesson Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22McKesson%20Canada%22)

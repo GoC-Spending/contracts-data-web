@@ -1,7 +1,7 @@
 ---
 title: Open Geospatial Consortium
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: open_geospatial_consortium
 categories: []
 tags: []

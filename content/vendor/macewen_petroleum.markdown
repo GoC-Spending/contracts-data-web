@@ -1,7 +1,7 @@
 ---
 title: MacEwen Petroleum
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: macewen_petroleum
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.5M
   in 2021-2022 on contracts with MacEwen Petroleum. The average
-  contract duration was 0.16 years, and the average contract value
-  (not including contracts under $10k) was $58.0K. The longest
+  contract duration was 0.17 years, and the average contract value
+  (not including contracts under $10k) was $55.3K. The longest
   contract was 3.08 years. The largest contract by value (including
   amendments) was $3.3M.
 lookup_name: 'MACEWEN PETROLEUM'
 most_recent_fiscal_year_total: '2.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '290'
-s431_number_of_contracts_with_amendments: '14'
+s431_number_of_contracts: '315'
+s431_number_of_contracts_with_amendments: '15'
 s431_number_of_contracts_amendments_percentage: '5%'
-s432_mean_amendment_increase_percentage: '231%'
-s434_mean_number_of_amendments: '1.43'
-s433_total_amendment_increase_value: '380.4K'
-s424_mean_duration: '0.16'
-s421_mean_contract_value: '58.0K'
+s432_mean_amendment_increase_percentage: '243%'
+s434_mean_number_of_amendments: '1.4'
+s433_total_amendment_increase_value: '417.7K'
+s424_mean_duration: '0.17'
+s421_mean_contract_value: '55.3K'
 s425_max_duration: '3.08'
 s422_max_contract_value: '3.3M'
 ---

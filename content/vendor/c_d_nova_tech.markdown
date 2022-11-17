@@ -1,7 +1,7 @@
 ---
 title: C D Nova Tech
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: c_d_nova_tech
 categories: []
 tags: []

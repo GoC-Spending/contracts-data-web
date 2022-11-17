@@ -1,7 +1,7 @@
 ---
 title: Nke Instrumentation
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: nke_instrumentation
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
   in 2021-2022 on contracts with Nke Instrumentation. The average
-  contract duration was 0.38 years, and the average contract value
-  (not including contracts under $10k) was $214.0K. The longest
+  contract duration was 0.42 years, and the average contract value
+  (not including contracts under $10k) was $208.0K. The longest
   contract was 1.16 years. The largest contract by value (including
   amendments) was $620.2K.
 lookup_name: 'NKE INSTRUMENTATION'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '22'
+s431_number_of_contracts: '29'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '14%'
+s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '122%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '297.5K'
-s424_mean_duration: '0.38'
-s421_mean_contract_value: '214.0K'
+s424_mean_duration: '0.42'
+s421_mean_contract_value: '208.0K'
 s425_max_duration: '1.16'
 s422_max_contract_value: '620.2K'
 ---

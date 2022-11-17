@@ -1,7 +1,7 @@
 ---
 title: Terra Sense Analytics
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: terra_sense_analytics
 categories: []
 tags: []

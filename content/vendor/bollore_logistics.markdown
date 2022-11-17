@@ -1,7 +1,7 @@
 ---
 title: Bollore Logistics
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bollore_logistics
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Bollore Logistics. The average
-  contract duration was 0.19 years, and the average contract value
-  (not including contracts under $10k) was $37.7K. The longest
+  contract duration was 0.18 years, and the average contract value
+  (not including contracts under $10k) was $46.0K. The longest
   contract was 2.26 years. The largest contract by value (including
   amendments) was $2.0M.
 lookup_name: 'BOLLORE LOGISTICS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '178'
+s431_number_of_contracts: '196'
 s431_number_of_contracts_with_amendments: '5'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '25%'
 s434_mean_number_of_amendments: '1.2'
 s433_total_amendment_increase_value: '10.1K'
-s424_mean_duration: '0.19'
-s421_mean_contract_value: '37.7K'
+s424_mean_duration: '0.18'
+s421_mean_contract_value: '46.0K'
 s425_max_duration: '2.26'
 s422_max_contract_value: '2.0M'
 ---
@@ -56,6 +56,7 @@ s422_max_contract_value: '2.0M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [BOLLORE LOGISTICS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BOLLORE%20LOGISTICS%22)
+- [Bolloré Logistics Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bollor%c3%a9%20Logistics%20Inc.%22)
 - [Bollore Logistics China Co.,Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bollore%20Logistics%20China%20Co.%2cLtd%22)
 {{< /details >}}
 

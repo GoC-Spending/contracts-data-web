@@ -1,7 +1,7 @@
 ---
 title: Toyota
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: toyota
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $10.0M
   in 2021-2022 on contracts with Toyota. The average
-  contract duration was 0.44 years, and the average contract value
-  (not including contracts under $10k) was $103.8K. The longest
+  contract duration was 0.45 years, and the average contract value
+  (not including contracts under $10k) was $99.7K. The longest
   contract was 10.02 years. The largest contract by value (including
   amendments) was $4.8M.
 lookup_name: 'TOYOTA'
 most_recent_fiscal_year_total: '10.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '590'
-s431_number_of_contracts_with_amendments: '50'
-s431_number_of_contracts_amendments_percentage: '8%'
+s431_number_of_contracts: '649'
+s431_number_of_contracts_with_amendments: '65'
+s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '-1%'
-s434_mean_number_of_amendments: '1.48'
+s434_mean_number_of_amendments: '1.49'
 s433_total_amendment_increase_value: '-311.5K'
-s424_mean_duration: '0.44'
-s421_mean_contract_value: '103.8K'
+s424_mean_duration: '0.45'
+s421_mean_contract_value: '99.7K'
 s425_max_duration: '10.02'
 s422_max_contract_value: '4.8M'
 ---

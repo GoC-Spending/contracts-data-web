@@ -1,7 +1,7 @@
 ---
 title: Gagnon Letellier Cyr Ricard
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gagnon_letellier_cyr_ricard
 categories: []
 tags: []

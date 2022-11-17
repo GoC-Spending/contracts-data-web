@@ -1,7 +1,7 @@
 ---
 title: Zenith Paving
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: zenith_paving
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $980.8K
   in 2021-2022 on contracts with Zenith Paving. The average
-  contract duration was 0.55 years, and the average contract value
-  (not including contracts under $10k) was $730.8K. The longest
+  contract duration was 0.53 years, and the average contract value
+  (not including contracts under $10k) was $589.4K. The longest
   contract was 2.62 years. The largest contract by value (including
   amendments) was $2.9M.
 lookup_name: 'ZENITH PAVING'
 most_recent_fiscal_year_total: '980.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '8'
+s431_number_of_contracts: '10'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '12%'
+s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '9%'
 s434_mean_number_of_amendments: '3'
 s433_total_amendment_increase_value: '188.6K'
-s424_mean_duration: '0.55'
-s421_mean_contract_value: '730.8K'
+s424_mean_duration: '0.53'
+s421_mean_contract_value: '589.4K'
 s425_max_duration: '2.62'
 s422_max_contract_value: '2.9M'
 ---

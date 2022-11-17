@@ -1,7 +1,7 @@
 ---
 title: Prosci Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: prosci_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $4.1M
   in 2021-2022 on contracts with Prosci Canada. The average
-  contract duration was 0.3 years, and the average contract value
-  (not including contracts under $10k) was $55.3K. The longest
+  contract duration was 0.31 years, and the average contract value
+  (not including contracts under $10k) was $55.5K. The longest
   contract was 4.01 years. The largest contract by value (including
   amendments) was $933.8K.
 lookup_name: 'PROSCI CANADA'
 most_recent_fiscal_year_total: '4.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '288'
+s431_number_of_contracts: '294'
 s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '78%'
 s434_mean_number_of_amendments: '1.3'
 s433_total_amendment_increase_value: '428.5K'
-s424_mean_duration: '0.3'
-s421_mean_contract_value: '55.3K'
+s424_mean_duration: '0.31'
+s421_mean_contract_value: '55.5K'
 s425_max_duration: '4.01'
 s422_max_contract_value: '933.8K'
 ---
@@ -61,6 +61,7 @@ s422_max_contract_value: '933.8K'
 - [PROSCI CANADA ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PROSCI%20%20CANADA%20%20ULC%22)
 - [Prosci Canada, ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Prosci%20Canada%2c%20ULC%22)
 - [PROSCI Canada, ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PROSCI%20Canada%2c%20ULC%22)
+- [PROSCI Canada ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22PROSCI%20Canada%20ULC%22)
 - [Prosci Canada ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Prosci%20Canada%20ULC%22)
 - [ProSci Canada, ULC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ProSci%20Canada%2c%20ULC%22)
 - [Prosci Canada, Ulc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Prosci%20Canada%2c%20Ulc%22)

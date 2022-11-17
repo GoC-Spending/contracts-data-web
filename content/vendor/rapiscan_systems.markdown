@@ -1,7 +1,7 @@
 ---
 title: Rapiscan Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: rapiscan_systems
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.4M
   in 2021-2022 on contracts with Rapiscan Systems. The average
-  contract duration was 2.52 years, and the average contract value
-  (not including contracts under $10k) was $869.0K. The longest
+  contract duration was 2.32 years, and the average contract value
+  (not including contracts under $10k) was $797.8K. The longest
   contract was 6.88 years. The largest contract by value (including
   amendments) was $8.7M.
 lookup_name: 'RAPISCAN SYSTEMS'
 most_recent_fiscal_year_total: '1.4M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '11'
+s431_number_of_contracts: '12'
 s431_number_of_contracts_with_amendments: '4'
-s431_number_of_contracts_amendments_percentage: '36%'
+s431_number_of_contracts_amendments_percentage: '33%'
 s432_mean_amendment_increase_percentage: '28%'
 s434_mean_number_of_amendments: '3.25'
 s433_total_amendment_increase_value: '1.7M'
-s424_mean_duration: '2.52'
-s421_mean_contract_value: '869.0K'
+s424_mean_duration: '2.32'
+s421_mean_contract_value: '797.8K'
 s425_max_duration: '6.88'
 s422_max_contract_value: '8.7M'
 ---

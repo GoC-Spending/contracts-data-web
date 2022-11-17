@@ -1,7 +1,7 @@
 ---
 title: Kanter Marine
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: kanter_marine
 categories: []
 tags: []

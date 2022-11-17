@@ -1,7 +1,7 @@
 ---
 title: Davtair Industries
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: davtair_industries
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Armserv Contracting
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: armserv_contracting
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.5M
   in 2021-2022 on contracts with Armserv Contracting. The average
-  contract duration was 1.46 years, and the average contract value
-  (not including contracts under $10k) was $1.0M. The longest
+  contract duration was 1.3 years, and the average contract value
+  (not including contracts under $10k) was $881.6K. The longest
   contract was 2.95 years. The largest contract by value (including
   amendments) was $3.1M.
 lookup_name: 'ARMSERV CONTRACTING'
 most_recent_fiscal_year_total: '2.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '5'
+s431_number_of_contracts: '6'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '40%'
+s431_number_of_contracts_amendments_percentage: '33%'
 s432_mean_amendment_increase_percentage: '4%'
 s434_mean_number_of_amendments: '3'
 s433_total_amendment_increase_value: '208.8K'
-s424_mean_duration: '1.46'
-s421_mean_contract_value: '1.0M'
+s424_mean_duration: '1.3'
+s421_mean_contract_value: '881.6K'
 s425_max_duration: '2.95'
 s422_max_contract_value: '3.1M'
 ---

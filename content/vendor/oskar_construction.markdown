@@ -1,7 +1,7 @@
 ---
 title: Oskar Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: oskar_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $516.6K
   in 2021-2022 on contracts with Oskar Construction. The average
-  contract duration was 0.53 years, and the average contract value
-  (not including contracts under $10k) was $425.8K. The longest
+  contract duration was 0.54 years, and the average contract value
+  (not including contracts under $10k) was $393.5K. The longest
   contract was 1.96 years. The largest contract by value (including
   amendments) was $2.5M.
 lookup_name: 'OSKAR CONSTRUCTION'
 most_recent_fiscal_year_total: '516.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '22'
+s431_number_of_contracts: '24'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '32%'
+s431_number_of_contracts_amendments_percentage: '29%'
 s432_mean_amendment_increase_percentage: '48%'
 s434_mean_number_of_amendments: '1.57'
 s433_total_amendment_increase_value: '1.8M'
-s424_mean_duration: '0.53'
-s421_mean_contract_value: '425.8K'
+s424_mean_duration: '0.54'
+s421_mean_contract_value: '393.5K'
 s425_max_duration: '1.96'
 s422_max_contract_value: '2.5M'
 ---

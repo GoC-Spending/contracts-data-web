@@ -1,7 +1,7 @@
 ---
 title: FMC Professionals
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: fmc_professionals
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.0M
   in 2021-2022 on contracts with FMC Professionals. The average
-  contract duration was 0.75 years, and the average contract value
-  (not including contracts under $10k) was $196.7K. The longest
+  contract duration was 0.74 years, and the average contract value
+  (not including contracts under $10k) was $191.5K. The longest
   contract was 2.42 years. The largest contract by value (including
   amendments) was $1.6M.
 lookup_name: 'FMC PROFESSIONALS'
 most_recent_fiscal_year_total: '1.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '49'
+s431_number_of_contracts: '51'
 s431_number_of_contracts_with_amendments: '19'
-s431_number_of_contracts_amendments_percentage: '39%'
+s431_number_of_contracts_amendments_percentage: '37%'
 s432_mean_amendment_increase_percentage: '116%'
 s434_mean_number_of_amendments: '1.68'
 s433_total_amendment_increase_value: '2.7M'
-s424_mean_duration: '0.75'
-s421_mean_contract_value: '196.7K'
+s424_mean_duration: '0.74'
+s421_mean_contract_value: '191.5K'
 s425_max_duration: '2.42'
 s422_max_contract_value: '1.6M'
 ---

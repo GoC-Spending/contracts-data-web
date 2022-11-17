@@ -1,7 +1,7 @@
 ---
 title: Services D’Aide En Prevention De La Criminalite
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: services_d_aide_en_prevention_de_la_criminalite
 categories: []
 tags: []
@@ -19,10 +19,10 @@ lookup_name: 'SERVICES D AIDE EN PREVENTION DE LA CRIMINALITE'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '4'
-s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '50%'
-s432_mean_amendment_increase_percentage: '595%'
-s434_mean_number_of_amendments: '6'
+s431_number_of_contracts_with_amendments: '3'
+s431_number_of_contracts_amendments_percentage: '75%'
+s432_mean_amendment_increase_percentage: '397%'
+s434_mean_number_of_amendments: '4.33'
 s433_total_amendment_increase_value: '8.0M'
 s424_mean_duration: '3.5'
 s421_mean_contract_value: '2.8M'

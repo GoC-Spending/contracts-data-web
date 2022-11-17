@@ -1,7 +1,7 @@
 ---
 title: Con Pro Industries Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: con_pro_industries_canada
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $10.5M
   in 2021-2022 on contracts with Con Pro Industries Canada. The average
-  contract duration was 1.28 years, and the average contract value
-  (not including contracts under $10k) was $2.7M. The longest
+  contract duration was 1.34 years, and the average contract value
+  (not including contracts under $10k) was $2.8M. The longest
   contract was 4.49 years. The largest contract by value (including
   amendments) was $18.1M.
 lookup_name: 'CON PRO INDUSTRIES CANADA'
 most_recent_fiscal_year_total: '10.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '15'
+s431_number_of_contracts: '16'
 s431_number_of_contracts_with_amendments: '11'
-s431_number_of_contracts_amendments_percentage: '73%'
+s431_number_of_contracts_amendments_percentage: '69%'
 s432_mean_amendment_increase_percentage: '22%'
 s434_mean_number_of_amendments: '3.45'
 s433_total_amendment_increase_value: '4.3M'
-s424_mean_duration: '1.28'
-s421_mean_contract_value: '2.7M'
+s424_mean_duration: '1.34'
+s421_mean_contract_value: '2.8M'
 s425_max_duration: '4.49'
 s422_max_contract_value: '18.1M'
 ---
@@ -56,8 +56,8 @@ s422_max_contract_value: '18.1M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [CON-PRO INDUSTRIES CANADA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CON-PRO%20INDUSTRIES%20CANADA%20LTD.%22)
-- [Con-Pro Industries Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Con-Pro%20Industries%20Canada%20Ltd%22)
 - [Con-Pro Industries Canada Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Con-Pro%20Industries%20Canada%20Ltd.%22)
+- [Con-Pro Industries Canada Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Con-Pro%20Industries%20Canada%20Ltd%22)
 {{< /details >}}
 
 ## Departments and agencies

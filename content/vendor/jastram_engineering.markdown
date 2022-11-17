@@ -1,7 +1,7 @@
 ---
 title: Jastram Engineering
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: jastram_engineering
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
   in 2020-2021 on contracts with Jastram Engineering. The average
-  contract duration was 0.53 years, and the average contract value
-  (not including contracts under $10k) was $1.0M. The longest
+  contract duration was 0.58 years, and the average contract value
+  (not including contracts under $10k) was $856.0K. The longest
   contract was 2.21 years. The largest contract by value (including
   amendments) was $5.7M.
 lookup_name: 'JASTRAM ENGINEERING'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts: '11'
+s431_number_of_contracts: '14'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '18%'
+s431_number_of_contracts_amendments_percentage: '14%'
 s432_mean_amendment_increase_percentage: '119%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '4.0M'
-s424_mean_duration: '0.53'
-s421_mean_contract_value: '1.0M'
+s424_mean_duration: '0.58'
+s421_mean_contract_value: '856.0K'
 s425_max_duration: '2.21'
 s422_max_contract_value: '5.7M'
 ---

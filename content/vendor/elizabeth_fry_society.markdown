@@ -1,7 +1,7 @@
 ---
 title: Elizabeth Fry Society
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: elizabeth_fry_society
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $5.8M
   in 2021-2022 on contracts with Elizabeth Fry Society. The average
-  contract duration was 3.05 years, and the average contract value
-  (not including contracts under $10k) was $1.6M. The longest
+  contract duration was 2.96 years, and the average contract value
+  (not including contracts under $10k) was $1.5M. The longest
   contract was 7 years. The largest contract by value (including
   amendments) was $5.6M.
 lookup_name: 'ELIZABETH FRY SOCIETY'
 most_recent_fiscal_year_total: '5.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '26'
+s431_number_of_contracts: '27'
 s431_number_of_contracts_with_amendments: '15'
-s431_number_of_contracts_amendments_percentage: '58%'
+s431_number_of_contracts_amendments_percentage: '56%'
 s432_mean_amendment_increase_percentage: '442%'
 s434_mean_number_of_amendments: '4.6'
 s433_total_amendment_increase_value: '32.8M'
-s424_mean_duration: '3.05'
-s421_mean_contract_value: '1.6M'
+s424_mean_duration: '2.96'
+s421_mean_contract_value: '1.5M'
 s425_max_duration: '7'
 s422_max_contract_value: '5.6M'
 ---

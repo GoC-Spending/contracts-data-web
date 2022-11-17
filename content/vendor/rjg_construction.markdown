@@ -1,7 +1,7 @@
 ---
 title: RJG Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: rjg_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $14.9M
   in 2021-2022 on contracts with RJG Construction. The average
-  contract duration was 0.83 years, and the average contract value
-  (not including contracts under $10k) was $1.9M. The longest
+  contract duration was 0.84 years, and the average contract value
+  (not including contracts under $10k) was $2.0M. The longest
   contract was 4.3 years. The largest contract by value (including
   amendments) was $8.4M.
 lookup_name: 'RJG CONSTRUCTION'
 most_recent_fiscal_year_total: '14.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '44'
+s431_number_of_contracts: '46'
 s431_number_of_contracts_with_amendments: '26'
-s431_number_of_contracts_amendments_percentage: '59%'
+s431_number_of_contracts_amendments_percentage: '57%'
 s432_mean_amendment_increase_percentage: '11%'
 s434_mean_number_of_amendments: '1.92'
 s433_total_amendment_increase_value: '4.4M'
-s424_mean_duration: '0.83'
-s421_mean_contract_value: '1.9M'
+s424_mean_duration: '0.84'
+s421_mean_contract_value: '2.0M'
 s425_max_duration: '4.3'
 s422_max_contract_value: '8.4M'
 ---
@@ -58,10 +58,10 @@ s422_max_contract_value: '8.4M'
 - [R J G CONSTRUCTION LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22R%20J%20G%20CONSTRUCTION%20LTD.%22)
 - [RJG CONSTRUCTION LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RJG%20CONSTRUCTION%20LTD%22)
 - [R.J.G. Construction Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22R.J.G.%20Construction%20Limited%22)
+- [R J G Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22R%20J%20G%20Construction%20Ltd.%22)
 - [R.J.G. CONSTRUCTION LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22R.J.G.%20CONSTRUCTION%20LIMITED%22)
 - [R.J.G. CONSTRUCTION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22R.J.G.%20CONSTRUCTION%22)
 - [RJG Construction Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RJG%20Construction%20Limited%22)
-- [R J G Construction Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22R%20J%20G%20Construction%20Ltd.%22)
 - [RJG COMPANY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RJG%20COMPANY%22)
 {{< /details >}}
 

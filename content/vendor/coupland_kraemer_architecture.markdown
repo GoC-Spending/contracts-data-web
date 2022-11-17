@@ -1,7 +1,7 @@
 ---
 title: Coupland Kraemer Architecture
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: coupland_kraemer_architecture
 categories: []
 tags: []

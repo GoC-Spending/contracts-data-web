@@ -1,7 +1,7 @@
 ---
 title: Co Ven
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: co_ven
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $4.3M
   in 2020-2021 on contracts with Co Ven. The average
-  contract duration was 2.17 years, and the average contract value
-  (not including contracts under $10k) was $9.3M. The longest
+  contract duration was 2.34 years, and the average contract value
+  (not including contracts under $10k) was $12.6M. The longest
   contract was 3.34 years. The largest contract by value (including
-  amendments) was $14.4M.
+  amendments) was $19.4M.
 lookup_name: 'CO VEN'
 most_recent_fiscal_year_total: '4.3M'
 most_recent_fiscal_year_year: '2020-2021'
-s431_number_of_contracts: '2'
+s431_number_of_contracts: '3'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '50%'
+s431_number_of_contracts_amendments_percentage: '33%'
 s432_mean_amendment_increase_percentage: '34%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '3.6M'
-s424_mean_duration: '2.17'
-s421_mean_contract_value: '9.3M'
+s424_mean_duration: '2.34'
+s421_mean_contract_value: '12.6M'
 s425_max_duration: '3.34'
-s422_max_contract_value: '14.4M'
+s422_max_contract_value: '19.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,6 +55,7 @@ s422_max_contract_value: '14.4M'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [CO-VEN-CO LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CO-VEN-CO%20LTD.%22)
 - [Co-Ven-Co Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Co-Ven-Co%20Ltd%22)
 - [CO-VEN-CO LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CO-VEN-CO%20LTD%22)
 {{< /details >}}

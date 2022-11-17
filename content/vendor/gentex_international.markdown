@@ -1,7 +1,7 @@
 ---
 title: Gentex International
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gentex_international
 categories: []
 tags: []

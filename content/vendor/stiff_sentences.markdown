@@ -1,7 +1,7 @@
 ---
 title: Stiff Sentences
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: stiff_sentences
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $506.8K
   in 2021-2022 on contracts with Stiff Sentences. The average
-  contract duration was 0.9 years, and the average contract value
-  (not including contracts under $10k) was $256.4K. The longest
+  contract duration was 0.89 years, and the average contract value
+  (not including contracts under $10k) was $250.4K. The longest
   contract was 4.88 years. The largest contract by value (including
   amendments) was $7.9M.
 lookup_name: 'STIFF SENTENCES'
 most_recent_fiscal_year_total: '506.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '37'
+s431_number_of_contracts: '38'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '14%'
+s431_number_of_contracts_amendments_percentage: '13%'
 s432_mean_amendment_increase_percentage: '56%'
 s434_mean_number_of_amendments: '1.4'
 s433_total_amendment_increase_value: '3.4M'
-s424_mean_duration: '0.9'
-s421_mean_contract_value: '256.4K'
+s424_mean_duration: '0.89'
+s421_mean_contract_value: '250.4K'
 s425_max_duration: '4.88'
 s422_max_contract_value: '7.9M'
 ---

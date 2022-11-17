@@ -1,7 +1,7 @@
 ---
 title: GAT International Localization Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: gat_intl_localization_services
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $147.6K
   in 2021-2022 on contracts with GAT International Localization Services. The average
-  contract duration was 1.11 years, and the average contract value
-  (not including contracts under $10k) was $302.8K. The longest
+  contract duration was 1.51 years, and the average contract value
+  (not including contracts under $10k) was $367.7K. The longest
   contract was 3 years. The largest contract by value (including
-  amendments) was $805.9K.
+  amendments) was $1.6M.
 lookup_name: 'GAT INTL LOCALIZATION SERVICES'
 most_recent_fiscal_year_total: '147.6K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '19'
+s431_number_of_contracts: '24'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '5%'
+s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '0%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '0.0'
-s424_mean_duration: '1.11'
-s421_mean_contract_value: '302.8K'
+s424_mean_duration: '1.51'
+s421_mean_contract_value: '367.7K'
 s425_max_duration: '3'
-s422_max_contract_value: '805.9K'
+s422_max_contract_value: '1.6M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,9 +55,9 @@ s422_max_contract_value: '805.9K'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
+- [Gat Intl. Localization Services Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gat%20Intl.%20Localization%20Services%20Inc%22)
 - [GAT INTL. LOCALIZATION SERVICES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GAT%20INTL.%20LOCALIZATION%20SERVICES%20INC%22)
 - [GAT INTL. LOCALIZATION SERVICES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GAT%20INTL.%20LOCALIZATION%20SERVICES%20INC.%22)
-- [Gat Intl. Localization Services Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Gat%20Intl.%20Localization%20Services%20Inc%22)
 {{< /details >}}
 
 ## Departments and agencies

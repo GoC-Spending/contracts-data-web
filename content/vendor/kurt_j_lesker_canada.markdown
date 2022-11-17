@@ -1,7 +1,7 @@
 ---
 title: Kurt J Lesker Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: kurt_j_lesker_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $518.5K
   in 2021-2022 on contracts with Kurt J Lesker Canada. The average
   contract duration was 0.05 years, and the average contract value
-  (not including contracts under $10k) was $21.8K. The longest
+  (not including contracts under $10k) was $21.7K. The longest
   contract was 0.77 years. The largest contract by value (including
   amendments) was $150.6K.
 lookup_name: 'KURT J LESKER CANADA'
 most_recent_fiscal_year_total: '518.5K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '109'
+s431_number_of_contracts: '120'
 s431_number_of_contracts_with_amendments: '1'
 s431_number_of_contracts_amendments_percentage: '1%'
 s432_mean_amendment_increase_percentage: '2%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '223.0'
 s424_mean_duration: '0.05'
-s421_mean_contract_value: '21.8K'
+s421_mean_contract_value: '21.7K'
 s425_max_duration: '0.77'
 s422_max_contract_value: '150.6K'
 ---

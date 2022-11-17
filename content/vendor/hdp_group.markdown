@@ -1,7 +1,7 @@
 ---
 title: Hdp Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hdp_group
 categories: []
 tags: []
@@ -19,10 +19,10 @@ lookup_name: 'HDP GROUP'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '41'
-s431_number_of_contracts_with_amendments: '8'
-s431_number_of_contracts_amendments_percentage: '20%'
-s432_mean_amendment_increase_percentage: '190%'
-s434_mean_number_of_amendments: '1.62'
+s431_number_of_contracts_with_amendments: '9'
+s431_number_of_contracts_amendments_percentage: '22%'
+s432_mean_amendment_increase_percentage: '169%'
+s434_mean_number_of_amendments: '1.56'
 s433_total_amendment_increase_value: '1.9M'
 s424_mean_duration: '1.05'
 s421_mean_contract_value: '152.2K'

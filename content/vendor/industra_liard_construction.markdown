@@ -1,7 +1,7 @@
 ---
 title: Industra Liard Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: industra_liard_construction
 categories: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 title: Ecole De Langues Eagle
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: ecole_de_langues_eagle
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Ecole De Langues Eagle. The average
-  contract duration was 0.52 years, and the average contract value
-  (not including contracts under $10k) was $24.8K. The longest
+  contract duration was 0.53 years, and the average contract value
+  (not including contracts under $10k) was $24.5K. The longest
   contract was 4.03 years. The largest contract by value (including
   amendments) was $84.8K.
 lookup_name: 'ECOLE DE LANGUES EAGLE'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '155'
-s431_number_of_contracts_with_amendments: '29'
-s431_number_of_contracts_amendments_percentage: '19%'
-s432_mean_amendment_increase_percentage: '56%'
-s434_mean_number_of_amendments: '1.38'
+s431_number_of_contracts: '173'
+s431_number_of_contracts_with_amendments: '30'
+s431_number_of_contracts_amendments_percentage: '17%'
+s432_mean_amendment_increase_percentage: '54%'
+s434_mean_number_of_amendments: '1.37'
 s433_total_amendment_increase_value: '223.0K'
-s424_mean_duration: '0.52'
-s421_mean_contract_value: '24.8K'
+s424_mean_duration: '0.53'
+s421_mean_contract_value: '24.5K'
 s425_max_duration: '4.03'
 s422_max_contract_value: '84.8K'
 ---

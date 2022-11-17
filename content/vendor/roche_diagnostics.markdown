@@ -1,7 +1,7 @@
 ---
 title: Roche Diagnostics
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: roche_diagnostics
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: The Government of Canada spent an estimated $84.0M
 lookup_name: 'ROCHE DIAGNOSTICS'
 most_recent_fiscal_year_total: '84.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '67'
+s431_number_of_contracts: '68'
 s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '13%'
 s432_mean_amendment_increase_percentage: '553%'

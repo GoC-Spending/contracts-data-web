@@ -1,7 +1,7 @@
 ---
 title: Canadian Fishing Company
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: canadian_fishing_company
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with Canadian Fishing Company. The average
-  contract duration was 0.47 years, and the average contract value
-  (not including contracts under $10k) was $2.2M. The longest
+  contract duration was 0.44 years, and the average contract value
+  (not including contracts under $10k) was $1.9M. The longest
   contract was 0.97 years. The largest contract by value (including
   amendments) was $4.9M.
 lookup_name: 'CANADIAN FISHING COMPANY'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '3'
+s431_number_of_contracts: '4'
 s431_number_of_contracts_with_amendments: '1'
-s431_number_of_contracts_amendments_percentage: '33%'
+s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '33%'
 s434_mean_number_of_amendments: '2'
 s433_total_amendment_increase_value: '1.2M'
-s424_mean_duration: '0.47'
-s421_mean_contract_value: '2.2M'
+s424_mean_duration: '0.44'
+s421_mean_contract_value: '1.9M'
 s425_max_duration: '0.97'
 s422_max_contract_value: '4.9M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Michelin
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: michelin
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $206.7K
   in 2021-2022 on contracts with Michelin. The average
-  contract duration was 0.29 years, and the average contract value
-  (not including contracts under $10k) was $130.8K. The longest
+  contract duration was 0.3 years, and the average contract value
+  (not including contracts under $10k) was $120.8K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $3.0M.
 lookup_name: 'MICHELIN'
 most_recent_fiscal_year_total: '206.7K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '41'
+s431_number_of_contracts: '47'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '5%'
+s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '-4%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-802.6'
-s424_mean_duration: '0.29'
-s421_mean_contract_value: '130.8K'
+s424_mean_duration: '0.3'
+s421_mean_contract_value: '120.8K'
 s425_max_duration: '2'
 s422_max_contract_value: '3.0M'
 ---
@@ -57,11 +57,11 @@ s422_max_contract_value: '3.0M'
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Michelin North America (Canada) Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Michelin%20North%20America%20%28Canada%29%20Inc%22)
 - [Michelin North America (Canada) Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Michelin%20North%20America%20%28Canada%29%20Inc.%22)
+- [MICHELIN NORTH AMERICA (CANADA) INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MICHELIN%20NORTH%20AMERICA%20%28CANADA%29%20INC%22)
 - [Michelin North America ( Canada ) Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Michelin%20North%20America%20%28%20Canada%20%29%20Inc.%22)
 - [Michelin North America (Canada) inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Michelin%20North%20America%20%28Canada%29%20inc.%22)
 - [MICHELIN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MICHELIN%22)
 - [MICHELIN NORTH AMERICA CANADA INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MICHELIN%20NORTH%20AMERICA%20CANADA%20INC%22)
-- [MICHELIN NORTH AMERICA (CANADA) INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MICHELIN%20NORTH%20AMERICA%20%28CANADA%29%20INC%22)
 - [MICHELIN NORTH AMERICA (CANADA)INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MICHELIN%20NORTH%20AMERICA%20%28CANADA%29INC.%22)
 - [MICHELIN NORTH AMERICA (CANADA) INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MICHELIN%20NORTH%20AMERICA%20%28CANADA%29%20INC.%22)
 - [Michelin North America (Canada)inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Michelin%20North%20America%20%28Canada%29inc%22)

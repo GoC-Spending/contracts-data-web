@@ -1,7 +1,7 @@
 ---
 title: Tremcar Industries
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: tremcar_industries
 categories: []
 tags: []

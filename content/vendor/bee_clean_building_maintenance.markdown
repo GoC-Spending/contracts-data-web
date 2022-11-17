@@ -1,7 +1,7 @@
 ---
 title: Bee Clean Building Maintenance
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bee_clean_building_maintenance
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Bee Clean Building Maintenance. The average
   contract duration was 0.49 years, and the average contract value
-  (not including contracts under $10k) was $52.2K. The longest
+  (not including contracts under $10k) was $52.4K. The longest
   contract was 4.75 years. The largest contract by value (including
   amendments) was $584.8K.
 lookup_name: 'BEE CLEAN BUILDING MAINTENANCE'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '175'
+s431_number_of_contracts: '176'
 s431_number_of_contracts_with_amendments: '20'
 s431_number_of_contracts_amendments_percentage: '11%'
 s432_mean_amendment_increase_percentage: '31%'
 s434_mean_number_of_amendments: '1.45'
 s433_total_amendment_increase_value: '508.5K'
 s424_mean_duration: '0.49'
-s421_mean_contract_value: '52.2K'
+s421_mean_contract_value: '52.4K'
 s425_max_duration: '4.75'
 s422_max_contract_value: '584.8K'
 ---
@@ -70,11 +70,11 @@ s422_max_contract_value: '584.8K'
 - [BEE CLEAN BUILDING MAINTENANCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEE%20CLEAN%20BUILDING%20MAINTENANCE%22)
 - [BEE-CLEAN NORTHERN ALBERTA LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEE-CLEAN%20NORTHERN%20ALBERTA%20LTD.%22)
 - [Bee Clean Building Maintenance](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bee%20Clean%20Building%20Maintenance%22)
+- [BEE-CLEAN BUILDING MAINTENANCE INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEE-CLEAN%20BUILDING%20MAINTENANCE%20INC%22)
 - [Bee-Clean Builidng Maintenance](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bee-Clean%20Builidng%20Maintenance%22)
 - [Bee Clean](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bee%20Clean%22)
 - [BEE Clean](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEE%20Clean%22)
 - [BEE CLEAN (TORONTO) LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEE%20CLEAN%20%28TORONTO%29%20LTD%22)
-- [BEE-CLEAN BUILDING MAINTENANCE INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEE-CLEAN%20BUILDING%20MAINTENANCE%20INC%22)
 - [Bee Clean (Toronto) Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bee%20Clean%20%28Toronto%29%20Ltd%22)
 - [Bee-Clean Co.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Bee-Clean%20Co.%22)
 - [BEE-CLEAN CO. (brandon) Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22BEE-CLEAN%20CO.%20%28brandon%29%20Ltd.%22)

@@ -1,7 +1,7 @@
 ---
 title: University of Alaska Fairbanks
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: university_of_alaska_fairbanks
 categories: []
 tags: []

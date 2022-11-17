@@ -1,7 +1,7 @@
 ---
 title: Neptune Security Services
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: neptune_security_services
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $5.8M
   in 2021-2022 on contracts with Neptune Security Services. The average
-  contract duration was 1.05 years, and the average contract value
-  (not including contracts under $10k) was $2.4M. The longest
+  contract duration was 1 years, and the average contract value
+  (not including contracts under $10k) was $2.3M. The longest
   contract was 5 years. The largest contract by value (including
   amendments) was $48.8M.
 lookup_name: 'NEPTUNE SECURITY SERVICES'
 most_recent_fiscal_year_total: '5.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '25'
+s431_number_of_contracts: '27'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '28%'
+s431_number_of_contracts_amendments_percentage: '26%'
 s432_mean_amendment_increase_percentage: '158%'
 s434_mean_number_of_amendments: '1.86'
 s433_total_amendment_increase_value: '380.2K'
-s424_mean_duration: '1.05'
-s421_mean_contract_value: '2.4M'
+s424_mean_duration: '1'
+s421_mean_contract_value: '2.3M'
 s425_max_duration: '5'
 s422_max_contract_value: '48.8M'
 ---
@@ -58,8 +58,8 @@ s422_max_contract_value: '48.8M'
 - [Neptune Security Services Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Neptune%20Security%20Services%20Inc.%22)
 - [NEPTUNE SECURITY SERVICES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEPTUNE%20SECURITY%20SERVICES%20INC.%22)
 - [Neptune Security Services Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Neptune%20Security%20Services%20Inc%22)
-- [Neptune Security Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Neptune%20Security%20Services%22)
 - [NEPTUNE SECURITY SERVICES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEPTUNE%20SECURITY%20SERVICES%20INC%22)
+- [Neptune Security Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Neptune%20Security%20Services%22)
 - [NEPTUNE SECURY SERVICES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEPTUNE%20SECURY%20SERVICES%20INC.%22)
 {{< /details >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Omnitech Electronics
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: omnitech_electronics
 categories: []
 tags: []
@@ -11,23 +11,23 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $191.3K
   in 2021-2022 on contracts with Omnitech Electronics. The average
-  contract duration was 0.96 years, and the average contract value
-  (not including contracts under $10k) was $363.2K. The longest
+  contract duration was 0.93 years, and the average contract value
+  (not including contracts under $10k) was $548.7K. The longest
   contract was 3 years. The largest contract by value (including
-  amendments) was $1.7M.
+  amendments) was $4.4M.
 lookup_name: 'OMNITECH ELECTRONICS'
 most_recent_fiscal_year_total: '191.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '18'
+s431_number_of_contracts: '20'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
-s424_mean_duration: '0.96'
-s421_mean_contract_value: '363.2K'
+s424_mean_duration: '0.93'
+s421_mean_contract_value: '548.7K'
 s425_max_duration: '3'
-s422_max_contract_value: '1.7M'
+s422_max_contract_value: '4.4M'
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -55,8 +55,8 @@ s422_max_contract_value: '1.7M'
 {{< /entity_summary_params >}}
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
-- [OMNITECH ELECTRONICS INCORPORATED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OMNITECH%20ELECTRONICS%20INCORPORATED%22)
 - [Omnitech Electronics Incorporated](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Omnitech%20Electronics%20Incorporated%22)
+- [OMNITECH ELECTRONICS INCORPORATED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OMNITECH%20ELECTRONICS%20INCORPORATED%22)
 - [OMNITECH ELECTRONICS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OMNITECH%20ELECTRONICS%20INC%22)
 - [Omnitech Electronics Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Omnitech%20Electronics%20Inc.%22)
 - [OMNITECH ELECTRONICS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22OMNITECH%20ELECTRONICS%22)

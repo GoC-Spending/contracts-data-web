@@ -1,7 +1,7 @@
 ---
 title: MLS Overseas
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mls_overseas
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $5.9M
   in 2021-2022 on contracts with MLS Overseas. The average
   contract duration was 0.08 years, and the average contract value
-  (not including contracts under $10k) was $98.0K. The longest
+  (not including contracts under $10k) was $97.1K. The longest
   contract was 11.18 years. The largest contract by value (including
   amendments) was $403.5K.
 lookup_name: 'MLS OVERSEAS'
 most_recent_fiscal_year_total: '5.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '463'
+s431_number_of_contracts: '471'
 s431_number_of_contracts_with_amendments: '154'
 s431_number_of_contracts_amendments_percentage: '33%'
 s432_mean_amendment_increase_percentage: '20%'
 s434_mean_number_of_amendments: '1.12'
 s433_total_amendment_increase_value: '1.9M'
 s424_mean_duration: '0.08'
-s421_mean_contract_value: '98.0K'
+s421_mean_contract_value: '97.1K'
 s425_max_duration: '11.18'
 s422_max_contract_value: '403.5K'
 ---
@@ -105,6 +105,7 @@ s422_max_contract_value: '403.5K'
 - [MLS (OVERSEAS) LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20%28OVERSEAS%29%20LTD.%22)
 - [MLS OVERSEAS - MULTINATIONAL LOGISTIC SERVICES LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20OVERSEAS%20-%20MULTINATIONAL%20LOGISTIC%20SERVICES%20LTD%22)
 - [MLS Overseas - Multinational Logistic Services Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20Overseas%20-%20Multinational%20Logistic%20Services%20Ltd%22)
+- [MLS(OVERSEAS)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%28OVERSEAS%29%22)
 - [MLS (Oversesas) Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20%28Oversesas%29%20Limited%22)
 - [MLS-Multi National Logistics Services](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS-Multi%20National%20Logistics%20Services%22)
 - [MLS (Overseas) Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20%28Overseas%29%20Ltd.%22)
@@ -127,6 +128,7 @@ s422_max_contract_value: '403.5K'
 - [Mulitnational Logistics Services (MLS)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Mulitnational%20Logistics%20Services%20%28MLS%29%22)
 - [MLS USA Multinational Logistic Services Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20USA%20Multinational%20Logistic%20Services%20Ltd%22)
 - [MLS-MULTINATIONAL LOGISTICS SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS-MULTINATIONAL%20LOGISTICS%20SERVICES%22)
+- [MLS(Overseas) Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%28Overseas%29%20Limited%22)
 - [MLS USA CORP.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20USA%20CORP.%22)
 - [MLS Overseas Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20Overseas%20Ltd.%22)
 - [MLS (overseas ) Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22MLS%20%28overseas%20%29%20Limited%22)

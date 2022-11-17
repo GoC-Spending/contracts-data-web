@@ -1,7 +1,7 @@
 ---
 title: Illumina Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: illumina_canada
 categories: []
 tags: []
@@ -11,22 +11,22 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $11.3M
   in 2021-2022 on contracts with Illumina Canada. The average
-  contract duration was 0.38 years, and the average contract value
-  (not including contracts under $10k) was $60.5K. The longest
-  contract was 3.79 years. The largest contract by value (including
+  contract duration was 0.39 years, and the average contract value
+  (not including contracts under $10k) was $63.0K. The longest
+  contract was 5.01 years. The largest contract by value (including
   amendments) was $19.3M.
 lookup_name: 'ILLUMINA CANADA'
 most_recent_fiscal_year_total: '11.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '722'
+s431_number_of_contracts: '754'
 s431_number_of_contracts_with_amendments: '24'
 s431_number_of_contracts_amendments_percentage: '3%'
 s432_mean_amendment_increase_percentage: '78%'
 s434_mean_number_of_amendments: '1.21'
 s433_total_amendment_increase_value: '1.6M'
-s424_mean_duration: '0.38'
-s421_mean_contract_value: '60.5K'
-s425_max_duration: '3.79'
+s424_mean_duration: '0.39'
+s421_mean_contract_value: '63.0K'
+s425_max_duration: '5.01'
 s422_max_contract_value: '19.3M'
 ---
 

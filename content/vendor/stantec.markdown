@@ -1,7 +1,7 @@
 ---
 title: Stantec
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: stantec
 categories: []
 tags: []
@@ -9,27 +9,37 @@ images:
   - /img/cover.png
 r_init: |-
   
-description: The Government of Canada spent an estimated $41.4M
+description: The Government of Canada spent an estimated $43.6M
   in 2021-2022 on contracts with Stantec. The average
-  contract duration was 0.96 years, and the average contract value
-  (not including contracts under $10k) was $147.4K. The longest
+  contract duration was 0.97 years, and the average contract value
+  (not including contracts under $10k) was $149.0K. The longest
   contract was 8.72 years. The largest contract by value (including
   amendments) was $32.3M.
 lookup_name: 'STANTEC'
-most_recent_fiscal_year_total: '41.4M'
+most_recent_fiscal_year_total: '43.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1,824'
-s431_number_of_contracts_with_amendments: '441'
+s431_number_of_contracts: '1,904'
+s431_number_of_contracts_with_amendments: '458'
 s431_number_of_contracts_amendments_percentage: '24%'
-s432_mean_amendment_increase_percentage: '115%'
-s434_mean_number_of_amendments: '1.89'
-s433_total_amendment_increase_value: '51.9M'
-s424_mean_duration: '0.96'
-s421_mean_contract_value: '147.4K'
+s432_mean_amendment_increase_percentage: '117%'
+s434_mean_number_of_amendments: '1.92'
+s433_total_amendment_increase_value: '55.5M'
+s424_mean_duration: '0.97'
+s421_mean_contract_value: '149.0K'
 s425_max_duration: '8.72'
 s422_max_contract_value: '32.3M'
 ---
 
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery-3.6.0.min.js"></script>
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/dt-core-bootstrap/css/dataTables.bootstrap.extra.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/jquery.dataTables.min.js"></script>
+<script src="/rmarkdown-libs/dt-core-bootstrap/js/dataTables.bootstrap.min.js"></script>
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.min.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/crosstalk/js/crosstalk.min.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <link href="/rmarkdown-libs/datatables-css/datatables-crosstalk.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/datatables-binding/datatables.js"></script>
@@ -58,20 +68,20 @@ s422_max_contract_value: '32.3M'
 - [STANTEC ARCHITECTURE LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20ARCHITECTURE%20LTD.%22)
 - [Stantec Consulting Ltd (Vancouver)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd%20%28Vancouver%29%22)
 - [Stantec Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Limited%22)
+- [Stantec Consulting Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd.%22)
 - [STANTEC CONSULTING LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%22)
 - [STANTEC CONSULTING LTD (VANCOUVER)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD%20%28VANCOUVER%29%22)
 - [Dessau-Soprin Inc (Montreal)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dessau-Soprin%20Inc%20%28Montreal%29%22)
 - [DESSAU INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DESSAU%20INC.%22)
 - [STANTEC EXPERTS-CONSEILS LTÉE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20EXPERTS-CONSEILS%20LT%c3%89E%22)
 - [Stantec Consulting ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20ltd%22)
-- [Stantec Consulting Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd.%22)
 - [Stantec Consulting Ltd](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd%22)
 - [JACQUES WHITFORD STANTEC LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22JACQUES%20WHITFORD%20STANTEC%20LTD.%22)
 - [Stantec Architecture Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Architecture%20Ltd.%22)
 - [Stantec Consulting (Dartmouth)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20%28Dartmouth%29%22)
+- [STANTEC CONSULTING LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD%22)
 - [STANTEC ARCHITECTURE LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20ARCHITECTURE%20LTD%22)
 - [CONSORTIUM DESSAU/CIMA+](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22CONSORTIUM%20DESSAU%2fCIMA%2b%22)
-- [STANTEC CONSULTING LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD%22)
 - [Jacques Whitford Stantec Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Jacques%20Whitford%20Stantec%20Limited%22)
 - [STANTEC CONSULTING (DARTMOUTH)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20%28DARTMOUTH%29%22)
 - [STANTEC CONSULTING LTD (SCL)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD%20%28SCL%29%22)
@@ -102,9 +112,9 @@ s422_max_contract_value: '32.3M'
 - [Stantec Consulting Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Limited%22)
 - [Dessau Inc (Montreal)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dessau%20Inc%20%28Montreal%29%22)
 - [STANTEC EXPERTS-CONSEILS LTEE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20EXPERTS-CONSEILS%20LTEE%22)
+- [Stantec consulting](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20consulting%22)
 - [DESSAU INC. (LONGUEUIL)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DESSAU%20INC.%20%20%20%28LONGUEUIL%29%22)
 - [Stantec Consulting Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Inc%22)
-- [Stantec consulting](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20consulting%22)
 - [Stantec Consulting Ltd. (St.John’s)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd.%20%28St.John%27s%29%22)
 - [DESSAU](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DESSAU%22)
 - [Stantec Consulting Ltd. ( Saint John,NB)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd.%20%28%20Saint%20John%2cNB%29%22)
@@ -126,6 +136,7 @@ s422_max_contract_value: '32.3M'
 - [NUNAMI STANTEC LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUNAMI%20STANTEC%20LIMITED%22)
 - [DESSAU SOPRIN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DESSAU%20SOPRIN%22)
 - [STANTEC CONSULTING LTD. (EDMONTON)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%20%28EDMONTON%29%22)
+- [STANTEC EXPERTS CONSEILS LTEE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20EXPERTS%20CONSEILS%20LTEE%22)
 - [Stantec Architecture Ltd. (Yellowknife)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Architecture%20Ltd.%20%28Yellowknife%29%22)
 - [Stantec Consulting Ltd (Barrie)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd%20%28Barrie%29%22)
 - [Nunami Stantec Limited](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Nunami%20Stantec%20Limited%22)
@@ -145,15 +156,16 @@ s422_max_contract_value: '32.3M'
 - [Jacques Whitford Stantec Limitee](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Jacques%20Whitford%20Stantec%20Limitee%22)
 - [STANTEC CONSULTING LTD. ( SAINT JOHN)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%20%28%20SAINT%20JOHN%29%22)
 - [STANTEC CONSULTING LIMITED (DARTMOUTH)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LIMITED%20%28DARTMOUTH%29%22)
+- [Stantec Consulting ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20ltd.%22)
 - [DESSAU INC. (OTTAWA)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DESSAU%20INC.%20%28OTTAWA%29%22)
 - [DESSAU-SOPRIN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DESSAU-SOPRIN%22)
-- [STANTEC EXPERTS CONSEILS LTEE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20EXPERTS%20CONSEILS%20LTEE%22)
 - [STANTEC CONSULTING LTD. (SCL)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%20%28SCL%29%22)
 - [Stantec Consulting (Saint-Laurent)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20%28Saint-Laurent%29%22)
 - [Dessau Inc. (Gatineau)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dessau%20Inc.%20%28Gatineau%29%22)
 - [STANTEC EXPERTS-CONSEILS LTÉE.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20EXPERTS-CONSEILS%20LT%c3%89E.%22)
 - [Stantec Consulting International Lt](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20International%20Lt%22)
 - [Stantec Consulting Ltd. (Hamilton)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd.%20%28Hamilton%29%22)
+- [NUNAMI STANTEC LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NUNAMI%20STANTEC%20LTD%22)
 - [STANTEC CONSULTING (SAINT-LAURENT)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20%28SAINT-LAURENT%29%22)
 - [STANTEC CONSULTING LTD. (WINNIPEG)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%20%28WINNIPEG%29%22)
 - [NEEGAN NAYNOWAN STANTEC LP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22NEEGAN%20NAYNOWAN%20STANTEC%20LP%22)
@@ -171,8 +183,8 @@ s422_max_contract_value: '32.3M'
 - [STANTEC CONSULTING LTD. (MARKHAM)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%20%28MARKHAM%29%22)
 - [Stantec Consulting Ltd. (Markham)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Consulting%20Ltd.%20%28Markham%29%22)
 - [Dessau-Soprin Inc. (Gatineau)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dessau-Soprin%20Inc.%20%28Gatineau%29%22)
-- [STANTEC CONSULTING LTD. (KITCHENER)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%20%28KITCHENER%29%22)
 - [Stantec Geomatics Ltd.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Stantec%20Geomatics%20Ltd.%22)
+- [STANTEC CONSULTING LTD. (KITCHENER)](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTING%20LTD.%20%28KITCHENER%29%22)
 - [STANTEC GEOMATRICS LIMITED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20GEOMATRICS%20LIMITED%22)
 - [STANTEC CONSULTIN](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22STANTEC%20CONSULTIN%22)
 {{< /details >}}
@@ -180,7 +192,7 @@ s422_max_contract_value: '32.3M'
 ## Departments and agencies
 
 <div id="htmlwidget-1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/aandc-aadnc/\">Crown-Indigenous Relations and Northern Affairs Canada<\/a>","<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/cer-rec/\">Canada Energy Regulator<\/a>","<a href=\"/departments/cfia-acia/\">Canadian Food Inspection Agency<\/a>","<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/cnsc-ccsn/\">Canadian Nuclear Safety Commission<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/esdc-edsc/\">Employment and Social Development Canada<\/a>","<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/iaac-aeic/\">Impact Assessment Agency of Canada<\/a>","<a href=\"/departments/ic/\">Innovation, Science and Economic Development Canada<\/a>","<a href=\"/departments/nbc-ccbn/\">The National Battlefields Commission<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/opc-cpvp/\">Office of the Privacy Commissioner of Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/pch/\">Canadian Heritage<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tbs-sct/\">Treasury Board of Canada Secretariat<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[91974.97,114447.5,null,null,73368.64,82811.97,null,null,39514.03,50265.15,593906.64,5439499.09,82521.61,null,24559.28,15612.3,6246.21,null,902130.4,173992.28,14989.45,9145672.06,null,20218677.69,2078366.26,2071.67,607965.94],[149032.39,283501.16,85972.51,71391.6,41616.46,null,null,6253.31,34441.27,null,645868.11,4269759.45,217111.94,27790.63,2018.57,105310.2,null,null,1523006.14,415672.62,null,8121282.11,null,23770128.91,604412.67,22788.33,463658.06],[107253.2,236543.78,11415.98,null,63556.53,null,null,10346.39,110421.34,null,586651.53,4253374.82,13797,null,null,65187.75,1315.5,null,1187055.27,290509.74,null,5577937.83,22261,28538970.36,633835.46,null,256435.37],[73806.18,162419.47,null,39989.25,null,null,20311.75,32345.12,36033.17,null,838555.5,3587053.23,159358.47,null,11070.05,17149.95,494292.92,64386.02,909916.81,468104.81,null,3745918.07,null,29126597.33,1327291.49,null,325767.81]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/departments/aafc-aac/\">Agriculture and Agri-Food Canada<\/a>","<a href=\"/departments/aandc-aadnc/\">Crown-Indigenous Relations and Northern Affairs Canada<\/a>","<a href=\"/departments/cbsa-asfc/\">Canada Border Services Agency<\/a>","<a href=\"/departments/cer-rec/\">Canada Energy Regulator<\/a>","<a href=\"/departments/cfia-acia/\">Canadian Food Inspection Agency<\/a>","<a href=\"/departments/cic/\">Immigration, Refugees and Citizenship Canada<\/a>","<a href=\"/departments/cnsc-ccsn/\">Canadian Nuclear Safety Commission<\/a>","<a href=\"/departments/csa-asc/\">Canadian Space Agency<\/a>","<a href=\"/departments/csc-scc/\">Correctional Service of Canada<\/a>","<a href=\"/departments/dfatd-maecd/\">Global Affairs Canada<\/a>","<a href=\"/departments/dfo-mpo/\">Fisheries and Oceans Canada<\/a>","<a href=\"/departments/dnd-mdn/\">National Defence<\/a>","<a href=\"/departments/ec/\">Environment and Climate Change Canada<\/a>","<a href=\"/departments/esdc-edsc/\">Employment and Social Development Canada<\/a>","<a href=\"/departments/hc-sc/\">Health Canada<\/a>","<a href=\"/departments/iaac-aeic/\">Impact Assessment Agency of Canada<\/a>","<a href=\"/departments/ic/\">Innovation, Science and Economic Development Canada<\/a>","<a href=\"/departments/nbc-ccbn/\">The National Battlefields Commission<\/a>","<a href=\"/departments/nrc-cnrc/\">National Research Council Canada<\/a>","<a href=\"/departments/nrcan-rncan/\">Natural Resources Canada<\/a>","<a href=\"/departments/opc-cpvp/\">Office of the Privacy Commissioner of Canada<\/a>","<a href=\"/departments/pc/\">Parks Canada<\/a>","<a href=\"/departments/pch/\">Canadian Heritage<\/a>","<a href=\"/departments/pwgsc-tpsgc/\">Public Services and Procurement Canada<\/a>","<a href=\"/departments/rcmp-grc/\">Royal Canadian Mounted Police<\/a>","<a href=\"/departments/tbs-sct/\">Treasury Board of Canada Secretariat<\/a>","<a href=\"/departments/tc/\">Transport Canada<\/a>"],[91974.97,114447.5,null,null,73368.64,82811.97,null,null,39514.03,50265.15,593906.64,5448025.7,82521.61,null,24559.28,15612.3,6246.21,null,902130.4,173992.28,14989.45,9119869.03,null,19830225.58,2078366.26,2071.67,607965.94],[149032.39,283501.16,85972.51,71391.6,41616.46,null,null,6253.31,34441.27,null,645868.11,4288559.09,217111.94,27790.63,2018.57,105310.2,null,null,1523006.14,415672.62,null,8095408.39,null,23402875.67,604412.67,22788.33,463658.06],[107253.2,236543.78,11415.98,null,63556.53,null,null,10346.39,110421.34,null,586651.53,4663238.16,13797,null,null,65187.75,1315.5,null,1187055.27,290509.74,null,5552134.8,22261,28546149.97,633835.46,null,256435.37],[73806.18,162419.47,null,39989.25,null,null,20311.75,32345.12,36033.17,null,838555.5,5214045.57,159358.47,null,11070.05,17149.95,494292.92,64386.02,1097588.04,468104.81,null,3689083.44,null,29546855.54,1327291.49,null,325767.81]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Department<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"pageLength":10,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/stantec/summary_by_fiscal_year_by_department.csv" class="source-data-link btn btn-link">View source data</a>
 </p>
@@ -188,7 +200,13 @@ s422_max_contract_value: '32.3M'
 ## Categories
 
 <div id="htmlwidget-2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/other/\">(Other)<\/a>","<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/travel/\">Travel<\/a>","<a href=\"/categories/security_and_protection/\">Security and protection<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[64722,24749317.87,17640,65048.49,10840586.21,3566208.96,224516.45,104146.36,14989.45,111417.34],[36337,25720889.84,null,185265.3,11281176.46,3357568.44,187033.75,null,null,92745.67],[48788.32,27694139.66,null,9421.08,11444249.27,2519786.88,134601.55,null,null,115882.08],[0,27880631.26,null,76818.44,11756587.79,1546885.35,57.71,null,null,179386.84]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/categories/other/\">(Other)<\/a>","<a href=\"/categories/facilities_and_construction/\">Facilities and construction<\/a>","<a href=\"/categories/office_management/\">Office management<\/a>","<a href=\"/categories/defence/\">Defence<\/a>","<a href=\"/categories/professional_services/\">Professional services<\/a>","<a href=\"/categories/information_technology/\">Information technology<\/a>","<a href=\"/categories/industrial_products_and_services/\">Industrial products and services<\/a>","<a href=\"/categories/travel/\">Travel<\/a>","<a href=\"/categories/security_and_protection/\">Security and protection<\/a>","<a href=\"/categories/human_capital/\">Human capital<\/a>"],[64722,24531598.64,17640,65048.49,10840586.21,3378199.66,224516.45,104146.36,14989.45,111417.34],[36337,25535086.91,null,185265.3,11281176.46,3169044.04,187033.75,null,null,92745.67],[48788.32,28295069.77,null,9421.08,11422568.39,2331777.57,134601.55,null,null,115882.08],[0,30262411.91,null,76818.44,11675164.31,1424615.33,57.71,null,null,179386.84]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>Category<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
 <p class="text-right">
 <a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/stantec/summary_by_fiscal_year_by_category.csv" class="source-data-link btn btn-link">View source data</a>
+</p>
+<h2>Information technology subcategories</h2>
+<div id="htmlwidget-3" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-3">{"x":{"style":"bootstrap","filter":"none","vertical":false,"data":[["<a href=\"/it_subcategories/it_consulting_services/\">IT consulting services<\/a>","<a href=\"/it_subcategories/it_other/\">Other IT (incl. telecommunications)<\/a>"],[3378199.66,null],[3146816.94,22227.1],[2311724.91,20052.67],[1336804.1,87811.23]],"container":"<table class=\"table table-striped table-hover row-border order-column display\">\n  <thead>\n    <tr>\n      <th>IT subcategory<\/th>\n      <th>2018-2019<\/th>\n      <th>2019-2020<\/th>\n      <th>2020-2021<\/th>\n      <th>2021-2022<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"order":[[4,"desc"]],"dom":"t","pageLength":30,"autoWidth":true,"columnDefs":[{"targets":1,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":2,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":3,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"targets":4,"render":"function(data, type, row, meta) {\n    return type !== 'display' ? data : DTWidget.formatCurrency(data, \"$\", 2, 3, \",\", \".\", true, null);\n  }"},{"width":"16%","targets":[1,2,3,4]},{"className":"dt-right","targets":[1,2,3,4]}],"orderClasses":false,"lengthMenu":[10,25,30,50,100]}},"evals":["options.columnDefs.0.render","options.columnDefs.1.render","options.columnDefs.2.render","options.columnDefs.3.render"],"jsHooks":[]}</script>
+<p class="text-right">
+<a href="https://github.com/GoC-Spending/contracts-data/tree/main/data/out/vendors/stantec/summary_by_fiscal_year_by_it_subcategory.csv" class="source-data-link btn btn-link">View source data</a>
 </p>

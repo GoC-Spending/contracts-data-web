@@ -1,7 +1,7 @@
 ---
 title: DASCO Equipment
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: dasco_equipment
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.6M
   in 2021-2022 on contracts with DASCO Equipment. The average
-  contract duration was 0.24 years, and the average contract value
-  (not including contracts under $10k) was $57.2K. The longest
+  contract duration was 0.28 years, and the average contract value
+  (not including contracts under $10k) was $56.1K. The longest
   contract was 4.04 years. The largest contract by value (including
   amendments) was $751.5K.
 lookup_name: 'DASCO EQUIPMENT'
 most_recent_fiscal_year_total: '2.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '222'
-s431_number_of_contracts_with_amendments: '13'
+s431_number_of_contracts: '243'
+s431_number_of_contracts_with_amendments: '14'
 s431_number_of_contracts_amendments_percentage: '6%'
-s432_mean_amendment_increase_percentage: '40%'
-s434_mean_number_of_amendments: '1.08'
+s432_mean_amendment_increase_percentage: '38%'
+s434_mean_number_of_amendments: '1.07'
 s433_total_amendment_increase_value: '202.3K'
-s424_mean_duration: '0.24'
-s421_mean_contract_value: '57.2K'
+s424_mean_duration: '0.28'
+s421_mean_contract_value: '56.1K'
 s425_max_duration: '4.04'
 s422_max_contract_value: '751.5K'
 ---
@@ -63,10 +63,10 @@ s422_max_contract_value: '751.5K'
 - [Dasco Equipment Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Dasco%20Equipment%20Inc.%22)
 - [DASCO EQUIPMENT LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DASCO%20EQUIPMENT%20LTD%22)
 - [DASCO Equipment Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DASCO%20Equipment%20Inc%22)
+- [DASCO EQUIPMENT INC CAD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DASCO%20EQUIPMENT%20INC%20CAD%22)
 - [Danco Equipment Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Danco%20Equipment%20Inc.%22)
 - [DANCO EQUIPMENT INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DANCO%20EQUIPMENT%20INC.%22)
 - [DASCO EQUIPMENT INC USD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DASCO%20EQUIPMENT%20INC%20USD%22)
-- [DASCO EQUIPMENT INC CAD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DASCO%20EQUIPMENT%20INC%20CAD%22)
 - [DANCO EQUIPMENT LTD.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DANCO%20EQUIPMENT%20LTD.%22)
 - [DANCO EQUIPMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22DANCO%20EQUIPMENT%22)
 {{< /details >}}

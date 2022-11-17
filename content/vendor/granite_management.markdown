@@ -1,7 +1,7 @@
 ---
 title: Granite Management
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: granite_management
 categories: []
 tags: []

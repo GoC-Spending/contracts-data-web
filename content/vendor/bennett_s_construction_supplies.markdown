@@ -1,7 +1,7 @@
 ---
 title: Bennett S Construction Supplies
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: bennett_s_construction_supplies
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $359.0K
   in 2021-2022 on contracts with Bennett S Construction Supplies. The average
   contract duration was 0.24 years, and the average contract value
-  (not including contracts under $10k) was $235.4K. The longest
+  (not including contracts under $10k) was $238.4K. The longest
   contract was 0.49 years. The largest contract by value (including
   amendments) was $605.1K.
 lookup_name: 'BENNETT S CONSTRUCTION SUPPLIES'
 most_recent_fiscal_year_total: '359.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '12'
+s431_number_of_contracts: '13'
 s431_number_of_contracts_with_amendments: '6'
-s431_number_of_contracts_amendments_percentage: '50%'
+s431_number_of_contracts_amendments_percentage: '46%'
 s432_mean_amendment_increase_percentage: '-8%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '-111.7K'
 s424_mean_duration: '0.24'
-s421_mean_contract_value: '235.4K'
+s421_mean_contract_value: '238.4K'
 s425_max_duration: '0.49'
 s422_max_contract_value: '605.1K'
 ---

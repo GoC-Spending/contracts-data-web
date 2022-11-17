@@ -1,7 +1,7 @@
 ---
 title: Drapeaux et Bannieres L Etendard
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: drapeaux_et_bannieres_l_etendard
 categories: []
 tags: []

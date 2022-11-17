@@ -1,7 +1,7 @@
 ---
 title: Synergie Medicale Brg
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: synergie_medicale_brg
 categories: []
 tags: []

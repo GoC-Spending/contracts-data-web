@@ -1,7 +1,7 @@
 ---
 title: The University of Western Ontario
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: the_university_of_western_ontario
 categories: []
 tags: []

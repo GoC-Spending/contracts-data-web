@@ -1,7 +1,7 @@
 ---
 title: Black McDonald
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: black_mcdonald
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $6.2M
   in 2021-2022 on contracts with Black McDonald. The average
-  contract duration was 0.8 years, and the average contract value
-  (not including contracts under $10k) was $455.6K. The longest
+  contract duration was 0.79 years, and the average contract value
+  (not including contracts under $10k) was $448.0K. The longest
   contract was 9.25 years. The largest contract by value (including
   amendments) was $13.9M.
 lookup_name: 'BLACK MCDONALD'
 most_recent_fiscal_year_total: '6.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '279'
-s431_number_of_contracts_with_amendments: '74'
+s431_number_of_contracts: '285'
+s431_number_of_contracts_with_amendments: '76'
 s431_number_of_contracts_amendments_percentage: '27%'
-s432_mean_amendment_increase_percentage: '109%'
-s434_mean_number_of_amendments: '1.86'
-s433_total_amendment_increase_value: '19.3M'
-s424_mean_duration: '0.8'
-s421_mean_contract_value: '455.6K'
+s432_mean_amendment_increase_percentage: '107%'
+s434_mean_number_of_amendments: '1.84'
+s433_total_amendment_increase_value: '19.2M'
+s424_mean_duration: '0.79'
+s421_mean_contract_value: '448.0K'
 s425_max_duration: '9.25'
 s422_max_contract_value: '13.9M'
 ---

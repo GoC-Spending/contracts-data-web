@@ -1,7 +1,7 @@
 ---
 title: Thomas Schmidt
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: thomas_schmidt
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.2M
   in 2021-2022 on contracts with Thomas Schmidt. The average
-  contract duration was 1.28 years, and the average contract value
-  (not including contracts under $10k) was $256.5K. The longest
+  contract duration was 1.26 years, and the average contract value
+  (not including contracts under $10k) was $252.1K. The longest
   contract was 5.42 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'THOMAS SCHMIDT'
 most_recent_fiscal_year_total: '2.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '42'
+s431_number_of_contracts: '45'
 s431_number_of_contracts_with_amendments: '18'
-s431_number_of_contracts_amendments_percentage: '43%'
+s431_number_of_contracts_amendments_percentage: '40%'
 s432_mean_amendment_increase_percentage: '95%'
 s434_mean_number_of_amendments: '1.61'
 s433_total_amendment_increase_value: '2.3M'
-s424_mean_duration: '1.28'
-s421_mean_contract_value: '256.5K'
+s424_mean_duration: '1.26'
+s421_mean_contract_value: '252.1K'
 s425_max_duration: '5.42'
 s422_max_contract_value: '1.1M'
 ---
@@ -64,6 +64,7 @@ s422_max_contract_value: '1.1M'
 - [Thomas&Schmidt](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Thomas%26Schmidt%22)
 - [THOMAS & SCHMIDT, INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22THOMAS%20%26%20SCHMIDT%2c%20INC.%22)
 - [THOMAS & SCHMIDT, INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22THOMAS%20%26%20SCHMIDT%2c%20INC%22)
+- [Thomas & Schmidt.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Thomas%20%26%20Schmidt.%22)
 - [Thomas & Schmidt, Inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Thomas%20%26%20Schmidt%2c%20Inc%22)
 - [THOMAS & SCHMIDT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22THOMAS%20%26%20SCHMIDT%22)
 {{< /details >}}

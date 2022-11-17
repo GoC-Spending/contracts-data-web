@@ -1,7 +1,7 @@
 ---
 title: Anixter
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: anixter
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Anixter. The average
-  contract duration was 0.21 years, and the average contract value
-  (not including contracts under $10k) was $37.2K. The longest
+  contract duration was 0.22 years, and the average contract value
+  (not including contracts under $10k) was $36.8K. The longest
   contract was 3 years. The largest contract by value (including
   amendments) was $1.4M.
 lookup_name: 'ANIXTER'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '240'
+s431_number_of_contracts: '245'
 s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '4%'
 s432_mean_amendment_increase_percentage: '11%'
 s434_mean_number_of_amendments: '1.1'
 s433_total_amendment_increase_value: '60.7K'
-s424_mean_duration: '0.21'
-s421_mean_contract_value: '37.2K'
+s424_mean_duration: '0.22'
+s421_mean_contract_value: '36.8K'
 s425_max_duration: '3'
 s422_max_contract_value: '1.4M'
 ---
@@ -66,6 +66,7 @@ s422_max_contract_value: '1.4M'
 - [Anixter](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Anixter%22)
 - [ANIXTER CANADA LTD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ANIXTER%20CANADA%20LTD%22)
 - [anixter](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22anixter%22)
+- [Anixter Canada INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Anixter%20Canada%20INC%22)
 - [Anixter Ottawa](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Anixter%20Ottawa%22)
 - [ANIXTER](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ANIXTER%22)
 - [ANIXTER POWER SOLUTIONS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ANIXTER%20POWER%20SOLUTIONS%22)

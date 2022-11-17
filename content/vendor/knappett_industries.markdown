@@ -1,7 +1,7 @@
 ---
 title: Knappett Industries
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: knappett_industries
 categories: []
 tags: []

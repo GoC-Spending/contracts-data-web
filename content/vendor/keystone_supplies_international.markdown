@@ -1,7 +1,7 @@
 ---
 title: Keystone Supplies International
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: keystone_supplies_international
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $3.5M
   in 2021-2022 on contracts with Keystone Supplies International. The average
-  contract duration was 0.44 years, and the average contract value
-  (not including contracts under $10k) was $247.7K. The longest
+  contract duration was 0.43 years, and the average contract value
+  (not including contracts under $10k) was $241.4K. The longest
   contract was 1.33 years. The largest contract by value (including
   amendments) was $1.9M.
 lookup_name: 'KEYSTONE SUPPLIES INTERNATIONAL'
 most_recent_fiscal_year_total: '3.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '65'
+s431_number_of_contracts: '67'
 s431_number_of_contracts_with_amendments: '10'
 s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '4%'
 s434_mean_number_of_amendments: '1.3'
 s433_total_amendment_increase_value: '-907.5K'
-s424_mean_duration: '0.44'
-s421_mean_contract_value: '247.7K'
+s424_mean_duration: '0.43'
+s421_mean_contract_value: '241.4K'
 s425_max_duration: '1.33'
 s422_max_contract_value: '1.9M'
 ---

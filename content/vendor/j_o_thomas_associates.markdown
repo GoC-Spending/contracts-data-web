@@ -1,7 +1,7 @@
 ---
 title: J O Thomas Associates
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: j_o_thomas_associates
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $875.9K
   in 2021-2022 on contracts with J O Thomas Associates. The average
-  contract duration was 0.72 years, and the average contract value
-  (not including contracts under $10k) was $380.2K. The longest
+  contract duration was 0.69 years, and the average contract value
+  (not including contracts under $10k) was $364.2K. The longest
   contract was 4.07 years. The largest contract by value (including
   amendments) was $4.2M.
 lookup_name: 'J O THOMAS ASSOCIATES'
 most_recent_fiscal_year_total: '875.9K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '22'
+s431_number_of_contracts: '23'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '32%'
+s431_number_of_contracts_amendments_percentage: '30%'
 s432_mean_amendment_increase_percentage: '328%'
 s434_mean_number_of_amendments: '3.43'
 s433_total_amendment_increase_value: '5.2M'
-s424_mean_duration: '0.72'
-s421_mean_contract_value: '380.2K'
+s424_mean_duration: '0.69'
+s421_mean_contract_value: '364.2K'
 s425_max_duration: '4.07'
 s422_max_contract_value: '4.2M'
 ---

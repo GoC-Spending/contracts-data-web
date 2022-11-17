@@ -1,7 +1,7 @@
 ---
 title: Sun Life Assurance Company
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sun_life_assurance_company
 categories: []
 tags: []

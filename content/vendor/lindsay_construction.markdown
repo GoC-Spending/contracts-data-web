@@ -1,7 +1,7 @@
 ---
 title: Lindsay Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: lindsay_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.6M
   in 2021-2022 on contracts with Lindsay Construction. The average
-  contract duration was 0.29 years, and the average contract value
-  (not including contracts under $10k) was $220.3K. The longest
+  contract duration was 0.28 years, and the average contract value
+  (not including contracts under $10k) was $210.1K. The longest
   contract was 1.34 years. The largest contract by value (including
   amendments) was $2.4M.
 lookup_name: 'LINDSAY CONSTRUCTION'
 most_recent_fiscal_year_total: '1.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '18'
+s431_number_of_contracts: '19'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '17%'
+s431_number_of_contracts_amendments_percentage: '16%'
 s432_mean_amendment_increase_percentage: '-2%'
 s434_mean_number_of_amendments: '3.33'
 s433_total_amendment_increase_value: '750.0K'
-s424_mean_duration: '0.29'
-s421_mean_contract_value: '220.3K'
+s424_mean_duration: '0.28'
+s421_mean_contract_value: '210.1K'
 s425_max_duration: '1.34'
 s422_max_contract_value: '2.4M'
 ---

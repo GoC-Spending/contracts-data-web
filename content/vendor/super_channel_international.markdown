@@ -1,7 +1,7 @@
 ---
 title: Super Channel International
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: super_channel_international
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Super Channel International. The average
-  contract duration was 0.73 years, and the average contract value
-  (not including contracts under $10k) was $92.3K. The longest
+  contract duration was 0.72 years, and the average contract value
+  (not including contracts under $10k) was $90.8K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $581.5K.
 lookup_name: 'SUPER CHANNEL INTERNATIONAL'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '67'
+s431_number_of_contracts: '70'
 s431_number_of_contracts_with_amendments: '7'
 s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '34%'
 s434_mean_number_of_amendments: '1.14'
 s433_total_amendment_increase_value: '303.9K'
-s424_mean_duration: '0.73'
-s421_mean_contract_value: '92.3K'
+s424_mean_duration: '0.72'
+s421_mean_contract_value: '90.8K'
 s425_max_duration: '4'
 s422_max_contract_value: '581.5K'
 ---

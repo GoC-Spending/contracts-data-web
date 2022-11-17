@@ -1,7 +1,7 @@
 ---
 title: New England Biolabs
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: new_england_biolabs
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $4.0M
   in 2021-2022 on contracts with New England Biolabs. The average
-  contract duration was 0.34 years, and the average contract value
-  (not including contracts under $10k) was $241.0K. The longest
+  contract duration was 0.38 years, and the average contract value
+  (not including contracts under $10k) was $210.1K. The longest
   contract was 1 years. The largest contract by value (including
   amendments) was $4.0M.
 lookup_name: 'NEW ENGLAND BIOLABS'
 most_recent_fiscal_year_total: '4.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '18'
+s431_number_of_contracts: '21'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '11%'
+s431_number_of_contracts_amendments_percentage: '10%'
 s432_mean_amendment_increase_percentage: '63%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '-566.7K'
-s424_mean_duration: '0.34'
-s421_mean_contract_value: '241.0K'
+s424_mean_duration: '0.38'
+s421_mean_contract_value: '210.1K'
 s425_max_duration: '1'
 s422_max_contract_value: '4.0M'
 ---

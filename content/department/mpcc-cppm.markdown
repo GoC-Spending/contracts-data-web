@@ -1,7 +1,7 @@
 ---
 title: Military Police Complaints Commission of Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: mpcc-cppm
 categories: []
 tags: []
@@ -18,7 +18,7 @@ description: 'Military Police Complaints Commission of Canada spent an estimated
 lookup_name: 'mpcc-cppm'
 most_recent_fiscal_year_total: '340.3K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '129'
+s431_number_of_contracts: '131'
 s431_number_of_contracts_with_amendments: '9'
 s431_number_of_contracts_amendments_percentage: '7%'
 s432_mean_amendment_increase_percentage: '158%'

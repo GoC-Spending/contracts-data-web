@@ -1,7 +1,7 @@
 ---
 title: Seguin Morris
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: seguin_morris
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $331.2K
   in 2021-2022 on contracts with Seguin Morris. The average
-  contract duration was 0.57 years, and the average contract value
-  (not including contracts under $10k) was $237.6K. The longest
+  contract duration was 0.53 years, and the average contract value
+  (not including contracts under $10k) was $236.4K. The longest
   contract was 2.38 years. The largest contract by value (including
   amendments) was $1.5M.
 lookup_name: 'SEGUIN MORRIS'
 most_recent_fiscal_year_total: '331.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '21'
+s431_number_of_contracts: '24'
 s431_number_of_contracts_with_amendments: '10'
-s431_number_of_contracts_amendments_percentage: '48%'
+s431_number_of_contracts_amendments_percentage: '42%'
 s432_mean_amendment_increase_percentage: '35%'
 s434_mean_number_of_amendments: '1.8'
 s433_total_amendment_increase_value: '408.0K'
-s424_mean_duration: '0.57'
-s421_mean_contract_value: '237.6K'
+s424_mean_duration: '0.53'
+s421_mean_contract_value: '236.4K'
 s425_max_duration: '2.38'
 s422_max_contract_value: '1.5M'
 ---
@@ -56,9 +56,9 @@ s422_max_contract_value: '1.5M'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [Seguin Morris Inc.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Seguin%20Morris%20Inc.%22)
+- [SEGUIN MORRIS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SEGUIN%20MORRIS%20INC.%22)
 - [SEGUIN MORRIS INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SEGUIN%20MORRIS%20INC%22)
 - [SEGUIN MORRIS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SEGUIN%20MORRIS%22)
-- [SEGUIN MORRIS INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22SEGUIN%20MORRIS%20INC.%22)
 {{< /details >}}
 
 ## Departments and agencies

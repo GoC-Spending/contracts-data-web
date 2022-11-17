@@ -1,7 +1,7 @@
 ---
 title: Do All Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: do_all_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Do All Construction. The average
-  contract duration was 0.39 years, and the average contract value
-  (not including contracts under $10k) was $230.1K. The longest
+  contract duration was 0.38 years, and the average contract value
+  (not including contracts under $10k) was $221.3K. The longest
   contract was 2.21 years. The largest contract by value (including
   amendments) was $1.9M.
 lookup_name: 'DO ALL CONSTRUCTION'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '21'
+s431_number_of_contracts: '22'
 s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '14%'
 s432_mean_amendment_increase_percentage: '19%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '404.3K'
-s424_mean_duration: '0.39'
-s421_mean_contract_value: '230.1K'
+s424_mean_duration: '0.38'
+s421_mean_contract_value: '221.3K'
 s425_max_duration: '2.21'
 s422_max_contract_value: '1.9M'
 ---

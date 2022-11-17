@@ -1,7 +1,7 @@
 ---
 title: Rtg Protech
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: rtg_protech
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $995.2K
   in 2021-2022 on contracts with Rtg Protech. The average
-  contract duration was 0.91 years, and the average contract value
-  (not including contracts under $10k) was $56.9K. The longest
+  contract duration was 0.9 years, and the average contract value
+  (not including contracts under $10k) was $55.2K. The longest
   contract was 3.38 years. The largest contract by value (including
   amendments) was $1.0M.
 lookup_name: 'RTG PROTECH'
 most_recent_fiscal_year_total: '995.2K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '69'
+s431_number_of_contracts: '72'
 s431_number_of_contracts_with_amendments: '12'
 s431_number_of_contracts_amendments_percentage: '17%'
 s432_mean_amendment_increase_percentage: '67%'
 s434_mean_number_of_amendments: '1.25'
 s433_total_amendment_increase_value: '372.0K'
-s424_mean_duration: '0.91'
-s421_mean_contract_value: '56.9K'
+s424_mean_duration: '0.9'
+s421_mean_contract_value: '55.2K'
 s425_max_duration: '3.38'
 s422_max_contract_value: '1.0M'
 ---

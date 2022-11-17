@@ -1,7 +1,7 @@
 ---
 title: St Isidore Asphalte
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: st_isidore_asphalte
 categories: []
 tags: []

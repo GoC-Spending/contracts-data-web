@@ -1,7 +1,7 @@
 ---
 title: Floyd’s Construction
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: floyd_s_construction
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $5.0M
   in 2021-2022 on contracts with Floyd’s Construction. The average
-  contract duration was 0.7 years, and the average contract value
-  (not including contracts under $10k) was $727.1K. The longest
+  contract duration was 0.64 years, and the average contract value
+  (not including contracts under $10k) was $711.2K. The longest
   contract was 2.56 years. The largest contract by value (including
   amendments) was $4.6M.
 lookup_name: 'FLOYD S CONSTRUCTION'
 most_recent_fiscal_year_total: '5.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '31'
+s431_number_of_contracts: '35'
 s431_number_of_contracts_with_amendments: '9'
-s431_number_of_contracts_amendments_percentage: '29%'
+s431_number_of_contracts_amendments_percentage: '26%'
 s432_mean_amendment_increase_percentage: '15%'
 s434_mean_number_of_amendments: '1.56'
 s433_total_amendment_increase_value: '811.0K'
-s424_mean_duration: '0.7'
-s421_mean_contract_value: '727.1K'
+s424_mean_duration: '0.64'
+s421_mean_contract_value: '711.2K'
 s425_max_duration: '2.56'
 s422_max_contract_value: '4.6M'
 ---

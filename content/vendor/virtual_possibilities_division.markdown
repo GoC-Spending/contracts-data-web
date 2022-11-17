@@ -1,7 +1,7 @@
 ---
 title: Virtual Possibilities Division
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: virtual_possibilities_division
 categories: []
 tags: []

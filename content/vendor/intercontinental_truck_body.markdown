@@ -1,7 +1,7 @@
 ---
 title: Intercontinental Truck Body
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: intercontinental_truck_body
 categories: []
 tags: []

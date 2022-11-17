@@ -1,7 +1,7 @@
 ---
 title: Jim Pattison Industries
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: jim_pattison_industries
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $1.5M
   in 2021-2022 on contracts with Jim Pattison Industries. The average
   contract duration was 0.45 years, and the average contract value
-  (not including contracts under $10k) was $85.8K. The longest
+  (not including contracts under $10k) was $85.1K. The longest
   contract was 2 years. The largest contract by value (including
   amendments) was $2.5M.
 lookup_name: 'JIM PATTISON INDUSTRIES'
 most_recent_fiscal_year_total: '1.5M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '195'
+s431_number_of_contracts: '197'
 s431_number_of_contracts_with_amendments: '23'
 s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '17%'
 s434_mean_number_of_amendments: '1.22'
 s433_total_amendment_increase_value: '177.1K'
 s424_mean_duration: '0.45'
-s421_mean_contract_value: '85.8K'
+s421_mean_contract_value: '85.1K'
 s425_max_duration: '2'
 s422_max_contract_value: '2.5M'
 ---

@@ -1,7 +1,7 @@
 ---
 title: ExxonMobil
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: exxonmobil
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $8.9M
   in 2021-2022 on contracts with ExxonMobil. The average
   contract duration was 0.05 years, and the average contract value
-  (not including contracts under $10k) was $36.1K. The longest
+  (not including contracts under $10k) was $37.8K. The longest
   contract was 4.02 years. The largest contract by value (including
   amendments) was $160.5K.
 lookup_name: 'EXXONMOBIL'
 most_recent_fiscal_year_total: '8.9M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '1,028'
-s431_number_of_contracts_with_amendments: '2'
+s431_number_of_contracts: '1,080'
+s431_number_of_contracts_with_amendments: '3'
 s431_number_of_contracts_amendments_percentage: '0%'
-s432_mean_amendment_increase_percentage: '13%'
-s434_mean_number_of_amendments: '2'
+s432_mean_amendment_increase_percentage: '9%'
+s434_mean_number_of_amendments: '1.67'
 s433_total_amendment_increase_value: '10.2K'
 s424_mean_duration: '0.05'
-s421_mean_contract_value: '36.1K'
+s421_mean_contract_value: '37.8K'
 s425_max_duration: '4.02'
 s422_max_contract_value: '160.5K'
 ---
@@ -68,10 +68,12 @@ s422_max_contract_value: '160.5K'
 - [Exxonmobil Aviation Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviation%20Div%22)
 - [Exxonmobil Aviataion Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviataion%20Div%22)
 - [exxonmobile aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobile%20aviation%22)
+- [exxonmobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobile%22)
 - [Exxonmobile Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobile%20Aviation%22)
 - [EXXON MOBILE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXON%20MOBILE%22)
 - [EXXONMOBIL AVAIATION DIV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVAIATION%20DIV%22)
 - [EXXONMOBIL AVAITION DIV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVAITION%20DIV%22)
+- [ExxonMobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ExxonMobil%22)
 - [EXXONMOBIL AVIATION, DIV OF](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBIL%20AVIATION%2c%20DIV%20OF%22)
 - [Exxon Mobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxon%20Mobile%22)
 - [Exxonmobil Aviaiton Div](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20Aviaiton%20Div%22)
@@ -81,7 +83,6 @@ s422_max_contract_value: '160.5K'
 - [EXXONMOBILE AVAITION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBILE%20AVAITION%22)
 - [EXXONMOBILE AVIATION DIV](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXONMOBILE%20AVIATION%20DIV%22)
 - [ExxonMobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ExxonMobile%22)
-- [ExxonMobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22ExxonMobil%22)
 - [EXXON MOBILE AVIATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXXON%20MOBILE%20AVIATION%22)
 - [Exxonmoibil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmoibil%22)
 - [EXONMOBILE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22EXONMOBILE%22)
@@ -99,7 +100,6 @@ s422_max_contract_value: '160.5K'
 - [exxonmobil](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobil%22)
 - [Exxonmobile aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobile%20aviation%22)
 - [exxon Mobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxon%20Mobile%22)
-- [exxonmobile](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxonmobile%22)
 - [exxon mobile aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22exxon%20mobile%20aviation%22)
 - [Exxon Mobil Aviation](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxon%20Mobil%20Aviation%22)
 - [Exxonmobil aviation, Div of](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Exxonmobil%20aviation%2c%20Div%20of%22)

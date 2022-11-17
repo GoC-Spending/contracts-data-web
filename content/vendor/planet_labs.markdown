@@ -1,7 +1,7 @@
 ---
 title: Planet Labs
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: planet_labs
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.2M
   in 2021-2022 on contracts with Planet Labs. The average
-  contract duration was 0.22 years, and the average contract value
-  (not including contracts under $10k) was $59.3K. The longest
+  contract duration was 0.23 years, and the average contract value
+  (not including contracts under $10k) was $58.5K. The longest
   contract was 1.1 years. The largest contract by value (including
   amendments) was $584.0K.
 lookup_name: 'PLANET LABS'
 most_recent_fiscal_year_total: '1.2M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '78'
+s431_number_of_contracts: '81'
 s431_number_of_contracts_with_amendments: '2'
-s431_number_of_contracts_amendments_percentage: '3%'
+s431_number_of_contracts_amendments_percentage: '2%'
 s432_mean_amendment_increase_percentage: '0%'
 s434_mean_number_of_amendments: '1'
 s433_total_amendment_increase_value: '0.0'
-s424_mean_duration: '0.22'
-s421_mean_contract_value: '59.3K'
+s424_mean_duration: '0.23'
+s421_mean_contract_value: '58.5K'
 s425_max_duration: '1.1'
 s422_max_contract_value: '584.0K'
 ---

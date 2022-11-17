@@ -1,7 +1,7 @@
 ---
 title: Dragage Ocean DSM
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: dragage_ocean_dsm
 categories: []
 tags: []
@@ -19,11 +19,11 @@ lookup_name: 'DRAGAGE OCEAN DSM'
 most_recent_fiscal_year_total: '8.0M'
 most_recent_fiscal_year_year: '2021-2022'
 s431_number_of_contracts: '14'
-s431_number_of_contracts_with_amendments: '9'
-s431_number_of_contracts_amendments_percentage: '64%'
+s431_number_of_contracts_with_amendments: '10'
+s431_number_of_contracts_amendments_percentage: '71%'
 s432_mean_amendment_increase_percentage: '3%'
-s434_mean_number_of_amendments: '1.78'
-s433_total_amendment_increase_value: '3.4M'
+s434_mean_number_of_amendments: '1.7'
+s433_total_amendment_increase_value: '3.5M'
 s424_mean_duration: '2.12'
 s421_mean_contract_value: '5.7M'
 s425_max_duration: '8.76'

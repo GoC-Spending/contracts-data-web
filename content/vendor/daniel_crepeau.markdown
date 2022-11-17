@@ -1,7 +1,7 @@
 ---
 title: Daniel Crepeau
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: daniel_crepeau
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $1.8M
   in 2021-2022 on contracts with Daniel Crepeau. The average
-  contract duration was 1.48 years, and the average contract value
-  (not including contracts under $10k) was $401.9K. The longest
+  contract duration was 1.57 years, and the average contract value
+  (not including contracts under $10k) was $421.4K. The longest
   contract was 3.01 years. The largest contract by value (including
   amendments) was $1.1M.
 lookup_name: 'DANIEL CREPEAU'
 most_recent_fiscal_year_total: '1.8M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '16'
+s431_number_of_contracts: '17'
 s431_number_of_contracts_with_amendments: '9'
-s431_number_of_contracts_amendments_percentage: '56%'
+s431_number_of_contracts_amendments_percentage: '53%'
 s432_mean_amendment_increase_percentage: '85%'
 s434_mean_number_of_amendments: '1.44'
 s433_total_amendment_increase_value: '1.7M'
-s424_mean_duration: '1.48'
-s421_mean_contract_value: '401.9K'
+s424_mean_duration: '1.57'
+s421_mean_contract_value: '421.4K'
 s425_max_duration: '3.01'
 s422_max_contract_value: '1.1M'
 ---

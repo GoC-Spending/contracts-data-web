@@ -1,7 +1,7 @@
 ---
 title: Hr Associates
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: hr_associates
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $626.8K
   in 2021-2022 on contracts with Hr Associates. The average
-  contract duration was 0.63 years, and the average contract value
-  (not including contracts under $10k) was $55.9K. The longest
+  contract duration was 0.72 years, and the average contract value
+  (not including contracts under $10k) was $63.1K. The longest
   contract was 1.58 years. The largest contract by value (including
   amendments) was $143.1K.
 lookup_name: 'HR ASSOCIATES'
 most_recent_fiscal_year_total: '626.8K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '52'
-s431_number_of_contracts_with_amendments: '33'
-s431_number_of_contracts_amendments_percentage: '63%'
-s432_mean_amendment_increase_percentage: '96%'
-s434_mean_number_of_amendments: '2.24'
-s433_total_amendment_increase_value: '1.1M'
-s424_mean_duration: '0.63'
-s421_mean_contract_value: '55.9K'
+s431_number_of_contracts: '53'
+s431_number_of_contracts_with_amendments: '35'
+s431_number_of_contracts_amendments_percentage: '66%'
+s432_mean_amendment_increase_percentage: '131%'
+s434_mean_number_of_amendments: '2.37'
+s433_total_amendment_increase_value: '1.5M'
+s424_mean_duration: '0.72'
+s421_mean_contract_value: '63.1K'
 s425_max_duration: '1.58'
 s422_max_contract_value: '143.1K'
 ---
@@ -56,9 +56,9 @@ s422_max_contract_value: '143.1K'
 
 {{< details summary="See original contracts and amendments" panel_body_class="vendor-names-list" >}}
 - [HR ASSOCIATES INCORPORATED](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HR%20ASSOCIATES%20INCORPORATED%22)
+- [Hr Associates Incorporated](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Hr%20Associates%20Incorporated%22)
 - [HR ASSOCIATES INC.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HR%20ASSOCIATES%20INC.%22)
 - [HR ASSOCIATES INC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HR%20ASSOCIATES%20INC%22)
-- [Hr Associates Incorporated](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Hr%20Associates%20Incorporated%22)
 - [HR Associates](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22HR%20Associates%22)
 {{< /details >}}
 

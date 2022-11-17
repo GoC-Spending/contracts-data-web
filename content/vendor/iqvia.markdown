@@ -1,7 +1,7 @@
 ---
 title: Iqvia
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: iqvia
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.3M
   in 2021-2022 on contracts with Iqvia. The average
-  contract duration was 2.03 years, and the average contract value
-  (not including contracts under $10k) was $315.5K. The longest
+  contract duration was 1.99 years, and the average contract value
+  (not including contracts under $10k) was $307.7K. The longest
   contract was 5.1 years. The largest contract by value (including
   amendments) was $1.8M.
 lookup_name: 'IQVIA'
 most_recent_fiscal_year_total: '2.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '36'
+s431_number_of_contracts: '37'
 s431_number_of_contracts_with_amendments: '4'
 s431_number_of_contracts_amendments_percentage: '11%'
 s432_mean_amendment_increase_percentage: '161%'
 s434_mean_number_of_amendments: '1.25'
 s433_total_amendment_increase_value: '1.6M'
-s424_mean_duration: '2.03'
-s421_mean_contract_value: '315.5K'
+s424_mean_duration: '1.99'
+s421_mean_contract_value: '307.7K'
 s425_max_duration: '5.1'
 s422_max_contract_value: '1.8M'
 ---

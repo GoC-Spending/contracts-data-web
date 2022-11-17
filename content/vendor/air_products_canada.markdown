@@ -1,7 +1,7 @@
 ---
 title: Air Products Canada
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: air_products_canada
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $812.0K
   in 2021-2022 on contracts with Air Products Canada. The average
   contract duration was 1.07 years, and the average contract value
-  (not including contracts under $10k) was $99.5K. The longest
+  (not including contracts under $10k) was $100.0K. The longest
   contract was 5.01 years. The largest contract by value (including
   amendments) was $1.2M.
 lookup_name: 'AIR PRODUCTS CANADA'
 most_recent_fiscal_year_total: '812.0K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '62'
+s431_number_of_contracts: '63'
 s431_number_of_contracts_with_amendments: '29'
-s431_number_of_contracts_amendments_percentage: '47%'
+s431_number_of_contracts_amendments_percentage: '46%'
 s432_mean_amendment_increase_percentage: '58%'
 s434_mean_number_of_amendments: '1.28'
 s433_total_amendment_increase_value: '1.5M'
 s424_mean_duration: '1.07'
-s421_mean_contract_value: '99.5K'
+s421_mean_contract_value: '100.0K'
 s425_max_duration: '5.01'
 s422_max_contract_value: '1.2M'
 ---

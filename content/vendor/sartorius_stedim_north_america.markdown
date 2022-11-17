@@ -1,7 +1,7 @@
 ---
 title: Sartorius Stedim North America
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: sartorius_stedim_north_america
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $2.0M
   in 2021-2022 on contracts with Sartorius Stedim North America. The average
-  contract duration was 0.4 years, and the average contract value
-  (not including contracts under $10k) was $94.4K. The longest
+  contract duration was 0.41 years, and the average contract value
+  (not including contracts under $10k) was $94.3K. The longest
   contract was 4 years. The largest contract by value (including
   amendments) was $566.4K.
 lookup_name: 'SARTORIUS STEDIM NORTH AMERICA'
 most_recent_fiscal_year_total: '2.0M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '32'
+s431_number_of_contracts: '33'
 s431_number_of_contracts_with_amendments: '5'
-s431_number_of_contracts_amendments_percentage: '16%'
+s431_number_of_contracts_amendments_percentage: '15%'
 s432_mean_amendment_increase_percentage: '84%'
 s434_mean_number_of_amendments: '1.4'
 s433_total_amendment_increase_value: '483.4K'
-s424_mean_duration: '0.4'
-s421_mean_contract_value: '94.4K'
+s424_mean_duration: '0.41'
+s421_mean_contract_value: '94.3K'
 s425_max_duration: '4'
 s422_max_contract_value: '566.4K'
 ---

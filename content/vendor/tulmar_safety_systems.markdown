@@ -1,7 +1,7 @@
 ---
 title: Tulmar Safety Systems
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: tulmar_safety_systems
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $2.1M
   in 2021-2022 on contracts with Tulmar Safety Systems. The average
   contract duration was 0.72 years, and the average contract value
-  (not including contracts under $10k) was $551.9K. The longest
+  (not including contracts under $10k) was $530.8K. The longest
   contract was 3.01 years. The largest contract by value (including
   amendments) was $3.1M.
 lookup_name: 'TULMAR SAFETY SYSTEMS'
 most_recent_fiscal_year_total: '2.1M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '23'
+s431_number_of_contracts: '24'
 s431_number_of_contracts_with_amendments: '3'
-s431_number_of_contracts_amendments_percentage: '13%'
+s431_number_of_contracts_amendments_percentage: '12%'
 s432_mean_amendment_increase_percentage: '19%'
 s434_mean_number_of_amendments: '1.33'
 s433_total_amendment_increase_value: '371.2K'
 s424_mean_duration: '0.72'
-s421_mean_contract_value: '551.9K'
+s421_mean_contract_value: '530.8K'
 s425_max_duration: '3.01'
 s422_max_contract_value: '3.1M'
 ---

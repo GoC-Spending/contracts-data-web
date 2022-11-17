@@ -1,7 +1,7 @@
 ---
 title: Garda Security Group
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: garda_security_group
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $30.6M
   in 2021-2022 on contracts with Garda Security Group. The average
-  contract duration was 1 years, and the average contract value
-  (not including contracts under $10k) was $2.7M. The longest
+  contract duration was 0.94 years, and the average contract value
+  (not including contracts under $10k) was $2.5M. The longest
   contract was 5.4 years. The largest contract by value (including
   amendments) was $59.5M.
 lookup_name: 'GARDA SECURITY GROUP'
 most_recent_fiscal_year_total: '30.6M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '75'
+s431_number_of_contracts: '84'
 s431_number_of_contracts_with_amendments: '21'
-s431_number_of_contracts_amendments_percentage: '28%'
+s431_number_of_contracts_amendments_percentage: '25%'
 s432_mean_amendment_increase_percentage: '231%'
 s434_mean_number_of_amendments: '1.9'
 s433_total_amendment_increase_value: '36.0M'
-s424_mean_duration: '1'
-s421_mean_contract_value: '2.7M'
+s424_mean_duration: '0.94'
+s421_mean_contract_value: '2.5M'
 s425_max_duration: '5.4'
 s422_max_contract_value: '59.5M'
 ---
@@ -65,20 +65,21 @@ s422_max_contract_value: '59.5M'
 - [GARDAWORLD](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDAWORLD%22)
 - [GardaWorld Cash Services Canada](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GardaWorld%20Cash%20Services%20Canada%22)
 - [GardaWorld](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GardaWorld%22)
-- [GROUPE DE SECURITE GARDA SENC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GROUPE%20DE%20SECURITE%20GARDA%20SENC%22)
 - [GROUPE SECURITE GARDA SENC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GROUPE%20SECURITE%20GARDA%20SENC%22)
+- [GARDA OF CANADA SECURITY CORPORATION](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDA%20OF%20CANADA%20SECURITY%20CORPORATION%22)
+- [GROUPE DE SECURITE GARDA SENC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GROUPE%20DE%20SECURITE%20GARDA%20SENC%22)
 - [GARDA CANADA SECURITY OPTIONS](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDA%20CANADA%20SECURITY%20OPTIONS%22)
 - [GARDA DU CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDA%20DU%20CANADA%22)
 - [GardaWorld Consulting Nigeria Limit](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GardaWorld%20Consulting%20Nigeria%20Limit%22)
 - [Garda of Canada Security Corp.](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Garda%20of%20Canada%20Security%20Corp.%22)
 - [Garda du Canada inc](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Garda%20du%20Canada%20inc%22)
+- [Garda Wolrd MENA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Garda%20Wolrd%20MENA%22)
 - [GARDA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDA%22)
 - [GARDAWORLD CASH SERVICES](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDAWORLD%20CASH%20SERVICES%22)
 - [GARDA CANADA SECURITY CORP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDA%20CANADA%20SECURITY%20CORP%22)
 - [GARDAWORLD CASH SERVICES CANADA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22GARDAWORLD%20CASH%20SERVICES%20CANADA%22)
 - [Garda Security Group, GP](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Garda%20Security%20Group%2c%20GP%22)
 - [Groupe de Sécurité Garda SENC](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Groupe%20de%20S%c3%a9curit%c3%a9%20Garda%20SENC%22)
-- [Garda Wolrd MENA](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Garda%20Wolrd%20MENA%22)
 {{< /details >}}
 
 ## Departments and agencies

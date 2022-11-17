@@ -1,7 +1,7 @@
 ---
 title: Marine Recycling
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: marine_recycling
 categories: []
 tags: []
@@ -11,21 +11,21 @@ r_init: |-
   
 description: The Government of Canada spent an estimated $4.3M
   in 2021-2022 on contracts with Marine Recycling. The average
-  contract duration was 0.7 years, and the average contract value
-  (not including contracts under $10k) was $2.1M. The longest
+  contract duration was 0.66 years, and the average contract value
+  (not including contracts under $10k) was $2.3M. The longest
   contract was 2.79 years. The largest contract by value (including
   amendments) was $12.6M.
 lookup_name: 'MARINE RECYCLING'
 most_recent_fiscal_year_total: '4.3M'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '18'
+s431_number_of_contracts: '20'
 s431_number_of_contracts_with_amendments: '7'
-s431_number_of_contracts_amendments_percentage: '39%'
+s431_number_of_contracts_amendments_percentage: '35%'
 s432_mean_amendment_increase_percentage: '22%'
 s434_mean_number_of_amendments: '1.29'
 s433_total_amendment_increase_value: '3.5M'
-s424_mean_duration: '0.7'
-s421_mean_contract_value: '2.1M'
+s424_mean_duration: '0.66'
+s421_mean_contract_value: '2.3M'
 s425_max_duration: '2.79'
 s422_max_contract_value: '12.6M'
 ---

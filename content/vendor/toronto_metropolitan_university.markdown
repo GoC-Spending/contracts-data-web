@@ -1,7 +1,7 @@
 ---
 title: Toronto Metropolitan University
 author: ''
-date: '2022-10-25'
+date: '2022-11-16'
 slug: toronto_metropolitan_university
 categories: []
 tags: []
@@ -12,20 +12,20 @@ r_init: |-
 description: The Government of Canada spent an estimated $755.7K
   in 2021-2022 on contracts with Toronto Metropolitan University. The average
   contract duration was 0.62 years, and the average contract value
-  (not including contracts under $10k) was $68.3K. The longest
+  (not including contracts under $10k) was $67.5K. The longest
   contract was 2.11 years. The largest contract by value (including
   amendments) was $853.1K.
 lookup_name: 'TORONTO METROPOLITAN UNIVERSITY'
 most_recent_fiscal_year_total: '755.7K'
 most_recent_fiscal_year_year: '2021-2022'
-s431_number_of_contracts: '36'
+s431_number_of_contracts: '37'
 s431_number_of_contracts_with_amendments: '0'
 s431_number_of_contracts_amendments_percentage: '0%'
 s432_mean_amendment_increase_percentage: 'NA'
 s434_mean_number_of_amendments: 'NA'
 s433_total_amendment_increase_value: 'NA'
 s424_mean_duration: '0.62'
-s421_mean_contract_value: '68.3K'
+s421_mean_contract_value: '67.5K'
 s425_max_duration: '2.11'
 s422_max_contract_value: '853.1K'
 ---
@@ -58,6 +58,7 @@ s422_max_contract_value: '853.1K'
 - [Ryerson University](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22Ryerson%20University%22)
 - [RYERSON UNIVERSITY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RYERSON%20UNIVERSITY%22)
 - [RYERSON UNIVERSITY - FACULTY OF SCIENCE](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RYERSON%20UNIVERSITY%20-%20FACULTY%20OF%20SCIENCE%22)
+- [TORONTO METROPOLITAN UNIVERSITY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22TORONTO%20METROPOLITAN%20UNIVERSITY%22)
 - [RYERSON UNIVERISTY O/A](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RYERSON%20UNIVERISTY%20O%2fA%22)
 - [RYERSON UNIVERSITY TED ROGERS SCHOOL OF MANAGEMENT](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RYERSON%20UNIVERSITY%20TED%20ROGERS%20SCHOOL%20OF%20MANAGEMENT%22)
 - [RYERSON POLYTECHNIC UNIVERSITY](https://search.open.canada.ca/en/ct/?sort=contract_value_f%20desc&page=1&search_text=%22RYERSON%20POLYTECHNIC%20UNIVERSITY%22)

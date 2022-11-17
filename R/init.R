@@ -488,8 +488,13 @@ dt_categories_by_fiscal_year_by_department <- function(department) {
 dt_it_subcategories_by_fiscal_year_by_department <- function(department) {
   
   data <- get_fiscal_year_data_by_entity_and_department(department, "it_subcategories")
-  data %>%
-    dt_fiscal_year_categories()
+  if(is_tibble(data)) {
+    data %>%
+      dt_fiscal_year_categories()
+  }
+  else {
+    return("")
+  }
   
 }
 

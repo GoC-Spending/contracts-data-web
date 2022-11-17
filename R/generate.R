@@ -161,6 +161,7 @@ remove_existing_content_folders <- function() {
   
   output_department_path <- str_c(content_folder, "department")
   output_category_path <- str_c(content_folder, "category")
+  output_it_subcategory_path <- str_c(content_folder, "it_subcategory")
   
   remove_existing_vendor_folders()
   
@@ -169,6 +170,9 @@ remove_existing_content_folders <- function() {
   }
   if(fs::dir_exists(output_category_path)) {
     fs::dir_delete(output_category_path)
+  }
+  if(fs::dir_exists(output_it_subcategory_path)) {
+    fs::dir_delete(output_it_subcategory_path)
   }
 
 }
@@ -204,6 +208,7 @@ generate_all_pages <- function(remove_all_existing_folders = FALSE, remove_vendo
   }
   
   generate_all_category_pages()
+  generate_all_it_subcategory_pages()
   generate_all_department_pages()
   generate_all_vendor_pages()
   
